@@ -1,21 +1,22 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.edge.options import Options
+from selenium.webdriver.edge.service import Service
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions
-from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.core.utils import ChromeType
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
+from dotenv import load_dotenv
 import os
 import csv
 import sys
 
+load_dotenv()
 login_url = "https://myaccount.draftkings.com/login"
 TIMEOUT = 20
 
-
 def login(driver):
     driver.get(login_url)
+    print(driver.title)
 
     username = driver.find_element(By.ID, "login-username-input")
     password = driver.find_element(By.ID, "login-password-input")
@@ -63,11 +64,10 @@ if __name__ == "__main__":
     options = Options()
 
     # headless automation
-    # options.use_chromium = True
-    # options.add_argument("--headless")
+    options.use_chromium = True
+    options.add_argument("headless")
 
-    # options.add_argument("--inprivate") # Edge
-    options.add_argument("--incognito") # Chrome
+    options.add_argument("--inprivate")
     options.add_argument("--disable-blink-features=AutomationControlled")
     # try to hide "Edge is being controlled by automated software pop-up"
     options.add_argument("--disable-extensions")
@@ -87,27 +87,26 @@ if __name__ == "__main__":
         "prefs", {"profile.default_content_setting_values.geolocation": 2}
     )
 
-    driver_path = ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()
-    driver = webdriver.Chrome(options=options, service=Service(driver_path))
-
+    driver_path = EdgeChromiumDriverManager().install()
+    driver = webdriver.Edge(options=options, service=Service(driver_path))
+    
     login(driver)
 
     try:
-        if WebDriverWait(driver, timeout=TIMEOUT).until(
-            expected_conditions.title_is("DraftKings Lobby"),
+        # WebDriverWait(driver, timeout=TIMEOUT).until(
+        #     expected_conditions.title_is("DraftKings Lobby"),
+        #     message=f"Timed out after {TIMEOUT} seconds",
+        # )
+        WebDriverWait(driver, timeout=TIMEOUT).until(
+            expected_conditions.url_changes(login_url),
             message=f"Timed out after {TIMEOUT} seconds",
-        ):
-            write_cookies(driver)
-            print("Wrote cookies.txt successfully")
-            driver.quit()
-            exit(0)
-        else:
-            print(
-                f"Redirected unexpectedly to page {driver.title} at {driver.current_url}",
-                file=sys.stderr,
-            )
-            driver.quit()
-            exit(1)
+        )
+        print(driver.title)
+        print(driver.current_url)
+        write_cookies(driver)
+        print("Wrote cookies.txt successfully")
+        driver.quit()
+        exit(0)
 
     except Exception as e:
         print(e, file=sys.stderr)
