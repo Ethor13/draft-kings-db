@@ -1,25 +1,59 @@
-name: selenium
+name: Selenium
+
 on:
+    schedule:
+        - cron: "0 5 * * *" # once daily. Ref https://crontab.guru/examples.html
     workflow_dispatch:
+
+env:
+    ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
 jobs:
-    scrape:
+    scrape-latest:
         runs-on: ubuntu-latest
+
         steps:
-            - name: Check out this repo
-              uses: actions/checkout@v2
-            - name: Set up Python
-              uses: actions/setup-python@v2
+            - name: Checkout repo
+              uses: actions/checkout@master # check out the repo this action is in, so that you have all prior data
+
+            # https://github.com/marketplace/actions/cache-apt-packages
+            - name: Cache APT Packages
+              uses: awalsh128/cache-apt-pkgs-action@latest
               with:
-                  python-version: "3.11"
-            - name: Installed package list
+                  packages: chromium-browser
+                  version: 1.0
+
+            # https://github.com/jsoma/selenium-github-actions
+            # - name: Remove default Chromium
+            #   run: sudo apt purge chromium-browser
+
+            # - name: Install a new Chromium
+            #   run: sudo apt install -y chromium-browser
+
+            - name: List installed package
               run: apt list --installed
+
             - name: Remove Chrome
               run: sudo apt purge google-chrome-stable
-            - name: Remove default Chromium
-              run: sudo apt purge chromium-browser
-            - name: Install a new Chromium
-              run: sudo apt install -y chromium-browser
-            - name: Install all necessary packages
-              run: pip install webdriver-manager selenium
-            - name: Run the scraping script
-              run: python scripts/python/test_selenium.py
+
+            - name: Set up Python
+              uses: actions/setup-python@v4
+              with:
+                  python-version: "3.11"
+
+            - name: Cache Python Environment
+              uses: actions/cache@v3
+              with:
+                  path: ${{ env.pythonLocation }}
+                  key: ${{ env.pythonLocation }}-${{ hashFiles('setup.py') }}-${{ hashFiles('requirements.txt') }}
+
+            - name: Install requirements
+              run: pip install -r requirements.txt
+
+            - name: Run Workflow.sh
+              run: ./workflow.sh
+              env:
+                  DK_USERNAME: ${{ secrets.DK_USERNAME }}
+                  DK_PASSWORD: ${{ secrets.DK_PASSWORD }}
+
+            - uses: EndBug/add-and-commit@v8
