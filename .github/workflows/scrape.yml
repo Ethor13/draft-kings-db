@@ -16,20 +16,41 @@ jobs:
             - name: Checkout repo
               uses: actions/checkout@master # check out the repo this action is in, so that you have all prior data
 
+            # https://github.com/marketplace/actions/cache-apt-packages
+            - name: Cache APT Packages
+              uses: awalsh128/cache-apt-pkgs-action@latest
+              with:
+                  packages: chromium-browser
+                  version: 1.0
+
+            # https://github.com/jsoma/selenium-github-actions
+            # - name: Remove default Chromium
+            #   run: sudo apt purge chromium-browser
+
+            # - name: Install a new Chromium
+            #   run: sudo apt install -y chromium-browser
+
+            - name: List installed package
+              run: apt list --installed
+
+            - name: Remove Chrome
+              run: sudo apt purge google-chrome-stable
+
             - name: Set up Python
               uses: actions/setup-python@v4
               with:
                   python-version: "3.11"
 
-            - name: cache
+            - name: Cache Python Environment
               uses: actions/cache@v3
               with:
-                path: ${{ env.pythonLocation }}
-                key: ${{ env.pythonLocation }}-${{ hashFiles('setup.py') }}-${{ hashFiles('requirements.txt') }}
+                  path: ${{ env.pythonLocation }}
+                  key: ${{ env.pythonLocation }}-${{ hashFiles('setup.py') }}-${{ hashFiles('requirements.txt') }}
 
             - name: Install requirements
               run: pip install -r requirements.txt
 
-            - name: Run Scraper
-              run: python scraper.py
-            - uses: EndBug/add-and-commit@v8
+            # - name: Run Scraper
+            #   run: python scraper.py
+
+            # - uses: EndBug/add-and-commit@v8
