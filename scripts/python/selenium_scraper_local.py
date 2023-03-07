@@ -1,11 +1,10 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.edge.options import Options
+from selenium.webdriver.edge.service import Service
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions
-from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.core.utils import ChromeType
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 import csv
 import sys
 
@@ -63,10 +62,9 @@ if __name__ == "__main__":
 
     # headless automation
     # options.use_chromium = True
-    options.add_argument("--headless")
+    # options.add_argument("headless")
 
-    # options.add_argument("--inprivate") # Edge
-    options.add_argument("--incognito") # Chrome
+    options.add_argument("--inprivate")
     options.add_argument("--disable-blink-features=AutomationControlled")
     # try to hide "Edge is being controlled by automated software pop-up"
     options.add_argument("--disable-extensions")
@@ -86,8 +84,11 @@ if __name__ == "__main__":
         "prefs", {"profile.default_content_setting_values.geolocation": 2}
     )
 
-    driver_path = ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()
-    driver = webdriver.Chrome(options=options, service=Service(driver_path))
+    driver = webdriver.Edge(
+        options=options, 
+        service=Service(EdgeChromiumDriverManager().install()),
+    )
+    
 
     credentials = {"username": "username", "password": "password"}
 
