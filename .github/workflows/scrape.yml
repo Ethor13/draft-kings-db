@@ -17,7 +17,7 @@ jobs:
               uses: actions/checkout@master # check out the repo this action is in, so that you have all prior data
 
             - name: Set up Python
-              uses: actions/setup-python@v2.0.0
+              uses: actions/setup-python@v4
               with:
                   python-version: "3.11"
                   cache: 'pip'
