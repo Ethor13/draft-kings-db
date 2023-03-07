@@ -50,7 +50,13 @@ jobs:
             - name: Install requirements
               run: pip install -r requirements.txt
 
-            # - name: Run Scraper
-            #   run: python scraper.py
+            - name: Run Scraper
+              run: python scraper.py
 
-            # - uses: EndBug/add-and-commit@v8
+            - name: Run Workflow.sh
+              run: ./workflow.sh
+              env:
+                  DK_USERNAME: ${{ secrets.DK_USERNAME }}
+                  DK_PASSWORD: ${{ secrets.DK_PASSWORD }}
+
+            - uses: EndBug/add-and-commit@v8

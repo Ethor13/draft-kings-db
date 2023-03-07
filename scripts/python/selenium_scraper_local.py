@@ -5,22 +5,24 @@ from selenium.webdriver.edge.service import Service
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
+from dotenv import load_dotenv
+import os
 import csv
 import sys
 
+load_dotenv()
 login_url = "https://myaccount.draftkings.com/login"
 TIMEOUT = 20
 
-
-def login(driver, credentials):
+def login(driver):
     driver.get(login_url)
 
     username = driver.find_element(By.ID, "login-username-input")
     password = driver.find_element(By.ID, "login-password-input")
     submit = driver.find_element(By.ID, "login-submit")
 
-    username.send_keys(credentials["username"])
-    password.send_keys(credentials["password"])
+    username.send_keys(os.getenv("DK_USERNAME"))
+    password.send_keys(os.getenv("DK_PASSWORD"))
     submit.submit()
 
 
@@ -89,10 +91,7 @@ if __name__ == "__main__":
         service=Service(EdgeChromiumDriverManager().install()),
     )
     
-
-    credentials = {"username": "username", "password": "password"}
-
-    login(driver, credentials)
+    login(driver)
 
     try:
         if WebDriverWait(driver, timeout=TIMEOUT).until(
