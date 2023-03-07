@@ -1,0 +1,29 @@
+name: Scrape
+
+on:
+    schedule:
+        - cron: "0 5 * * *" # once daily. Ref https://crontab.guru/examples.html
+    workflow_dispatch:
+
+env:
+    ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
+jobs:
+    scrape-latest:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout repo
+              uses: actions/checkout@master # check out the repo this action is in, so that you have all prior data
+
+            - name: Set up Python
+              uses: actions/setup-python@v2.0.0
+              with:
+                  python-version: "3.11"
+
+            - name: Install requirements
+              run: pip install -r requirements.txt
+
+            - name: Run Scraper
+              run: python scraper.py
+            - uses: EndBug/add-and-commit@v8
