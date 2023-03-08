@@ -10,6 +10,9 @@ jobs:
         steps:
             - name: Download Chrome
               uses: browser-actions/setup-chrome@v1
+              
+            - name: List Installed Packages
+              run: apt list --installed
 
             - name: Check if Chrome exists
               run: chrome --version
