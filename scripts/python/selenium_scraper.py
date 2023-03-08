@@ -22,7 +22,7 @@ def login(driver):
         expected_conditions.presence_of_element_located((By.ID, "login-username-input"))
     )
     print(driver.title)
-    os.makedirs("img/")
+    os.makedirs("img/", exist_ok=True)
     driver.save_screenshot("img/login.png")
 
     username = driver.find_element(By.ID, "login-username-input")
