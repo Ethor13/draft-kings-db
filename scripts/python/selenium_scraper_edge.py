@@ -90,29 +90,25 @@ if __name__ == "__main__":
         "prefs", {"profile.default_content_setting_values.geolocation": 2}
     )
 
-    PROXY = "127.0.0.1:8080"
-    options.add_argument("--proxy-server=" + PROXY)
-
     driver_path = EdgeChromiumDriverManager().install()
     driver = webdriver.Edge(options=options, service=Service(driver_path))
     
     login(driver)
 
     try:
-        # WebDriverWait(driver, timeout=TIMEOUT).until(
-        #     expected_conditions.title_is("DraftKings Lobby"),
-        #     message=f"Timed out after {TIMEOUT} seconds",
-        # )
         WebDriverWait(driver, timeout=TIMEOUT).until(
             expected_conditions.url_changes(login_url),
             message=f"Timed out after {TIMEOUT} seconds",
         )
-        print(driver.title)
-        print(driver.current_url)
-        write_cookies(driver)
-        print("Wrote cookies.txt successfully")
-        driver.quit()
-        exit(0)
+        if driver.title == "DraftKings Lobby":
+            print(driver.title)
+            print(driver.current_url)
+            write_cookies(driver)
+            print("Wrote cookies.txt successfully")
+            driver.quit()
+            exit(0)
+        else:
+            raise ValueError(f"Redirected unexpectedly to {driver.title} at {driver.current_url}")
 
     except Exception as e:
         print(e, file=sys.stderr)
