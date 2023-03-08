@@ -1,0 +1,15 @@
+name: GetChrome
+
+on:
+    workflow_dispatch:
+
+jobs:
+    scrape-latest:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Download Chrome
+              uses: browser-actions/setup-chrome@v1
+
+            - name: Check if Chrome exists
+              run: chrome --version

@@ -1,8 +1,6 @@
 name: Selenium
 
 on:
-    schedule:
-        - cron: "0 5 * * *" # once daily. Ref https://crontab.guru/examples.html
     workflow_dispatch:
 
 env:

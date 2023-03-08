@@ -75,8 +75,8 @@ if __name__ == "__main__":
     options = Options()
 
     # headless automation
-    # options.use_chromium = True
-    # options.add_argument("--headless")
+    options.use_chromium = True
+    options.add_argument("--headless")
 
     # options.add_argument("--inprivate") # Edge
     options.add_argument("--incognito") # Chrome
@@ -101,7 +101,9 @@ if __name__ == "__main__":
         "prefs", {"profile.default_content_setting_values.geolocation": 2}
     )
 
-    driver_path = ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()
+    # driver_path = ChromeDriverManager(chrome_type=ChromeType.GOOGLE, path='.').install()
+    driver_path = ChromeDriverManager().install()
+    print(driver_path)
     driver = webdriver.Chrome(options=options, service=Service(driver_path))
 
     login(driver)
