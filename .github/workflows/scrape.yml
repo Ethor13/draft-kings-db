@@ -2,7 +2,7 @@ name: Scrape
 
 on:
     schedule:
-        - cron: "0 5 * * *" # once daily. Ref https://crontab.guru/examples.html
+        - cron: "0 10 * * *" # once daily. Ref https://crontab.guru/examples.html
     workflow_dispatch:
 
 env:
