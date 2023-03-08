@@ -6,12 +6,14 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.core.utils import ChromeType
+from pyvirtualdisplay import Display
 import os
 import csv
 import sys
 
+
 login_url = "https://myaccount.draftkings.com/login"
-TIMEOUT = 20
+TIMEOUT = 30
 
 
 def login(driver):
@@ -60,6 +62,10 @@ def write_cookies(driver):
 
 
 if __name__ == "__main__":
+
+    display = Display(visible=0)
+    display.start()
+
     options = Options()
 
     # headless automation
@@ -93,23 +99,18 @@ if __name__ == "__main__":
     login(driver)
 
     try:
-        if WebDriverWait(driver, timeout=TIMEOUT).until(
+        WebDriverWait(driver, timeout=TIMEOUT).until(
             expected_conditions.title_is("DraftKings Lobby"),
             message=f"Timed out after {TIMEOUT} seconds",
-        ):
-            write_cookies(driver)
-            print("Wrote cookies.txt successfully")
-            driver.quit()
-            exit(0)
-        else:
-            print(
-                f"Redirected unexpectedly to page {driver.title} at {driver.current_url}",
-                file=sys.stderr,
-            )
-            driver.quit()
-            exit(1)
+        )
+        write_cookies(driver)
+        print("Wrote cookies.txt successfully")
+        driver.quit()
+        display.stop()
+        exit(0)
 
     except Exception as e:
         print(e, file=sys.stderr)
         driver.quit()
+        display.stop()
         exit(1)

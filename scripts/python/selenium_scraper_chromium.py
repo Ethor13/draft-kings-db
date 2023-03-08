@@ -1,4 +1,5 @@
-from selenium import webdriver
+# from selenium import webdriver
+from seleniumwire import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -18,6 +19,13 @@ TIMEOUT = 20
 
 def login(driver):
     driver.get(login_url)
+    for request in driver.requests:
+        if request.response:
+            print(
+                request.url,
+                request.response.status_code,
+                request.response.headers
+            )
     print(driver.title)
 
     username = driver.find_element(By.ID, "login-username-input")
@@ -65,9 +73,10 @@ def write_cookies(driver):
 if __name__ == "__main__":
     options = Options()
 
+    options.add_argument("start-maximized")
     # headless automation
-    options.use_chromium = True
-    options.add_argument("--headless")
+    # options.use_chromium = True
+    # options.add_argument("--headless")
 
     options.add_argument("--incognito") # Chrome
     options.add_argument("--disable-blink-features=AutomationControlled")
@@ -75,9 +84,15 @@ if __name__ == "__main__":
     options.add_argument("--disable-extensions")
     options.add_experimental_option("useAutomationExtension", False)
 
+    options.add_argument("--ignore-certificate-errors-spki-list")
+    options.add_argument("--ignore-ssl-errors")
+
     # don't indicate that browser is controlled by automation, and don't log
+    # options.add_experimental_option(
+    #     "excludeSwitches", ["enable-automation", "enable-logging"]
+    # )
     options.add_experimental_option(
-        "excludeSwitches", ["enable-automation", "enable-logging"]
+        "excludeSwitches", ["enable-automation"]
     )
 
     # don't close window right away. Not needed in production
@@ -89,8 +104,13 @@ if __name__ == "__main__":
         "prefs", {"profile.default_content_setting_values.geolocation": 2}
     )
 
+    # user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63'
+    # options.add_argument(f"user-agent={user_agent}")
+
     driver_path = ChromeDriverManager(chrome_type=ChromeType.CHROMIUM).install()
-    driver = webdriver.Chrome(options=options, service=Service(driver_path))
+    driver = webdriver.Chrome(options=options, service=Service(driver_path, service_args=['--verbose']))
+
+    print(driver.execute_script("return navigator.userAgent;"))
 
     login(driver)
 
