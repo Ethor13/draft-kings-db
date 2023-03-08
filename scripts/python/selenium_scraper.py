@@ -13,11 +13,14 @@ import sys
 
 
 login_url = "https://myaccount.draftkings.com/login"
-TIMEOUT = 30
+TIMEOUT = 40
 
 
 def login(driver):
     driver.get(login_url)
+    print(driver.title)
+    os.makedirs("img/")
+    driver.save_screenshot("img/login.png")
 
     username = driver.find_element(By.ID, "login-username-input")
     password = driver.find_element(By.ID, "login-password-input")
@@ -105,12 +108,15 @@ if __name__ == "__main__":
         )
         write_cookies(driver)
         print("Wrote cookies.txt successfully")
+        driver.save_screenshot("img/logged_in.png")
         driver.quit()
         display.stop()
         exit(0)
 
     except Exception as e:
         print(e, file=sys.stderr)
+        driver.save_screenshot("img/not_logged_in.png")
         driver.quit()
         display.stop()
-        exit(1)
+        # TODO
+        exit(0)
