@@ -13,11 +13,14 @@ import sys
 
 
 login_url = "https://myaccount.draftkings.com/login"
-TIMEOUT = 40
+TIMEOUT = 30
 
 
 def login(driver):
     driver.get(login_url)
+    WebDriverWait(driver, TIMEOUT).until(
+        expected_conditions.presence_of_element_located((By.ID, "login-username-input"))
+    )
     print(driver.title)
     os.makedirs("img/")
     driver.save_screenshot("img/login.png")
@@ -87,6 +90,8 @@ if __name__ == "__main__":
         "excludeSwitches", ["enable-automation", "enable-logging"]
     )
 
+    user_agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63'
+    options.add_argument(f"user-agent={user_agent}")
     # don't close window right away. Not needed in production
     # options.add_experimental_option("detach", True)
 
@@ -118,5 +123,4 @@ if __name__ == "__main__":
         driver.save_screenshot("img/not_logged_in.png")
         driver.quit()
         display.stop()
-        # TODO
         exit(0)

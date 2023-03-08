@@ -12,12 +12,15 @@ import sys
 
 load_dotenv()
 login_url = "https://myaccount.draftkings.com/login"
-TIMEOUT = 20
+TIMEOUT = 60
 
 def login(driver):
     driver.get(login_url)
     print(driver.title)
 
+    WebDriverWait(driver, TIMEOUT).until(
+        expected_conditions.presence_of_element_located((By.ID, "login-username-input"))
+    )
     username = driver.find_element(By.ID, "login-username-input")
     password = driver.find_element(By.ID, "login-password-input")
     submit = driver.find_element(By.ID, "login-submit")
@@ -64,10 +67,10 @@ if __name__ == "__main__":
     options = Options()
 
     # headless automation
-    options.use_chromium = True
-    options.add_argument("headless")
+    # options.use_chromium = True
+    # options.add_argument("headless")
 
-    options.add_argument("--inprivate")
+    # options.add_argument("--inprivate")
     options.add_argument("--disable-blink-features=AutomationControlled")
     # try to hide "Edge is being controlled by automated software pop-up"
     options.add_argument("--disable-extensions")
@@ -86,6 +89,9 @@ if __name__ == "__main__":
     options.add_experimental_option(
         "prefs", {"profile.default_content_setting_values.geolocation": 2}
     )
+
+    PROXY = "127.0.0.1:8080"
+    options.add_argument("--proxy-server=" + PROXY)
 
     driver_path = EdgeChromiumDriverManager().install()
     driver = webdriver.Edge(options=options, service=Service(driver_path))
