@@ -69,7 +69,7 @@ def write_cookies(driver):
 
 if __name__ == "__main__":
 
-    display = Display(visible=0)
+    display = Display(visible=1)
     display.start()
 
     options = Options()

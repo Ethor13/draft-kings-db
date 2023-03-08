@@ -34,6 +34,14 @@ jobs:
             - name: Remove Chrome
               run: sudo apt purge google-chrome-stable
 
+            # - name: Download Chrome
+            #   uses: browser-actions/setup-chrome@v1
+            #   with:
+            #       chrome-version: stable
+
+            # - name: Check if Chrome exists
+            #   run: chrome --version
+
             - name: Set up Python
               uses: actions/setup-python@v4
               with:
