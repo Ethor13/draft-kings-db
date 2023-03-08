@@ -53,10 +53,10 @@ jobs:
             - name: Try Virtual Display
               run: python scripts/python/virtualdisplay.py
 
-            - name: Run Workflow.sh
-              run: ./workflow.sh
-              env:
-                  DK_USERNAME: ${{ secrets.DK_USERNAME }}
-                  DK_PASSWORD: ${{ secrets.DK_PASSWORD }}
+            # - name: Run Workflow.sh
+            #   run: ./workflow.sh
+            #   env:
+            #       DK_USERNAME: ${{ secrets.DK_USERNAME }}
+            #       DK_PASSWORD: ${{ secrets.DK_PASSWORD }}
 
             - uses: EndBug/add-and-commit@v8
