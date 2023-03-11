@@ -13,7 +13,7 @@ def get_contests_df(clt, sport):
     cutoff = (
         pd.Timestamp.utcnow().normalize()
         + pd.Timedelta(1, "day")
-        + pd.Timedelta(5, "hours")
+        + pd.Timedelta(10, "hours")
     )
 
     # Contest Details
@@ -185,7 +185,7 @@ def get_contest_info(clt, contest_type_ids):
 
 if __name__ == "__main__":
     clt = Client()
-    today = datetime.datetime.today().date().strftime("%m-%d-%Y")
+    today = datetime.datetime.today().strftime("%m-%d-%Y")
 
     ct_df, dg_df = get_contests_df(clt, Sport.NBA)
 
