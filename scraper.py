@@ -3,26 +3,35 @@ from draft_kings import Sport
 import pandas as pd
 import datetime
 
+
 def obj_to_list(obj):
     return list(vars(obj).values())
 
+
 def get_contests_df(clt, sport):
     contests = clt.contests(sport=sport)
-    cutoff = pd.Timestamp.utcnow().normalize() + pd.Timedelta(1, 'day') + pd.Timedelta(5, 'hours')
+    cutoff = (
+        pd.Timestamp.utcnow().normalize()
+        + pd.Timedelta(1, "day")
+        + pd.Timedelta(5, "hours")
+    )
 
     # Contest Details
     lst = list(map(lambda contest: obj_to_list(contest), contests.contests))
     if len(lst):
         cols = list(vars(contests.contests[0]).keys())
         ct_df = pd.DataFrame(lst, columns=cols)
-        entry_cols = ['entry_fee', 'entry_max', 'entry_total']
-        entry_df = pd.DataFrame(ct_df.entries_details.apply(obj_to_list).to_list(), columns=entry_cols)
+        entry_cols = ["entry_fee", "entry_max", "entry_total"]
+        entry_df = pd.DataFrame(
+            ct_df.entries_details.apply(obj_to_list).to_list(), columns=entry_cols
+        )
         ct_df = pd.concat([ct_df, entry_df], axis=1)
-        ct_df.drop('entries_details', axis=1, inplace=True)
+        ct_df.drop("entries_details", axis=1, inplace=True)
         ct_df.sport = ct_df.sport.apply(lambda enum: enum.value)
         ct_df = ct_df[ct_df.starts_at <= cutoff]
         ct_df.starts_at = ct_df.starts_at.astype(str)
-        ct_df.set_index('contest_id', drop=True, inplace=True)
+        ct_df.drop(["entry_total"], axis=1, inplace=True)
+        ct_df.set_index("contest_id", drop=True, inplace=True)
         if not len(ct_df):
             ct_df = None
     else:
@@ -36,7 +45,7 @@ def get_contests_df(clt, sport):
         dg_df.sport = dg_df.sport.apply(lambda enum: enum.value)
         dg_df = dg_df[dg_df.starts_at <= cutoff]
         dg_df.starts_at = dg_df.starts_at.astype(str)
-        dg_df.set_index('draft_group_id', drop=True, inplace=True)
+        dg_df.set_index("draft_group_id", drop=True, inplace=True)
         if not len(dg_df):
             dg_df = None
     else:
@@ -44,15 +53,15 @@ def get_contests_df(clt, sport):
 
     return ct_df, dg_df
 
-def get_draftables(clt, draft_group_ids):
 
+def get_draftables(clt, draft_group_ids):
     competitions = {}
     players = {}
     for id in draft_group_ids:
         draftables = clt.draftables(draft_group_id=id)
         for competition in draftables.competitions:
             competitions[competition.competition_id] = competition
-        players[id] = draftables.players 
+        players[id] = draftables.players
 
     # Competition Details
     temp = list(competitions.values())
@@ -64,8 +73,8 @@ def get_draftables(clt, draft_group_ids):
         comp_df.home_team = comp_df.home_team.apply(lambda team: team.abbreviation)
         comp_df.sport = comp_df.sport.apply(lambda enum: enum.value)
         comp_df.starts_at = comp_df.starts_at.astype(str)
-        comp_df.drop(['state_description', 'weather'], axis=1, inplace=True)
-        comp_df.set_index('competition_id', drop=True, inplace=True)
+        comp_df.drop(["state_description", "weather"], axis=1, inplace=True)
+        comp_df.set_index("competition_id", drop=True, inplace=True)
     else:
         comp_df = None
 
@@ -75,7 +84,11 @@ def get_draftables(clt, draft_group_ids):
         deets = clt.draft_group_details(id)
         game_ids = list(map(lambda game: game.game_id, deets.games))
         games_list.append([id, game_ids])
-    game_df = pd.DataFrame(games_list, columns=['draft_group_id', 'game_id']).explode('game_id').reset_index(drop=True)
+    game_df = (
+        pd.DataFrame(games_list, columns=["draft_group_id", "game_id"])
+        .explode("game_id")
+        .reset_index(drop=True)
+    )
 
     # Player Details
     players_lst = []
@@ -85,24 +98,51 @@ def get_draftables(clt, draft_group_ids):
         if len(temp):
             cols = list(vars(temp[0]).keys())
             player_df = pd.DataFrame(lst, columns=cols)
-            player_df.loc[:, 'draft_group_id'] = id
+            player_df.loc[:, "draft_group_id"] = id
             players_lst.append(player_df)
 
     if len(players_lst):
         players_df = pd.concat(players_lst)
-        players_df.loc[:, 'competition_id'] = players_df.competition_details.apply(lambda comp: comp.competition_id)
-        players_df.loc[:, 'name'] = players_df.name_details.apply(lambda name: name.display)
-        players_df.loc[:, 'team'] = players_df.team_details.apply(lambda team: team.abbreviation)
-        players_df.drop(['competition_details', 'name_details', 'image_details', 'draft_alerts', 'news_status_description', 'team_details'], axis=1, inplace=True)
-        players_df.set_index('draftable_id', drop=True, inplace=True)
-        col_order = ['draft_group_id', 'player_id', 'roster_slot_id',
-                     'competition_id', 'name', 'team', 'position_name', 'salary', 
-                     'is_disabled', 'is_swappable']
+        players_df.loc[:, "competition_id"] = players_df.competition_details.apply(
+            lambda comp: comp.competition_id
+        )
+        players_df.loc[:, "name"] = players_df.name_details.apply(
+            lambda name: name.display
+        )
+        players_df.loc[:, "team"] = players_df.team_details.apply(
+            lambda team: team.abbreviation
+        )
+        players_df.drop(
+            [
+                "competition_details",
+                "name_details",
+                "image_details",
+                "draft_alerts",
+                "news_status_description",
+                "team_details",
+            ],
+            axis=1,
+            inplace=True,
+        )
+        players_df.set_index("draftable_id", drop=True, inplace=True)
+        col_order = [
+            "draft_group_id",
+            "player_id",
+            "roster_slot_id",
+            "competition_id",
+            "name",
+            "team",
+            "position_name",
+            "salary",
+            "is_disabled",
+            "is_swappable",
+        ]
         players_df = players_df[col_order]
     else:
         players_df = None
 
     return comp_df, game_df, players_df
+
 
 def get_contest_info(clt, contest_type_ids):
     contest_type_list = []
@@ -113,7 +153,7 @@ def get_contest_info(clt, contest_type_ids):
         game_type = clt.game_type_rules(contest_type_id)
         lst = obj_to_list(game_type)
         lst += obj_to_list(lst[-1])
-        del lst[7] 
+        del lst[7]
         lineup_templates[contest_type_id] = lst[5]
         del lst[5]
         contest_type_list.append(lst)
@@ -121,20 +161,27 @@ def get_contest_info(clt, contest_type_ids):
     cols = list(vars(game_type).keys())
     del cols[7]
     del cols[5]
-    cols += ['has_salary_cap', 'salary_max', 'salary_min']
-    contest_df = pd.DataFrame(contest_type_list, columns=cols).set_index('game_type_id')
+    cols += ["has_salary_cap", "salary_max", "salary_min"]
+    contest_df = pd.DataFrame(contest_type_list, columns=cols).set_index("game_type_id")
 
     # Lineup Construction Details
     lineups_lst = []
     for contest_type_id, lineup_template in lineup_templates.items():
-        slots = list(map(lambda slot: slot.roster_slot_details.roster_slot_id, lineup_template))
-        lineup_df = pd.DataFrame(pd.value_counts(slots).items(), columns=['roster_slot_id', 'count'])
-        lineup_df.loc[:, 'contest_type_id'] = contest_type_id
+        slots = list(
+            map(lambda slot: slot.roster_slot_details.roster_slot_id, lineup_template)
+        )
+        lineup_df = pd.DataFrame(
+            pd.value_counts(slots).items(), columns=["roster_slot_id", "count"]
+        )
+        lineup_df.loc[:, "contest_type_id"] = contest_type_id
         lineups_lst.append(lineup_df)
     lineups_df = pd.concat(lineups_lst)
-    lineups_df = lineups_df[['contest_type_id', 'roster_slot_id', 'count']].reset_index(drop=True)
+    lineups_df = lineups_df[["contest_type_id", "roster_slot_id", "count"]].reset_index(
+        drop=True
+    )
 
     return contest_df, lineups_df
+
 
 if __name__ == "__main__":
     clt = Client()
@@ -143,7 +190,7 @@ if __name__ == "__main__":
     ct_df, dg_df = get_contests_df(clt, Sport.NBA)
 
     if ct_df is not None:
-        ct_df.to_csv(f'contests/{today}.csv')
+        ct_df.to_csv(f"contests/{today}.csv")
 
     if dg_df is not None:
         contest_type_ids = dg_df.contest_type_id.unique()
@@ -152,12 +199,12 @@ if __name__ == "__main__":
         comp_df, game_df, player_df = get_draftables(clt, draft_group_ids)
         contest_df, lineups_df = get_contest_info(clt, contest_type_ids)
 
-        dg_df.to_csv(f'draft-groups/{today}.csv')
-        game_df.to_csv(f'draft-group-games/{today}.csv', index=False)
-        contest_df.to_csv(f'contest-types/{today}.csv')
-        lineups_df.to_csv(f'lineup-requirements/{today}.csv', index=False)
+        dg_df.to_csv(f"draft-groups/{today}.csv")
+        game_df.to_csv(f"draft-group-games/{today}.csv", index=False)
+        contest_df.to_csv(f"contest-types/{today}.csv")
+        lineups_df.to_csv(f"lineup-requirements/{today}.csv", index=False)
 
         if comp_df is not None:
-            comp_df.to_csv(f'competitions/{today}.csv')
+            comp_df.to_csv(f"competitions/{today}.csv")
         if player_df is not None:
-            player_df.to_csv(f'draftables/{today}.csv')
+            player_df.to_csv(f"draftables/{today}.csv")
