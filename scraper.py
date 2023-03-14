@@ -191,6 +191,8 @@ if __name__ == "__main__":
 
     if ct_df is not None:
         ct_df.to_csv(f"contests/{today}.csv")
+    else:
+        print("No contests found")
 
     if dg_df is not None:
         contest_type_ids = dg_df.contest_type_id.unique()
@@ -208,3 +210,7 @@ if __name__ == "__main__":
             comp_df.to_csv(f"competitions/{today}.csv")
         if player_df is not None:
             player_df.to_csv(f"draftables/{today}.csv")
+
+        print("Draft Group Details successfully written to files")
+    else:
+        print("No draft groups found")

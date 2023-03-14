@@ -19,9 +19,17 @@ def login(driver):
     driver.get(login_url)
     print(driver.title)
 
-    WebDriverWait(driver, TIMEOUT).until(
-        expected_conditions.presence_of_element_located((By.ID, "login-username-input"))
-    )
+    try:
+        WebDriverWait(driver, TIMEOUT).until(
+            expected_conditions.presence_of_element_located(
+                (By.ID, "login-username-input")
+            )
+        )
+    except Exception as e:
+        print("Couldn't find login form", e, file=sys.stderr)
+        driver.quit()
+        exit(1)
+
     username = driver.find_element(By.ID, "login-username-input")
     password = driver.find_element(By.ID, "login-password-input")
     submit = driver.find_element(By.ID, "login-submit")
@@ -71,7 +79,7 @@ if __name__ == "__main__":
     # options.use_chromium = True
     # options.add_argument("headless")
 
-    # options.add_argument("--inprivate")
+    options.add_argument("--inprivate")
     options.add_argument("--disable-blink-features=AutomationControlled")
     # try to hide "Edge is being controlled by automated software pop-up"
     options.add_argument("--disable-extensions")
@@ -91,7 +99,7 @@ if __name__ == "__main__":
         "prefs", {"profile.default_content_setting_values.geolocation": 2}
     )
 
-    driver_path = EdgeChromiumDriverManager().install()
+    driver_path = EdgeChromiumDriverManager(path=".").install()
     driver = webdriver.Edge(options=options, service=Service(driver_path))
 
     login(driver)

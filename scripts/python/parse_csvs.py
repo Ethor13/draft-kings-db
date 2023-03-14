@@ -55,4 +55,5 @@ if __name__ == "__main__":
         except EmptyDataError as e:
             pass
 
+    print("Succesfully parsed CSVs")
     exit(0)
