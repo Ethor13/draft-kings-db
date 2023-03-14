@@ -5,6 +5,7 @@ import datetime
 import sys
 
 ROWS_PER_FILE = 50
+URL_DIR = "tmp/urls/"
 standings_url = "https://draftkings.com/contest/exportfullstandingscsv/"
 
 if __name__ == "__main__":
@@ -20,9 +21,10 @@ if __name__ == "__main__":
             for line in reader:
                 contest_urls.append([standings_url + str(line[0])])
 
-        os.makedirs("tmp/urls/", exist_ok=True)
+        os.makedirs(URL_DIR)
+
         for i in range(math.ceil(len(contest_urls) / ROWS_PER_FILE)):
-            with open(f"tmp/urls/url_batch_{i + 1}.txt", "w", newline="") as f:
+            with open(URL_DIR + f"url_batch_{i + 1}.txt", "w", newline="") as f:
                 writer = csv.writer(f, lineterminator="\n")
                 start_file_num = i * ROWS_PER_FILE
                 end_file_num = (i + 1) * ROWS_PER_FILE

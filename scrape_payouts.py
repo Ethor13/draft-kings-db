@@ -28,7 +28,8 @@ def get_url(id, user_agent):
     headers = {"user-agent": user_agent}
     response = requests.get(url=details_url.format(id), headers=headers)
     if response.status_code == 200:
-        json.dump(response.json(), open(DOWNLOAD_DIR + f"{id}.json", "w"))
+        f = DOWNLOAD_DIR + f"{id}.json"
+        json.dump(response.json(), open(f, "w"))
     return response.status_code
 
 
@@ -48,24 +49,21 @@ def launch(ids):
             if future.result() != 200:
                 print(f"FAILURE: {id=}", file=sys.stderr, flush=True)
             if n % 100 == 0:
-                print(n, end=', ', flush=True)
+                print(n, end=", ", flush=True)
 
 
 if __name__ == "__main__":
     today = datetime.datetime.today().strftime("%m-%d-%Y")
     contests_path = f"contests/{today}.csv"
     if not os.path.exists(contests_path):
+        print("No contests from today to scrape payouts for")
         exit(0)
 
     ct_df = pd.read_csv(contests_path, index_col="contest_id")
 
-    # Make sure downloads directory is clear
-    if os.path.exists(DOWNLOAD_DIR):
-        for f in os.listdir(DOWNLOAD_DIR):
-            os.remove(DOWNLOAD_DIR + f)
-    else:
-        os.makedirs(DOWNLOAD_DIR)
+    os.makedirs(DOWNLOAD_DIR)
 
+    # Download everything
     launch(ct_df.index)
 
     # Parse Downloads and Update existing CSVs
@@ -106,3 +104,8 @@ if __name__ == "__main__":
     pay_df = pd.DataFrame(payouts, columns=pay_cols)
     pay_df.set_index("contest_id", drop=True, inplace=True)
     pay_df.to_csv(f"payouts/{today}.csv")
+
+    # Clear downloads directory
+    for f in os.listdir(DOWNLOAD_DIR):
+        os.remove(DOWNLOAD_DIR + f)
+    os.rmdir(DOWNLOAD_DIR)

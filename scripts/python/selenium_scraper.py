@@ -12,6 +12,7 @@ import sys
 
 load_dotenv()
 login_url = "https://myaccount.draftkings.com/login"
+COOKIES_DIR = "tmp/"
 TIMEOUT = 60
 
 
@@ -65,7 +66,7 @@ def write_cookies(driver):
         [],
     ]
 
-    with open("tmp/cookies.txt", "w", newline="") as f:
+    with open(COOKIES_DIR + "cookies.txt", "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerows(cookie_file_header)
         writer = csv.writer(f, delimiter="\t")

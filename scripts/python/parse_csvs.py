@@ -4,16 +4,20 @@ from datetime import datetime
 from datetime import timedelta
 import os
 
+DOWNLOAD_DIR = "tmp/downloads/"
+STANDINGS_DIR = "standings/"
+PERFORMANCE_DIR = "player-performances/"
+
 if __name__ == "__main__":
     two_days_ago = datetime.today() - timedelta(days=2)
     date_dir = two_days_ago.strftime("%m-%d-%Y") + "/"
-    os.makedirs("standings/" + date_dir, exist_ok=True)
-    os.makedirs("player-performances/" + date_dir, exist_ok=True)
+    os.makedirs(STANDINGS_DIR + date_dir, exist_ok=True)
+    os.makedirs(PERFORMANCE_DIR + date_dir, exist_ok=True)
 
-    for f in os.listdir("tmp/downloads/"):
+    for f in os.listdir(DOWNLOAD_DIR):
         contest_id = f.split("-")[-1][:-4]
         try:
-            df = pd.read_csv("tmp/downloads/" + f, dtype={"EntryId": object})
+            df = pd.read_csv(DOWNLOAD_DIR + f, dtype={"EntryId": object})
 
             standings = df.loc[:, "EntryName"].str.replace(")", "", regex=False)
             standings = standings.str.split("\s\(|/", expand=True).fillna(1)
@@ -35,7 +39,7 @@ if __name__ == "__main__":
                 "CPT",
                 "BENCH",
                 "F/C",
-                "T\d+",
+                "T\d+",  # Matches Tiers positions (T1, T2, T3, ...)
             ]
             position_regex = r"\b({})\s".format("|".join(positions))
             lineups_raw = df.Lineup.str.split(position_regex, expand=True)
@@ -49,8 +53,8 @@ if __name__ == "__main__":
             player_performances = df.iloc[:, 7:].dropna(axis=0, how="all")
 
             f = date_dir + contest_id + ".csv"
-            standings.to_csv("standings/" + f, index=False)
-            player_performances.to_csv("player-performances/" + f, index=False)
+            standings.to_csv(STANDINGS_DIR + f, index=False)
+            player_performances.to_csv(PERFORMANCE_DIR + f, index=False)
 
         except EmptyDataError as e:
             pass
