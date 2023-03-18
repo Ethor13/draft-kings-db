@@ -9,6 +9,7 @@ def obj_to_list(obj):
 
 
 def get_contests_df(clt, sport):
+    print("Getting Contests")
     contests = clt.contests(sport=sport)
     cutoff = (
         pd.Timestamp.utcnow().normalize()
@@ -57,6 +58,7 @@ def get_contests_df(clt, sport):
 def get_draftables(clt, draft_group_ids):
     competitions = {}
     players = {}
+    print("Getting draftables")
     for id in draft_group_ids:
         draftables = clt.draftables(draft_group_id=id)
         for competition in draftables.competitions:
@@ -79,6 +81,7 @@ def get_draftables(clt, draft_group_ids):
         comp_df = None
 
     # Draft Group Game Details
+    print("Getting draft group details")
     games_list = []
     for id in draft_group_ids:
         deets = clt.draft_group_details(id)
@@ -149,6 +152,7 @@ def get_contest_info(clt, contest_type_ids):
     lineup_templates = {}
 
     # Contest Type Details
+    print("Getting Contest Type Details")
     for contest_type_id in contest_type_ids:
         game_type = clt.game_type_rules(contest_type_id)
         lst = obj_to_list(game_type)
@@ -191,8 +195,10 @@ if __name__ == "__main__":
 
     if ct_df is not None:
         ct_df.to_csv(f"contests/{today}.csv")
-    else:
+        print("Successfully wrote contests to files")
+    elif dg_df is None:
         print("No contests found")
+        exit(1)
 
     if dg_df is not None:
         contest_type_ids = dg_df.contest_type_id.unique()
@@ -205,6 +211,10 @@ if __name__ == "__main__":
         game_df.to_csv(f"draft-group-games/{today}.csv", index=False)
         contest_df.to_csv(f"contest-types/{today}.csv")
         lineups_df.to_csv(f"lineup-requirements/{today}.csv", index=False)
+        print(
+            "Successfully wrote draft groups, draft group games, contest types,"
+            + " and lineup reqs to files"
+        )
 
         if comp_df is not None:
             comp_df.to_csv(f"competitions/{today}.csv")
@@ -214,3 +224,5 @@ if __name__ == "__main__":
         print("Draft Group Details successfully written to files")
     else:
         print("No draft groups found")
+
+    exit(0)

@@ -9,6 +9,9 @@ import random
 
 MAX_WORKERS = 15
 DOWNLOAD_DIR = "tmp/downloads/"
+CONTESTS_DIR = "contests/"
+MAX_ENTRIES_DIR = "max-entries/"
+PAYOUTS_DIR = "payouts/"
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76",
     "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36",
@@ -54,7 +57,26 @@ def launch(ids):
 
 if __name__ == "__main__":
     today = datetime.datetime.today().strftime("%m-%d-%Y")
-    contests_path = f"contests/{today}.csv"
+
+    # Catch up on missed contests
+    # available_contest_dates = os.listdir(CONTESTS_DIR)
+    # today = None
+    # idx = 0
+    # while today is None:
+    #     d = available_contest_dates[idx]
+    #     if not os.path.exists(PAYOUTS_DIR + d):
+    #         today = d.split(".")[0]
+    #     idx += 1
+    #     if idx == len(available_contest_dates):
+    #         break
+
+    # if today is None:
+    #     print("all up to date on payouts")
+    #     exit(0)
+    # else:
+    #     print(f"Scraping {today}")
+
+    contests_path = CONTESTS_DIR + f"{today}.csv"
     if not os.path.exists(contests_path):
         print("No contests from today to scrape payouts for")
         exit(0)
@@ -98,12 +120,12 @@ if __name__ == "__main__":
         max_entries.loc[contest_id, "entry_max_per_user"] = obj["contestDetail"][
             "maximumEntriesPerUser"
         ]
-    max_entries.to_csv(f"max-entries/{today}.csv")
+    max_entries.to_csv(MAX_ENTRIES_DIR + f"{today}.csv")
 
     pay_cols = ["contest_id", "minPosition", "maxPosition", "payout"]
     pay_df = pd.DataFrame(payouts, columns=pay_cols)
     pay_df.set_index("contest_id", drop=True, inplace=True)
-    pay_df.to_csv(f"payouts/{today}.csv")
+    pay_df.to_csv(PAYOUTS_DIR + f"{today}.csv")
 
     # Clear downloads directory
     for f in os.listdir(DOWNLOAD_DIR):
