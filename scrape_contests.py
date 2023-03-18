@@ -33,6 +33,7 @@ def get_contests_df(clt, sport):
         ct_df.starts_at = ct_df.starts_at.astype(str)
         ct_df.drop(["entry_total"], axis=1, inplace=True)
         ct_df.set_index("contest_id", drop=True, inplace=True)
+        ct_df.sort_index(inplace=True)
         if not len(ct_df):
             ct_df = None
     else:
@@ -47,6 +48,7 @@ def get_contests_df(clt, sport):
         dg_df = dg_df[dg_df.starts_at <= cutoff]
         dg_df.starts_at = dg_df.starts_at.astype(str)
         dg_df.set_index("draft_group_id", drop=True, inplace=True)
+        dg_df.sort_index(inplace=True)
         if not len(dg_df):
             dg_df = None
     else:
@@ -77,6 +79,7 @@ def get_draftables(clt, draft_group_ids):
         comp_df.starts_at = comp_df.starts_at.astype(str)
         comp_df.drop(["state_description", "weather"], axis=1, inplace=True)
         comp_df.set_index("competition_id", drop=True, inplace=True)
+        comp_df.sort_index(inplace=True)
     else:
         comp_df = None
 
@@ -92,6 +95,7 @@ def get_draftables(clt, draft_group_ids):
         .explode("game_id")
         .reset_index(drop=True)
     )
+    game_df.sort_values(["draft_group_id", "game_id"], inplace=True)
 
     # Player Details
     players_lst = []
@@ -128,6 +132,7 @@ def get_draftables(clt, draft_group_ids):
             inplace=True,
         )
         players_df.set_index("draftable_id", drop=True, inplace=True)
+        players_df.sort_index(inplace=True)
         col_order = [
             "draft_group_id",
             "player_id",
@@ -167,6 +172,7 @@ def get_contest_info(clt, contest_type_ids):
     del cols[5]
     cols += ["has_salary_cap", "salary_max", "salary_min"]
     contest_df = pd.DataFrame(contest_type_list, columns=cols).set_index("game_type_id")
+    contest_df.sort_index(inplace=True)
 
     # Lineup Construction Details
     lineups_lst = []
@@ -183,6 +189,7 @@ def get_contest_info(clt, contest_type_ids):
     lineups_df = lineups_df[["contest_type_id", "roster_slot_id", "count"]].reset_index(
         drop=True
     )
+    lineups_df.sort_values(["contest_type_id", "roster_slot_id"], inplace=True)
 
     return contest_df, lineups_df
 
