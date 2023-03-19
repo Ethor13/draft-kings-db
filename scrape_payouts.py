@@ -3,11 +3,13 @@ import requests
 import concurrent.futures
 import json
 import os
+import subprocess
 import sys
 import datetime
 import random
 
 MAX_WORKERS = 15
+TEMP_DIR = "tmp/"
 DOWNLOAD_DIR = "tmp/downloads/"
 CONTESTS_DIR = "contests/"
 MAX_ENTRIES_DIR = "max-entries/"
@@ -24,12 +26,12 @@ USER_AGENTS = [
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36",
 ]
-details_url = "https://api.draftkings.com/contests/v1/contests/{}?format=json"
+DETAILS_URL = "https://api.draftkings.com/contests/v1/contests/{}?format=json"
 
 
 def get_url(id, user_agent):
     headers = {"user-agent": user_agent}
-    response = requests.get(url=details_url.format(id), headers=headers)
+    response = requests.get(url=DETAILS_URL.format(id), headers=headers)
     if response.status_code == 200:
         f = DOWNLOAD_DIR + f"{id}.json"
         json.dump(response.json(), open(f, "w"))
@@ -83,16 +85,35 @@ if __name__ == "__main__":
 
     ct_df = pd.read_csv(contests_path, index_col="contest_id")
 
-    os.makedirs(DOWNLOAD_DIR)
+    os.makedirs(TEMP_DIR, exist_ok=True)
+
+    # TODO: start experimental
+
+    urls = ct_df.index.map(DETAILS_URL.format)
+    random_user_agents = random.choices(USER_AGENTS, k=len(urls))
+    flag_df = pd.DataFrame([random_user_agents, urls]).T
+    flag_df.to_csv(
+        TEMP_DIR + "flags.csv",
+        index=False,
+        header=False,
+        sep=" ",
+        quoting=1,
+        lineterminator="\n",
+    )
+
+    cmd = """sh -c "./scripts/shell/download_payouts.sh &> logs/payouts.log" """
+    subprocess.call(cmd)
+
+    # TODO: end experimental
 
     # Download everything
-    launch(ct_df.index)
+    # launch(ct_df.index)
 
     # Parse Downloads and Update existing CSVs
     max_entries = pd.DataFrame([], index=ct_df.index, columns=["entry_max_per_user"])
     payouts = []
     for contest_id in ct_df.index:
-        f = DOWNLOAD_DIR + f"{contest_id}.json"
+        f = DOWNLOAD_DIR + f"{contest_id}@format=json"
         if not os.path.exists(f):
             continue
         obj = json.load(open(f, "r"))
@@ -131,3 +152,4 @@ if __name__ == "__main__":
     for f in os.listdir(DOWNLOAD_DIR):
         os.remove(DOWNLOAD_DIR + f)
     os.rmdir(DOWNLOAD_DIR)
+    os.remove("flags.csv")
