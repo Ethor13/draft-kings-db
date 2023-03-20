@@ -10,6 +10,7 @@ import random
 
 MAX_WORKERS = 15
 TEMP_DIR = "tmp/"
+LOG_DIR = "logs/"
 DOWNLOAD_DIR = "tmp/downloads/"
 CONTESTS_DIR = "contests/"
 MAX_ENTRIES_DIR = "max-entries/"
@@ -86,6 +87,7 @@ if __name__ == "__main__":
     ct_df = pd.read_csv(contests_path, index_col="contest_id")
 
     os.makedirs(TEMP_DIR, exist_ok=True)
+    os.makedirs(LOG_DIR, exist_ok=True)
 
     # TODO: start experimental
 
@@ -152,4 +154,9 @@ if __name__ == "__main__":
     for f in os.listdir(DOWNLOAD_DIR):
         os.remove(DOWNLOAD_DIR + f)
     os.rmdir(DOWNLOAD_DIR)
-    os.remove("flags.csv")
+    # remove payouts.log
+    if os.path.exists(LOG_DIR + "payouts.log"):
+        os.remove(LOG_DIR + "payouts.log")
+    # remove flags.csv
+    if os.path.exists(TEMP_DIR + "flags.csv"):
+        os.remove(TEMP_DIR + "flags.csv")
