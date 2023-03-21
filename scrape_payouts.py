@@ -88,6 +88,8 @@ if __name__ == "__main__":
 
     os.makedirs(TEMP_DIR, exist_ok=True)
     os.makedirs(LOG_DIR, exist_ok=True)
+    if not os.path.exists(LOG_DIR + "payouts.log"):
+        open(LOG_DIR + "payouts.log", "w").close()
 
     # TODO: start experimental
 
