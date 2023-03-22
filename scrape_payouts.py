@@ -105,7 +105,7 @@ if __name__ == "__main__":
         lineterminator="\n",
     )
 
-    cmd = """sh -c "./scripts/shell/download_payouts.sh &> logs/payouts.log" """
+    cmd = """sh -c "./scripts/shell/download_payouts.sh" &> "logs/payouts.log" """
     subprocess.call(cmd)
 
     # TODO: end experimental

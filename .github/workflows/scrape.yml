@@ -30,7 +30,10 @@ jobs:
             - name: Install requirements
               run: pip install -r requirements.txt
 
-            - name: Run Scraper
-              run: python scrape_contests.py && python scrape_payouts.py
+            - name: Scrape Contests
+              run: python scrape_contests.py
+
+            - name: Scrape Payouts
+              run: python python scrape_payouts.py
 
             - uses: EndBug/add-and-commit@v8
