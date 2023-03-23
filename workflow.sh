@@ -1,5 +1,6 @@
 #!/bin/bash
 mkdir tmp
+
 # download contests
 python scripts/python/scrape_contests.py
 
@@ -14,4 +15,5 @@ python scripts/python/selenium_scraper.py && \ # get cookies for wget
 ./scripts/shell/download_standings.sh && \
 ./scripts/shell/format_standings.sh && \
 python scripts/python/parse_standings_csvs.py
+
 rm -rf tmp
