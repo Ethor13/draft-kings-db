@@ -89,4 +89,5 @@ if __name__ == "__main__":
     if os.path.exists(TEMP_DIR + "flags.csv"):
         os.remove(TEMP_DIR + "flags.csv")
 
+    print("Successfully parsed payouts JSON files")
     exit(0)
