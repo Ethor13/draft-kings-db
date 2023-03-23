@@ -92,6 +92,9 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142694476,84514,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2023-03-23 23:00:00+00:00,50.0,4
 142694477,84514,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2023-03-23 23:00:00+00:00,109.0,4
 142694478,84514,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2023-03-23 23:00:00+00:00,109.0,4
+142694479,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
+142694480,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
+142694482,84514,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
 142694483,84514,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
 142694484,84514,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
 142694485,84514,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-03-23 23:00:00+00:00,5.0,3
@@ -106,6 +109,8 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142694495,84514,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-03-23 23:00:00+00:00,109.0,3
 142694496,84514,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-03-23 23:00:00+00:00,109.0,3
 142694497,84514,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-03-23 23:00:00+00:00,109.0,3
+142694498,84514,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
+142694499,84514,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
 142694500,84514,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
 142694501,84514,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
 142694502,84514,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
@@ -359,9 +364,12 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142694755,84364,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
 142694756,84364,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
 142694757,84364,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
+142694758,84364,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (NYK vs ORL),5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
 142694759,84364,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (NYK vs ORL),5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
 142694760,84364,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (NYK vs ORL),5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
 142694761,84364,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
+142694762,84364,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (NYK vs ORL),4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
+142694763,84364,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (NYK vs ORL),2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
 142694764,84364,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (NYK vs ORL),2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
 142694765,84364,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (NYK vs ORL),600.0,NBA,2023-03-23 23:00:00+00:00,109.0,6
 142694766,84364,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (NYK vs ORL)",40000.0,NBA,2023-03-23 23:00:00+00:00,10600.0,4
@@ -390,6 +398,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142694789,84364,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (NYK vs ORL),500.0,NBA,2023-03-23 23:00:00+00:00,25.0,22
 142694790,84364,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (NYK vs ORL),1000.0,NBA,2023-03-23 23:00:00+00:00,50.0,22
 142694791,84364,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (NYK vs ORL),4000.0,NBA,2023-03-23 23:00:00+00:00,1060.0,4
+142694792,84364,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (NYK vs ORL),1000.0,NBA,2023-03-23 23:00:00+00:00,267.0,4
 142694793,84364,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (NYK vs ORL)",1500.0,NBA,2023-03-23 23:00:00+00:00,408.0,4
 142694794,84364,8.0,False,False,False,False,True,NBA Showdown Reignmakers UFC Genesis STANDARD Pack Special [Must Fill] (NYK vs ORL),0.0,NBA,2023-03-23 23:00:00+00:00,7.77,5
 142694795,84364,8.0,False,False,False,False,True,NBA Showdown Reignmakers UFC Genesis STANDARD Pack Special [Must Fill] (NYK vs ORL),0.0,NBA,2023-03-23 23:00:00+00:00,7.77,5
@@ -398,10 +407,17 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142694798,84364,8.0,False,False,False,False,True,NBA Showdown Reignmakers UFC Genesis STANDARD Pack Special [Must Fill] (NYK vs ORL),0.0,NBA,2023-03-23 23:00:00+00:00,7.77,5
 142694800,84364,50.0,False,False,False,False,True,NBA Showdown Satellite to $180 MEGA Millionaire MEGASat (3-28) [Must Fill] (NYK vs ORL),180.0,NBA,2023-03-23 23:00:00+00:00,50.0,4
 142694801,84364,50.0,False,False,False,False,True,NBA Showdown Satellite to $180 MEGA Millionaire MEGASat (3-28) [Must Fill] (NYK vs ORL),180.0,NBA,2023-03-23 23:00:00+00:00,50.0,4
+142694806,84362,10.0,False,False,False,False,False,NBA Snake $10 6-Player,54.0,NBA,2023-03-23 23:00:00+00:00,10.0,6
+142694807,84362,10.0,False,False,False,False,False,NBA Snake $10 6-Player,54.0,NBA,2023-03-23 23:00:00+00:00,10.0,6
+142694808,84362,20.0,False,False,False,False,False,NBA Snake $20 6-Player,108.0,NBA,2023-03-23 23:00:00+00:00,20.0,6
 142694809,84362,50.0,False,False,False,False,False,NBA Snake $50 6-Player,270.0,NBA,2023-03-23 23:00:00+00:00,50.0,6
 142694810,84362,50.0,False,False,False,False,False,NBA Snake $50 6-Player,270.0,NBA,2023-03-23 23:00:00+00:00,50.0,6
 142694811,84362,109.0,False,False,False,False,False,NBA Snake $109 6-Player,600.0,NBA,2023-03-23 23:00:00+00:00,109.0,6
 142694812,84362,530.0,False,False,False,False,False,NBA Snake $530 6-Player,3000.0,NBA,2023-03-23 23:00:00+00:00,530.0,6
+142694816,84362,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2023-03-23 23:00:00+00:00,5.0,3
+142694820,84362,20.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2023-03-23 23:00:00+00:00,20.0,3
+142694821,84362,50.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2023-03-23 23:00:00+00:00,50.0,3
+142694822,84362,50.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2023-03-23 23:00:00+00:00,50.0,3
 142694823,84362,109.0,False,False,False,False,False,NBA Snake $109 3-Player,300.0,NBA,2023-03-23 23:00:00+00:00,109.0,3
 142694824,84362,530.0,False,False,False,False,False,NBA Snake $530 3-Player,1500.0,NBA,2023-03-23 23:00:00+00:00,530.0,3
 142694825,84362,2120.0,False,False,False,False,False,"NBA Snake $2,120 3-Player",6000.0,NBA,2023-03-23 23:00:00+00:00,2120.0,3
@@ -414,6 +430,8 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142694832,84363,5300.0,True,False,False,False,False,"NBA Tiers $5,300 50-50",20000.0,NBA,2023-03-23 23:00:00+00:00,5300.0,4
 142694833,84363,1060.0,True,False,False,False,False,"NBA Tiers $1,060 50-50",4000.0,NBA,2023-03-23 23:00:00+00:00,1060.0,4
 142694834,84363,530.0,True,False,False,False,False,NBA Tiers $530 50-50,2000.0,NBA,2023-03-23 23:00:00+00:00,530.0,4
+142694835,84363,162.0,True,False,False,False,False,NBA Tiers $162 50-50,600.0,NBA,2023-03-23 23:00:00+00:00,162.0,4
+142694836,84363,109.0,True,False,False,False,False,NBA Tiers $109 50-50,400.0,NBA,2023-03-23 23:00:00+00:00,109.0,4
 142694837,84363,50.0,True,False,False,False,False,NBA Tiers $50 50-50,180.0,NBA,2023-03-23 23:00:00+00:00,50.0,4
 142694838,84363,20.0,True,False,False,False,False,NBA Tiers $20 50-50,360.0,NBA,2023-03-23 23:00:00+00:00,20.0,20
 142694839,84363,20.0,True,False,False,False,False,NBA Tiers $20 50-50,180.0,NBA,2023-03-23 23:00:00+00:00,20.0,10
@@ -485,9 +503,13 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142694908,84363,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
 142694909,84363,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
 142694910,84363,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
+142694911,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
 142694912,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
+142694913,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
 142694914,84363,1.0,False,False,False,False,False,NBA Tiers $1 10-Player,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
 142694915,84363,1.0,False,False,False,False,False,NBA Tiers $1 5-Player,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
+142694916,84363,1.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
+142694917,84363,1.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
 142694918,84363,109.0,True,False,False,False,False,NBA Tiers $109 50-50,600.0,NBA,2023-03-23 23:00:00+00:00,109.0,6
 142694919,84363,10600.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-03-23 23:00:00+00:00,10600.0,4
 142694920,84363,10600.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-03-23 23:00:00+00:00,10600.0,4
@@ -598,6 +620,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695025,84365,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (CLE vs BKN),22.5,NBA,2023-03-23 23:30:00+00:00,5.0,5
 142695026,84365,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (CLE vs BKN),22.5,NBA,2023-03-23 23:30:00+00:00,5.0,5
 142695027,84365,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (CLE vs BKN),22.5,NBA,2023-03-23 23:30:00+00:00,5.0,5
+142695028,84365,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (CLE vs BKN),13.5,NBA,2023-03-23 23:30:00+00:00,5.0,3
 142695029,84365,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (CLE vs BKN),13.5,NBA,2023-03-23 23:30:00+00:00,5.0,3
 142695030,84365,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (CLE vs BKN),13.5,NBA,2023-03-23 23:30:00+00:00,5.0,3
 142695031,84365,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (CLE vs BKN),36.0,NBA,2023-03-23 23:30:00+00:00,2.0,20
@@ -613,6 +636,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695041,84365,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (CLE vs BKN),5.4,NBA,2023-03-23 23:30:00+00:00,2.0,3
 142695042,84365,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (CLE vs BKN),9.0,NBA,2023-03-23 23:30:00+00:00,1.0,10
 142695043,84365,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (CLE vs BKN),4.5,NBA,2023-03-23 23:30:00+00:00,1.0,5
+142695044,84365,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (CLE vs BKN),2.7,NBA,2023-03-23 23:30:00+00:00,1.0,3
 142695045,84365,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (CLE vs BKN),2.7,NBA,2023-03-23 23:30:00+00:00,1.0,3
 142695046,84365,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (CLE vs BKN),600.0,NBA,2023-03-23 23:30:00+00:00,109.0,6
 142695047,84365,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (CLE vs BKN)",40000.0,NBA,2023-03-23 23:30:00+00:00,10600.0,4
@@ -648,6 +672,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695077,84365,8.0,False,False,False,False,True,NBA Showdown Reignmakers UFC Genesis STANDARD Pack Special [Must Fill] (CLE vs BKN),0.0,NBA,2023-03-23 23:30:00+00:00,7.77,5
 142695078,84365,8.0,False,False,False,False,True,NBA Showdown Reignmakers UFC Genesis STANDARD Pack Special [Must Fill] (CLE vs BKN),0.0,NBA,2023-03-23 23:30:00+00:00,7.77,5
 142695079,84365,8.0,False,False,False,False,True,NBA Showdown Reignmakers UFC Genesis STANDARD Pack Special [Must Fill] (CLE vs BKN),0.0,NBA,2023-03-23 23:30:00+00:00,7.77,5
+142695080,84365,6.0,False,False,False,False,False,NBA Showdown Satellite to MLB 3-30 Opening Day Special [Must Fill] (CLE vs BKN),15.0,NBA,2023-03-23 23:30:00+00:00,5.55,3
 142695081,84365,50.0,False,False,False,False,True,NBA Showdown Satellite to $180 MEGA Millionaire MEGASat (3-28) [Must Fill] (CLE vs BKN),180.0,NBA,2023-03-23 23:30:00+00:00,50.0,4
 142695082,84365,50.0,False,False,False,False,True,NBA Showdown Satellite to $180 MEGA Millionaire MEGASat (3-28) [Must Fill] (CLE vs BKN),180.0,NBA,2023-03-23 23:30:00+00:00,50.0,4
 142695083,84515,20.0,False,False,False,False,False,Beginner NBA $20 3-Player (Night),54.0,NBA,2023-03-24 00:00:00+00:00,20.0,3
@@ -738,6 +763,8 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695169,84515,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2023-03-24 00:00:00+00:00,2.0,3
 142695170,84515,1.0,False,False,False,False,False,NBA $1 10-Player (Night),9.0,NBA,2023-03-24 00:00:00+00:00,1.0,10
 142695171,84515,1.0,False,False,False,False,False,NBA $1 5-Player (Night),4.5,NBA,2023-03-24 00:00:00+00:00,1.0,5
+142695172,84515,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2023-03-24 00:00:00+00:00,1.0,3
+142695173,84515,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2023-03-24 00:00:00+00:00,1.0,3
 142695174,84515,109.0,True,False,False,False,False,NBA $109 50-50 (Night),600.0,NBA,2023-03-24 00:00:00+00:00,109.0,6
 142695175,84515,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2023-03-24 00:00:00+00:00,10600.0,4
 142695176,84515,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2023-03-24 00:00:00+00:00,10600.0,4
@@ -863,6 +890,8 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695297,84367,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC vs LAC),5.4,NBA,2023-03-24 02:30:00+00:00,2.0,3
 142695298,84367,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (OKC vs LAC),9.0,NBA,2023-03-24 02:30:00+00:00,1.0,10
 142695299,84367,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC vs LAC),4.5,NBA,2023-03-24 02:30:00+00:00,1.0,5
+142695300,84367,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
+142695301,84367,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
 142695302,84367,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (OKC vs LAC),600.0,NBA,2023-03-24 02:30:00+00:00,109.0,6
 142695303,84367,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (OKC vs LAC)",40000.0,NBA,2023-03-24 02:30:00+00:00,10600.0,4
 142695304,84367,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (OKC vs LAC)",40000.0,NBA,2023-03-24 02:30:00+00:00,10600.0,4
@@ -900,14 +929,19 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695336,84367,6.0,False,False,False,False,False,NBA Showdown Satellite to MLB 3-30 Opening Day Special [Must Fill] (OKC vs LAC),15.0,NBA,2023-03-24 02:30:00+00:00,5.55,3
 142695337,84367,50.0,False,False,False,False,True,NBA Showdown Satellite to $180 MEGA Millionaire MEGASat (3-28) [Must Fill] (OKC vs LAC),180.0,NBA,2023-03-24 02:30:00+00:00,50.0,4
 142695338,84367,50.0,False,False,False,False,True,NBA Showdown Satellite to $180 MEGA Millionaire MEGASat (3-28) [Must Fill] (OKC vs LAC),180.0,NBA,2023-03-24 02:30:00+00:00,50.0,4
+142695345,84368,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (OKC vs LAC),13.5,NBA,2023-03-24 02:30:00+00:00,5.0,3
 142695346,84368,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (OKC vs LAC),27.0,NBA,2023-03-24 02:30:00+00:00,10.0,3
+142695349,84368,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (OKC vs LAC),54.0,NBA,2023-03-24 02:30:00+00:00,20.0,3
 142695350,84368,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (OKC vs LAC),300.0,NBA,2023-03-24 02:30:00+00:00,109.0,3
 142695351,84368,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (OKC vs LAC),1500.0,NBA,2023-03-24 02:30:00+00:00,530.0,3
+142695352,84368,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (OKC vs LAC),3.6,NBA,2023-03-24 02:30:00+00:00,1.0,4
 142695353,84368,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (OKC vs LAC),18.0,NBA,2023-03-24 02:30:00+00:00,5.0,4
 142695354,84368,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (OKC vs LAC),36.0,NBA,2023-03-24 02:30:00+00:00,10.0,4
+142695355,84368,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (OKC vs LAC),72.0,NBA,2023-03-24 02:30:00+00:00,20.0,4
 142695356,84368,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (OKC vs LAC),180.0,NBA,2023-03-24 02:30:00+00:00,50.0,4
 142695357,84368,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (OKC vs LAC),400.0,NBA,2023-03-24 02:30:00+00:00,109.0,4
 142695358,84368,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (OKC vs LAC),2000.0,NBA,2023-03-24 02:30:00+00:00,530.0,4
+142695359,84368,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (OKC vs LAC),135.0,NBA,2023-03-24 02:30:00+00:00,50.0,3
 142695360,84368,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (OKC vs LAC)",3000.0,NBA,2023-03-24 02:30:00+00:00,1060.0,3
 142695361,84368,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (OKC vs LAC)",6000.0,NBA,2023-03-24 02:30:00+00:00,2120.0,3
 142695362,84369,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H OKC vs LAC),5.4,NBA,2023-03-24 03:30:00+00:00,2.0,3
@@ -1051,14 +1085,18 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695500,84370,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (4Q OKC vs LAC),60.0,NBA,2023-03-24 03:50:00+00:00,3.0,23
 142695501,84370,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (4Q OKC vs LAC),60.0,NBA,2023-03-24 03:50:00+00:00,3.0,23
 142695503,84514,3.0,False,False,True,False,False,NBA $3 Winner Take All [$100 to 1st],100.0,NBA,2023-03-23 23:00:00+00:00,3.0,39
+142695504,84514,1.0,False,False,True,False,False,NBA $1 Winner Take All [$100 to 1st],100.0,NBA,2023-03-23 23:00:00+00:00,1.0,118
+142695505,84514,0.0,False,False,True,False,True,NBA $400 Dime Time [Just $0.10!],400.0,NBA,2023-03-23 23:00:00+00:00,0.1,4756
 142695506,84514,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2023-03-23 23:00:00+00:00,1.0,28
 142695507,84514,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2023-03-23 23:00:00+00:00,1.0,28
+142695508,84514,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2023-03-23 23:00:00+00:00,1.0,28
 142695509,84514,5.0,False,False,True,False,False,NBA $5 Quintuple Up [Top 5 Win $25],125.0,NBA,2023-03-23 23:00:00+00:00,5.0,28
 142695510,84514,5.0,False,False,True,False,False,NBA $5 Quintuple Up [Top 5 Win $25],125.0,NBA,2023-03-23 23:00:00+00:00,5.0,28
 142695511,84514,10.0,False,False,True,False,False,NBA $10 Quintuple Up [Top 5 Win $50],250.0,NBA,2023-03-23 23:00:00+00:00,10.0,28
 142695512,84514,25.0,False,False,True,False,False,NBA $25 Quintuple Up [Top 5 Win $125],625.0,NBA,2023-03-23 23:00:00+00:00,25.0,28
 142695513,84514,20.0,False,False,True,False,False,NBA $20 Winner Take All [$175 to 1st],175.0,NBA,2023-03-23 23:00:00+00:00,20.0,10
 142695514,84514,2.0,False,False,True,False,False,NBA $2 Winner Take All [$120 to 1st],120.0,NBA,2023-03-23 23:00:00+00:00,2.0,71
+142695515,84514,0.0,False,False,True,False,False,NBA $0.25 Winner Take All [$50 to 1st],50.0,NBA,2023-03-23 23:00:00+00:00,0.25,237
 142695516,84514,250.0,True,False,True,False,False,NBA $250 Double Up,2500.0,NBA,2023-03-23 23:00:00+00:00,250.0,11
 142695517,84514,100.0,True,False,True,False,False,NBA $100 Double Up,1000.0,NBA,2023-03-23 23:00:00+00:00,100.0,11
 142695518,84514,100.0,True,False,True,False,False,NBA $100 Double Up,2000.0,NBA,2023-03-23 23:00:00+00:00,100.0,22
@@ -1093,6 +1131,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695547,84514,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
 142695548,84514,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
 142695549,84514,100.0,False,False,True,False,False,NBA $100 Winner Take All [$1K to 1st],1000.0,NBA,2023-03-23 23:00:00+00:00,100.0,11
+142695550,84514,5.0,False,False,True,False,False,NBA $5 Winner Take All [$100 to 1st],100.0,NBA,2023-03-23 23:00:00+00:00,5.0,23
 142695551,84514,50.0,False,False,True,False,False,NBA $50 Winner Take All [$500 to 1st],500.0,NBA,2023-03-23 23:00:00+00:00,50.0,11
 142695552,84514,25.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2023-03-23 23:00:00+00:00,25.0,11
 142695553,84514,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
@@ -1102,6 +1141,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695557,84514,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2023-03-23 23:00:00+00:00,3.0,23
 142695558,84514,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2023-03-23 23:00:00+00:00,3.0,23
 142695559,84514,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2023-03-23 23:00:00+00:00,5.0,23
+142695560,84514,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-03-23 23:00:00+00:00,1.0,31
 142695561,84514,5.0,False,False,True,False,False,NBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2023-03-23 23:00:00+00:00,5.0,31
 142695562,84514,10.0,False,False,True,False,False,NBA $10 Triple Up [Top 9 Win $30],270.0,NBA,2023-03-23 23:00:00+00:00,10.0,31
 142695563,84514,25.0,False,False,True,False,False,NBA $25 Triple Up [Top 9 Win $75],675.0,NBA,2023-03-23 23:00:00+00:00,25.0,31
@@ -1170,18 +1210,25 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695626,84514,34.0,False,False,True,False,True,NBA Satellite to $180 MEGA Millionaire MEGASat (3-28),180.0,NBA,2023-03-23 23:00:00+00:00,34.0,6
 142695627,84514,34.0,False,False,True,False,True,NBA Satellite to $180 MEGA Millionaire MEGASat (3-28),180.0,NBA,2023-03-23 23:00:00+00:00,34.0,6
 142695649,84363,10.0,True,False,True,False,False,NBA Tiers $10 Double Up,200.0,NBA,2023-03-23 23:00:00+00:00,10.0,23
+142695650,84363,1.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-03-23 23:00:00+00:00,1.0,31
 142695651,84363,5.0,False,False,True,False,False,NBA Tiers $5 Triple Up [Top 9 Win $15],135.0,NBA,2023-03-23 23:00:00+00:00,5.0,31
 142695652,84363,10.0,False,False,True,False,False,NBA Tiers $10 Triple Up [Top 9 Win $30],270.0,NBA,2023-03-23 23:00:00+00:00,10.0,31
 142695653,84363,3.0,True,False,True,False,False,NBA Tiers $3 Double Up,60.0,NBA,2023-03-23 23:00:00+00:00,3.0,23
 142695654,84363,25.0,True,False,True,False,False,NBA Tiers $25 Double Up,250.0,NBA,2023-03-23 23:00:00+00:00,25.0,11
 142695655,84363,5.0,True,False,True,False,False,NBA Tiers $5 Double Up,100.0,NBA,2023-03-23 23:00:00+00:00,5.0,23
 142695656,84363,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
+142695657,84363,10.0,True,False,True,False,False,NBA Tiers $10 Double Up,100.0,NBA,2023-03-23 23:00:00+00:00,10.0,11
 142695658,84363,50.0,True,False,True,False,False,NBA Tiers $50 Double Up,500.0,NBA,2023-03-23 23:00:00+00:00,50.0,11
 142695659,84363,100.0,True,False,True,False,False,NBA Tiers $100 Double Up,1000.0,NBA,2023-03-23 23:00:00+00:00,100.0,11
 142695660,84363,3.0,True,False,True,False,False,NBA Tiers $3 Double Up,60.0,NBA,2023-03-23 23:00:00+00:00,3.0,23
+142695661,84363,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
 142695662,84363,5.0,True,False,True,False,False,NBA Tiers $5 Double Up,100.0,NBA,2023-03-23 23:00:00+00:00,5.0,23
 142695663,84363,25.0,False,False,True,False,False,NBA Tiers $25 Triple Up [Top 3 Win $75],225.0,NBA,2023-03-23 23:00:00+00:00,25.0,10
+142695664,84363,1.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-03-23 23:00:00+00:00,1.0,31
 142695665,84363,5.0,False,False,True,False,False,NBA Tiers $5 Triple Up [Top 9 Win $15],135.0,NBA,2023-03-23 23:00:00+00:00,5.0,31
+142695666,84363,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
+142695667,84363,85.0,False,False,True,False,True,NBA Tiers $85 Winner Take All [$300 to 1st],300.0,NBA,2023-03-23 23:00:00+00:00,85.0,4
+142695668,84363,25.0,False,False,True,False,True,NBA Tiers $25 Winner Take All [$110 to 1st],110.0,NBA,2023-03-23 23:00:00+00:00,25.0,5
 142695669,84363,0.0,False,False,True,False,True,NBA Tiers Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-03-23 23:00:00+00:00,0.5,59
 142695670,84363,1.0,False,False,True,False,True,NBA Tiers Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-03-23 23:00:00+00:00,1.0,29
 142695671,84363,2.0,False,False,True,False,True,NBA Tiers Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-03-23 23:00:00+00:00,2.0,14
@@ -1195,6 +1242,8 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695688,84364,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (NYK vs ORL),60.0,NBA,2023-03-23 23:00:00+00:00,3.0,23
 142695689,84364,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (NYK vs ORL),100.0,NBA,2023-03-23 23:00:00+00:00,5.0,23
 142695690,84364,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (NYK vs ORL),100.0,NBA,2023-03-23 23:00:00+00:00,10.0,11
+142695691,84364,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (NYK vs ORL),27.0,NBA,2023-03-23 23:00:00+00:00,1.0,31
+142695692,84364,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (NYK vs ORL),20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
 142695693,84364,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (NYK vs ORL),60.0,NBA,2023-03-23 23:00:00+00:00,3.0,23
 142695694,84364,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (NYK vs ORL),100.0,NBA,2023-03-23 23:00:00+00:00,5.0,23
 142695695,84364,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (NYK vs ORL),100.0,NBA,2023-03-23 23:00:00+00:00,10.0,11
@@ -1213,9 +1262,12 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695708,84364,0.0,False,False,True,False,True,NBA Showdown Satellite to MLB 3-30 Opening Day Special (NYK vs ORL),15.0,NBA,2023-03-23 23:00:00+00:00,0.25,71
 142695709,84365,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (CLE vs BKN),500.0,NBA,2023-03-23 23:30:00+00:00,50.0,11
 142695710,84365,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (CLE vs BKN),250.0,NBA,2023-03-23 23:30:00+00:00,25.0,11
+142695711,84365,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (CLE vs BKN),20.0,NBA,2023-03-23 23:30:00+00:00,1.0,23
 142695712,84365,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (CLE vs BKN),60.0,NBA,2023-03-23 23:30:00+00:00,3.0,23
 142695713,84365,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (CLE vs BKN),100.0,NBA,2023-03-23 23:30:00+00:00,5.0,23
 142695714,84365,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (CLE vs BKN),100.0,NBA,2023-03-23 23:30:00+00:00,10.0,11
+142695715,84365,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (CLE vs BKN),27.0,NBA,2023-03-23 23:30:00+00:00,1.0,31
+142695716,84365,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (CLE vs BKN),20.0,NBA,2023-03-23 23:30:00+00:00,1.0,23
 142695717,84365,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (CLE vs BKN),60.0,NBA,2023-03-23 23:30:00+00:00,3.0,23
 142695718,84365,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (CLE vs BKN),100.0,NBA,2023-03-23 23:30:00+00:00,5.0,23
 142695719,84365,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (CLE vs BKN),100.0,NBA,2023-03-23 23:30:00+00:00,10.0,11
@@ -1234,6 +1286,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695732,84365,0.0,False,False,True,False,True,NBA Showdown Satellite to MLB 3-30 Opening Day Special (CLE vs BKN),15.0,NBA,2023-03-23 23:30:00+00:00,0.25,71
 142695733,84515,50.0,True,False,True,False,False,NBA $50 Double Up (Night),500.0,NBA,2023-03-24 00:00:00+00:00,50.0,11
 142695734,84515,25.0,True,False,True,False,False,NBA $25 Double Up (Night),250.0,NBA,2023-03-24 00:00:00+00:00,25.0,11
+142695735,84515,1.0,True,False,True,False,False,NBA $1 Double Up (Night),20.0,NBA,2023-03-24 00:00:00+00:00,1.0,23
 142695736,84515,3.0,True,False,True,False,False,NBA $3 Double Up (Night),60.0,NBA,2023-03-24 00:00:00+00:00,3.0,23
 142695737,84515,5.0,True,False,True,False,False,NBA $5 Double Up (Night),100.0,NBA,2023-03-24 00:00:00+00:00,5.0,23
 142695738,84515,10.0,True,False,True,False,False,NBA $10 Double Up (Night),100.0,NBA,2023-03-24 00:00:00+00:00,10.0,11
@@ -1304,6 +1357,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142695805,84367,1.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (OKC vs LAC),34.0,NBA,2023-03-24 02:30:00+00:00,1.0,39
 142695806,84367,250.0,True,False,True,False,False,NBA Showdown $250 Double Up (OKC vs LAC),2500.0,NBA,2023-03-24 02:30:00+00:00,250.0,11
 142695807,84367,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (OKC vs LAC),27.0,NBA,2023-03-24 02:30:00+00:00,1.0,31
+142695808,84367,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (OKC vs LAC),27.0,NBA,2023-03-24 02:30:00+00:00,1.0,31
 142695809,84367,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC vs LAC),20.0,NBA,2023-03-24 02:30:00+00:00,1.0,23
 142695810,84367,100.0,True,False,True,False,False,NBA Showdown $100 Double Up (OKC vs LAC),1000.0,NBA,2023-03-24 02:30:00+00:00,100.0,11
 142695811,84367,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (OKC vs LAC),1000.0,NBA,2023-03-24 02:30:00+00:00,50.0,22
@@ -1440,6 +1494,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142707368,84365,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (CLE vs BKN),13.5,NBA,2023-03-23 23:30:00+00:00,5.0,3
 142707369,84365,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (CLE vs BKN),13.5,NBA,2023-03-23 23:30:00+00:00,5.0,3
 142707370,84365,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (CLE vs BKN),13.5,NBA,2023-03-23 23:30:00+00:00,5.0,3
+142707374,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
 142707441,84363,1060.0,False,False,False,False,False,"NBA Tiers $1,060 3-Player",3000.0,NBA,2023-03-23 23:00:00+00:00,1060.0,3
 142707442,84363,530.0,False,False,False,False,False,NBA Tiers $530 3-Player,1500.0,NBA,2023-03-23 23:00:00+00:00,530.0,3
 142707443,84363,162.0,False,False,False,False,False,NBA Tiers $162 3-Player,450.0,NBA,2023-03-23 23:00:00+00:00,162.0,3
@@ -1469,12 +1524,15 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142708085,84514,50.0,True,False,False,False,False,NBA $50 Double Up,500.0,NBA,2023-03-23 23:00:00+00:00,50.0,11
 142708086,84514,25.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2023-03-23 23:00:00+00:00,25.0,22
 142708087,84514,50.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2023-03-23 23:00:00+00:00,50.0,22
+142708749,84514,0.0,False,False,False,False,False,NBA FREE 100-Player,0.0,NBA,2023-03-23 23:00:00+00:00,0.0,100
 142708948,84514,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2023-03-23 23:00:00+00:00,1.0,50
 142708949,84514,1.0,True,False,False,False,False,Casual NBA $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
 142709068,84363,1.0,False,False,False,False,False,Beginner NBA Tiers $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
 142709167,84514,1.0,False,False,False,False,False,NBA $1 15-Player (Top 5 Win),13.5,NBA,2023-03-23 23:00:00+00:00,1.0,15
 142709418,84363,5.0,True,False,False,False,False,Casual NBA Tiers $5 50-50,45.0,NBA,2023-03-23 23:00:00+00:00,5.0,10
+142709533,84368,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
 142709681,84363,1.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
+142709787,84514,1.0,False,False,False,False,False,NBA $1 5-Player (Top 2 Win),4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
 142709883,84365,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (CLE vs BKN),36.0,NBA,2023-03-23 23:30:00+00:00,2.0,20
 142709905,84365,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (CLE vs BKN),18.0,NBA,2023-03-23 23:30:00+00:00,2.0,10
 142709955,84365,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (CLE vs BKN),18.0,NBA,2023-03-23 23:30:00+00:00,2.0,10
@@ -1487,15 +1545,20 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142711263,84367,1060.0,False,False,True,False,True,NBA Showdown $6K All-Star [Single Entry] (OKC vs LAC),6000.0,NBA,2023-03-24 02:30:00+00:00,1060.0,6
 142711264,84367,222.0,False,False,True,False,True,NBA Showdown $15K SLAM Jam [$5K to 1st] (OKC vs LAC),15000.0,NBA,2023-03-24 02:30:00+00:00,222.0,75
 142711265,84367,15.0,False,False,True,False,True,NBA Showdown $120K Fadeaway [$30K to 1st] (OKC vs LAC),120000.0,NBA,2023-03-24 02:30:00+00:00,15.0,9411
+142711776,84514,1.0,False,False,False,False,False,NBA $1 5-Player (Winner Takes All),4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
+142711795,84514,1.0,False,False,False,False,False,NBA $1 10-Player (Winner Takes All),9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
+142711830,84368,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
 142711988,84367,1.0,False,False,False,False,False,NBA Showdown $1 35-Player (Winner Takes All) (OKC vs LAC),31.5,NBA,2023-03-24 02:30:00+00:00,1.0,35
 142711989,84367,3.0,False,False,False,False,False,NBA Showdown $3 16-Player (Winner Takes All) (OKC vs LAC),43.2,NBA,2023-03-24 02:30:00+00:00,3.0,16
 142712045,84514,1.0,False,False,False,False,False,NBA $1 35-Player (Winner Takes All),31.5,NBA,2023-03-23 23:00:00+00:00,1.0,35
 142712199,84363,1.0,False,False,False,False,False,NBA Tiers $1 12-Player (Winner Takes All),10.8,NBA,2023-03-23 23:00:00+00:00,1.0,12
+142712497,84514,3.0,False,False,False,False,False,NBA $3 10-Player (Winner Takes All) x4,27.0,NBA,2023-03-23 23:00:00+00:00,3.0,10
 142712676,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
 142712689,84368,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (OKC vs LAC),27.0,NBA,2023-03-24 02:30:00+00:00,10.0,3
 142712722,84367,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC vs LAC),100.0,NBA,2023-03-24 02:30:00+00:00,10.0,11
 142712779,84365,1.0,False,False,False,False,False,NBA Showdown $1 12-Player (Winner Takes All) (CLE vs BKN),10.8,NBA,2023-03-23 23:30:00+00:00,1.0,12
 142713093,84364,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (NYK vs ORL),5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
+142713107,84514,2.0,False,False,False,False,False,NBA $2 10-Player (Winner Takes All),18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
 142713169,84364,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (NYK vs ORL),4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
 142713205,84365,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (CLE vs BKN),4.5,NBA,2023-03-23 23:30:00+00:00,1.0,5
 142713450,84363,109.0,True,False,False,False,False,NBA Tiers $109 50-50,400.0,NBA,2023-03-23 23:00:00+00:00,109.0,4
@@ -1521,6 +1584,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142714699,84364,0.0,False,False,False,False,False,NBA Showdown FREE 200-Player (NYK vs ORL),0.0,NBA,2023-03-23 23:00:00+00:00,0.0,200
 142714745,84514,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
 142714747,84514,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
+142714774,84362,1.0,False,False,False,False,False,NBA Snake $1 6-Player,5.4,NBA,2023-03-23 23:00:00+00:00,1.0,6
 142715042,84363,1.0,False,False,False,False,False,Beginner NBA Tiers $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
 142715100,84367,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
 142715101,84368,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (OKC vs LAC),13.5,NBA,2023-03-24 02:30:00+00:00,5.0,3
@@ -1529,19 +1593,27 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142715110,84515,1.0,True,False,False,False,False,Casual NBA $1 50-50 (Night),9.0,NBA,2023-03-24 00:00:00+00:00,1.0,10
 142715141,84515,1.0,True,False,False,False,False,NBA $1 Double Up (Night),10.0,NBA,2023-03-24 00:00:00+00:00,1.0,11
 142715307,84367,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC vs LAC),100.0,NBA,2023-03-24 02:30:00+00:00,10.0,11
+142715369,84362,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2023-03-23 23:00:00+00:00,10.0,3
 142715423,84514,2.0,False,False,False,False,False,Casual NBA $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
 142715424,84367,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC vs LAC),100.0,NBA,2023-03-24 02:30:00+00:00,10.0,11
+142715451,84362,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2023-03-23 23:00:00+00:00,5.0,3
 142715452,84514,2.0,False,False,False,False,False,Casual NBA $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
+142715454,84364,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (NYK vs ORL),20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
 142715493,84364,6.0,False,False,False,False,False,NBA Showdown Satellite to MLB 3-30 Opening Day Special [Must Fill] (NYK vs ORL),15.0,NBA,2023-03-23 23:00:00+00:00,5.55,3
+142715495,84514,6.0,False,False,False,False,False,NBA Satellite to MLB 3-30 Opening Day Special [Must Fill],15.0,NBA,2023-03-23 23:00:00+00:00,5.55,3
 142715497,84514,5.0,True,False,False,False,False,Casual NBA $5 50-50,45.0,NBA,2023-03-23 23:00:00+00:00,5.0,10
 142715499,84514,1.0,True,False,False,False,False,Casual NBA $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
+142715536,84362,1.0,False,False,False,False,False,NBA Snake $1 6-Player,5.4,NBA,2023-03-23 23:00:00+00:00,1.0,6
 142715538,84514,1.0,False,False,False,False,False,NBA $1 18-Player (Top 5 Win),16.2,NBA,2023-03-23 23:00:00+00:00,1.0,18
-142715542,84514,3.0,False,False,False,False,False,NBA $3 10-Player (Winner Takes All) x4,27.0,NBA,2023-03-23 23:00:00+00:00,3.0,10
+142715551,84362,5.0,False,False,False,False,False,NBA Snake $5 6-Player,27.0,NBA,2023-03-23 23:00:00+00:00,5.0,6
+142715552,84362,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
 142715554,84365,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (CLE vs BKN),36.0,NBA,2023-03-23 23:30:00+00:00,2.0,20
 142715625,84515,1.0,False,False,False,False,False,NBA $1 5-Player (Night),4.5,NBA,2023-03-24 00:00:00+00:00,1.0,5
 142715631,84363,1.0,False,False,False,False,False,NBA Tiers $1 5-Player,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
 142715640,84515,1.0,False,False,False,False,False,NBA $1 35-Player (Winner Takes All) (Night),31.5,NBA,2023-03-24 00:00:00+00:00,1.0,35
+142715641,84368,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
 142715707,84514,1.0,True,False,False,False,False,Casual NBA $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
+142715746,84367,0.0,False,False,False,False,False,NBA Showdown FREE 5-Player (OKC vs LAC),0.0,NBA,2023-03-24 02:30:00+00:00,0.0,5
 142715764,84363,10.0,True,False,False,False,False,Casual NBA Tiers $10 50-50,90.0,NBA,2023-03-23 23:00:00+00:00,10.0,10
 142715772,84367,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC vs LAC),45.0,NBA,2023-03-24 02:30:00+00:00,5.0,10
 142715773,84367,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC vs LAC),45.0,NBA,2023-03-24 02:30:00+00:00,5.0,10
@@ -1567,6 +1639,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142715902,84365,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (CLE vs BKN),180.0,NBA,2023-03-23 23:30:00+00:00,10.0,20
 142715903,84365,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (CLE vs BKN),90.0,NBA,2023-03-23 23:30:00+00:00,10.0,10
 142715904,84365,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (CLE vs BKN),90.0,NBA,2023-03-23 23:30:00+00:00,10.0,10
+142715905,84362,5.0,False,False,False,False,False,NBA Snake $5 6-Player,27.0,NBA,2023-03-23 23:00:00+00:00,5.0,6
 142715909,84364,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (NYK vs ORL),45.0,NBA,2023-03-23 23:00:00+00:00,5.0,10
 142715912,84364,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (NYK vs ORL),90.0,NBA,2023-03-23 23:00:00+00:00,5.0,20
 142715913,84364,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (NYK vs ORL),90.0,NBA,2023-03-23 23:00:00+00:00,5.0,20
@@ -1587,6 +1660,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142715932,84367,0.0,False,False,False,False,False,NBA Showdown FREE 50-Player (OKC vs LAC),0.0,NBA,2023-03-24 02:30:00+00:00,0.0,50
 142715933,84367,0.0,False,False,False,False,False,NBA Showdown FREE 25-Player (OKC vs LAC),0.0,NBA,2023-03-24 02:30:00+00:00,0.0,25
 142715941,84515,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2023-03-24 00:00:00+00:00,1.0,3
+142715942,84362,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2023-03-23 23:00:00+00:00,10.0,3
 142715947,84515,2.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2023-03-24 00:00:00+00:00,2.0,10
 142715982,84367,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (OKC vs LAC),100.0,NBA,2023-03-24 02:30:00+00:00,10.0,11
 142715983,84367,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (OKC vs LAC),250.0,NBA,2023-03-24 02:30:00+00:00,25.0,11
@@ -1594,6 +1668,7 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142715985,84367,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (OKC vs LAC),50.0,NBA,2023-03-24 02:30:00+00:00,5.0,11
 142715986,84367,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (OKC vs LAC),500.0,NBA,2023-03-24 02:30:00+00:00,25.0,22
 142715987,84367,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (OKC vs LAC),1000.0,NBA,2023-03-24 02:30:00+00:00,50.0,22
+142716033,84362,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
 142716035,84514,3.0,True,False,False,False,False,NBA $3 Double Up,30.0,NBA,2023-03-23 23:00:00+00:00,3.0,11
 142716036,84514,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-03-23 23:00:00+00:00,2.0,20
 142716037,84514,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-03-23 23:00:00+00:00,2.0,20
@@ -1613,297 +1688,4 @@ contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_g
 142716053,84514,1.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2023-03-23 23:00:00+00:00,1.0,11
 142716203,84369,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H OKC vs LAC),180.0,NBA,2023-03-24 03:30:00+00:00,20.0,10
 142716548,84514,1.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2023-03-23 23:00:00+00:00,1.0,40
-142716576,84514,1.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2023-03-23 23:00:00+00:00,1.0,11
-142716577,84514,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142716578,84514,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142716579,84514,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142716580,84514,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142716582,84514,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142716584,84514,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2023-03-23 23:00:00+00:00,1.0,50
-142716585,84514,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142716586,84514,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2023-03-23 23:00:00+00:00,1.0,50
-142716589,84514,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2023-03-23 23:00:00+00:00,1.0,50
-142716590,84514,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142716591,84514,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142716592,84514,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142716594,84514,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-03-23 23:00:00+00:00,2.0,20
-142716595,84514,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-03-23 23:00:00+00:00,2.0,20
-142716596,84514,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-03-23 23:00:00+00:00,2.0,20
-142716597,84514,3.0,True,False,False,False,False,NBA $3 Double Up,30.0,NBA,2023-03-23 23:00:00+00:00,3.0,11
-142716600,84515,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2023-03-24 00:00:00+00:00,1.0,3
-142717024,84514,3.0,False,False,False,False,False,NBA $3 11-Player (Winner Takes All),29.7,NBA,2023-03-23 23:00:00+00:00,3.0,11
-142717025,84514,3.0,False,False,False,False,False,NBA $3 12-Player (Winner Takes All),32.4,NBA,2023-03-23 23:00:00+00:00,3.0,12
-142717026,84514,3.0,False,False,False,False,False,NBA $3 13-Player (Winner Takes All),35.1,NBA,2023-03-23 23:00:00+00:00,3.0,13
-142717027,84514,3.0,False,False,False,False,False,NBA $3 14-Player (Winner Takes All),37.8,NBA,2023-03-23 23:00:00+00:00,3.0,14
-142717028,84514,3.0,False,False,False,False,False,NBA $3 15-Player (Winner Takes All) x2,40.5,NBA,2023-03-23 23:00:00+00:00,3.0,15
-142717032,84514,3.0,False,False,False,False,False,NBA $3 17-Player (Winner Takes All),45.9,NBA,2023-03-23 23:00:00+00:00,3.0,17
-142717033,84514,3.0,False,False,False,False,False,NBA $3 20-Player (Winner Takes All),54.0,NBA,2023-03-23 23:00:00+00:00,3.0,20
-142717034,84514,2.0,False,False,False,False,False,NBA $2 11-Player (Winner Takes All),19.8,NBA,2023-03-23 23:00:00+00:00,2.0,11
-142717036,84514,2.0,False,False,False,False,False,NBA $2 12-Player (Winner Takes All),21.6,NBA,2023-03-23 23:00:00+00:00,2.0,12
-142717037,84514,2.0,False,False,False,False,False,NBA $2 13-Player (Winner Takes All),23.4,NBA,2023-03-23 23:00:00+00:00,2.0,13
-142717038,84514,2.0,False,False,False,False,False,NBA $2 14-Player (Winner Takes All),25.2,NBA,2023-03-23 23:00:00+00:00,2.0,14
-142717042,84514,2.0,False,False,False,False,False,NBA $2 15-Player (Winner Takes All),27.0,NBA,2023-03-23 23:00:00+00:00,2.0,15
-142717043,84363,2.0,False,False,False,False,False,NBA Tiers $2 20-Player,36.0,NBA,2023-03-23 23:00:00+00:00,2.0,20
-142717045,84514,2.0,False,False,False,False,False,NBA $2 18-Player (Winner Takes All),32.4,NBA,2023-03-23 23:00:00+00:00,2.0,18
-142717048,84514,1.0,False,False,False,False,False,NBA $1 35-Player (Winner Takes All),31.5,NBA,2023-03-23 23:00:00+00:00,1.0,35
-142717050,84514,1.0,False,False,False,False,False,NBA $1 30-Player (Winner Takes All),27.0,NBA,2023-03-23 23:00:00+00:00,1.0,30
-142717052,84363,2.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2023-03-23 23:00:00+00:00,2.0,20
-142717054,84514,1.0,False,False,False,False,False,NBA $1 25-Player (Winner Takes All),22.5,NBA,2023-03-23 23:00:00+00:00,1.0,25
-142717057,84514,1.0,False,False,False,False,False,NBA $1 20-Player (Winner Takes All),18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142717058,84514,5.0,False,False,False,False,False,NBA $5 11-Player (Winner Takes All),49.5,NBA,2023-03-23 23:00:00+00:00,5.0,11
-142717068,84363,1.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-03-23 23:00:00+00:00,1.0,31
-142717085,84514,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2023-03-23 23:00:00+00:00,1.0,50
-142717086,84514,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2023-03-23 23:00:00+00:00,1.0,50
-142717087,84514,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2023-03-23 23:00:00+00:00,1.0,50
-142717092,84514,1.0,False,False,False,False,False,NBA $1 10-Player (Top 3 Win) x2,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142717093,84367,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (OKC vs LAC),30.0,NBA,2023-03-24 02:30:00+00:00,3.0,11
-142717161,84514,1.0,False,False,False,False,False,NBA $1 30-Player (Winner Takes All),27.0,NBA,2023-03-23 23:00:00+00:00,1.0,30
-142717162,84514,1.0,False,False,False,False,False,NBA $1 25-Player (Top 2 Win),22.5,NBA,2023-03-23 23:00:00+00:00,1.0,25
-142717205,84364,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (NYK vs ORL),36.0,NBA,2023-03-23 23:00:00+00:00,2.0,20
-142717593,84363,85.0,False,False,True,False,True,NBA Tiers $85 Winner Take All [$300 to 1st],300.0,NBA,2023-03-23 23:00:00+00:00,85.0,4
-142717661,84364,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (NYK vs ORL),27.0,NBA,2023-03-23 23:00:00+00:00,1.0,31
-142717664,84514,0.0,False,False,True,False,True,NBA $400 Dime Time [Just $0.10!],400.0,NBA,2023-03-23 23:00:00+00:00,0.1,4756
-142717673,84368,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (OKC vs LAC),72.0,NBA,2023-03-24 02:30:00+00:00,20.0,4
-142717686,84514,2.0,False,False,False,False,False,NBA $2 5-Player (Top 2 Win),9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
-142717714,84514,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2023-03-23 23:00:00+00:00,20.0,5
-142717759,84364,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (Winner Takes All) (NYK vs ORL),2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142717854,84364,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (NYK vs ORL),20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142717922,84363,1.0,False,False,False,False,False,NBA Tiers $1 150-Player (Top 20 Win),135.0,NBA,2023-03-23 23:00:00+00:00,1.0,150
-142718027,84514,3.0,False,False,False,False,False,NBA $3 40-Player (Top 10 Win),108.0,NBA,2023-03-23 23:00:00+00:00,3.0,40
-142718046,84364,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (NYK vs ORL),1000.0,NBA,2023-03-23 23:00:00+00:00,267.0,4
-142718097,84363,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142718209,84365,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (CLE vs BKN),20.0,NBA,2023-03-23 23:30:00+00:00,1.0,23
-142718261,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142718262,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142718263,84514,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
-142718264,84514,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
-142718265,84514,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
-142718266,84514,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718267,84514,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718268,84514,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718269,84514,1.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142718270,84514,1.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142718271,84514,1.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142718272,84514,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718273,84514,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718274,84514,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718275,84514,1.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2023-03-23 23:00:00+00:00,1.0,40
-142718276,84514,1.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2023-03-23 23:00:00+00:00,1.0,40
-142718277,84514,1.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2023-03-23 23:00:00+00:00,1.0,11
-142718282,84515,2.0,True,False,False,False,False,NBA $2 50-50 (Night),36.0,NBA,2023-03-24 00:00:00+00:00,2.0,20
-142718283,84515,2.0,True,False,False,False,False,NBA $2 50-50 (Night),36.0,NBA,2023-03-24 00:00:00+00:00,2.0,20
-142718284,84515,2.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2023-03-24 00:00:00+00:00,2.0,10
-142718285,84515,2.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2023-03-24 00:00:00+00:00,2.0,10
-142718286,84515,2.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2023-03-24 00:00:00+00:00,2.0,10
-142718287,84515,1.0,True,False,False,False,False,NBA $1 50-50 (Night),18.0,NBA,2023-03-24 00:00:00+00:00,1.0,20
-142718288,84515,1.0,True,False,False,False,False,NBA $1 50-50 (Night),18.0,NBA,2023-03-24 00:00:00+00:00,1.0,20
-142718289,84515,1.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2023-03-24 00:00:00+00:00,1.0,10
-142718290,84515,1.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2023-03-24 00:00:00+00:00,1.0,10
-142718291,84515,1.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2023-03-24 00:00:00+00:00,1.0,10
-142718292,84515,2.0,False,False,False,False,False,NBA $2 20-Player (Night),36.0,NBA,2023-03-24 00:00:00+00:00,2.0,20
-142718293,84515,2.0,False,False,False,False,False,NBA $2 20-Player (Night),36.0,NBA,2023-03-24 00:00:00+00:00,2.0,20
-142718294,84515,2.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2023-03-24 00:00:00+00:00,2.0,10
-142718295,84515,2.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2023-03-24 00:00:00+00:00,2.0,10
-142718296,84515,2.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2023-03-24 00:00:00+00:00,2.0,10
-142718297,84515,2.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2023-03-24 00:00:00+00:00,2.0,5
-142718298,84515,2.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2023-03-24 00:00:00+00:00,2.0,5
-142718299,84515,2.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2023-03-24 00:00:00+00:00,2.0,5
-142718300,84515,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2023-03-24 00:00:00+00:00,2.0,3
-142718301,84515,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2023-03-24 00:00:00+00:00,2.0,3
-142718302,84515,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2023-03-24 00:00:00+00:00,2.0,3
-142718303,84515,1.0,False,False,False,False,False,NBA $1 10-Player (Night),9.0,NBA,2023-03-24 00:00:00+00:00,1.0,10
-142718304,84515,1.0,False,False,False,False,False,NBA $1 5-Player (Night),4.5,NBA,2023-03-24 00:00:00+00:00,1.0,5
-142718305,84515,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2023-03-24 00:00:00+00:00,1.0,3
-142718306,84515,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2023-03-24 00:00:00+00:00,1.0,3
-142718307,84515,1.0,True,False,False,False,False,NBA $1 Double Up (Night),10.0,NBA,2023-03-24 00:00:00+00:00,1.0,11
-142718332,84364,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (NYK vs ORL),36.0,NBA,2023-03-23 23:00:00+00:00,2.0,20
-142718333,84364,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (NYK vs ORL),18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142718334,84364,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (NYK vs ORL),18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142718335,84364,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (NYK vs ORL),18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142718336,84364,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (NYK vs ORL),18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142718337,84364,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (NYK vs ORL),18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142718338,84364,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718339,84364,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718340,84364,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718341,84364,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (NYK vs ORL),18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142718342,84364,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (NYK vs ORL),18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142718343,84364,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (NYK vs ORL),18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142718344,84364,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
-142718345,84364,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
-142718346,84364,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
-142718347,84364,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (NYK vs ORL),5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142718348,84364,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (NYK vs ORL),5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142718349,84364,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (NYK vs ORL),5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142718350,84364,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (NYK vs ORL),9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718351,84364,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (NYK vs ORL),4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
-142718352,84364,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (NYK vs ORL),2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142718353,84364,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (NYK vs ORL),2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142718354,84364,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (NYK vs ORL),10.0,NBA,2023-03-23 23:00:00+00:00,1.0,11
-142718355,84364,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (NYK vs ORL),20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142718377,84365,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (CLE vs BKN),36.0,NBA,2023-03-23 23:30:00+00:00,2.0,20
-142718378,84365,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (CLE vs BKN),36.0,NBA,2023-03-23 23:30:00+00:00,2.0,20
-142718379,84365,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (CLE vs BKN),18.0,NBA,2023-03-23 23:30:00+00:00,2.0,10
-142718380,84365,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (CLE vs BKN),18.0,NBA,2023-03-23 23:30:00+00:00,2.0,10
-142718381,84365,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (CLE vs BKN),18.0,NBA,2023-03-23 23:30:00+00:00,2.0,10
-142718382,84365,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (CLE vs BKN),18.0,NBA,2023-03-23 23:30:00+00:00,1.0,20
-142718383,84365,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (CLE vs BKN),18.0,NBA,2023-03-23 23:30:00+00:00,1.0,20
-142718384,84365,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (CLE vs BKN),9.0,NBA,2023-03-23 23:30:00+00:00,1.0,10
-142718385,84365,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (CLE vs BKN),9.0,NBA,2023-03-23 23:30:00+00:00,1.0,10
-142718386,84365,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (CLE vs BKN),9.0,NBA,2023-03-23 23:30:00+00:00,1.0,10
-142718387,84365,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (CLE vs BKN),18.0,NBA,2023-03-23 23:30:00+00:00,2.0,10
-142718388,84365,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (CLE vs BKN),18.0,NBA,2023-03-23 23:30:00+00:00,2.0,10
-142718389,84365,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (CLE vs BKN),9.0,NBA,2023-03-23 23:30:00+00:00,2.0,5
-142718390,84365,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (CLE vs BKN),9.0,NBA,2023-03-23 23:30:00+00:00,2.0,5
-142718391,84365,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (CLE vs BKN),9.0,NBA,2023-03-23 23:30:00+00:00,2.0,5
-142718392,84365,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (CLE vs BKN),5.4,NBA,2023-03-23 23:30:00+00:00,2.0,3
-142718393,84365,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (CLE vs BKN),5.4,NBA,2023-03-23 23:30:00+00:00,2.0,3
-142718394,84365,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (CLE vs BKN),5.4,NBA,2023-03-23 23:30:00+00:00,2.0,3
-142718395,84365,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (CLE vs BKN),9.0,NBA,2023-03-23 23:30:00+00:00,1.0,10
-142718396,84365,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (CLE vs BKN),4.5,NBA,2023-03-23 23:30:00+00:00,1.0,5
-142718397,84365,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (CLE vs BKN),2.7,NBA,2023-03-23 23:30:00+00:00,1.0,3
-142718398,84365,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (CLE vs BKN),2.7,NBA,2023-03-23 23:30:00+00:00,1.0,3
-142718399,84365,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (CLE vs BKN),10.0,NBA,2023-03-23 23:30:00+00:00,1.0,11
-142718415,84363,10.0,True,False,False,False,False,NBA Tiers $10 50-50,90.0,NBA,2023-03-23 23:00:00+00:00,10.0,10
-142718421,84515,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2023-03-24 00:00:00+00:00,2.0,3
-142718422,84515,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2023-03-24 00:00:00+00:00,2.0,3
-142718423,84515,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2023-03-24 00:00:00+00:00,2.0,3
-142718424,84515,1.0,False,False,False,False,False,NBA $1 5-Player (Night),4.5,NBA,2023-03-24 00:00:00+00:00,1.0,5
-142718425,84515,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2023-03-24 00:00:00+00:00,1.0,3
-142718426,84515,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2023-03-24 00:00:00+00:00,1.0,3
-142718427,84515,3.0,True,False,False,False,False,NBA $3 Double Up (Night),30.0,NBA,2023-03-24 00:00:00+00:00,3.0,11
-142718431,84367,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC vs LAC),4.5,NBA,2023-03-24 02:30:00+00:00,1.0,5
-142718434,84367,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC vs LAC),18.0,NBA,2023-03-24 02:30:00+00:00,2.0,10
-142718435,84367,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC vs LAC),18.0,NBA,2023-03-24 02:30:00+00:00,1.0,20
-142718436,84367,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC vs LAC),18.0,NBA,2023-03-24 02:30:00+00:00,1.0,20
-142718437,84367,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC vs LAC),9.0,NBA,2023-03-24 02:30:00+00:00,1.0,10
-142718438,84367,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC vs LAC),9.0,NBA,2023-03-24 02:30:00+00:00,1.0,10
-142718439,84367,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC vs LAC),9.0,NBA,2023-03-24 02:30:00+00:00,1.0,10
-142718440,84367,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC vs LAC),18.0,NBA,2023-03-24 02:30:00+00:00,2.0,10
-142718441,84367,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC vs LAC),18.0,NBA,2023-03-24 02:30:00+00:00,2.0,10
-142718442,84367,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC vs LAC),18.0,NBA,2023-03-24 02:30:00+00:00,2.0,10
-142718443,84367,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (OKC vs LAC),9.0,NBA,2023-03-24 02:30:00+00:00,2.0,5
-142718444,84367,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (OKC vs LAC),9.0,NBA,2023-03-24 02:30:00+00:00,2.0,5
-142718445,84367,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (OKC vs LAC),9.0,NBA,2023-03-24 02:30:00+00:00,2.0,5
-142718446,84367,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC vs LAC),5.4,NBA,2023-03-24 02:30:00+00:00,2.0,3
-142718447,84367,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC vs LAC),5.4,NBA,2023-03-24 02:30:00+00:00,2.0,3
-142718448,84367,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC vs LAC),5.4,NBA,2023-03-24 02:30:00+00:00,2.0,3
-142718449,84367,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (OKC vs LAC),9.0,NBA,2023-03-24 02:30:00+00:00,1.0,10
-142718450,84367,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
-142718451,84367,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
-142718452,84367,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (OKC vs LAC),10.0,NBA,2023-03-24 02:30:00+00:00,1.0,11
-142718454,84363,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
-142718455,84363,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
-142718456,84363,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
-142718457,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142718458,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142718459,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142718460,84363,1.0,False,False,False,False,False,NBA Tiers $1 10-Player,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718461,84363,1.0,False,False,False,False,False,NBA Tiers $1 5-Player,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
-142718462,84363,1.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142718463,84363,1.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142718464,84363,3.0,True,False,False,False,False,NBA Tiers $3 Double Up,30.0,NBA,2023-03-23 23:00:00+00:00,3.0,11
-142718467,84363,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142718472,84363,2.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142718473,84363,1.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142718474,84363,1.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2023-03-23 23:00:00+00:00,1.0,20
-142718475,84363,1.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718476,84363,1.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718477,84363,1.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718478,84363,2.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2023-03-23 23:00:00+00:00,2.0,10
-142718479,84363,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
-142718480,84363,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
-142718481,84363,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-03-23 23:00:00+00:00,2.0,5
-142718482,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142718483,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142718484,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142718485,84363,1.0,False,False,False,False,False,NBA Tiers $1 10-Player,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142718486,84363,1.0,False,False,False,False,False,NBA Tiers $1 5-Player,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
-142718487,84363,1.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142718488,84363,1.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142718489,84363,1.0,True,False,False,False,False,NBA Tiers $1 Double Up,10.0,NBA,2023-03-23 23:00:00+00:00,1.0,11
-142718503,84365,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (CLE vs BKN),27.0,NBA,2023-03-23 23:30:00+00:00,1.0,31
-142718525,84363,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142718554,84363,1.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-03-23 23:00:00+00:00,1.0,31
-142718766,84514,0.0,False,False,True,False,False,NBA $0.25 Winner Take All [$50 to 1st],50.0,NBA,2023-03-23 23:00:00+00:00,0.25,237
-142718814,84514,1.0,False,False,False,False,False,NBA $1 5-Player (Winner Takes All) x2,4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
-142718991,84515,1.0,True,False,True,False,False,NBA $1 Double Up (Night),20.0,NBA,2023-03-24 00:00:00+00:00,1.0,23
-142719099,84364,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (NYK vs ORL),20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142719144,84515,20.0,False,False,False,False,False,NBA $20 6-Player (Winner Takes All) (Night),108.0,NBA,2023-03-24 00:00:00+00:00,20.0,6
-142719197,84365,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (CLE vs BKN),20.0,NBA,2023-03-23 23:30:00+00:00,1.0,23
-142719202,84367,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (OKC vs LAC),27.0,NBA,2023-03-24 02:30:00+00:00,1.0,31
-142719214,84368,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
-142719221,84514,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2023-03-23 23:00:00+00:00,1.0,28
-142719250,84363,10.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2023-03-23 23:00:00+00:00,10.0,3
-142719281,84514,6.0,False,False,False,False,False,NBA Satellite to MLB 3-30 Opening Day Special [Must Fill],15.0,NBA,2023-03-23 23:00:00+00:00,5.55,3
-142719283,84363,1.0,True,False,False,False,False,NBA Tiers $1 50-50,180.0,NBA,2023-03-23 23:00:00+00:00,1.0,200
-142719331,84514,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142719425,84363,10.0,True,False,True,False,False,NBA Tiers $10 Double Up,100.0,NBA,2023-03-23 23:00:00+00:00,10.0,11
-142719430,84362,10.0,False,False,False,False,False,NBA Snake $10 6-Player,54.0,NBA,2023-03-23 23:00:00+00:00,10.0,6
-142719453,84363,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142719454,84362,50.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2023-03-23 23:00:00+00:00,50.0,3
-142719495,84367,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (OKC vs LAC),9.0,NBA,2023-03-24 02:30:00+00:00,1.0,10
-142719496,84514,1.0,False,False,False,False,False,NBA $1 5-Player (Winner Takes All),4.5,NBA,2023-03-23 23:00:00+00:00,1.0,5
-142719551,84367,1.0,False,False,False,False,False,NBA Showdown $1 6-Player (Winner Takes All) (OKC vs LAC),5.4,NBA,2023-03-24 02:30:00+00:00,1.0,6
-142719567,84515,1.0,False,False,False,False,False,NBA $1 150-Player (Top 20 Win) (Night),135.0,NBA,2023-03-24 00:00:00+00:00,1.0,150
-142719575,84514,5.0,False,False,False,False,False,NBA $5 6-Player (Top 2 Win),27.0,NBA,2023-03-23 23:00:00+00:00,5.0,6
-142719617,84367,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (OKC vs LAC),36.0,NBA,2023-03-24 02:30:00+00:00,2.0,20
-142719623,84363,1.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-03-23 23:00:00+00:00,1.0,31
-142719632,84514,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-03-23 23:00:00+00:00,1.0,31
-142719660,84363,1.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-03-23 23:00:00+00:00,1.0,31
-142719724,84365,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (CLE vs BKN),9.0,NBA,2023-03-23 23:30:00+00:00,1.0,10
-142719792,84362,10.0,False,False,False,False,False,NBA Snake $10 6-Player,54.0,NBA,2023-03-23 23:00:00+00:00,10.0,6
-142719797,84515,10.0,False,False,False,False,False,NBA $10 5-Player (Night),45.0,NBA,2023-03-24 00:00:00+00:00,10.0,5
-142719798,84514,5.0,False,False,True,False,False,NBA $5 Winner Take All [$100 to 1st],100.0,NBA,2023-03-23 23:00:00+00:00,5.0,23
-142719847,84362,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2023-03-23 23:00:00+00:00,10.0,3
-142719863,84514,33.0,False,False,True,False,True,NBA $2M MEGA Millionaire Satellite (3-29),3000.0,NBA,2023-03-23 23:00:00+00:00,33.0,106
-142719866,84514,333.0,False,False,True,False,True,NBA $2M MEGA Millionaire Satellite (3-29),3000.0,NBA,2023-03-23 23:00:00+00:00,333.0,10
-142719882,84514,1.0,False,False,False,False,False,NBA $1 10-Player (Winner Takes All),9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142719887,84362,20.0,False,False,False,False,False,NBA Snake $20 6-Player,108.0,NBA,2023-03-23 23:00:00+00:00,20.0,6
-142719901,84368,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
-142719919,84514,1.0,False,False,False,False,False,NBA $1 3-Player (Winner Takes All),2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142719920,84363,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142719933,84514,109.0,False,False,False,False,False,NBA $109 5-Player (Winner Takes All),500.0,NBA,2023-03-23 23:00:00+00:00,109.0,5
-142719940,84514,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2023-03-23 23:00:00+00:00,1.0,28
-142720051,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142720052,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142720053,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142720140,84368,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC vs LAC),2.7,NBA,2023-03-24 02:30:00+00:00,1.0,3
-142720164,84365,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (CLE vs BKN),9.0,NBA,2023-03-23 23:30:00+00:00,2.0,5
-142720286,84362,50.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2023-03-23 23:00:00+00:00,50.0,3
-142720292,84514,2.0,False,False,False,False,False,NBA $2 7-Player (Top 3 Win),12.6,NBA,2023-03-23 23:00:00+00:00,2.0,7
-142720302,84367,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC vs LAC),4.5,NBA,2023-03-24 02:30:00+00:00,1.0,5
-142720307,84514,5.0,False,False,False,False,False,NBA $5 20-Player,90.0,NBA,2023-03-23 23:00:00+00:00,5.0,20
-142720325,84514,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142720326,84514,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142720327,84514,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142720328,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142720329,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142720330,84514,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142720331,84514,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2023-03-23 23:00:00+00:00,5.0,10
-142720422,84363,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-03-23 23:00:00+00:00,2.0,3
-142720505,84368,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (OKC vs LAC),54.0,NBA,2023-03-24 02:30:00+00:00,20.0,3
-142720524,84363,25.0,True,False,False,False,False,NBA Tiers $25 Double Up,500.0,NBA,2023-03-23 23:00:00+00:00,25.0,22
-142720527,84514,1.0,False,False,True,False,False,NBA $1 Winner Take All [$100 to 1st],100.0,NBA,2023-03-23 23:00:00+00:00,1.0,118
-142720535,84362,5.0,False,False,False,False,False,NBA Snake $5 6-Player,27.0,NBA,2023-03-23 23:00:00+00:00,5.0,6
-142720538,84363,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142720573,84362,1.0,False,False,False,False,False,NBA Snake $1 6-Player,5.4,NBA,2023-03-23 23:00:00+00:00,1.0,6
-142720593,84362,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2023-03-23 23:00:00+00:00,10.0,3
-142720596,84362,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2023-03-23 23:00:00+00:00,5.0,3
-142720601,84368,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (OKC vs LAC),13.5,NBA,2023-03-24 02:30:00+00:00,5.0,3
-142720603,84365,6.0,False,False,False,False,False,NBA Showdown Satellite to MLB 3-30 Opening Day Special [Must Fill] (CLE vs BKN),15.0,NBA,2023-03-23 23:30:00+00:00,5.55,3
-142720605,84363,25.0,False,False,True,False,True,NBA Tiers $25 Winner Take All [$110 to 1st],110.0,NBA,2023-03-23 23:00:00+00:00,25.0,5
-142720606,84368,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (OKC vs LAC),3.6,NBA,2023-03-24 02:30:00+00:00,1.0,4
-142720683,84363,20.0,True,False,False,False,False,Casual NBA Tiers $20 50-50,72.0,NBA,2023-03-23 23:00:00+00:00,20.0,4
-142720693,84362,5.0,False,False,False,False,False,NBA Snake $5 6-Player,27.0,NBA,2023-03-23 23:00:00+00:00,5.0,6
-142720697,84362,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142720708,84362,20.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2023-03-23 23:00:00+00:00,20.0,3
-142720740,84362,1.0,False,False,False,False,False,NBA Snake $1 6-Player,5.4,NBA,2023-03-23 23:00:00+00:00,1.0,6
-142720747,84362,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142720792,84515,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3] (Night),27.0,NBA,2023-03-24 00:00:00+00:00,1.0,31
-142720793,84364,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (NYK vs ORL),20.0,NBA,2023-03-23 23:00:00+00:00,1.0,23
-142720798,84515,25.0,True,False,False,False,False,NBA $25 Double Up (Night),500.0,NBA,2023-03-24 00:00:00+00:00,25.0,22
-142720859,84368,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (OKC vs LAC),135.0,NBA,2023-03-24 02:30:00+00:00,50.0,3
-142720860,84362,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
-142720869,84363,1.0,True,False,False,False,False,Casual NBA Tiers $1 50-50,9.0,NBA,2023-03-23 23:00:00+00:00,1.0,10
-142720871,84362,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2023-03-23 23:00:00+00:00,5.0,3
-142720873,84514,10.0,True,False,True,False,True,NBA Single Entry $10 Double Up,3000.0,NBA,2023-03-23 23:00:00+00:00,10.0,344
+142716551,84362,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-03-23 23:00:00+00:00,1.0,3
