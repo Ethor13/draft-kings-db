@@ -66,3 +66,4 @@ if __name__ == "__main__":
         lineterminator="\n",
     )
     print("Successfully wrote flags to tmp/flags.csv")
+    exit(0)

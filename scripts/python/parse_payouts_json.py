@@ -88,3 +88,5 @@ if __name__ == "__main__":
     # remove flags.csv
     if os.path.exists(TEMP_DIR + "flags.csv"):
         os.remove(TEMP_DIR + "flags.csv")
+
+    exit(0)
