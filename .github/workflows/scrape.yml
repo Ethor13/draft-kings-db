@@ -37,6 +37,6 @@ jobs:
               run: ls -l scripts/shell/
 
             - name: Scrape Payouts
-              run: python scripts/python/get_payouts_urls.py && source scripts/shell/download_payouts.sh &> logs/payouts.log && python scripts/python/parse_payouts_json.py
+              run: python scripts/python/get_payouts_urls.py && ./scripts/shell/download_payouts.sh &> logs/payouts.log && python scripts/python/parse_payouts_json.py
 
             - uses: EndBug/add-and-commit@v8
