@@ -41,7 +41,7 @@ if __name__ == "__main__":
     ct_df = pd.read_csv(contests_path, index_col="contest_id")
 
     # Parse Downloads and Update existing CSVs
-    max_entries = pd.DataFrame([], index=ct_df.index, columns=["entry_max_per_user"])
+    max_entries = pd.DataFrame([], columns=["entry_max_per_user"])
     payouts = []
     prog = re.compile("(\d*).*")
     for fname in os.listdir(DOWNLOAD_DIR):
@@ -71,11 +71,13 @@ if __name__ == "__main__":
         max_entries.loc[contest_id, "entry_max_per_user"] = obj["contestDetail"][
             "maximumEntriesPerUser"
         ]
+    max_entries.sort_index(inplace=True)
     max_entries.to_csv(MAX_ENTRIES_DIR + f"{today}.csv")
 
     pay_cols = ["contest_id", "minPosition", "maxPosition", "payout"]
     pay_df = pd.DataFrame(payouts, columns=pay_cols)
     pay_df.set_index("contest_id", drop=True, inplace=True)
+    pay_df.sort_index(inplace=True)
     pay_df.to_csv(PAYOUTS_DIR + f"{today}.csv")
 
     # Clear downloads directory
