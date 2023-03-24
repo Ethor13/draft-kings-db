@@ -44,7 +44,7 @@ if __name__ == "__main__":
     max_entries = pd.DataFrame([], index=ct_df.index, columns=["entry_max_per_user"])
     payouts = []
     prog = re.compile("(\d*).*")
-    for fname in os.path.listdir(DOWNLOAD_DIR):
+    for fname in os.listdir(DOWNLOAD_DIR):
         contest_id = prog.match(fname).groups()[0]
         obj = json.load(open(DOWNLOAD_DIR + fname, "r"))
         for tier in obj["contestDetail"]["payoutSummary"]:
