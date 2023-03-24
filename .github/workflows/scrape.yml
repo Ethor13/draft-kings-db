@@ -30,8 +30,8 @@ jobs:
             - name: Install requirements
               run: pip install -r requirements.txt
 
-            - name: Scrape Contests
-              run: python scripts/python/scrape_contests.py
+            # - name: Scrape Contests
+            #   run: python scripts/python/scrape_contests.py
 
             - name: Scrape Payouts
               run: python scripts/python/get_payouts_urls.py && ./scripts/shell/download_payouts.sh && python scripts/python/parse_payouts_json.py

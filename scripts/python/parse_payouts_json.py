@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import os
+import re
 import sys
 import datetime
 
@@ -42,11 +43,10 @@ if __name__ == "__main__":
     # Parse Downloads and Update existing CSVs
     max_entries = pd.DataFrame([], index=ct_df.index, columns=["entry_max_per_user"])
     payouts = []
-    for contest_id in ct_df.index:
-        f = DOWNLOAD_DIR + f"{contest_id}@format=json"
-        if not os.path.exists(f):
-            continue
-        obj = json.load(open(f, "r"))
+    prog = re.compile("(\d*).*")
+    for fname in os.path.listdir(DOWNLOAD_DIR):
+        contest_id = prog.match(fname).groups()[0]
+        obj = json.load(open(DOWNLOAD_DIR + fname, "r"))
         for tier in obj["contestDetail"]["payoutSummary"]:
             try:
                 payout = [
@@ -65,7 +65,7 @@ if __name__ == "__main__":
                 ]
                 payouts.append(payout)
             except KeyError as e:
-                print(f, e, file=sys.stderr)
+                print(fname, e, file=sys.stderr)
                 exit(1)
 
         max_entries.loc[contest_id, "entry_max_per_user"] = obj["contestDetail"][
