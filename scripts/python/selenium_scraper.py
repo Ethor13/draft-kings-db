@@ -76,29 +76,26 @@ def write_cookies(driver):
 if __name__ == "__main__":
     options = Options()
 
-    # headless automation
-    # options.use_chromium = True
-    # options.add_argument("headless")
+    arguments = [
+        "--inprivate",
+        "--disable-blink-features=AutomationControlled",
+        # try to hide "Edge is being controlled by automated software pop-up"
+        "--disable-extensions",
+    ]
 
-    options.add_argument("--inprivate")
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    # try to hide "Edge is being controlled by automated software pop-up"
-    options.add_argument("--disable-extensions")
-    options.add_experimental_option("useAutomationExtension", False)
+    experimental_options = {
+        "useAutomationExtension": False,
+        # don't indicate that browser is controlled by automation, and don't log
+        "excludeSwitches": ["enable-automation", "enable-logging"],
+        # https://www.browserstack.com/docs/automate/selenium/handle-permission-pop-ups#python
+        "prefs": {"profile.default_content_setting_values.geolocation": 2},
+    }
 
-    # don't indicate that browser is controlled by automation, and don't log
-    options.add_experimental_option(
-        "excludeSwitches", ["enable-automation", "enable-logging"]
-    )
+    for argument in arguments:
+        options.add_argument(argument)
 
-    # don't close window right away. Not needed in production
-    # options.add_experimental_option("detach", True)
-
-    # https://www.browserstack.com/docs/automate/selenium/handle-permission-pop-ups#python
-    # block location pop-up
-    options.add_experimental_option(
-        "prefs", {"profile.default_content_setting_values.geolocation": 2}
-    )
+    for experimental_option, value in experimental_options.items():
+        options.add_experimental_option(experimental_option, value)
 
     driver_path = EdgeChromiumDriverManager(path=".").install()
     driver = webdriver.Edge(options=options, service=Service(driver_path))
