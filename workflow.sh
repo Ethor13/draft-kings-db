@@ -11,7 +11,7 @@ python scripts/python/parse_payouts_json.py
 
 # download standings
 python scripts/python/get_standings_urls.py && \
-python scripts/python/selenium_scraper.py && \ # get cookies for wget
+python scripts/python/selenium_scraper.py && \ 
 ./scripts/shell/download_standings.sh && \
 ./scripts/shell/format_standings.sh && \
 python scripts/python/parse_standings_csvs.py
