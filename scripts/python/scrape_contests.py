@@ -204,8 +204,8 @@ if __name__ == "__main__":
         ct_df.to_csv(f"contests/{today}.csv")
         print("Successfully wrote contests to files")
     elif dg_df is None:
-        print("No contests found")
-        exit(1)
+        print("No contests today")
+        exit(2)
 
     if dg_df is not None:
         contest_type_ids = dg_df.contest_type_id.unique()

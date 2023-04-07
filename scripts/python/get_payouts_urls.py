@@ -45,7 +45,7 @@ if __name__ == "__main__":
     contests_path = CONTESTS_DIR + f"{today}.csv"
     if not os.path.exists(contests_path):
         print("No contests from today to scrape payouts for")
-        exit(0)
+        exit(2)
 
     ct_df = pd.read_csv(contests_path, index_col="contest_id")
 

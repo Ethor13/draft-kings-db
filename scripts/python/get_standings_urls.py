@@ -27,7 +27,7 @@ if __name__ == "__main__":
 
     if two_days_ago is None:
         print("all up to date on payouts")
-        exit(0)
+        exit(2)
     else:
         print(f"Scraping {two_days_ago}")
     fname = CONTESTS_DIR + f"{two_days_ago}.csv"
@@ -54,5 +54,5 @@ if __name__ == "__main__":
         exit(0)
 
     else:
-        print("Could not find contests from two days ago", file=sys.stderr)
-        exit(1)
+        print("No contests from two days ago", file=sys.stderr)
+        exit(2)

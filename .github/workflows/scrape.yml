@@ -34,6 +34,6 @@ jobs:
               run: python scripts/python/scrape_contests.py
 
             - name: Scrape Payouts
-              run: python scripts/python/get_payouts_urls.py && ./scripts/shell/download_payouts.sh && python scripts/python/parse_payouts_json.py
+              run: if python scripts/python/get_payouts_urls.py; then ./scripts/shell/download_payouts.sh && python scripts/python/parse_payouts_json.py; fi
 
             - uses: EndBug/add-and-commit@v8
