@@ -2,29 +2,33 @@
 mkdir tmp
 
 # download contests
-if [ ! "python scripts/python/scrape_contests.py" ]
-then
+{ 
+    python scripts/python/scrape_contests.py && \
+    echo "Successfully scraped contests"
+} || {
     echo "No contests to scrape today"
-fi
+}
 
 # download payouts
-if [ ! "python scripts/python/get_payouts_urls.py" ]
-then 
-    echo "No contests to scrape today"
-else
+{
+    python scripts/python/get_payouts_urls.py && \
     ./scripts/shell/download_payouts.sh && \
-    python scripts/python/parse_payouts_json.py
-fi
+    python scripts/python/parse_payouts_json.py && \
+    echo "Successfully scraped payouts"
+} || {
+    echo "No contests to scrape today"
+}
 
 # download standings
-if [ ! "python scripts/python/get_standings_urls.py" ]
-then
-    echo "No contests from two days ago"
-else
+{
+    python scripts/python/get_standings_urls.py && \
     python scripts/python/selenium_scraper.py && \
     ./scripts/shell/download_standings.sh && \
     ./scripts/shell/format_standings.sh && \
-    python scripts/python/parse_standings_csvs.py
-fi
+    python scripts/python/parse_standings_csvs.py && \
+    echo "Successfully scraped standings"
+} || {
+    echo "No contests from two days ago"
+}
 
 rm -rf tmp
