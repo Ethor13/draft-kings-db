@@ -31,7 +31,7 @@ jobs:
               run: pip install -r requirements.txt
 
             - name: Scrape Contests
-              run: if [ ! "python scripts/python/scrape_contests.py" ]; then echo "No contests to scrape today";1
+              run: if [ ! "python scripts/python/scrape_contests.py" ]; then echo "No contests to scrape today"; fi
 
             - name: Scrape Payouts
               run: if [ ! "python scripts/python/get_payouts_urls.py" ]; then echo "No contests to scrape today"; else ./scripts/shell/download_payouts.sh && python scripts/python/parse_payouts_json.py; fi
