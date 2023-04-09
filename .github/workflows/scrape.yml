@@ -31,9 +31,9 @@ jobs:
               run: pip install -r requirements.txt
 
             - name: Scrape Contests
-              run: if [ ! "python scripts/python/scrape_contests.py" ]; then echo "No contests to scrape today"; fi
+              run: if python scripts/python/scrape_contests.py; then echo "Scraped contests successfully"; else echo "No contests to scrape today"; fi
 
             - name: Scrape Payouts
-              run: if [ ! "python scripts/python/get_payouts_urls.py" ]; then echo "No contests to scrape today"; else ./scripts/shell/download_payouts.sh && python scripts/python/parse_payouts_json.py; fi
+              run: if python scripts/python/get_payouts_urls.py; then ./scripts/shell/download_payouts.sh && python scripts/python/parse_payouts_json.py; else echo "No contests to scrape today"; fi
 
             - uses: EndBug/add-and-commit@v8
