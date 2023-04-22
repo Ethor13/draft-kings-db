@@ -46,7 +46,10 @@ if __name__ == "__main__":
     prog = re.compile("(\d*).*")
     for fname in os.listdir(DOWNLOAD_DIR):
         contest_id = prog.match(fname).groups()[0]
-        obj = json.load(open(DOWNLOAD_DIR + fname, "r"))
+        try:
+            obj = json.load(open(DOWNLOAD_DIR + fname, "r"))
+        except UnicodeDecodeError:
+            print(f"Unicode Decode Error, skipping {fname}")
         for tier in obj["contestDetail"]["payoutSummary"]:
             try:
                 payout = [
