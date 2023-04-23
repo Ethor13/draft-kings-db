@@ -41,6 +41,10 @@ if __name__ == "__main__":
             for line in reader:
                 contest_urls.append([standings_url + str(line[0])])
 
+        if os.path.exists(URL_DIR):
+            for f in os.listdir(URL_DIR):
+                os.remove(URL_DIR + f)
+            os.rmdir(URL_DIR)
         os.makedirs(URL_DIR)
 
         for i in range(math.ceil(len(contest_urls) / ROWS_PER_FILE)):
