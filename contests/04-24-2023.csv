@@ -1,0 +1,1397 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+143827489,86182,1060.0,False,False,True,False,True,NBA $10K All-Star [Single Entry],10000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,10
+143827490,86182,4.0,False,False,True,False,True,NBA $100K Four Point Play [$15K to 1st],100000.0,NBA,2023-04-24 23:30:00+00:00,4.0,29726
+143827491,86182,1.0,False,False,True,False,True,NBA $35K And-One [20 Entry Max],35000.0,NBA,2023-04-24 23:30:00+00:00,1.0,41617
+143827492,86182,5300.0,False,False,False,False,True,NBA $30K Thunderdome [Must Fill],30000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,6
+143827493,86182,200.0,False,False,True,False,True,NBA $30K Splash [3 Entry Max],30000.0,NBA,2023-04-24 23:30:00+00:00,200.0,166
+143827494,86182,2120.0,False,False,True,False,True,NBA $30K Hall of Famer [$15K to 1st],30000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,15
+143827495,86182,6.0,False,False,True,False,True,NBA $40K Jab Step [$10K to 1st],40000.0,NBA,2023-04-24 23:30:00+00:00,6.0,7843
+143827496,86182,5.0,False,False,True,False,True,NBA $22K Zone [$5K to 1st],22000.0,NBA,2023-04-24 23:30:00+00:00,5.0,5231
+143827497,86182,8.0,False,False,True,False,True,NBA $30K Excellent 8's [$10K to 1st],30000.0,NBA,2023-04-24 23:30:00+00:00,8.0,4411
+143827499,86182,88.0,False,False,True,False,True,NBA $20K Box Out [$4K to 1st],20000.0,NBA,2023-04-24 23:30:00+00:00,88.0,258
+143827500,86182,20.0,False,False,True,False,True,NBA $400K Shootaround [$100K to 1st],400000.0,NBA,2023-04-24 23:30:00+00:00,20.0,23529
+143828250,86182,3.0,False,False,True,False,False,NBA $3 Winner Take All [$100 to 1st],100.0,NBA,2023-04-24 23:30:00+00:00,3.0,39
+143828251,86182,1.0,False,False,True,False,False,NBA $1 Winner Take All [$100 to 1st],100.0,NBA,2023-04-24 23:30:00+00:00,1.0,118
+143828252,86182,0.0,False,False,True,False,True,NBA $400 Dime Time [Just $0.10!],400.0,NBA,2023-04-24 23:30:00+00:00,0.1,4756
+143828253,86182,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2023-04-24 23:30:00+00:00,1.0,28
+143828254,86182,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2023-04-24 23:30:00+00:00,1.0,28
+143828255,86182,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2023-04-24 23:30:00+00:00,1.0,28
+143828256,86182,5.0,False,False,True,False,False,NBA $5 Quintuple Up [Top 5 Win $25],125.0,NBA,2023-04-24 23:30:00+00:00,5.0,28
+143828257,86182,5.0,False,False,True,False,False,NBA $5 Quintuple Up [Top 5 Win $25],125.0,NBA,2023-04-24 23:30:00+00:00,5.0,28
+143828258,86182,10.0,False,False,True,False,False,NBA $10 Quintuple Up [Top 5 Win $50],250.0,NBA,2023-04-24 23:30:00+00:00,10.0,28
+143828259,86182,20.0,False,False,True,False,False,NBA $20 Winner Take All [$175 to 1st],175.0,NBA,2023-04-24 23:30:00+00:00,20.0,10
+143828260,86182,2.0,False,False,True,False,False,NBA $2 Winner Take All [$120 to 1st],120.0,NBA,2023-04-24 23:30:00+00:00,2.0,71
+143828261,86182,0.0,False,False,True,False,False,NBA $0.25 Winner Take All [$50 to 1st],50.0,NBA,2023-04-24 23:30:00+00:00,0.25,237
+143828262,86182,250.0,True,False,True,False,False,NBA $250 Double Up,2500.0,NBA,2023-04-24 23:30:00+00:00,250.0,11
+143828263,86182,100.0,True,False,True,False,False,NBA $100 Double Up,1000.0,NBA,2023-04-24 23:30:00+00:00,100.0,11
+143828264,86182,100.0,True,False,True,False,False,NBA $100 Double Up,2000.0,NBA,2023-04-24 23:30:00+00:00,100.0,22
+143828265,86182,50.0,True,False,True,False,False,NBA $50 Double Up,1000.0,NBA,2023-04-24 23:30:00+00:00,50.0,22
+143828266,86182,50.0,True,False,True,False,False,NBA $50 Double Up,500.0,NBA,2023-04-24 23:30:00+00:00,50.0,11
+143828267,86182,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2023-04-24 23:30:00+00:00,10.0,23
+143828268,86182,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2023-04-24 23:30:00+00:00,10.0,23
+143828269,86182,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143828270,86182,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143828271,86182,1.0,True,False,True,False,False,NBA $1 Double Up,200.0,NBA,2023-04-24 23:30:00+00:00,1.0,229
+143828272,86182,25.0,False,False,True,False,False,NBA 10x Booster [Top 3 Win $250],750.0,NBA,2023-04-24 23:30:00+00:00,25.0,35
+143828273,86182,10.0,False,False,True,False,False,NBA 10x Booster [Top 5 Win $100],500.0,NBA,2023-04-24 23:30:00+00:00,10.0,58
+143828274,86182,10.0,False,False,True,False,False,NBA 10x Booster [Top 3 Win $100],300.0,NBA,2023-04-24 23:30:00+00:00,10.0,35
+143828275,86182,5.0,False,False,True,False,False,NBA 10x Booster [Top 5 Win $50],250.0,NBA,2023-04-24 23:30:00+00:00,5.0,59
+143828276,86182,5.0,False,False,True,False,False,NBA 10x Booster [Top 3 Win $50],150.0,NBA,2023-04-24 23:30:00+00:00,5.0,35
+143828277,86182,2.0,False,False,True,False,False,NBA 10x Booster [Top 10 Win $20],200.0,NBA,2023-04-24 23:30:00+00:00,2.0,118
+143828278,86182,2.0,False,False,True,False,False,NBA 10x Booster [Top 5 Win $20],100.0,NBA,2023-04-24 23:30:00+00:00,2.0,59
+143828279,86182,2.0,False,False,True,False,False,NBA 10x Booster [Top 3 Win $20],60.0,NBA,2023-04-24 23:30:00+00:00,2.0,35
+143828280,86182,9.0,False,False,True,False,False,NBA $9 Contest,300.0,NBA,2023-04-24 23:30:00+00:00,9.0,39
+143828281,86182,5.0,False,False,True,False,False,NBA $5 Contest,200.0,NBA,2023-04-24 23:30:00+00:00,5.0,47
+143828282,86182,2.0,False,False,True,False,False,NBA $2 Contest,200.0,NBA,2023-04-24 23:30:00+00:00,2.0,118
+143828283,86182,1.0,False,False,True,False,False,NBA $1 Contest,100.0,NBA,2023-04-24 23:30:00+00:00,1.0,118
+143828284,86182,0.0,False,False,True,False,False,NBA $0.25 Contest,50.0,NBA,2023-04-24 23:30:00+00:00,0.25,237
+143828285,86182,25.0,True,False,True,False,False,NBA $25 Double Up,500.0,NBA,2023-04-24 23:30:00+00:00,25.0,22
+143828286,86182,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143828287,86182,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143828288,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828289,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828290,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828291,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828292,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828293,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828294,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828295,86182,100.0,False,False,True,False,False,NBA $100 Winner Take All [$1K to 1st],1000.0,NBA,2023-04-24 23:30:00+00:00,100.0,11
+143828296,86182,5.0,False,False,True,False,False,NBA $5 Winner Take All [$100 to 1st],100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143828297,86182,50.0,False,False,True,False,False,NBA $50 Winner Take All [$500 to 1st],500.0,NBA,2023-04-24 23:30:00+00:00,50.0,11
+143828298,86182,25.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2023-04-24 23:30:00+00:00,25.0,11
+143828299,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828300,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828301,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828302,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828303,86182,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143828304,86182,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143828305,86182,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143828306,86182,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-04-24 23:30:00+00:00,1.0,31
+143828307,86182,5.0,False,False,True,False,False,NBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2023-04-24 23:30:00+00:00,5.0,31
+143828309,86182,10.0,False,False,True,False,False,NBA $10 Triple Up [Top 9 Win $30],270.0,NBA,2023-04-24 23:30:00+00:00,10.0,31
+143828310,86182,25.0,False,False,True,False,False,NBA $25 Triple Up [Top 9 Win $75],675.0,NBA,2023-04-24 23:30:00+00:00,25.0,31
+143828311,86182,5.0,False,False,True,False,False,NBA $5 Triple Up [Top 18 Win $15],270.0,NBA,2023-04-24 23:30:00+00:00,5.0,62
+143828312,86182,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 18 Win $3],54.0,NBA,2023-04-24 23:30:00+00:00,1.0,62
+143828313,86182,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 30 Win $3],90.0,NBA,2023-04-24 23:30:00+00:00,1.0,103
+143828314,86182,267.0,False,False,True,False,True,NBA $267 Winner Take All [$1K to 1st],1000.0,NBA,2023-04-24 23:30:00+00:00,267.0,4
+143828315,86182,1.0,True,False,True,False,False,Beginner NBA $1 Double Up,34.0,NBA,2023-04-24 23:30:00+00:00,1.0,39
+143828316,86182,1.0,True,False,True,False,False,NBA $1 Double Up,54.0,NBA,2023-04-24 23:30:00+00:00,1.0,62
+143828317,86182,1.0,True,False,True,False,False,NBA $1 Double Up,54.0,NBA,2023-04-24 23:30:00+00:00,1.0,62
+143828318,86182,1.0,True,False,True,False,False,NBA $1 Double Up,54.0,NBA,2023-04-24 23:30:00+00:00,1.0,62
+143828319,86182,10.0,True,False,True,False,False,NBA $10 Double Up,540.0,NBA,2023-04-24 23:30:00+00:00,10.0,62
+143828320,86182,3.0,True,False,True,False,False,NBA $3 Double Up,162.0,NBA,2023-04-24 23:30:00+00:00,3.0,62
+143828321,86182,1.0,True,False,True,False,False,NBA $1 Double Up,108.0,NBA,2023-04-24 23:30:00+00:00,1.0,124
+143828322,86182,1.0,True,False,True,False,False,NBA $1 Double Up,108.0,NBA,2023-04-24 23:30:00+00:00,1.0,124
+143828323,86182,5.0,True,False,True,False,False,NBA $5 Double Up,270.0,NBA,2023-04-24 23:30:00+00:00,5.0,62
+143828324,86182,25.0,True,False,True,False,False,NBA $25 Double Up,850.0,NBA,2023-04-24 23:30:00+00:00,25.0,39
+143828325,86182,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2023-04-24 23:30:00+00:00,10.0,23
+143828326,86182,25.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2023-04-24 23:30:00+00:00,25.0,11
+143828327,86182,25.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2023-04-24 23:30:00+00:00,25.0,11
+143828328,86182,5.0,False,False,True,False,False,NBA $5 Triple Up [Top 6 Win $15],90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143828329,86182,50.0,False,False,True,False,False,NBA $50 Triple Up [Top 3 Win $150],450.0,NBA,2023-04-24 23:30:00+00:00,50.0,10
+143828330,86182,25.0,False,False,True,False,False,NBA $25 Triple Up [Top 6 Win $75],450.0,NBA,2023-04-24 23:30:00+00:00,25.0,20
+143828331,86182,10.0,False,False,True,False,False,NBA $10 Triple Up [Top 6 Win $30],180.0,NBA,2023-04-24 23:30:00+00:00,10.0,20
+143828332,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828333,86182,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828334,86182,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143828335,86182,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143828336,86182,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2023-04-24 23:30:00+00:00,10.0,23
+143828337,86182,5.0,True,False,True,False,False,NBA $5 Double Up,540.0,NBA,2023-04-24 23:30:00+00:00,5.0,124
+143828338,86182,10.0,True,False,True,False,True,NBA $10 Double Up,1000.0,NBA,2023-04-24 23:30:00+00:00,10.0,114
+143828339,86182,3.0,True,False,True,False,False,NBA $3 Double Up,324.0,NBA,2023-04-24 23:30:00+00:00,3.0,124
+143828340,86182,1.0,False,False,True,False,False,NBA $1 Hundo [Single Entry],90.0,NBA,2023-04-24 23:30:00+00:00,1.0,100
+143828341,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.1,297
+143828342,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.1,297
+143828343,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.1,297
+143828344,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.1,297
+143828345,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.1,297
+143828346,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.25,118
+143828347,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.25,118
+143828348,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.25,118
+143828349,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.25,118
+143828350,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.25,118
+143828351,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.5,59
+143828352,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.5,59
+143828353,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.5,59
+143828354,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.5,59
+143828355,86182,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.5,59
+143828356,86182,1.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,1.0,29
+143828357,86182,1.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,1.0,29
+143828358,86182,1.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,1.0,29
+143828359,86182,1.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,1.0,29
+143828360,86182,1.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,1.0,29
+143828361,86182,2.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,2.0,14
+143828362,86182,2.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,2.0,14
+143828363,86182,2.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,2.0,14
+143828364,86182,2.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,2.0,14
+143828365,86182,2.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,2.0,14
+143828366,86182,0.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,0.25,237
+143828367,86182,0.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,0.25,237
+143828368,86182,0.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,0.25,237
+143828369,86182,0.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,0.25,237
+143828370,86182,0.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,0.5,118
+143828371,86182,0.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,0.5,118
+143828372,86182,0.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,0.5,118
+143828373,86182,0.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,0.5,118
+143828374,86182,1.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,1.0,59
+143828375,86182,1.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,1.0,59
+143828376,86182,1.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,1.0,59
+143828377,86182,1.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,1.0,59
+143828378,86182,2.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,2.0,29
+143828379,86182,2.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,2.0,29
+143828380,86182,2.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,2.0,29
+143828381,86182,2.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,2.0,29
+143828382,86182,5.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [4x],100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143828383,86182,5.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [4x],100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143828384,86182,9.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop Ticket,555.0,NBA,2023-04-24 23:30:00+00:00,9.0,72
+143828385,86182,34.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop Ticket,555.0,NBA,2023-04-24 23:30:00+00:00,34.0,19
+143828386,86182,63.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop Ticket,555.0,NBA,2023-04-24 23:30:00+00:00,63.0,10
+143828387,86182,90.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop Ticket,555.0,NBA,2023-04-24 23:30:00+00:00,90.0,7
+143828388,86182,4.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [10x],250.0,NBA,2023-04-24 23:30:00+00:00,4.0,74
+143828389,86182,0.0,False,False,True,False,False,NBA SUPERSat to CFL $10 Return to Kickoff Special (2x) (6-8-2023),20.0,NBA,2023-04-24 23:30:00+00:00,0.25,95
+143828390,86182,0.0,False,False,True,False,False,NBA SUPERSat to CFL $10 Return to Kickoff Special (2x) (6-8-2023),20.0,NBA,2023-04-24 23:30:00+00:00,0.5,47
+143828391,86182,1.0,False,False,True,False,False,NBA SUPERSat to CFL $10 Return to Kickoff Special (2x) (6-8-2023),20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828392,86182,0.0,False,False,True,False,False,NBA Satellite to CFL $10 Return to Kickoff Special (6-8-2023),10.0,NBA,2023-04-24 23:30:00+00:00,0.25,47
+143828393,86182,0.0,False,False,True,False,False,NBA Satellite to CFL $10 Return to Kickoff Special (6-8-2023),10.0,NBA,2023-04-24 23:30:00+00:00,0.5,23
+143828394,86182,1.0,False,False,True,False,False,NBA Satellite to CFL $10 Return to Kickoff Special (6-8-2023),10.0,NBA,2023-04-24 23:30:00+00:00,1.0,11
+143828426,86182,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143828427,86182,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143828428,86182,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2023-04-24 23:30:00+00:00,109.0,4
+143828429,86182,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2023-04-24 23:30:00+00:00,109.0,4
+143828431,86182,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143828433,86182,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828434,86182,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828435,86182,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828436,86182,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828437,86182,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828438,86182,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828439,86182,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828440,86182,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828441,86182,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828443,86182,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828444,86182,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828445,86182,530.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2023-04-24 23:30:00+00:00,530.0,3
+143828446,86182,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143828447,86182,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143828448,86182,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143828449,86182,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143828450,86182,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143828451,86182,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143828452,86182,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828453,86182,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828454,86182,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828455,86182,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143828456,86182,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143828457,86182,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143828458,86182,10.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143828459,86182,10.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143828460,86182,10.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143828461,86182,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2023-04-24 23:30:00+00:00,20.0,5
+143828462,86182,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2023-04-24 23:30:00+00:00,20.0,5
+143828463,86182,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2023-04-24 23:30:00+00:00,20.0,5
+143828464,86182,109.0,False,False,False,False,False,NBA $109 5-Player,500.0,NBA,2023-04-24 23:30:00+00:00,109.0,5
+143828465,86182,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828466,86182,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828467,86182,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828468,86182,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828469,86182,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828470,86182,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828471,86182,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828472,86182,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828473,86182,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828474,86182,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828475,86182,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828476,86182,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828477,86182,10.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828478,86182,10.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828479,86182,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828480,86182,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828481,86182,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828482,86182,20.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,20.0,10
+143828483,86182,20.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,20.0,10
+143828484,86182,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143828485,86182,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143828486,86182,50.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2023-04-24 23:30:00+00:00,50.0,5
+143828487,86182,50.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2023-04-24 23:30:00+00:00,50.0,5
+143828488,86182,5300.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,4
+143828489,86182,5300.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,4
+143828490,86182,5300.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,4
+143828491,86182,1060.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,3
+143828492,86182,530.0,True,False,False,False,False,NBA $530 50-50,2000.0,NBA,2023-04-24 23:30:00+00:00,530.0,4
+143828493,86182,1060.0,True,False,False,False,False,"NBA $1,060 50-50",4000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,4
+143828494,86182,20.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2023-04-24 23:30:00+00:00,20.0,10
+143828495,86182,20.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2023-04-24 23:30:00+00:00,20.0,10
+143828496,86182,1.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143828497,86182,1.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143828498,86182,1.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143828499,86182,2.0,False,False,False,False,False,NBA $2 20 Player,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143828500,86182,2.0,False,False,False,False,False,NBA $2 20 Player,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143828501,86182,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,1.0,50
+143828502,86182,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,1.0,50
+143828503,86182,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,1.0,50
+143828504,86182,50.0,False,False,False,False,False,Beginner NBA $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143828505,86182,50.0,False,False,False,False,False,Beginner NBA $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143828506,86182,1.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143828507,86182,1.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143828508,86182,1.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143828509,86182,50.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2023-04-24 23:30:00+00:00,50.0,10
+143828510,86182,50.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2023-04-24 23:30:00+00:00,50.0,10
+143828511,86182,50.0,False,False,False,False,False,NBA $50 10-Player,450.0,NBA,2023-04-24 23:30:00+00:00,50.0,10
+143828512,86182,5300.0,True,False,False,False,False,"NBA $5,300 50-50",20000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,4
+143828513,86182,5300.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,3
+143828514,86182,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143828515,86182,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143828516,86182,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143828517,86182,5.0,False,False,False,False,False,NBA $5 20-Player,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143828518,86182,20.0,True,False,False,False,False,NBA $20 50-50,360.0,NBA,2023-04-24 23:30:00+00:00,20.0,20
+143828519,86182,20.0,False,False,False,False,False,NBA $20 20-Player,360.0,NBA,2023-04-24 23:30:00+00:00,20.0,20
+143828520,86182,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828521,86182,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828522,86182,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828523,86182,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143828524,86182,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143828525,86182,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143828526,86182,2.0,False,False,False,False,False,NBA $2 40-Player,72.0,NBA,2023-04-24 23:30:00+00:00,2.0,40
+143828527,86182,2.0,False,False,False,False,False,NBA $2 40-Player,72.0,NBA,2023-04-24 23:30:00+00:00,2.0,40
+143828528,86182,162.0,True,False,False,False,False,NBA $162 50-50,600.0,NBA,2023-04-24 23:30:00+00:00,162.0,4
+143828529,86182,162.0,False,False,False,False,False,NBA $162 5-Player,750.0,NBA,2023-04-24 23:30:00+00:00,162.0,5
+143828530,86182,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2023-04-24 23:30:00+00:00,162.0,3
+143828531,86182,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2023-04-24 23:30:00+00:00,162.0,3
+143828532,86182,10600.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,3
+143828533,86182,10.0,True,False,False,False,False,NBA $10 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,10.0,20
+143828534,86182,10.0,False,False,False,False,False,NBA $10 20-Player,180.0,NBA,2023-04-24 23:30:00+00:00,10.0,20
+143828535,86182,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143828536,86182,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143828537,86182,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143828538,86182,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828539,86182,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828540,86182,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828541,86182,1.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2023-04-24 23:30:00+00:00,1.0,40
+143828542,86182,1.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2023-04-24 23:30:00+00:00,1.0,40
+143828543,86182,50.0,True,False,False,False,False,Beginner NBA $50 50-50,450.0,NBA,2023-04-24 23:30:00+00:00,50.0,10
+143828544,86182,5.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828545,86182,5.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828546,86182,5.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828547,86182,5.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143828548,86182,5.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143828549,86182,5.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143828550,86182,5.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828551,86182,5.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828552,86182,5.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828553,86182,3.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2023-04-24 23:30:00+00:00,3.0,10
+143828554,86182,3.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2023-04-24 23:30:00+00:00,3.0,10
+143828555,86182,3.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2023-04-24 23:30:00+00:00,3.0,10
+143828556,86182,20.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,20.0,10
+143828557,86182,20.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,20.0,10
+143828558,86182,20.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,20.0,10
+143828559,86182,20.0,False,False,False,False,False,Beginner NBA $20 5-Player,90.0,NBA,2023-04-24 23:30:00+00:00,20.0,5
+143828560,86182,20.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828561,86182,20.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828562,86182,20.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828563,86182,2.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828564,86182,2.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828565,86182,2.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828566,86182,2.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828567,86182,2.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828568,86182,2.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828569,86182,10.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828570,86182,10.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828571,86182,10.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828572,86182,10.0,False,False,False,False,False,Beginner NBA $10 5-Player,45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143828573,86182,10.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828574,86182,10.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828575,86182,10.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828576,86182,1.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828577,86182,1.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828578,86182,1.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828579,86182,1.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143828580,86182,1.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143828581,86182,1.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143828582,86182,109.0,True,False,False,False,False,NBA $109 50-50,600.0,NBA,2023-04-24 23:30:00+00:00,109.0,6
+143828583,86182,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,4
+143828584,86182,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,4
+143828585,86182,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,4
+143828586,86182,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,3
+143828587,86182,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,3
+143828588,86182,2120.0,False,False,False,False,False,"NBA $2,120 5-Player",10000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,5
+143828589,86182,2120.0,False,False,False,False,False,"NBA $2,120 5-Player",10000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,5
+143828590,86182,2120.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,4
+143828591,86182,2120.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,4
+143828592,86182,50.0,True,False,False,False,False,Casual NBA $50 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143828593,86182,20.0,True,False,False,False,False,Casual NBA $20 50-50,72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143828594,86182,10.0,True,False,False,False,False,Casual NBA $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828595,86182,5.0,True,False,False,False,False,Casual NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828596,86182,3.0,True,False,False,False,False,Casual NBA $3 50-50,27.0,NBA,2023-04-24 23:30:00+00:00,3.0,10
+143828597,86182,3.0,True,False,False,False,False,Casual NBA $3 50-50,10.8,NBA,2023-04-24 23:30:00+00:00,3.0,4
+143828598,86182,1.0,True,False,False,False,False,Casual NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828599,86182,50.0,False,False,False,False,False,Casual NBA $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143828600,86182,20.0,False,False,False,False,False,Casual NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828601,86182,10.0,False,False,False,False,False,Casual NBA $10 5-Player,45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143828602,86182,10.0,False,False,False,False,False,Casual NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828603,86182,2.0,False,False,False,False,False,Casual NBA $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828604,86182,2.0,False,False,False,False,False,Casual NBA $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828605,86182,109.0,False,False,False,False,False,Casual NBA $109 5-Player,500.0,NBA,2023-04-24 23:30:00+00:00,109.0,5
+143828606,86182,10.0,True,False,False,False,False,NBA $10 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,10.0,11
+143828607,86182,25.0,True,False,False,False,False,NBA $25 Double Up,250.0,NBA,2023-04-24 23:30:00+00:00,25.0,11
+143828608,86182,50.0,True,False,False,False,False,NBA $50 Double Up,500.0,NBA,2023-04-24 23:30:00+00:00,50.0,11
+143828609,86182,5.0,True,False,False,False,False,NBA $5 Double Up,50.0,NBA,2023-04-24 23:30:00+00:00,5.0,11
+143828610,86182,3.0,True,False,False,False,False,NBA $3 Double Up,30.0,NBA,2023-04-24 23:30:00+00:00,3.0,11
+143828611,86182,1.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2023-04-24 23:30:00+00:00,1.0,11
+143828612,86182,25.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2023-04-24 23:30:00+00:00,25.0,22
+143828613,86182,50.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2023-04-24 23:30:00+00:00,50.0,22
+143828614,86182,1060.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,4
+143828615,86182,267.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2023-04-24 23:30:00+00:00,267.0,4
+143828616,86182,100.0,False,False,False,False,True,NBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2023-04-24 23:30:00+00:00,100.0,5
+143828649,86183,20.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828650,86183,20.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828651,86183,50.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143828652,86183,109.0,False,False,False,False,False,NBA Snake $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143828653,86183,530.0,False,False,False,False,False,NBA Snake $530 3-Player,1500.0,NBA,2023-04-24 23:30:00+00:00,530.0,3
+143828657,86183,20.0,False,False,False,False,False,NBA Snake $20 4-Player,72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143828658,86183,50.0,False,False,False,False,False,NBA Snake $50 4-Player,180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143828659,86183,109.0,False,False,False,False,False,NBA Snake $109 4-Player,400.0,NBA,2023-04-24 23:30:00+00:00,109.0,4
+143828660,86183,530.0,False,False,False,False,False,NBA Snake $530 4-Player,2000.0,NBA,2023-04-24 23:30:00+00:00,530.0,4
+143828661,86183,1060.0,False,False,False,False,False,"NBA Snake $1,060 3-Player",3000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,3
+143828662,86183,2120.0,False,False,False,False,False,"NBA Snake $2,120 3-Player",6000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,3
+143828717,86184,10.0,True,False,True,False,False,NBA Tiers $10 Double Up,200.0,NBA,2023-04-24 23:30:00+00:00,10.0,23
+143828718,86184,1.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-04-24 23:30:00+00:00,1.0,31
+143828719,86184,5.0,False,False,True,False,False,NBA Tiers $5 Triple Up [Top 9 Win $15],135.0,NBA,2023-04-24 23:30:00+00:00,5.0,31
+143828720,86184,10.0,False,False,True,False,False,NBA Tiers $10 Triple Up [Top 9 Win $30],270.0,NBA,2023-04-24 23:30:00+00:00,10.0,31
+143828721,86184,3.0,True,False,True,False,False,NBA Tiers $3 Double Up,60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143828722,86184,25.0,True,False,True,False,False,NBA Tiers $25 Double Up,250.0,NBA,2023-04-24 23:30:00+00:00,25.0,11
+143828723,86184,5.0,True,False,True,False,False,NBA Tiers $5 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143828724,86184,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828725,86184,10.0,True,False,True,False,False,NBA Tiers $10 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,10.0,11
+143828726,86184,50.0,True,False,True,False,False,NBA Tiers $50 Double Up,500.0,NBA,2023-04-24 23:30:00+00:00,50.0,11
+143828727,86184,100.0,True,False,True,False,False,NBA Tiers $100 Double Up,1000.0,NBA,2023-04-24 23:30:00+00:00,100.0,11
+143828728,86184,3.0,True,False,True,False,False,NBA Tiers $3 Double Up,60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143828729,86184,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828730,86184,5.0,True,False,True,False,False,NBA Tiers $5 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143828731,86184,25.0,False,False,True,False,False,NBA Tiers $25 Triple Up [Top 3 Win $75],225.0,NBA,2023-04-24 23:30:00+00:00,25.0,10
+143828732,86184,1.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-04-24 23:30:00+00:00,1.0,31
+143828733,86184,5.0,False,False,True,False,False,NBA Tiers $5 Triple Up [Top 9 Win $15],135.0,NBA,2023-04-24 23:30:00+00:00,5.0,31
+143828734,86184,1.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143828735,86184,85.0,False,False,True,False,True,NBA Tiers $85 Winner Take All [$300 to 1st],300.0,NBA,2023-04-24 23:30:00+00:00,85.0,4
+143828736,86184,25.0,False,False,True,False,True,NBA Tiers $25 Winner Take All [$110 to 1st],110.0,NBA,2023-04-24 23:30:00+00:00,25.0,5
+143828737,86184,0.0,False,False,True,False,True,NBA Tiers Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,0.5,59
+143828738,86184,1.0,False,False,True,False,True,NBA Tiers Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,1.0,29
+143828739,86184,2.0,False,False,True,False,True,NBA Tiers Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-04-24 23:30:00+00:00,2.0,14
+143828740,86184,0.0,False,False,True,False,True,NBA Tiers SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,0.25,237
+143828741,86184,2.0,False,False,True,False,True,NBA Tiers SUPERSat to $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2023-04-24 23:30:00+00:00,2.0,29
+143828781,86184,20.0,False,False,False,False,False,Beginner NBA Tiers $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828782,86184,50.0,False,False,False,False,False,Beginner NBA Tiers $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143828783,86184,10.0,False,False,False,False,False,Beginner NBA Tiers $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828784,86184,5.0,False,False,False,False,False,Beginner NBA Tiers $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828785,86184,1.0,False,False,False,False,False,Beginner NBA Tiers $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143828786,86184,5300.0,True,False,False,False,False,"NBA Tiers $5,300 50-50",20000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,4
+143828787,86184,1060.0,True,False,False,False,False,"NBA Tiers $1,060 50-50",4000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,4
+143828788,86184,530.0,True,False,False,False,False,NBA Tiers $530 50-50,2000.0,NBA,2023-04-24 23:30:00+00:00,530.0,4
+143828789,86184,162.0,True,False,False,False,False,NBA Tiers $162 50-50,600.0,NBA,2023-04-24 23:30:00+00:00,162.0,4
+143828790,86184,109.0,True,False,False,False,False,NBA Tiers $109 50-50,400.0,NBA,2023-04-24 23:30:00+00:00,109.0,4
+143828791,86184,50.0,True,False,False,False,False,NBA Tiers $50 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143828792,86184,20.0,True,False,False,False,False,NBA Tiers $20 50-50,360.0,NBA,2023-04-24 23:30:00+00:00,20.0,20
+143828793,86184,20.0,True,False,False,False,False,NBA Tiers $20 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,20.0,10
+143828794,86184,20.0,True,False,False,False,False,NBA Tiers $20 50-50,72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143828795,86184,20.0,True,False,False,False,False,NBA Tiers $20 50-50,72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143828796,86184,10.0,True,False,False,False,False,NBA Tiers $10 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,10.0,20
+143828797,86184,10.0,True,False,False,False,False,NBA Tiers $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828798,86184,10.0,True,False,False,False,False,NBA Tiers $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828799,86184,10.0,True,False,False,False,False,NBA Tiers $10 50-50,36.0,NBA,2023-04-24 23:30:00+00:00,10.0,4
+143828800,86184,10.0,True,False,False,False,False,NBA Tiers $10 50-50,36.0,NBA,2023-04-24 23:30:00+00:00,10.0,4
+143828801,86184,10.0,True,False,False,False,False,NBA Tiers $10 50-50,36.0,NBA,2023-04-24 23:30:00+00:00,10.0,4
+143828802,86184,5.0,True,False,False,False,False,NBA Tiers $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143828803,86184,5.0,True,False,False,False,False,NBA Tiers $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143828804,86184,5.0,True,False,False,False,False,NBA Tiers $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828805,86184,5.0,True,False,False,False,False,NBA Tiers $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828806,86184,5.0,True,False,False,False,False,NBA Tiers $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828807,86184,2.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143828808,86184,2.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143828809,86184,2.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828810,86184,2.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828811,86184,2.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828812,86184,1.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143828813,86184,1.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143828814,86184,1.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828815,86184,1.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828816,86184,1.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828817,86184,50.0,True,False,False,False,False,Beginner NBA Tiers $50 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143828818,86184,20.0,True,False,False,False,False,Beginner NBA Tiers $20 50-50,72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143828819,86184,10.0,True,False,False,False,False,Beginner NBA Tiers $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828820,86184,5.0,True,False,False,False,False,Beginner NBA Tiers $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828821,86184,3.0,True,False,False,False,False,Beginner NBA Tiers $3 50-50,27.0,NBA,2023-04-24 23:30:00+00:00,3.0,10
+143828822,86184,1.0,True,False,False,False,False,Beginner NBA Tiers $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828823,86184,10.0,False,False,False,False,False,Beginner NBA Tiers $10 5-Player,45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143828824,86184,5.0,False,False,False,False,False,Beginner NBA Tiers $5 5-Player,22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143828825,86184,5.0,False,False,False,False,False,Beginner NBA Tiers $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828826,86184,2.0,False,False,False,False,False,Beginner NBA Tiers $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828827,86184,2.0,False,False,False,False,False,Beginner NBA Tiers $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828828,86184,1.0,False,False,False,False,False,Beginner NBA Tiers $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143828829,86184,10600.0,False,False,False,False,False,"NBA Tiers $10,600 3-Player",30000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,3
+143828830,86184,5300.0,False,False,False,False,False,"NBA Tiers $5,300 3-Player",15000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,3
+143828831,86184,1060.0,False,False,False,False,False,"NBA Tiers $1,060 3-Player",3000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,3
+143828832,86184,530.0,False,False,False,False,False,NBA Tiers $530 3-Player,1500.0,NBA,2023-04-24 23:30:00+00:00,530.0,3
+143828833,86184,162.0,False,False,False,False,False,NBA Tiers $162 3-Player,450.0,NBA,2023-04-24 23:30:00+00:00,162.0,3
+143828834,86184,109.0,False,False,False,False,False,NBA Tiers $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143828835,86184,109.0,False,False,False,False,False,NBA Tiers $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143828836,86184,50.0,False,False,False,False,False,NBA Tiers $50 5-Player,225.0,NBA,2023-04-24 23:30:00+00:00,50.0,5
+143828837,86184,50.0,False,False,False,False,False,NBA Tiers $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143828838,86184,20.0,False,False,False,False,False,NBA Tiers $20 5-Player,90.0,NBA,2023-04-24 23:30:00+00:00,20.0,5
+143828839,86184,20.0,False,False,False,False,False,NBA Tiers $20 5-Player,90.0,NBA,2023-04-24 23:30:00+00:00,20.0,5
+143828840,86184,20.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828841,86184,20.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828842,86184,20.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828843,86184,10.0,False,False,False,False,False,NBA Tiers $10 10-Player,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828844,86184,10.0,False,False,False,False,False,NBA Tiers $10 5-Player,45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143828845,86184,10.0,False,False,False,False,False,NBA Tiers $10 5-Player,45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143828846,86184,10.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828847,86184,10.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828848,86184,10.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828849,86184,5.0,False,False,False,False,False,NBA Tiers $5 10-Player,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828850,86184,5.0,False,False,False,False,False,NBA Tiers $5 10-Player,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828851,86184,5.0,False,False,False,False,False,NBA Tiers $5 5-Player,22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143828852,86184,5.0,False,False,False,False,False,NBA Tiers $5 5-Player,22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143828853,86184,5.0,False,False,False,False,False,NBA Tiers $5 5-Player,22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143828854,86184,5.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828855,86184,5.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828856,86184,5.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143828857,86184,2.0,False,False,False,False,False,NBA Tiers $2 20-Player,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143828858,86184,2.0,False,False,False,False,False,NBA Tiers $2 20-Player,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143828859,86184,2.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828860,86184,2.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828861,86184,2.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143828862,86184,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828863,86184,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828864,86184,2.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828865,86184,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828866,86184,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828867,86184,2.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828868,86184,1.0,False,False,False,False,False,NBA Tiers $1 10-Player,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828869,86184,1.0,False,False,False,False,False,NBA Tiers $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143828870,86184,1.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143828871,86184,1.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143828872,86184,109.0,True,False,False,False,False,NBA Tiers $109 50-50,600.0,NBA,2023-04-24 23:30:00+00:00,109.0,6
+143828873,86184,10600.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,4
+143828874,86184,10600.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,4
+143828875,86184,10600.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,4
+143828876,86184,50.0,True,False,False,False,False,Casual NBA Tiers $50 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143828877,86184,20.0,True,False,False,False,False,Casual NBA Tiers $20 50-50,72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143828878,86184,10.0,True,False,False,False,False,Casual NBA Tiers $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143828879,86184,5.0,True,False,False,False,False,Casual NBA Tiers $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143828880,86184,3.0,True,False,False,False,False,Casual NBA Tiers $3 50-50,27.0,NBA,2023-04-24 23:30:00+00:00,3.0,10
+143828881,86184,3.0,True,False,False,False,False,Casual NBA Tiers $3 50-50,10.8,NBA,2023-04-24 23:30:00+00:00,3.0,4
+143828882,86184,1.0,True,False,False,False,False,Casual NBA Tiers $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143828883,86184,50.0,False,False,False,False,False,Casual NBA Tiers $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143828884,86184,20.0,False,False,False,False,False,Casual NBA Tiers $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143828885,86184,10.0,False,False,False,False,False,Casual NBA Tiers $10 5-Player,45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143828886,86184,10.0,False,False,False,False,False,Casual NBA Tiers $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143828887,86184,2.0,False,False,False,False,False,Casual NBA Tiers $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143828888,86184,2.0,False,False,False,False,False,Casual NBA Tiers $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143828889,86184,109.0,False,False,False,False,False,Casual NBA Tiers $109 5-Player,500.0,NBA,2023-04-24 23:30:00+00:00,109.0,5
+143828890,86184,10.0,True,False,False,False,False,NBA Tiers $10 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,10.0,11
+143828891,86184,25.0,True,False,False,False,False,NBA Tiers $25 Double Up,250.0,NBA,2023-04-24 23:30:00+00:00,25.0,11
+143828892,86184,50.0,True,False,False,False,False,NBA Tiers $50 Double Up,500.0,NBA,2023-04-24 23:30:00+00:00,50.0,11
+143828893,86184,5.0,True,False,False,False,False,NBA Tiers $5 Double Up,50.0,NBA,2023-04-24 23:30:00+00:00,5.0,11
+143828894,86184,3.0,True,False,False,False,False,NBA Tiers $3 Double Up,30.0,NBA,2023-04-24 23:30:00+00:00,3.0,11
+143828895,86184,1.0,True,False,False,False,False,NBA Tiers $1 Double Up,10.0,NBA,2023-04-24 23:30:00+00:00,1.0,11
+143828896,86184,25.0,True,False,False,False,False,NBA Tiers $25 Double Up,500.0,NBA,2023-04-24 23:30:00+00:00,25.0,22
+143828897,86184,50.0,True,False,False,False,False,NBA Tiers $50 Double Up,1000.0,NBA,2023-04-24 23:30:00+00:00,50.0,22
+143828898,86184,1060.0,False,False,False,False,True,NBA Tiers $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,4
+143828899,86184,267.0,False,False,False,False,True,NBA Tiers $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2023-04-24 23:30:00+00:00,267.0,4
+143828900,86184,408.0,False,False,False,False,True,"NBA Tiers $408 Winner Take All [$1.5K to 1st, Must Fill]",1500.0,NBA,2023-04-24 23:30:00+00:00,408.0,4
+143828901,86187,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143828902,86187,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (MEM vs LAL),135.0,NBA,2023-04-25 02:00:00+00:00,50.0,3
+143828903,86187,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143828904,86187,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143828905,86187,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (MEM vs LAL),2.7,NBA,2023-04-25 02:00:00+00:00,1.0,3
+143828906,86187,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (MEM vs LAL)",20000.0,NBA,2023-04-25 02:00:00+00:00,5300.0,4
+143828907,86187,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (MEM vs LAL)",4000.0,NBA,2023-04-25 02:00:00+00:00,1060.0,4
+143828908,86187,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (MEM vs LAL),2000.0,NBA,2023-04-25 02:00:00+00:00,530.0,4
+143828909,86187,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (MEM vs LAL),600.0,NBA,2023-04-25 02:00:00+00:00,162.0,4
+143828910,86187,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (MEM vs LAL),400.0,NBA,2023-04-25 02:00:00+00:00,109.0,4
+143828911,86187,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (MEM vs LAL),180.0,NBA,2023-04-25 02:00:00+00:00,50.0,4
+143828912,86187,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MEM vs LAL),360.0,NBA,2023-04-25 02:00:00+00:00,20.0,20
+143828913,86187,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MEM vs LAL),180.0,NBA,2023-04-25 02:00:00+00:00,20.0,10
+143828914,86187,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MEM vs LAL),72.0,NBA,2023-04-25 02:00:00+00:00,20.0,4
+143828915,86187,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MEM vs LAL),72.0,NBA,2023-04-25 02:00:00+00:00,20.0,4
+143828916,86187,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MEM vs LAL),180.0,NBA,2023-04-25 02:00:00+00:00,10.0,20
+143828917,86187,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,10.0,10
+143828918,86187,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,10.0,10
+143828919,86187,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MEM vs LAL),36.0,NBA,2023-04-25 02:00:00+00:00,10.0,4
+143828920,86187,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MEM vs LAL),36.0,NBA,2023-04-25 02:00:00+00:00,10.0,4
+143828921,86187,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MEM vs LAL),36.0,NBA,2023-04-25 02:00:00+00:00,10.0,4
+143828922,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,5.0,20
+143828923,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,5.0,20
+143828924,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143828925,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143828926,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143828927,86187,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MEM vs LAL),36.0,NBA,2023-04-25 02:00:00+00:00,2.0,20
+143828928,86187,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MEM vs LAL),36.0,NBA,2023-04-25 02:00:00+00:00,2.0,20
+143828929,86187,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,2.0,10
+143828930,86187,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,2.0,10
+143828931,86187,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,2.0,10
+143828932,86187,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,1.0,20
+143828933,86187,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,1.0,20
+143828934,86187,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,1.0,10
+143828935,86187,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,1.0,10
+143828936,86187,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,1.0,10
+143828937,86187,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (MEM vs LAL),180.0,NBA,2023-04-25 02:00:00+00:00,50.0,4
+143828938,86187,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (MEM vs LAL),72.0,NBA,2023-04-25 02:00:00+00:00,20.0,4
+143828939,86187,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,10.0,10
+143828940,86187,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143828941,86187,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,3.0,10
+143828942,86187,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,1.0,10
+143828943,86187,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,10.0,5
+143828944,86187,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (MEM vs LAL),22.5,NBA,2023-04-25 02:00:00+00:00,5.0,5
+143828945,86187,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143828946,86187,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,2.0,5
+143828947,86187,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (MEM vs LAL),5.4,NBA,2023-04-25 02:00:00+00:00,2.0,3
+143828948,86187,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (MEM vs LAL),4.5,NBA,2023-04-25 02:00:00+00:00,1.0,5
+143828949,86187,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (MEM vs LAL)",30000.0,NBA,2023-04-25 02:00:00+00:00,10600.0,3
+143828950,86187,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MEM vs LAL)",15000.0,NBA,2023-04-25 02:00:00+00:00,5300.0,3
+143828951,86187,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MEM vs LAL)",3000.0,NBA,2023-04-25 02:00:00+00:00,1060.0,3
+143828952,86187,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (MEM vs LAL),1500.0,NBA,2023-04-25 02:00:00+00:00,530.0,3
+143828953,86187,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (MEM vs LAL),450.0,NBA,2023-04-25 02:00:00+00:00,162.0,3
+143828954,86187,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MEM vs LAL),300.0,NBA,2023-04-25 02:00:00+00:00,109.0,3
+143828955,86187,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MEM vs LAL),300.0,NBA,2023-04-25 02:00:00+00:00,109.0,3
+143828956,86187,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (MEM vs LAL),225.0,NBA,2023-04-25 02:00:00+00:00,50.0,5
+143828957,86187,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (MEM vs LAL),135.0,NBA,2023-04-25 02:00:00+00:00,50.0,3
+143828958,86187,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,20.0,5
+143828959,86187,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,20.0,5
+143828960,86187,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143828961,86187,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143828962,86187,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143828963,86187,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,10.0,10
+143828964,86187,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,10.0,5
+143828965,86187,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,10.0,5
+143828967,86187,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143828968,86187,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143828969,86187,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143828970,86187,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143828971,86187,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (MEM vs LAL),22.5,NBA,2023-04-25 02:00:00+00:00,5.0,5
+143828972,86187,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (MEM vs LAL),22.5,NBA,2023-04-25 02:00:00+00:00,5.0,5
+143828973,86187,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (MEM vs LAL),22.5,NBA,2023-04-25 02:00:00+00:00,5.0,5
+143828974,86187,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143828975,86187,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143828976,86187,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143828977,86187,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (MEM vs LAL),36.0,NBA,2023-04-25 02:00:00+00:00,2.0,20
+143828978,86187,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (MEM vs LAL),36.0,NBA,2023-04-25 02:00:00+00:00,2.0,20
+143828979,86187,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,2.0,10
+143828980,86187,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,2.0,10
+143828981,86187,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,2.0,10
+143828982,86187,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,2.0,5
+143828983,86187,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,2.0,5
+143828984,86187,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,2.0,5
+143828985,86187,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (MEM vs LAL),5.4,NBA,2023-04-25 02:00:00+00:00,2.0,3
+143828986,86187,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (MEM vs LAL),5.4,NBA,2023-04-25 02:00:00+00:00,2.0,3
+143828987,86187,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (MEM vs LAL),5.4,NBA,2023-04-25 02:00:00+00:00,2.0,3
+143828988,86187,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,1.0,10
+143828989,86187,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (MEM vs LAL),4.5,NBA,2023-04-25 02:00:00+00:00,1.0,5
+143828990,86187,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (MEM vs LAL),2.7,NBA,2023-04-25 02:00:00+00:00,1.0,3
+143828991,86187,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (MEM vs LAL),2.7,NBA,2023-04-25 02:00:00+00:00,1.0,3
+143828992,86187,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (MEM vs LAL),600.0,NBA,2023-04-25 02:00:00+00:00,109.0,6
+143828993,86187,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MEM vs LAL)",40000.0,NBA,2023-04-25 02:00:00+00:00,10600.0,4
+143828994,86187,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MEM vs LAL)",40000.0,NBA,2023-04-25 02:00:00+00:00,10600.0,4
+143828995,86187,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MEM vs LAL)",40000.0,NBA,2023-04-25 02:00:00+00:00,10600.0,4
+143828996,86187,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (MEM vs LAL),180.0,NBA,2023-04-25 02:00:00+00:00,50.0,4
+143828997,86187,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (MEM vs LAL),72.0,NBA,2023-04-25 02:00:00+00:00,20.0,4
+143828998,86187,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,10.0,10
+143828999,86187,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143829000,86187,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,3.0,10
+143829001,86187,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MEM vs LAL),10.8,NBA,2023-04-25 02:00:00+00:00,3.0,4
+143829002,86187,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,1.0,10
+143829003,86187,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (MEM vs LAL),135.0,NBA,2023-04-25 02:00:00+00:00,50.0,3
+143829004,86187,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143829005,86187,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,10.0,5
+143829006,86187,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143829007,86187,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (MEM vs LAL),9.0,NBA,2023-04-25 02:00:00+00:00,2.0,5
+143829008,86187,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (MEM vs LAL),5.4,NBA,2023-04-25 02:00:00+00:00,2.0,3
+143829009,86187,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (MEM vs LAL),500.0,NBA,2023-04-25 02:00:00+00:00,109.0,5
+143829010,86187,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,10.0,11
+143829011,86187,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (MEM vs LAL),250.0,NBA,2023-04-25 02:00:00+00:00,25.0,11
+143829012,86187,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (MEM vs LAL),500.0,NBA,2023-04-25 02:00:00+00:00,50.0,11
+143829013,86187,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (MEM vs LAL),50.0,NBA,2023-04-25 02:00:00+00:00,5.0,11
+143829014,86187,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (MEM vs LAL),30.0,NBA,2023-04-25 02:00:00+00:00,3.0,11
+143829015,86187,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (MEM vs LAL),10.0,NBA,2023-04-25 02:00:00+00:00,1.0,11
+143829016,86187,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (MEM vs LAL),500.0,NBA,2023-04-25 02:00:00+00:00,25.0,22
+143829017,86187,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (MEM vs LAL),1000.0,NBA,2023-04-25 02:00:00+00:00,50.0,22
+143829018,86187,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (MEM vs LAL),4000.0,NBA,2023-04-25 02:00:00+00:00,1060.0,4
+143829020,86187,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (MEM vs LAL)",1500.0,NBA,2023-04-25 02:00:00+00:00,408.0,4
+143829035,86185,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143829036,86185,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (MIL vs MIA),135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143829037,86185,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143829038,86185,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143829039,86185,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (MIL vs MIA),2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143829040,86185,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (MIL vs MIA)",20000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,4
+143829041,86185,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (MIL vs MIA)",4000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,4
+143829042,86185,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (MIL vs MIA),2000.0,NBA,2023-04-24 23:30:00+00:00,530.0,4
+143829043,86185,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (MIL vs MIA),600.0,NBA,2023-04-24 23:30:00+00:00,162.0,4
+143829044,86185,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIL vs MIA),400.0,NBA,2023-04-24 23:30:00+00:00,109.0,4
+143829045,86185,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (MIL vs MIA),180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143829046,86185,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIL vs MIA),360.0,NBA,2023-04-24 23:30:00+00:00,20.0,20
+143829047,86185,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIL vs MIA),180.0,NBA,2023-04-24 23:30:00+00:00,20.0,10
+143829048,86185,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIL vs MIA),72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143829049,86185,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIL vs MIA),72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143829050,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),180.0,NBA,2023-04-24 23:30:00+00:00,10.0,20
+143829051,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143829052,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143829053,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),36.0,NBA,2023-04-24 23:30:00+00:00,10.0,4
+143829054,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),36.0,NBA,2023-04-24 23:30:00+00:00,10.0,4
+143829055,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),36.0,NBA,2023-04-24 23:30:00+00:00,10.0,4
+143829056,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143829057,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143829058,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143829059,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143829060,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143829061,86185,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIL vs MIA),36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143829062,86185,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIL vs MIA),36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143829063,86185,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143829064,86185,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143829065,86185,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143829066,86185,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143829067,86185,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143829068,86185,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143829069,86185,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143829070,86185,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143829071,86185,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (MIL vs MIA),180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143829072,86185,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (MIL vs MIA),72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143829073,86185,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143829074,86185,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143829075,86185,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,3.0,10
+143829076,86185,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143829077,86185,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143829078,86185,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (MIL vs MIA),22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143829079,86185,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143829080,86185,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143829081,86185,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (MIL vs MIA),5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143829082,86185,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (MIL vs MIA),4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143829083,86185,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (MIL vs MIA)",30000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,3
+143829084,86185,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MIL vs MIA)",15000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,3
+143829085,86185,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MIL vs MIA)",3000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,3
+143829086,86185,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (MIL vs MIA),1500.0,NBA,2023-04-24 23:30:00+00:00,530.0,3
+143829087,86185,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIL vs MIA),450.0,NBA,2023-04-24 23:30:00+00:00,162.0,3
+143829088,86185,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIL vs MIA),300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143829089,86185,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIL vs MIA),300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143829090,86185,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (MIL vs MIA),225.0,NBA,2023-04-24 23:30:00+00:00,50.0,5
+143829091,86185,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIL vs MIA),135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143829092,86185,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,20.0,5
+143829093,86185,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,20.0,5
+143829094,86185,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143829095,86185,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143829096,86185,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143829097,86185,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143829098,86185,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143829099,86185,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143829101,86185,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143829102,86185,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143829103,86185,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143829104,86185,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143829105,86185,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIL vs MIA),22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143829106,86185,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIL vs MIA),22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143829107,86185,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIL vs MIA),22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143829108,86185,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143829110,86185,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143829111,86185,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (MIL vs MIA),36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143829112,86185,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (MIL vs MIA),36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143829113,86185,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143829114,86185,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143829115,86185,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143829116,86185,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143829117,86185,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143829118,86185,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143829119,86185,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIL vs MIA),5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143829120,86185,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIL vs MIA),5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143829121,86185,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIL vs MIA),5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143829122,86185,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143829123,86185,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (MIL vs MIA),4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143829124,86185,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIL vs MIA),2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143829125,86185,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIL vs MIA),2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143829126,86185,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIL vs MIA),600.0,NBA,2023-04-24 23:30:00+00:00,109.0,6
+143829127,86185,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIL vs MIA)",40000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,4
+143829128,86185,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIL vs MIA)",40000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,4
+143829129,86185,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIL vs MIA)",40000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,4
+143829130,86185,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (MIL vs MIA),180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143829131,86185,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (MIL vs MIA),72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143829132,86185,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143829133,86185,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143829134,86185,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,3.0,10
+143829135,86185,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIL vs MIA),10.8,NBA,2023-04-24 23:30:00+00:00,3.0,4
+143829136,86185,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143829137,86185,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (MIL vs MIA),135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143829138,86185,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143829139,86185,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,10.0,5
+143829140,86185,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143829141,86185,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143829142,86185,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (MIL vs MIA),5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143829143,86185,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (MIL vs MIA),500.0,NBA,2023-04-24 23:30:00+00:00,109.0,5
+143829144,86185,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (MIL vs MIA),100.0,NBA,2023-04-24 23:30:00+00:00,10.0,11
+143829145,86185,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIL vs MIA),250.0,NBA,2023-04-24 23:30:00+00:00,25.0,11
+143829146,86185,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIL vs MIA),500.0,NBA,2023-04-24 23:30:00+00:00,50.0,11
+143829147,86185,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (MIL vs MIA),50.0,NBA,2023-04-24 23:30:00+00:00,5.0,11
+143829148,86185,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (MIL vs MIA),30.0,NBA,2023-04-24 23:30:00+00:00,3.0,11
+143829149,86185,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (MIL vs MIA),10.0,NBA,2023-04-24 23:30:00+00:00,1.0,11
+143829150,86185,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIL vs MIA),500.0,NBA,2023-04-24 23:30:00+00:00,25.0,22
+143829151,86185,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIL vs MIA),1000.0,NBA,2023-04-24 23:30:00+00:00,50.0,22
+143829152,86185,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (MIL vs MIA),4000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,4
+143829154,86185,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (MIL vs MIA)",1500.0,NBA,2023-04-24 23:30:00+00:00,408.0,4
+143829176,86185,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (MIL vs MIA),500.0,NBA,2023-04-24 23:30:00+00:00,50.0,11
+143829177,86185,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIL vs MIA),250.0,NBA,2023-04-24 23:30:00+00:00,25.0,11
+143829178,86185,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIL vs MIA),20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143829179,86185,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIL vs MIA),60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143829180,86185,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIL vs MIA),100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143829181,86185,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIL vs MIA),100.0,NBA,2023-04-24 23:30:00+00:00,10.0,11
+143829182,86185,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,1.0,31
+143829183,86185,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIL vs MIA),20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143829185,86185,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIL vs MIA),100.0,NBA,2023-04-24 23:30:00+00:00,5.0,23
+143829186,86185,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIL vs MIA),100.0,NBA,2023-04-24 23:30:00+00:00,10.0,11
+143829187,86185,85.0,False,False,True,False,True,NBA Showdown $85 Winner Take All [$300 to 1st] (MIL vs MIA),300.0,NBA,2023-04-24 23:30:00+00:00,85.0,4
+143829188,86185,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MIL vs MIA),25.0,NBA,2023-04-24 23:30:00+00:00,0.1,297
+143829189,86185,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MIL vs MIA),25.0,NBA,2023-04-24 23:30:00+00:00,0.1,297
+143829190,86185,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MIL vs MIA),25.0,NBA,2023-04-24 23:30:00+00:00,0.5,59
+143829191,86185,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MIL vs MIA),25.0,NBA,2023-04-24 23:30:00+00:00,0.5,59
+143829192,86185,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MIL vs MIA),25.0,NBA,2023-04-24 23:30:00+00:00,1.0,29
+143829193,86185,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MIL vs MIA),25.0,NBA,2023-04-24 23:30:00+00:00,1.0,29
+143829194,86185,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MIL vs MIA),25.0,NBA,2023-04-24 23:30:00+00:00,2.0,14
+143829195,86185,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MIL vs MIA),25.0,NBA,2023-04-24 23:30:00+00:00,2.0,14
+143829196,86185,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (MIL vs MIA),50.0,NBA,2023-04-24 23:30:00+00:00,0.5,118
+143829197,86185,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (MIL vs MIA),50.0,NBA,2023-04-24 23:30:00+00:00,0.5,118
+143829198,86185,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (MIL vs MIA),50.0,NBA,2023-04-24 23:30:00+00:00,2.0,29
+143829199,86185,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (MIL vs MIA),50.0,NBA,2023-04-24 23:30:00+00:00,2.0,29
+143829200,86185,2.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (MIL vs MIA),20.0,NBA,2023-04-24 23:30:00+00:00,2.0,11
+143829201,86185,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (MIL vs MIA),20.0,NBA,2023-04-24 23:30:00+00:00,0.25,95
+143829202,86185,1.0,False,False,True,False,False,NBA Showdown SUPERSat to CFL $10 Return to Kickoff Special (2x) (6-8-2023) (MIL vs MIA),20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143829203,86185,0.0,False,False,True,False,False,NBA Showdown Satellite to CFL $10 Return to Kickoff Special (6-8-2023) (MIL vs MIA),10.0,NBA,2023-04-24 23:30:00+00:00,0.5,23
+143829237,86186,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143829238,86186,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143829239,86186,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143829240,86186,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (MIL vs MIA),300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143829241,86186,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (MIL vs MIA),1500.0,NBA,2023-04-24 23:30:00+00:00,530.0,3
+143829242,86186,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (MIL vs MIA),3.6,NBA,2023-04-24 23:30:00+00:00,1.0,4
+143829243,86186,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,5.0,4
+143829244,86186,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (MIL vs MIA),36.0,NBA,2023-04-24 23:30:00+00:00,10.0,4
+143829245,86186,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (MIL vs MIA),72.0,NBA,2023-04-24 23:30:00+00:00,20.0,4
+143829246,86186,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (MIL vs MIA),180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143829247,86186,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (MIL vs MIA),400.0,NBA,2023-04-24 23:30:00+00:00,109.0,4
+143829248,86186,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (MIL vs MIA),2000.0,NBA,2023-04-24 23:30:00+00:00,530.0,4
+143829249,86186,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (MIL vs MIA),135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143829250,86186,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (MIL vs MIA)",3000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,3
+143829251,86186,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (MIL vs MIA)",6000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,3
+143829257,86188,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143829258,86188,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143829260,86188,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143829261,86188,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (MEM vs LAL),300.0,NBA,2023-04-25 02:00:00+00:00,109.0,3
+143829262,86188,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (MEM vs LAL),1500.0,NBA,2023-04-25 02:00:00+00:00,530.0,3
+143829263,86188,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (MEM vs LAL),3.6,NBA,2023-04-25 02:00:00+00:00,1.0,4
+143829264,86188,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,5.0,4
+143829265,86188,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (MEM vs LAL),36.0,NBA,2023-04-25 02:00:00+00:00,10.0,4
+143829266,86188,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (MEM vs LAL),72.0,NBA,2023-04-25 02:00:00+00:00,20.0,4
+143829267,86188,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (MEM vs LAL),180.0,NBA,2023-04-25 02:00:00+00:00,50.0,4
+143829268,86188,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (MEM vs LAL),400.0,NBA,2023-04-25 02:00:00+00:00,109.0,4
+143829269,86188,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (MEM vs LAL),2000.0,NBA,2023-04-25 02:00:00+00:00,530.0,4
+143829270,86188,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (MEM vs LAL),135.0,NBA,2023-04-25 02:00:00+00:00,50.0,3
+143829271,86188,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (MEM vs LAL)",3000.0,NBA,2023-04-25 02:00:00+00:00,1060.0,3
+143829272,86188,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (MEM vs LAL)",6000.0,NBA,2023-04-25 02:00:00+00:00,2120.0,3
+143829277,86187,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MEM vs LAL),200.0,NBA,2023-04-25 02:00:00+00:00,10.0,23
+143829278,86187,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (MEM vs LAL),500.0,NBA,2023-04-25 02:00:00+00:00,50.0,11
+143829279,86187,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (MEM vs LAL),500.0,NBA,2023-04-25 02:00:00+00:00,50.0,11
+143829280,86187,100.0,True,False,True,False,False,NBA Showdown $100 Double Up (MEM vs LAL),1000.0,NBA,2023-04-25 02:00:00+00:00,100.0,11
+143829281,86187,1.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829282,86187,3.0,True,False,True,False,False,Beginner NBA Showdown $3 Double Up (MEM vs LAL),60.0,NBA,2023-04-25 02:00:00+00:00,3.0,23
+143829283,86187,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $20] (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,2.0,59
+143829284,86187,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $50] (MEM vs LAL),150.0,NBA,2023-04-25 02:00:00+00:00,5.0,35
+143829285,86187,50.0,False,False,True,False,False,NBA Showdown $50 Triple Up [Top 3 Win $150] (MEM vs LAL),450.0,NBA,2023-04-25 02:00:00+00:00,50.0,10
+143829286,86187,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MEM vs LAL),60.0,NBA,2023-04-25 02:00:00+00:00,3.0,23
+143829287,86187,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MEM vs LAL),60.0,NBA,2023-04-25 02:00:00+00:00,3.0,23
+143829288,86187,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MEM vs LAL),60.0,NBA,2023-04-25 02:00:00+00:00,3.0,23
+143829289,86187,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MEM vs LAL),60.0,NBA,2023-04-25 02:00:00+00:00,3.0,23
+143829290,86187,10.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (MEM vs LAL),300.0,NBA,2023-04-25 02:00:00+00:00,10.0,35
+143829291,86187,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (MEM vs LAL),500.0,NBA,2023-04-25 02:00:00+00:00,25.0,22
+143829292,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829293,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829294,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829295,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829296,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829297,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829298,86187,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MEM vs LAL),60.0,NBA,2023-04-25 02:00:00+00:00,3.0,23
+143829300,86187,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,5.0,23
+143829301,86187,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,5.0,23
+143829302,86187,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,10.0,11
+143829303,86187,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,10.0,11
+143829304,86187,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,10.0,11
+143829305,86187,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,10.0,11
+143829306,86187,3.0,True,False,True,False,False,Casual NBA Showdown $3 Double Up (MEM vs LAL),60.0,NBA,2023-04-25 02:00:00+00:00,3.0,23
+143829307,86187,1.0,True,False,True,False,False,Casual NBA Showdown $1 Double Up (MEM vs LAL),34.0,NBA,2023-04-25 02:00:00+00:00,1.0,39
+143829308,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),34.0,NBA,2023-04-25 02:00:00+00:00,1.0,39
+143829309,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),34.0,NBA,2023-04-25 02:00:00+00:00,1.0,39
+143829310,86187,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (MEM vs LAL),170.0,NBA,2023-04-25 02:00:00+00:00,5.0,39
+143829311,86187,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (MEM vs LAL),250.0,NBA,2023-04-25 02:00:00+00:00,25.0,11
+143829312,86187,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,1.0,31
+143829313,86187,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (MEM vs LAL),135.0,NBA,2023-04-25 02:00:00+00:00,5.0,31
+143829314,86187,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (MEM vs LAL),135.0,NBA,2023-04-25 02:00:00+00:00,5.0,31
+143829315,86187,10.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 9 Win $30] (MEM vs LAL),270.0,NBA,2023-04-25 02:00:00+00:00,10.0,31
+143829316,86187,25.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 9 Win $75] (MEM vs LAL),675.0,NBA,2023-04-25 02:00:00+00:00,25.0,31
+143829317,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829318,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829320,86187,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,5.0,23
+143829321,86187,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,10.0,11
+143829322,86187,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (MEM vs LAL),250.0,NBA,2023-04-25 02:00:00+00:00,25.0,11
+143829323,86187,1.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (MEM vs LAL),34.0,NBA,2023-04-25 02:00:00+00:00,1.0,39
+143829324,86187,250.0,True,False,True,False,False,NBA Showdown $250 Double Up (MEM vs LAL),2500.0,NBA,2023-04-25 02:00:00+00:00,250.0,11
+143829325,86187,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,1.0,31
+143829326,86187,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,1.0,31
+143829327,86187,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829328,86187,100.0,True,False,True,False,False,NBA Showdown $100 Double Up (MEM vs LAL),1000.0,NBA,2023-04-25 02:00:00+00:00,100.0,11
+143829329,86187,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (MEM vs LAL),1000.0,NBA,2023-04-25 02:00:00+00:00,50.0,22
+143829330,86187,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (MEM vs LAL),500.0,NBA,2023-04-25 02:00:00+00:00,50.0,11
+143829331,86187,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,0.1,297
+143829332,86187,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,0.1,297
+143829333,86187,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,0.1,297
+143829334,86187,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,0.25,118
+143829335,86187,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,0.25,118
+143829336,86187,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,0.25,118
+143829337,86187,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,0.5,59
+143829338,86187,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,0.5,59
+143829339,86187,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,1.0,29
+143829340,86187,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,1.0,29
+143829341,86187,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,2.0,14
+143829342,86187,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (MEM vs LAL),25.0,NBA,2023-04-25 02:00:00+00:00,2.0,14
+143829343,86187,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (MEM vs LAL),50.0,NBA,2023-04-25 02:00:00+00:00,0.5,118
+143829344,86187,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (MEM vs LAL),50.0,NBA,2023-04-25 02:00:00+00:00,0.5,118
+143829345,86187,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (MEM vs LAL),50.0,NBA,2023-04-25 02:00:00+00:00,0.5,118
+143829346,86187,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (MEM vs LAL),50.0,NBA,2023-04-25 02:00:00+00:00,2.0,29
+143829347,86187,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (MEM vs LAL),50.0,NBA,2023-04-25 02:00:00+00:00,2.0,29
+143829348,86187,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (MEM vs LAL),50.0,NBA,2023-04-25 02:00:00+00:00,2.0,29
+143829349,86187,3.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [4x] (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,3.0,39
+143829350,86187,3.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [4x] (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,3.0,39
+143829351,86187,5.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [4x] (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,5.0,23
+143829352,86187,5.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [4x] (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,5.0,23
+143829353,86187,48.0,False,False,True,False,True,NBA Showdown Satellite to TEN $333 Clay Smash (MEM vs LAL),333.0,NBA,2023-04-25 02:00:00+00:00,48.0,8
+143829354,86187,1.0,False,False,True,False,True,NBA Showdown SUPERSat to TEN $20 French Slam [2x] (MEM vs LAL),40.0,NBA,2023-04-25 02:00:00+00:00,1.0,47
+143829355,86187,2.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,2.0,11
+143829356,86187,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,0.25,95
+143829357,86187,4.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [10x] (MEM vs LAL),250.0,NBA,2023-04-25 02:00:00+00:00,4.0,74
+143829358,86187,0.0,False,False,True,False,False,NBA Showdown SUPERSat to CFL $10 Return to Kickoff Special (2x) (6-8-2023) (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,0.25,95
+143829359,86187,1.0,False,False,True,False,False,NBA Showdown SUPERSat to CFL $10 Return to Kickoff Special (2x) (6-8-2023) (MEM vs LAL),20.0,NBA,2023-04-25 02:00:00+00:00,1.0,23
+143829360,86187,0.0,False,False,True,False,False,NBA Showdown Satellite to CFL $10 Return to Kickoff Special (6-8-2023) (MEM vs LAL),10.0,NBA,2023-04-25 02:00:00+00:00,0.5,23
+143829361,86187,1.0,False,False,True,False,False,NBA Showdown Satellite to CFL $10 Return to Kickoff Special (6-8-2023) (MEM vs LAL),10.0,NBA,2023-04-25 02:00:00+00:00,1.0,11
+143829405,86189,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H MEM vs LAL),20.0,NBA,2023-04-25 03:00:00+00:00,1.0,23
+143829406,86189,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H MEM vs LAL),20.0,NBA,2023-04-25 03:00:00+00:00,1.0,23
+143829407,86189,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H MEM vs LAL),20.0,NBA,2023-04-25 03:00:00+00:00,1.0,23
+143829408,86189,85.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H MEM vs LAL),300.0,NBA,2023-04-25 03:00:00+00:00,85.0,4
+143829409,86189,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H MEM vs LAL),110.0,NBA,2023-04-25 03:00:00+00:00,25.0,5
+143829410,86189,25.0,True,False,True,False,False,NBA In-Game $25 Double Up (2H MEM vs LAL),250.0,NBA,2023-04-25 03:00:00+00:00,25.0,11
+143829411,86189,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H MEM vs LAL),100.0,NBA,2023-04-25 03:00:00+00:00,10.0,11
+143829412,86189,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H MEM vs LAL),100.0,NBA,2023-04-25 03:00:00+00:00,5.0,23
+143829413,86189,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H MEM vs LAL),100.0,NBA,2023-04-25 03:00:00+00:00,5.0,23
+143829414,86189,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (2H MEM vs LAL),60.0,NBA,2023-04-25 03:00:00+00:00,3.0,23
+143829415,86189,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (2H MEM vs LAL),60.0,NBA,2023-04-25 03:00:00+00:00,3.0,23
+143829416,86189,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H MEM vs LAL),25.0,NBA,2023-04-25 03:00:00+00:00,0.1,297
+143829417,86189,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H MEM vs LAL),25.0,NBA,2023-04-25 03:00:00+00:00,0.25,118
+143829418,86189,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H MEM vs LAL),25.0,NBA,2023-04-25 03:00:00+00:00,0.5,59
+143829419,86189,1.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H MEM vs LAL),25.0,NBA,2023-04-25 03:00:00+00:00,1.0,29
+143829436,86187,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,1.0,20
+143829437,86190,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (4Q MEM vs LAL),100.0,NBA,2023-04-25 03:20:00+00:00,5.0,23
+143829438,86190,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (4Q MEM vs LAL),200.0,NBA,2023-04-25 03:20:00+00:00,10.0,23
+143829439,86190,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (4Q MEM vs LAL),110.0,NBA,2023-04-25 03:20:00+00:00,25.0,5
+143829440,86190,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (4Q MEM vs LAL),20.0,NBA,2023-04-25 03:20:00+00:00,1.0,23
+143829441,86190,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (4Q MEM vs LAL),20.0,NBA,2023-04-25 03:20:00+00:00,1.0,23
+143829442,86190,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (4Q MEM vs LAL),60.0,NBA,2023-04-25 03:20:00+00:00,3.0,23
+143829443,86190,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (4Q MEM vs LAL),60.0,NBA,2023-04-25 03:20:00+00:00,3.0,23
+143829466,86189,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H MEM vs LAL),5.4,NBA,2023-04-25 03:00:00+00:00,2.0,3
+143829467,86189,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H MEM vs LAL),27.0,NBA,2023-04-25 03:00:00+00:00,10.0,3
+143829468,86189,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H MEM vs LAL),13.5,NBA,2023-04-25 03:00:00+00:00,5.0,3
+143829469,86189,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H MEM vs LAL),2.7,NBA,2023-04-25 03:00:00+00:00,1.0,3
+143829470,86189,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H MEM vs LAL),9.0,NBA,2023-04-25 03:00:00+00:00,1.0,10
+143829471,86189,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H MEM vs LAL),4.5,NBA,2023-04-25 03:00:00+00:00,1.0,5
+143829472,86189,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H MEM vs LAL),2.7,NBA,2023-04-25 03:00:00+00:00,1.0,3
+143829473,86189,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H MEM vs LAL),2.7,NBA,2023-04-25 03:00:00+00:00,1.0,3
+143829474,86189,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H MEM vs LAL),180.0,NBA,2023-04-25 03:00:00+00:00,20.0,10
+143829475,86189,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H MEM vs LAL),90.0,NBA,2023-04-25 03:00:00+00:00,10.0,10
+143829476,86189,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H MEM vs LAL),45.0,NBA,2023-04-25 03:00:00+00:00,5.0,10
+143829477,86189,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H MEM vs LAL),27.0,NBA,2023-04-25 03:00:00+00:00,3.0,10
+143829478,86189,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H MEM vs LAL),9.0,NBA,2023-04-25 03:00:00+00:00,1.0,10
+143829479,86189,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H MEM vs LAL),13.5,NBA,2023-04-25 03:00:00+00:00,5.0,3
+143829480,86189,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H MEM vs LAL),5.4,NBA,2023-04-25 03:00:00+00:00,2.0,3
+143829481,86189,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H MEM vs LAL),5.4,NBA,2023-04-25 03:00:00+00:00,2.0,3
+143829482,86189,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H MEM vs LAL),5.4,NBA,2023-04-25 03:00:00+00:00,2.0,3
+143829483,86189,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H MEM vs LAL),9.0,NBA,2023-04-25 03:00:00+00:00,2.0,5
+143829484,86189,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H MEM vs LAL),18.0,NBA,2023-04-25 03:00:00+00:00,2.0,10
+143829485,86189,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H MEM vs LAL),13.5,NBA,2023-04-25 03:00:00+00:00,5.0,3
+143829486,86189,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H MEM vs LAL),22.5,NBA,2023-04-25 03:00:00+00:00,5.0,5
+143829487,86189,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H MEM vs LAL),45.0,NBA,2023-04-25 03:00:00+00:00,5.0,10
+143829488,86189,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H MEM vs LAL),45.0,NBA,2023-04-25 03:00:00+00:00,10.0,5
+143829489,86189,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H MEM vs LAL),27.0,NBA,2023-04-25 03:00:00+00:00,10.0,3
+143829490,86189,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H MEM vs LAL),54.0,NBA,2023-04-25 03:00:00+00:00,20.0,3
+143829491,86189,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H MEM vs LAL),225.0,NBA,2023-04-25 03:00:00+00:00,50.0,5
+143829492,86189,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H MEM vs LAL),135.0,NBA,2023-04-25 03:00:00+00:00,50.0,3
+143829493,86189,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H MEM vs LAL),300.0,NBA,2023-04-25 03:00:00+00:00,109.0,3
+143829494,86189,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H MEM vs LAL),450.0,NBA,2023-04-25 03:00:00+00:00,162.0,3
+143829495,86189,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H MEM vs LAL),1500.0,NBA,2023-04-25 03:00:00+00:00,530.0,3
+143829496,86189,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H MEM vs LAL)",3000.0,NBA,2023-04-25 03:00:00+00:00,1060.0,3
+143829497,86189,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H MEM vs LAL)",15000.0,NBA,2023-04-25 03:00:00+00:00,5300.0,3
+143829498,86189,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H MEM vs LAL)",30000.0,NBA,2023-04-25 03:00:00+00:00,10600.0,3
+143829499,86189,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H MEM vs LAL),72.0,NBA,2023-04-25 03:00:00+00:00,20.0,4
+143829500,86189,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H MEM vs LAL),90.0,NBA,2023-04-25 03:00:00+00:00,10.0,10
+143829501,86189,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H MEM vs LAL),9.0,NBA,2023-04-25 03:00:00+00:00,1.0,10
+143829502,86189,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H MEM vs LAL),27.0,NBA,2023-04-25 03:00:00+00:00,3.0,10
+143829503,86189,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H MEM vs LAL),45.0,NBA,2023-04-25 03:00:00+00:00,5.0,10
+143829504,86189,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H MEM vs LAL)",20000.0,NBA,2023-04-25 03:00:00+00:00,5300.0,4
+143829505,86189,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H MEM vs LAL)",4000.0,NBA,2023-04-25 03:00:00+00:00,1060.0,4
+143829506,86189,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H MEM vs LAL),2000.0,NBA,2023-04-25 03:00:00+00:00,530.0,4
+143829507,86189,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H MEM vs LAL),400.0,NBA,2023-04-25 03:00:00+00:00,109.0,4
+143829508,86189,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H MEM vs LAL),180.0,NBA,2023-04-25 03:00:00+00:00,50.0,4
+143829509,86189,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H MEM vs LAL),72.0,NBA,2023-04-25 03:00:00+00:00,20.0,4
+143829510,86189,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H MEM vs LAL),36.0,NBA,2023-04-25 03:00:00+00:00,10.0,4
+143829511,86189,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H MEM vs LAL),450.0,NBA,2023-04-25 03:00:00+00:00,50.0,10
+143829512,86189,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H MEM vs LAL),9.0,NBA,2023-04-25 03:00:00+00:00,1.0,10
+143829513,86189,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H MEM vs LAL),45.0,NBA,2023-04-25 03:00:00+00:00,5.0,10
+143829514,86189,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H MEM vs LAL),600.0,NBA,2023-04-25 03:00:00+00:00,109.0,6
+143829515,86189,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H MEM vs LAL),18.0,NBA,2023-04-25 03:00:00+00:00,2.0,10
+143829516,86189,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H MEM vs LAL),180.0,NBA,2023-04-25 03:00:00+00:00,20.0,10
+143829517,86189,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H MEM vs LAL),90.0,NBA,2023-04-25 03:00:00+00:00,10.0,10
+143829518,86189,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H MEM vs LAL),90.0,NBA,2023-04-25 03:00:00+00:00,5.0,20
+143829519,86189,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H MEM vs LAL),180.0,NBA,2023-04-25 03:00:00+00:00,10.0,20
+143829520,86189,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H MEM vs LAL),360.0,NBA,2023-04-25 03:00:00+00:00,20.0,20
+143829521,86189,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H MEM vs LAL),36.0,NBA,2023-04-25 03:00:00+00:00,2.0,20
+143829522,86189,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H MEM vs LAL),18.0,NBA,2023-04-25 03:00:00+00:00,1.0,20
+143829523,86189,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H MEM vs LAL),4000.0,NBA,2023-04-25 03:00:00+00:00,1060.0,4
+143829524,86189,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H MEM vs LAL),1000.0,NBA,2023-04-25 03:00:00+00:00,267.0,4
+143829525,86190,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (4Q MEM vs LAL),5.4,NBA,2023-04-25 03:20:00+00:00,2.0,3
+143829526,86190,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (4Q MEM vs LAL),27.0,NBA,2023-04-25 03:20:00+00:00,10.0,3
+143829527,86190,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (4Q MEM vs LAL),13.5,NBA,2023-04-25 03:20:00+00:00,5.0,3
+143829528,86190,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (4Q MEM vs LAL),2.7,NBA,2023-04-25 03:20:00+00:00,1.0,3
+143829529,86190,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (4Q MEM vs LAL),9.0,NBA,2023-04-25 03:20:00+00:00,1.0,10
+143829530,86190,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (4Q MEM vs LAL),4.5,NBA,2023-04-25 03:20:00+00:00,1.0,5
+143829531,86190,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (4Q MEM vs LAL),2.7,NBA,2023-04-25 03:20:00+00:00,1.0,3
+143829532,86190,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (4Q MEM vs LAL),2.7,NBA,2023-04-25 03:20:00+00:00,1.0,3
+143829533,86190,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (4Q MEM vs LAL),180.0,NBA,2023-04-25 03:20:00+00:00,20.0,10
+143829534,86190,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (4Q MEM vs LAL),90.0,NBA,2023-04-25 03:20:00+00:00,10.0,10
+143829535,86190,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (4Q MEM vs LAL),45.0,NBA,2023-04-25 03:20:00+00:00,5.0,10
+143829536,86190,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (4Q MEM vs LAL),27.0,NBA,2023-04-25 03:20:00+00:00,3.0,10
+143829537,86190,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (4Q MEM vs LAL),9.0,NBA,2023-04-25 03:20:00+00:00,1.0,10
+143829538,86190,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (4Q MEM vs LAL),13.5,NBA,2023-04-25 03:20:00+00:00,5.0,3
+143829539,86190,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (4Q MEM vs LAL),5.4,NBA,2023-04-25 03:20:00+00:00,2.0,3
+143829540,86190,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (4Q MEM vs LAL),5.4,NBA,2023-04-25 03:20:00+00:00,2.0,3
+143829541,86190,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (4Q MEM vs LAL),5.4,NBA,2023-04-25 03:20:00+00:00,2.0,3
+143829542,86190,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (4Q MEM vs LAL),9.0,NBA,2023-04-25 03:20:00+00:00,2.0,5
+143829543,86190,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (4Q MEM vs LAL),18.0,NBA,2023-04-25 03:20:00+00:00,2.0,10
+143829544,86190,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (4Q MEM vs LAL),13.5,NBA,2023-04-25 03:20:00+00:00,5.0,3
+143829545,86190,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (4Q MEM vs LAL),22.5,NBA,2023-04-25 03:20:00+00:00,5.0,5
+143829546,86190,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (4Q MEM vs LAL),45.0,NBA,2023-04-25 03:20:00+00:00,5.0,10
+143829547,86190,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (4Q MEM vs LAL),45.0,NBA,2023-04-25 03:20:00+00:00,10.0,5
+143829548,86190,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (4Q MEM vs LAL),27.0,NBA,2023-04-25 03:20:00+00:00,10.0,3
+143829549,86190,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (4Q MEM vs LAL),54.0,NBA,2023-04-25 03:20:00+00:00,20.0,3
+143829550,86190,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (4Q MEM vs LAL),225.0,NBA,2023-04-25 03:20:00+00:00,50.0,5
+143829551,86190,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (4Q MEM vs LAL),135.0,NBA,2023-04-25 03:20:00+00:00,50.0,3
+143829552,86190,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (4Q MEM vs LAL),300.0,NBA,2023-04-25 03:20:00+00:00,109.0,3
+143829553,86190,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (4Q MEM vs LAL),450.0,NBA,2023-04-25 03:20:00+00:00,162.0,3
+143829554,86190,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (4Q MEM vs LAL),1500.0,NBA,2023-04-25 03:20:00+00:00,530.0,3
+143829555,86190,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (4Q MEM vs LAL)",3000.0,NBA,2023-04-25 03:20:00+00:00,1060.0,3
+143829556,86190,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (4Q MEM vs LAL)",15000.0,NBA,2023-04-25 03:20:00+00:00,5300.0,3
+143829557,86190,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (4Q MEM vs LAL)",30000.0,NBA,2023-04-25 03:20:00+00:00,10600.0,3
+143829558,86190,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (4Q MEM vs LAL),72.0,NBA,2023-04-25 03:20:00+00:00,20.0,4
+143829559,86190,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (4Q MEM vs LAL),90.0,NBA,2023-04-25 03:20:00+00:00,10.0,10
+143829560,86190,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (4Q MEM vs LAL),9.0,NBA,2023-04-25 03:20:00+00:00,1.0,10
+143829561,86190,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (4Q MEM vs LAL),27.0,NBA,2023-04-25 03:20:00+00:00,3.0,10
+143829562,86190,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (4Q MEM vs LAL),45.0,NBA,2023-04-25 03:20:00+00:00,5.0,10
+143829563,86190,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (4Q MEM vs LAL)",20000.0,NBA,2023-04-25 03:20:00+00:00,5300.0,4
+143829564,86190,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (4Q MEM vs LAL)",4000.0,NBA,2023-04-25 03:20:00+00:00,1060.0,4
+143829565,86190,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (4Q MEM vs LAL),2000.0,NBA,2023-04-25 03:20:00+00:00,530.0,4
+143829566,86190,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (4Q MEM vs LAL),400.0,NBA,2023-04-25 03:20:00+00:00,109.0,4
+143829567,86190,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (4Q MEM vs LAL),180.0,NBA,2023-04-25 03:20:00+00:00,50.0,4
+143829568,86190,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q MEM vs LAL),72.0,NBA,2023-04-25 03:20:00+00:00,20.0,4
+143829569,86190,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q MEM vs LAL),36.0,NBA,2023-04-25 03:20:00+00:00,10.0,4
+143829570,86190,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (4Q MEM vs LAL),450.0,NBA,2023-04-25 03:20:00+00:00,50.0,10
+143829571,86190,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (4Q MEM vs LAL),9.0,NBA,2023-04-25 03:20:00+00:00,1.0,10
+143829572,86190,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (4Q MEM vs LAL),45.0,NBA,2023-04-25 03:20:00+00:00,5.0,10
+143829573,86190,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (4Q MEM vs LAL),600.0,NBA,2023-04-25 03:20:00+00:00,109.0,6
+143829574,86190,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (4Q MEM vs LAL),18.0,NBA,2023-04-25 03:20:00+00:00,2.0,10
+143829575,86190,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q MEM vs LAL),180.0,NBA,2023-04-25 03:20:00+00:00,20.0,10
+143829576,86190,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q MEM vs LAL),90.0,NBA,2023-04-25 03:20:00+00:00,10.0,10
+143829577,86190,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (4Q MEM vs LAL),90.0,NBA,2023-04-25 03:20:00+00:00,5.0,20
+143829578,86190,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q MEM vs LAL),180.0,NBA,2023-04-25 03:20:00+00:00,10.0,20
+143829579,86190,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q MEM vs LAL),360.0,NBA,2023-04-25 03:20:00+00:00,20.0,20
+143829580,86190,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (4Q MEM vs LAL),36.0,NBA,2023-04-25 03:20:00+00:00,2.0,20
+143829581,86190,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (4Q MEM vs LAL),18.0,NBA,2023-04-25 03:20:00+00:00,1.0,20
+143829582,86190,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (4Q MEM vs LAL),4000.0,NBA,2023-04-25 03:20:00+00:00,1060.0,4
+143829583,86190,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (4Q MEM vs LAL),1000.0,NBA,2023-04-25 03:20:00+00:00,267.0,4
+143829864,86182,0.0,False,False,True,False,True,NBA $10K mini-MAX [150 Entry Max],10000.0,NBA,2023-04-24 23:30:00+00:00,0.5,23781
+143829865,86182,400.0,False,False,True,False,True,NBA $4K Swish [Single Entry],4000.0,NBA,2023-04-24 23:30:00+00:00,400.0,11
+143829866,86182,100.0,False,False,True,False,True,NBA $30K Showtime [Single Entry],30100.0,NBA,2023-04-24 23:30:00+00:00,100.0,334
+143829867,86182,100.0,False,False,True,False,True,NBA $10K Showtime [Single Entry],10000.0,NBA,2023-04-24 23:30:00+00:00,100.0,111
+143829868,86182,40.0,False,False,True,False,True,NBA $20K Mid Range Jumper [Single Entry],20000.0,NBA,2023-04-24 23:30:00+00:00,40.0,583
+143829869,86182,40.0,False,False,True,False,True,NBA $10K Mid Range Jumper [Single Entry],10000.0,NBA,2023-04-24 23:30:00+00:00,40.0,291
+143829870,86182,27.0,False,False,True,False,True,NBA $5K Fast Break [Single Entry],5000.0,NBA,2023-04-24 23:30:00+00:00,27.0,215
+143829871,86182,12.0,False,False,True,False,True,NBA $10K Pick and Roll [Single Entry],10000.0,NBA,2023-04-24 23:30:00+00:00,12.0,980
+143829872,86182,5.0,False,False,True,False,True,NBA $10K High Five [Single Entry],10000.0,NBA,2023-04-24 23:30:00+00:00,5.0,2378
+143829873,86182,100.0,True,False,True,False,True,NBA Single Entry $100 Double Up,3000.0,NBA,2023-04-24 23:30:00+00:00,100.0,33
+143829874,86182,50.0,True,False,True,False,True,NBA Single Entry $50 Double Up,3000.0,NBA,2023-04-24 23:30:00+00:00,50.0,68
+143829875,86182,50.0,True,False,True,False,True,NBA $50 Double Up,3000.0,NBA,2023-04-24 23:30:00+00:00,50.0,68
+143829876,86182,12.0,False,False,True,False,True,NBA $5K Pick and Roll [Single Entry],5000.0,NBA,2023-04-24 23:30:00+00:00,12.0,490
+143829877,86182,5.0,False,False,True,False,True,NBA $5K High Five [Single Entry],5000.0,NBA,2023-04-24 23:30:00+00:00,5.0,1189
+143829878,86182,2.0,False,False,True,False,True,NBA $2K Elbow Shot [Single Entry],2000.0,NBA,2023-04-24 23:30:00+00:00,2.0,1189
+143829879,86182,10.0,True,False,True,False,True,NBA $10 Double Up,2000.0,NBA,2023-04-24 23:30:00+00:00,10.0,229
+143829880,86182,5.0,True,False,True,False,True,NBA $5 Double Up,2000.0,NBA,2023-04-24 23:30:00+00:00,5.0,459
+143829881,86182,2.0,True,False,True,False,True,NBA $2 Double Up,2000.0,NBA,2023-04-24 23:30:00+00:00,2.0,1149
+143829882,86182,50.0,False,False,True,False,True,NBA $2K Ankle Breaker [Single Entry],2000.0,NBA,2023-04-24 23:30:00+00:00,50.0,45
+143829883,86182,20.0,False,False,True,False,True,NBA $3K Buzzer Beater [3 Entry Max],3000.0,NBA,2023-04-24 23:30:00+00:00,20.0,176
+143829884,86182,3.0,False,False,True,False,True,NBA $4K Hot Shot [3 Entry Max],4000.0,NBA,2023-04-24 23:30:00+00:00,3.0,1585
+143829885,86182,0.0,False,False,True,False,True,NBA $5K Quarter Jukebox [Just $0.25!],5000.0,NBA,2023-04-24 23:30:00+00:00,0.25,23781
+143829886,86182,1.0,False,False,True,False,True,NBA $2K Daily Dollar [Single Entry] ,2000.0,NBA,2023-04-24 23:30:00+00:00,1.0,2378
+143829887,86182,250.0,True,False,True,False,True,NBA $250 Double Up,2500.0,NBA,2023-04-24 23:30:00+00:00,250.0,11
+143829888,86182,5.0,True,False,True,False,True,NBA Single Entry $5 Double Up,3000.0,NBA,2023-04-24 23:30:00+00:00,5.0,689
+143829889,86184,150.0,False,False,True,False,True,NBA Tiers $2.2K Posterizer [Single Entry],2200.0,NBA,2023-04-24 23:30:00+00:00,150.0,16
+143829890,86184,50.0,False,False,True,False,True,NBA Tiers $1K Ankle Breaker [Single Entry],1000.0,NBA,2023-04-24 23:30:00+00:00,50.0,22
+143829891,86184,1.0,False,False,True,False,True,NBA Tiers $5K And-One,5000.0,NBA,2023-04-24 23:30:00+00:00,1.0,5945
+143829892,86184,12.0,False,False,True,False,True,NBA Tiers $500 Pick and Roll [Single Entry],500.0,NBA,2023-04-24 23:30:00+00:00,12.0,49
+143829893,86184,5.0,False,False,True,False,True,NBA Tiers $1K High Five [Single Entry],1000.0,NBA,2023-04-24 23:30:00+00:00,5.0,237
+143829894,86184,5.0,False,False,True,False,True,NBA Tiers $35K Zone [$10K to 1st],35000.0,NBA,2023-04-24 23:30:00+00:00,5.0,8323
+143829895,86184,0.0,False,False,True,False,True,NBA Tiers $1.25K Quarter Jukebox [Just $0.25!],1250.0,NBA,2023-04-24 23:30:00+00:00,0.25,5945
+143829896,86184,3.0,False,False,True,False,True,NBA Tiers $1K Sharpshooter,1000.0,NBA,2023-04-24 23:30:00+00:00,3.0,396
+143829897,86184,27.0,False,False,True,False,True,NBA Tiers $750 Fast Break,750.0,NBA,2023-04-24 23:30:00+00:00,27.0,32
+143829898,86185,50.0,False,False,True,False,True,NBA Showdown $1K Ankle Breaker [Single Entry] (MIL vs MIA),1000.0,NBA,2023-04-24 23:30:00+00:00,50.0,22
+143829899,86185,33.0,False,False,True,False,True,NBA Showdown $3K Triple Threat [3 Entry Max] (MIL vs MIA),3000.0,NBA,2023-04-24 23:30:00+00:00,33.0,106
+143829900,86185,0.0,False,False,True,False,True,NBA Showdown $2K Quarter Jukebox [Just $0.25!] (MIL vs MIA),2000.0,NBA,2023-04-24 23:30:00+00:00,0.25,9512
+143829901,86185,300.0,False,False,True,False,True,NBA Showdown $1.9K 3-Ball [Single Entry] (MIL vs MIA),1900.0,NBA,2023-04-24 23:30:00+00:00,300.0,7
+143829902,86185,12.0,False,False,True,False,True,NBA Showdown $750 Pick and Roll [Single Entry] (MIL vs MIA),750.0,NBA,2023-04-24 23:30:00+00:00,12.0,73
+143829903,86185,180.0,False,False,True,False,True,NBA Showdown $10.9K Windmill [$3K to 1st] (MIL vs MIA),10900.0,NBA,2023-04-24 23:30:00+00:00,180.0,67
+143829904,86185,3.0,False,False,True,False,True,NBA Showdown $5K Sharpshooter [20 Entry Max] (MIL vs MIA),5000.0,NBA,2023-04-24 23:30:00+00:00,3.0,1981
+143829905,86185,5.0,False,False,True,False,True,NBA Showdown $2.5K High Five [Single Entry] (MIL vs MIA),2500.0,NBA,2023-04-24 23:30:00+00:00,5.0,594
+143829906,86185,15.0,False,False,True,False,True,NBA Showdown $100K Fadeaway [$25K to 1st] (MIL vs MIA),100000.0,NBA,2023-04-24 23:30:00+00:00,15.0,7843
+143829907,86185,1.0,False,False,True,False,True,NBA Showdown $7.5K And-One (MIL vs MIA),7500.0,NBA,2023-04-24 23:30:00+00:00,1.0,8917
+143829908,86187,1.0,False,False,True,False,True,NBA Showdown $15K And-One (MEM vs LAL),15000.0,NBA,2023-04-25 02:00:00+00:00,1.0,17835
+143829909,86187,5.0,False,False,True,False,True,NBA Showdown $7.5K High Five [Single Entry] (MEM vs LAL),7500.0,NBA,2023-04-25 02:00:00+00:00,5.0,1783
+143829910,86187,300.0,False,False,True,False,True,NBA Showdown $3.8K 3-Ball [Single Entry] (MEM vs LAL),3800.0,NBA,2023-04-25 02:00:00+00:00,300.0,14
+143829911,86187,50.0,False,False,True,False,True,NBA Showdown $4K Ankle Breaker [2 Entry Max] (MEM vs LAL),4000.0,NBA,2023-04-25 02:00:00+00:00,50.0,90
+143829912,86187,33.0,False,False,True,False,True,NBA Showdown $5K Triple Threat (MEM vs LAL),5000.0,NBA,2023-04-25 02:00:00+00:00,33.0,176
+143829913,86187,3.0,False,False,True,False,True,NBA Showdown $12K Sharpshooter [20 Entry Max] (MEM vs LAL),12000.0,NBA,2023-04-25 02:00:00+00:00,3.0,4756
+143829914,86187,0.0,False,False,True,False,True,NBA Showdown $4K Quarter Jukebox [Just $0.25!] (MEM vs LAL),4000.0,NBA,2023-04-25 02:00:00+00:00,0.25,19024
+143829915,86187,100.0,False,False,True,False,True,NBA Showdown $7.5K Showtime [Single Entry] (MEM vs LAL),7500.0,NBA,2023-04-25 02:00:00+00:00,100.0,83
+143829916,86187,12.0,False,False,True,False,True,NBA Showdown $4K Pick and Roll [Single Entry] (MEM vs LAL),4000.0,NBA,2023-04-25 02:00:00+00:00,12.0,392
+143829917,86189,10.0,False,False,True,False,True,NBA In-Game $8K Pull Up Jumper [$2K to 1st] (2H MEM vs LAL),8000.0,NBA,2023-04-25 03:00:00+00:00,10.0,941
+143829918,86189,50.0,False,False,True,False,True,NBA In-Game $500 Ankle Breaker [Single Entry] (2H MEM vs LAL),500.0,NBA,2023-04-25 03:00:00+00:00,50.0,11
+143829919,86189,3.0,False,False,True,False,True,NBA In-Game $200 Sharpshooter [2 Entry Max] (2H MEM vs LAL),200.0,NBA,2023-04-25 03:00:00+00:00,3.0,79
+143829920,86189,100.0,False,False,True,False,True,"NBA In-Game $720 Showtime [Single Entry, Top 2 Win] (2H MEM vs LAL)",720.0,NBA,2023-04-25 03:00:00+00:00,100.0,8
+143829921,86189,27.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (2H MEM vs LAL),240.0,NBA,2023-04-25 03:00:00+00:00,27.0,10
+143829922,86189,300.0,False,False,True,False,True,NBA In-Game $1.35K 3-Ball [Single Entry] (2H MEM vs LAL),1350.0,NBA,2023-04-25 03:00:00+00:00,300.0,5
+143829923,86189,12.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (2H MEM vs LAL),155.0,NBA,2023-04-25 03:00:00+00:00,12.0,15
+143829924,86189,5.0,False,False,True,False,True,NBA In-Game $300 High Five [Single Entry] (2H MEM vs LAL),300.0,NBA,2023-04-25 03:00:00+00:00,5.0,71
+143829925,86189,0.0,False,False,True,False,True,NBA In-Game $125 Quarter Jukebox [Just $0.25!] (2H MEM vs LAL),125.0,NBA,2023-04-25 03:00:00+00:00,0.25,594
+143829926,86189,1.0,False,False,True,False,True,NBA In-Game $400 And-One (2H MEM vs LAL),400.0,NBA,2023-04-25 03:00:00+00:00,1.0,475
+143829927,86190,27.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (4Q MEM vs LAL),240.0,NBA,2023-04-25 03:20:00+00:00,27.0,10
+143829928,86190,1.0,False,False,True,False,True,NBA In-Game $100 And-One (4Q MEM vs LAL),100.0,NBA,2023-04-25 03:20:00+00:00,1.0,118
+143829929,86190,0.0,False,False,True,False,True,NBA In-Game $50 Quarter Jukebox [Just $0.25!] (4Q MEM vs LAL),50.0,NBA,2023-04-25 03:20:00+00:00,0.25,237
+143829930,86190,5.0,False,False,True,False,True,NBA In-Game $100 High Five [Single Entry] (4Q MEM vs LAL),100.0,NBA,2023-04-25 03:20:00+00:00,5.0,23
+143829931,86190,50.0,False,False,True,False,True,NBA In-Game $310 Ankle Breaker [Single Entry] (4Q MEM vs LAL),310.0,NBA,2023-04-25 03:20:00+00:00,50.0,7
+143829932,86190,10.0,False,False,True,False,True,NBA In-Game $200 Pull Up Jumper [$100 to 1st] (4Q MEM vs LAL),200.0,NBA,2023-04-25 03:20:00+00:00,10.0,23
+143829933,86190,12.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (4Q MEM vs LAL),155.0,NBA,2023-04-25 03:20:00+00:00,12.0,15
+143833927,86182,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143833928,86182,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143833929,86182,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143833930,86182,20.0,True,False,False,False,False,NBA $20 50-50,360.0,NBA,2023-04-24 23:30:00+00:00,20.0,20
+143833931,86182,10.0,True,False,False,False,False,NBA $10 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,10.0,20
+143833932,86182,25.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2023-04-24 23:30:00+00:00,25.0,22
+143833933,86182,50.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2023-04-24 23:30:00+00:00,50.0,22
+143834148,86182,5.0,False,False,False,False,False,NBA $5 20-Player,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143834149,86182,20.0,False,False,False,False,False,NBA $20 20-Player,360.0,NBA,2023-04-24 23:30:00+00:00,20.0,20
+143834150,86182,10.0,False,False,False,False,False,NBA $10 20-Player,180.0,NBA,2023-04-24 23:30:00+00:00,10.0,20
+143836136,86182,1.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143836571,86184,5.0,True,False,False,False,False,Casual NBA Tiers $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143836849,86185,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIL vs MIA),2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143836877,86187,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (MEM vs LAL),2.7,NBA,2023-04-25 02:00:00+00:00,1.0,3
+143836908,86182,0.0,False,False,False,False,False,NBA FREE 200-Player,0.0,NBA,2023-04-24 23:30:00+00:00,0.0,200
+143836950,86182,555.0,False,False,True,False,True,NBA $150K Alley Oop [$50K to 1st],150000.0,NBA,2023-04-24 23:30:00+00:00,555.0,300
+143837247,86182,3.0,False,False,False,False,False,NBA $3 12-Player (Top 2 Win),32.4,NBA,2023-04-24 23:30:00+00:00,3.0,12
+143838926,86185,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIL vs MIA),1000.0,NBA,2023-04-24 23:30:00+00:00,50.0,22
+143838930,86185,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIL vs MIA),500.0,NBA,2023-04-24 23:30:00+00:00,25.0,22
+143839364,86187,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143839407,86185,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (MIL vs MIA),30.0,NBA,2023-04-24 23:30:00+00:00,3.0,11
+143839722,86182,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143840124,86182,2.0,False,False,False,False,False,NBA $2 25-Player (Top 5 Win),45.0,NBA,2023-04-24 23:30:00+00:00,2.0,25
+143840166,86182,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143840613,86187,0.0,False,False,False,False,False,NBA Showdown FREE 200-Player (MEM vs LAL) x2,0.0,NBA,2023-04-25 02:00:00+00:00,0.0,200
+143840685,86182,1.0,False,False,False,False,False,NBA $1 100-Player (Top 10 Win),90.0,NBA,2023-04-24 23:30:00+00:00,1.0,100
+143840787,86182,1.0,False,False,False,False,False,NBA $1 40-Player (Winner Takes All),36.0,NBA,2023-04-24 23:30:00+00:00,1.0,40
+143840802,86184,1.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143840865,86184,2.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143840870,86182,10.0,True,False,False,False,False,NBA $10 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,10.0,11
+143840871,86182,25.0,True,False,False,False,False,NBA $25 Double Up,250.0,NBA,2023-04-24 23:30:00+00:00,25.0,11
+143840872,86182,50.0,True,False,False,False,False,NBA $50 Double Up,500.0,NBA,2023-04-24 23:30:00+00:00,50.0,11
+143840873,86182,5.0,True,False,False,False,False,NBA $5 Double Up,50.0,NBA,2023-04-24 23:30:00+00:00,5.0,11
+143840874,86182,25.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2023-04-24 23:30:00+00:00,25.0,22
+143840875,86182,50.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2023-04-24 23:30:00+00:00,50.0,22
+143841053,86185,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (MIL vs MIA),4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143841059,86187,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (MEM vs LAL),4.5,NBA,2023-04-25 02:00:00+00:00,1.0,5
+143841063,86187,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (MEM vs LAL),100.0,NBA,2023-04-25 02:00:00+00:00,10.0,11
+143841064,86187,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (MEM vs LAL),250.0,NBA,2023-04-25 02:00:00+00:00,25.0,11
+143841065,86187,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (MEM vs LAL),500.0,NBA,2023-04-25 02:00:00+00:00,50.0,11
+143841066,86187,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (MEM vs LAL),50.0,NBA,2023-04-25 02:00:00+00:00,5.0,11
+143841067,86187,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (MEM vs LAL),500.0,NBA,2023-04-25 02:00:00+00:00,25.0,22
+143841068,86187,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (MEM vs LAL),1000.0,NBA,2023-04-25 02:00:00+00:00,50.0,22
+143841644,86182,1.0,False,False,False,False,False,NBA $1 25-Player (Top 2 Win),22.5,NBA,2023-04-24 23:30:00+00:00,1.0,25
+143841682,86182,1.0,False,False,False,False,False,NBA $1 13-Player (Top 5 Win),11.7,NBA,2023-04-24 23:30:00+00:00,1.0,13
+143842107,86185,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIL vs MIA),60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143842112,86182,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143842115,86185,10.0,False,False,False,False,False,NBA Showdown $10 8-Player (Winner Takes All) (MIL vs MIA),72.0,NBA,2023-04-24 23:30:00+00:00,10.0,8
+143842229,86187,1500.0,False,False,True,False,True,NBA Showdown $15.6K Courtside Special [Single Entry] (MEM vs LAL),15600.0,NBA,2023-04-25 02:00:00+00:00,1500.0,11
+143842234,86187,222.0,False,False,True,False,True,NBA Showdown $40K SLAM Jam [$10K to 1st] (MEM vs LAL),40000.0,NBA,2023-04-25 02:00:00+00:00,222.0,200
+143842236,86187,18.0,False,False,True,False,True,NBA Showdown $300K Fadeaway [$100K to 1st] (MEM vs LAL),300000.0,NBA,2023-04-25 02:00:00+00:00,18.0,19607
+143842238,86187,6.0,False,False,True,False,True,NBA Showdown $30K Jab Step [$5K to 1st] (MEM vs LAL),30000.0,NBA,2023-04-25 02:00:00+00:00,6.0,5882
+143842239,86187,0.0,False,False,True,False,True,NBA Showdown $4K mini-MAX [150 Entry Max] (MEM vs LAL),4000.0,NBA,2023-04-25 02:00:00+00:00,0.5,9512
+143842276,86185,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIL vs MIA),60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143842327,86185,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (MIL vs MIA)",30000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,3
+143842328,86185,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MIL vs MIA)",15000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,3
+143842329,86185,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MIL vs MIA)",3000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,3
+143842330,86185,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (MIL vs MIA),1500.0,NBA,2023-04-24 23:30:00+00:00,530.0,3
+143842332,86185,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIL vs MIA),300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143842333,86185,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIL vs MIA),300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143842334,86185,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIL vs MIA),135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143842335,86185,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143842336,86185,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143842337,86185,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143842338,86185,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143842339,86185,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143842340,86185,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143842341,86185,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143842342,86185,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143842343,86185,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143842346,86182,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143842347,86182,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,50.0,4
+143842348,86182,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2023-04-24 23:30:00+00:00,109.0,4
+143842349,86182,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2023-04-24 23:30:00+00:00,109.0,4
+143842350,86182,530.0,True,False,False,False,False,NBA $530 50-50,2000.0,NBA,2023-04-24 23:30:00+00:00,530.0,4
+143842351,86182,1060.0,True,False,False,False,False,"NBA $1,060 50-50",4000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,4
+143842352,86182,5300.0,True,False,False,False,False,"NBA $5,300 50-50",20000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,4
+143842353,86182,162.0,True,False,False,False,False,NBA $162 50-50,600.0,NBA,2023-04-24 23:30:00+00:00,162.0,4
+143842354,86182,109.0,True,False,False,False,False,NBA $109 50-50,600.0,NBA,2023-04-24 23:30:00+00:00,109.0,6
+143842355,86182,2120.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,4
+143842356,86182,2120.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,4
+143842358,86184,1060.0,False,False,False,False,False,"NBA Tiers $1,060 3-Player",3000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,3
+143842359,86184,530.0,False,False,False,False,False,NBA Tiers $530 3-Player,1500.0,NBA,2023-04-24 23:30:00+00:00,530.0,3
+143842360,86184,162.0,False,False,False,False,False,NBA Tiers $162 3-Player,450.0,NBA,2023-04-24 23:30:00+00:00,162.0,3
+143842361,86184,109.0,False,False,False,False,False,NBA Tiers $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143842362,86184,109.0,False,False,False,False,False,NBA Tiers $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143842363,86184,50.0,False,False,False,False,False,NBA Tiers $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143842364,86184,20.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143842365,86184,20.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143842366,86184,20.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143842367,86184,10.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143842368,86184,10.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143842369,86184,10.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143842370,86184,5.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143842371,86184,5.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143842372,86184,5.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143842375,86187,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MEM vs LAL)",3000.0,NBA,2023-04-25 02:00:00+00:00,1060.0,3
+143842376,86187,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (MEM vs LAL),1500.0,NBA,2023-04-25 02:00:00+00:00,530.0,3
+143842378,86187,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MEM vs LAL),300.0,NBA,2023-04-25 02:00:00+00:00,109.0,3
+143842379,86187,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MEM vs LAL),300.0,NBA,2023-04-25 02:00:00+00:00,109.0,3
+143842380,86187,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (MEM vs LAL),135.0,NBA,2023-04-25 02:00:00+00:00,50.0,3
+143842381,86187,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143842382,86187,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143842383,86187,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143842384,86187,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143842385,86187,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143842386,86187,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143842387,86187,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143842388,86187,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143842389,86187,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143842416,86187,1.0,False,False,False,False,False,NBA Showdown $1 35-Player (Winner Takes All) (MEM vs LAL),31.5,NBA,2023-04-25 02:00:00+00:00,1.0,35
+143842419,86184,2.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143843055,86185,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MIL vs MIA)",3000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,3
+143843056,86185,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (MIL vs MIA),1500.0,NBA,2023-04-24 23:30:00+00:00,530.0,3
+143843057,86185,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIL vs MIA),450.0,NBA,2023-04-24 23:30:00+00:00,162.0,3
+143843058,86185,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIL vs MIA),300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143843059,86185,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIL vs MIA),300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143843060,86185,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIL vs MIA),135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143843061,86185,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143843062,86185,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143843063,86185,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIL vs MIA),54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143843064,86185,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143843065,86185,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143843066,86185,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143843067,86185,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143843068,86185,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143843069,86185,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143843070,86182,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143843071,86182,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143843072,86182,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143843073,86182,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143843074,86182,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143843075,86182,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143843076,86182,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143843077,86182,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143843078,86182,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143843079,86182,530.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2023-04-24 23:30:00+00:00,530.0,3
+143843080,86182,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143843081,86182,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143843082,86182,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143843083,86182,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143843084,86182,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143843085,86182,1060.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,3
+143843086,86182,5300.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,3
+143843087,86182,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2023-04-24 23:30:00+00:00,162.0,3
+143843088,86182,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2023-04-24 23:30:00+00:00,162.0,3
+143843089,86182,10600.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,3
+143843090,86182,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,3
+143843091,86182,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,3
+143843094,86187,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (MEM vs LAL)",30000.0,NBA,2023-04-25 02:00:00+00:00,10600.0,3
+143843095,86187,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MEM vs LAL)",15000.0,NBA,2023-04-25 02:00:00+00:00,5300.0,3
+143843096,86187,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MEM vs LAL)",3000.0,NBA,2023-04-25 02:00:00+00:00,1060.0,3
+143843097,86187,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (MEM vs LAL),1500.0,NBA,2023-04-25 02:00:00+00:00,530.0,3
+143843098,86187,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (MEM vs LAL),450.0,NBA,2023-04-25 02:00:00+00:00,162.0,3
+143843099,86187,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MEM vs LAL),300.0,NBA,2023-04-25 02:00:00+00:00,109.0,3
+143843100,86187,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MEM vs LAL),300.0,NBA,2023-04-25 02:00:00+00:00,109.0,3
+143843101,86187,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (MEM vs LAL),135.0,NBA,2023-04-25 02:00:00+00:00,50.0,3
+143843102,86187,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143843103,86187,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143843104,86187,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MEM vs LAL),54.0,NBA,2023-04-25 02:00:00+00:00,20.0,3
+143843105,86187,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143843106,86187,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143843107,86187,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143843108,86187,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143843109,86187,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143843110,86187,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143843160,86185,0.0,False,False,False,False,False,NBA Showdown FREE 200-Player (MIL vs MIA),0.0,NBA,2023-04-24 23:30:00+00:00,0.0,200
+143843169,86184,1.0,False,False,False,False,False,NBA Tiers $1 5-Player (Winner Takes All),4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143843174,86182,1.0,False,False,False,False,False,NBA $1 15-Player (Top 5 Win),13.5,NBA,2023-04-24 23:30:00+00:00,1.0,15
+143843476,86183,10.0,False,False,False,False,False,NBA Snake $10 4-Player,36.0,NBA,2023-04-24 23:30:00+00:00,10.0,4
+143843490,86182,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143843491,86182,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143843492,86182,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143843493,86182,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143843494,86182,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143843495,86182,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143843496,86182,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143843497,86182,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143843498,86182,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143843499,86182,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143843500,86182,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143843501,86182,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143843502,86182,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143843503,86182,1.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2023-04-24 23:30:00+00:00,1.0,11
+143843507,86184,3.0,True,False,False,False,False,NBA Tiers $3 Double Up,30.0,NBA,2023-04-24 23:30:00+00:00,3.0,11
+143843510,86184,1.0,True,False,False,False,False,NBA Tiers $1 Double Up,10.0,NBA,2023-04-24 23:30:00+00:00,1.0,11
+143843512,86186,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143843515,86184,5.0,True,False,False,False,False,NBA Tiers $5 Double Up,50.0,NBA,2023-04-24 23:30:00+00:00,5.0,11
+143843618,86185,3.0,False,False,False,False,False,NBA Showdown $3 5-Player (Top 2 Win) (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,3.0,5
+143843620,86187,3.0,False,False,False,False,False,NBA Showdown $3 5-Player (Top 2 Win) (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,3.0,5
+143843625,86184,1.0,True,False,False,False,False,NBA Tiers $1 Double Up,10.0,NBA,2023-04-24 23:30:00+00:00,1.0,11
+143843627,86184,1.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143843652,86185,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIL vs MIA),60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143843700,86188,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143843768,86182,2.0,False,False,False,False,False,Casual NBA $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143843769,86182,2.0,False,False,False,False,False,Casual NBA $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143843770,86182,2.0,False,False,False,False,False,Casual NBA $2 3-Player,5.4,NBA,2023-04-24 23:30:00+00:00,2.0,3
+143843771,86182,3.0,True,False,False,False,False,Casual NBA $3 50-50,10.8,NBA,2023-04-24 23:30:00+00:00,3.0,4
+143843838,86185,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIL vs MIA),22.5,NBA,2023-04-24 23:30:00+00:00,5.0,5
+143843839,86188,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MEM vs LAL),2.7,NBA,2023-04-25 02:00:00+00:00,1.0,3
+143843918,86185,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIL vs MIA),60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143843948,86182,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143843949,86182,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143843950,86182,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143843951,86182,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143843952,86182,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143843953,86182,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143843954,86182,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143843955,86182,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143843956,86182,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-04-24 23:30:00+00:00,20.0,3
+143843957,86182,530.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2023-04-24 23:30:00+00:00,530.0,3
+143843958,86182,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143843959,86182,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143843960,86182,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-04-24 23:30:00+00:00,109.0,3
+143843961,86182,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143843962,86182,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2023-04-24 23:30:00+00:00,50.0,3
+143843963,86182,1060.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2023-04-24 23:30:00+00:00,1060.0,3
+143843964,86182,5300.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2023-04-24 23:30:00+00:00,5300.0,3
+143843965,86182,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2023-04-24 23:30:00+00:00,162.0,3
+143843966,86182,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2023-04-24 23:30:00+00:00,162.0,3
+143843967,86182,10600.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2023-04-24 23:30:00+00:00,10600.0,3
+143843968,86182,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,3
+143843969,86182,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2023-04-24 23:30:00+00:00,2120.0,3
+143843979,86188,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MEM vs LAL),2.7,NBA,2023-04-25 02:00:00+00:00,1.0,3
+143844001,86186,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143844471,86182,2.0,False,False,False,False,False,NBA $2 15-Player (Top 5 Win),27.0,NBA,2023-04-24 23:30:00+00:00,2.0,15
+143844599,86188,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (MEM vs LAL),13.5,NBA,2023-04-25 02:00:00+00:00,5.0,3
+143844604,86186,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIL vs MIA),2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143844605,86188,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MEM vs LAL),2.7,NBA,2023-04-25 02:00:00+00:00,1.0,3
+143844622,86187,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MEM vs LAL),60.0,NBA,2023-04-25 02:00:00+00:00,3.0,23
+143844629,86187,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (MEM vs LAL),2.7,NBA,2023-04-25 02:00:00+00:00,1.0,3
+143844631,86184,1.0,False,False,False,False,False,NBA Tiers $1 5-Player (Top 2 Win),4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143844632,86182,1.0,False,False,False,False,False,NBA $1 5-Player (Top 2 Win),4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143844634,86185,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143844635,86185,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIL vs MIA),18.0,NBA,2023-04-24 23:30:00+00:00,1.0,20
+143844636,86185,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143844637,86185,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIL vs MIA),9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143844867,86186,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (MIL vs MIA),13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143844868,86184,0.0,False,False,False,False,False,NBA Tiers FREE 200-Player,0.0,NBA,2023-04-24 23:30:00+00:00,0.0,200
+143844870,86185,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIL vs MIA),60.0,NBA,2023-04-24 23:30:00+00:00,3.0,23
+143844875,86187,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (MEM vs LAL),30.0,NBA,2023-04-25 02:00:00+00:00,3.0,11
+143844877,86189,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H MEM vs LAL),45.0,NBA,2023-04-25 03:00:00+00:00,5.0,10
+143845006,86184,1.0,True,False,False,False,False,Beginner NBA Tiers $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143845064,86185,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIL vs MIA),20.0,NBA,2023-04-24 23:30:00+00:00,1.0,23
+143845075,86182,1.0,True,False,False,False,False,Casual NBA $1 50-50,9.0,NBA,2023-04-24 23:30:00+00:00,1.0,10
+143845123,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143845124,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),36.0,NBA,2023-04-24 23:30:00+00:00,10.0,4
+143845125,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143845169,86187,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,10.0,10
+143845170,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143845171,86185,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIL vs MIA),250.0,NBA,2023-04-24 23:30:00+00:00,25.0,11
+143845172,86185,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIL vs MIA),100.0,NBA,2023-04-24 23:30:00+00:00,10.0,11
+143845173,86185,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIL vs MIA),100.0,NBA,2023-04-24 23:30:00+00:00,10.0,11
+143845453,86182,20.0,False,False,False,False,False,NBA $20 6-Player (Winner Takes All),108.0,NBA,2023-04-24 23:30:00+00:00,20.0,6
+143845553,86184,10.0,True,False,True,False,False,NBA Tiers $10 Double Up,100.0,NBA,2023-04-24 23:30:00+00:00,10.0,11
+143845646,86185,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIL vs MIA),27.0,NBA,2023-04-24 23:30:00+00:00,1.0,31
+143845661,86187,10.0,False,False,False,False,False,NBA Showdown $10 8-Player (Winner Takes All) (MEM vs LAL),72.0,NBA,2023-04-25 02:00:00+00:00,10.0,8
+143845672,86182,5.0,True,False,False,False,False,Casual NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143845730,86184,2.0,False,False,False,False,False,NBA Tiers $2 20-Player,36.0,NBA,2023-04-24 23:30:00+00:00,2.0,20
+143845846,86182,3.0,False,False,False,False,False,NBA $3 20-Player (Winner Takes All),54.0,NBA,2023-04-24 23:30:00+00:00,3.0,20
+143845854,86183,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143845866,86182,0.0,False,False,False,False,False,NBA FREE 3-Player x4,0.0,NBA,2023-04-24 23:30:00+00:00,0.0,3
+143845875,86187,1.0,False,False,False,False,False,NBA Showdown $1 20-Player (Winner Takes All) (MEM vs LAL),18.0,NBA,2023-04-25 02:00:00+00:00,1.0,20
+143845888,86183,1.0,False,False,False,False,False,NBA Snake $1 4-Player,3.6,NBA,2023-04-24 23:30:00+00:00,1.0,4
+143845889,86186,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIL vs MIA),2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143845916,86183,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2023-04-24 23:30:00+00:00,5.0,3
+143845918,86182,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2023-04-24 23:30:00+00:00,2.0,5
+143845919,86182,1.0,False,False,False,False,False,NBA $1 35-Player (Winner Takes All),31.5,NBA,2023-04-24 23:30:00+00:00,1.0,35
+143845920,86182,1.0,False,False,False,False,False,NBA $1 75-Player (Winner Takes All),67.5,NBA,2023-04-24 23:30:00+00:00,1.0,75
+143845926,86184,2.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2023-04-24 23:30:00+00:00,2.0,10
+143845976,86183,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143846088,86183,5.0,False,False,False,False,False,NBA Snake $5 4-Player,18.0,NBA,2023-04-24 23:30:00+00:00,5.0,4
+143846275,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143846276,86187,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (MEM vs LAL),50.0,NBA,2023-04-25 02:00:00+00:00,5.0,11
+143846277,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,5.0,20
+143846278,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143846279,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),45.0,NBA,2023-04-25 02:00:00+00:00,5.0,10
+143846280,86187,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MEM vs LAL),180.0,NBA,2023-04-25 02:00:00+00:00,10.0,20
+143846281,86187,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,10.0,10
+143846282,86187,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,10.0,10
+143846283,86187,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MEM vs LAL),90.0,NBA,2023-04-25 02:00:00+00:00,5.0,20
+143846284,86185,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (MIL vs MIA),50.0,NBA,2023-04-24 23:30:00+00:00,5.0,11
+143846286,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143846287,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143846288,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143846289,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143846290,86185,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIL vs MIA),45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143846291,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),180.0,NBA,2023-04-24 23:30:00+00:00,10.0,20
+143846292,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143846293,86185,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIL vs MIA),90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143846299,86182,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143846300,86182,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143846301,86182,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143846302,86182,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2023-04-24 23:30:00+00:00,5.0,10
+143846303,86182,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143846304,86182,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143846305,86182,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,5.0,20
+143846306,86182,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143846307,86182,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143846308,86182,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2023-04-24 23:30:00+00:00,10.0,10
+143846309,86182,10.0,True,False,False,False,False,NBA $10 50-50,180.0,NBA,2023-04-24 23:30:00+00:00,10.0,20
+143846315,86188,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MEM vs LAL),27.0,NBA,2023-04-25 02:00:00+00:00,10.0,3
+143846316,86183,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143846594,86183,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2023-04-24 23:30:00+00:00,10.0,3
+143847040,86187,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MEM vs LAL),60.0,NBA,2023-04-25 02:00:00+00:00,3.0,23
+143847045,86182,1.0,False,False,False,False,False,NBA $1 40-Player (Winner Takes All),36.0,NBA,2023-04-24 23:30:00+00:00,1.0,40
+143847087,86185,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (MIL vs MIA),4.5,NBA,2023-04-24 23:30:00+00:00,1.0,5
+143847136,86185,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (MIL vs MIA),1000.0,NBA,2023-04-24 23:30:00+00:00,267.0,4
+143847138,86187,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (MEM vs LAL),1000.0,NBA,2023-04-25 02:00:00+00:00,267.0,4
+143847313,86186,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIL vs MIA),2.7,NBA,2023-04-24 23:30:00+00:00,1.0,3
+143847323,86182,3.0,False,False,False,False,False,NBA $3 10-Player (Winner Takes All),27.0,NBA,2023-04-24 23:30:00+00:00,3.0,10
