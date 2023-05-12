@@ -1,0 +1,881 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+144125803,86749,0.0,False,False,True,False,True,NBA $2K Quarter Jukebox [Just $0.25!] (Wed - Thur),2000.0,NBA,2023-05-04 00:00:00+00:00,0.25,9512
+144125804,86749,5.0,False,False,True,False,True,NBA $4K High Five [Single Entry] (Wed - Thur),4000.0,NBA,2023-05-04 00:00:00+00:00,5.0,951
+144125805,86749,300.0,False,False,True,False,True,NBA $1.35K 3-Ball [Single Entry] (Wed - Thur),1350.0,NBA,2023-05-04 00:00:00+00:00,300.0,5
+144125806,86749,180.0,False,False,True,False,True,NBA $10.9K Windmill [$3K to 1st] (Wed - Thur),10900.0,NBA,2023-05-04 00:00:00+00:00,180.0,67
+144125807,86749,33.0,False,False,True,False,True,NBA $2K Triple Threat [2 Entry Max] (Wed - Thur),2000.0,NBA,2023-05-04 00:00:00+00:00,33.0,70
+144125808,86749,1.0,False,False,True,False,True,NBA $8K And-One (Wed - Thur),8000.0,NBA,2023-05-04 00:00:00+00:00,1.0,9512
+144125809,86749,50.0,False,False,True,False,True,NBA $2K Ankle Breaker [Single Entry] (Wed - Thur),2000.0,NBA,2023-05-04 00:00:00+00:00,50.0,45
+144125810,86749,15.0,False,False,True,False,True,NBA $60K Fadeaway [$20K to 1st] (Wed - Thur),60000.0,NBA,2023-05-04 00:00:00+00:00,15.0,4705
+144125811,86749,3.0,False,False,True,False,True,NBA $6K Sharpshooter [20 Entry Max] (Wed - Thur),6000.0,NBA,2023-05-04 00:00:00+00:00,3.0,2378
+144125812,86749,100.0,False,False,True,False,True,NBA $1.35K Showtime [Single Entry] (Wed - Thur),1350.0,NBA,2023-05-04 00:00:00+00:00,100.0,15
+144125813,86749,12.0,False,False,True,False,True,NBA $2.5K Pick and Roll [Single Entry] (Wed - Thur),2500.0,NBA,2023-05-04 00:00:00+00:00,12.0,245
+144125814,86718,50.0,False,False,True,False,True,NBA Showdown $3K Ankle Breaker [2 Entry Max] (PHI vs BOS),3000.0,NBA,2023-05-04 00:00:00+00:00,50.0,68
+144125815,86718,100.0,False,False,True,False,True,NBA Showdown $10K Showtime [Single Entry] (PHI vs BOS),10000.0,NBA,2023-05-04 00:00:00+00:00,100.0,111
+144125816,86718,40.0,False,False,True,False,True,NBA Showdown $10K Mid Range Jumper [Single Entry] (PHI vs BOS),10000.0,NBA,2023-05-04 00:00:00+00:00,40.0,291
+144125817,86718,12.0,False,False,True,False,True,NBA Showdown $10K Pick and Roll [Single Entry] (PHI vs BOS),10000.0,NBA,2023-05-04 00:00:00+00:00,12.0,980
+144125818,86718,1.0,False,False,True,False,True,NBA Showdown $3K Daily Dollar [Single Entry] (PHI vs BOS),3000.0,NBA,2023-05-04 00:00:00+00:00,1.0,3567
+144125819,86718,25.0,True,False,True,False,True,NBA Showdown $25 Double Up (PHI vs BOS),2000.0,NBA,2023-05-04 00:00:00+00:00,25.0,91
+144125820,86718,3.0,False,False,True,False,True,NBA Showdown $8K Hot Shot [3 Entry Max] (PHI vs BOS),8000.0,NBA,2023-05-04 00:00:00+00:00,3.0,3170
+144125821,86718,0.0,False,False,True,False,True,NBA Showdown $5K Quarter Jukebox [Just $0.25!] (PHI vs BOS),5000.0,NBA,2023-05-04 00:00:00+00:00,0.25,23781
+144125822,86718,100.0,False,False,True,False,True,NBA Showdown $20K Showtime [Single Entry] (PHI vs BOS),20000.0,NBA,2023-05-04 00:00:00+00:00,100.0,222
+144125823,86718,27.0,False,False,True,False,True,NBA Showdown $4K Fast Break [Single Entry] (PHI vs BOS),4000.0,NBA,2023-05-04 00:00:00+00:00,27.0,172
+144125824,86718,5.0,False,False,True,False,True,NBA Showdown $12K High Five [Single Entry] (PHI vs BOS),12000.0,NBA,2023-05-04 00:00:00+00:00,5.0,2853
+144125825,86718,5.0,False,False,True,False,True,NBA Showdown $6K High Five [Single Entry] (PHI vs BOS),6000.0,NBA,2023-05-04 00:00:00+00:00,5.0,1426
+144125826,86718,2.0,False,False,True,False,True,NBA Showdown $2K Elbow Shot [Single Entry] (PHI vs BOS),2000.0,NBA,2023-05-04 00:00:00+00:00,2.0,1189
+144125827,86718,25.0,True,False,True,False,True,NBA Showdown Single Entry $25 Double Up (PHI vs BOS),3000.0,NBA,2023-05-04 00:00:00+00:00,25.0,137
+144125828,86718,10.0,True,False,True,False,True,NBA Showdown Single Entry $10 Double Up (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,10.0,114
+144125829,86718,10.0,True,False,True,False,True,NBA Showdown $10 Double Up (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,10.0,114
+144125830,86718,5.0,True,False,True,False,True,NBA Showdown Single Entry $5 Double Up (PHI vs BOS),2000.0,NBA,2023-05-04 00:00:00+00:00,5.0,459
+144125831,86718,2.0,True,False,True,False,True,NBA Showdown $2 Double Up (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,2.0,574
+144125832,86720,10.0,False,False,True,False,True,NBA In-Game $8K Pull Up Jumper [$2K to 1st] (2H PHI vs BOS),8000.0,NBA,2023-05-04 01:00:00+00:00,10.0,941
+144125833,86720,50.0,False,False,True,False,True,NBA In-Game $500 Ankle Breaker [Single Entry] (2H PHI vs BOS),500.0,NBA,2023-05-04 01:00:00+00:00,50.0,11
+144125834,86720,3.0,False,False,True,False,True,NBA In-Game $200 Sharpshooter [2 Entry Max] (2H PHI vs BOS),200.0,NBA,2023-05-04 01:00:00+00:00,3.0,79
+144125835,86720,27.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (2H PHI vs BOS),240.0,NBA,2023-05-04 01:00:00+00:00,27.0,10
+144125836,86720,300.0,False,False,True,False,True,NBA In-Game $1.35K 3-Ball [Single Entry] (2H PHI vs BOS),1350.0,NBA,2023-05-04 01:00:00+00:00,300.0,5
+144125837,86720,100.0,False,False,True,False,True,NBA In-Game $1K Showtime [Single Entry] (2H PHI vs BOS),1000.0,NBA,2023-05-04 01:00:00+00:00,100.0,11
+144125838,86720,1.0,False,False,True,False,True,NBA In-Game $400 And-One (2H PHI vs BOS),400.0,NBA,2023-05-04 01:00:00+00:00,1.0,475
+144125839,86720,0.0,False,False,True,False,True,NBA In-Game $150 Quarter Jukebox [Just $0.25!] (2H PHI vs BOS),150.0,NBA,2023-05-04 01:00:00+00:00,0.25,713
+144125840,86720,12.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (2H PHI vs BOS),155.0,NBA,2023-05-04 01:00:00+00:00,12.0,15
+144125841,86720,5.0,False,False,True,False,True,NBA In-Game $400 High Five [Single Entry] (2H PHI vs BOS),400.0,NBA,2023-05-04 01:00:00+00:00,5.0,95
+144125842,86721,27.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (4Q PHI vs BOS),240.0,NBA,2023-05-04 01:20:00+00:00,27.0,10
+144125843,86721,0.0,False,False,True,False,True,NBA In-Game $50 Quarter Jukebox [Just $0.25!] (4Q PHI vs BOS),50.0,NBA,2023-05-04 01:20:00+00:00,0.25,237
+144125844,86721,12.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (4Q PHI vs BOS),155.0,NBA,2023-05-04 01:20:00+00:00,12.0,15
+144125845,86721,10.0,False,False,True,False,True,NBA In-Game $500 Pull Up Jumper [$100 to 1st] (4Q PHI vs BOS),500.0,NBA,2023-05-04 01:20:00+00:00,10.0,58
+144125846,86721,1.0,False,False,True,False,True,NBA In-Game $200 And-One (4Q PHI vs BOS),200.0,NBA,2023-05-04 01:20:00+00:00,1.0,237
+144125847,86721,5.0,False,False,True,False,True,NBA In-Game $200 High Five [Single Entry] (4Q PHI vs BOS),200.0,NBA,2023-05-04 01:20:00+00:00,5.0,47
+144125998,86749,50.0,True,False,True,False,False,NBA $50 Double Up (Wed - Thur),500.0,NBA,2023-05-04 00:00:00+00:00,50.0,11
+144125999,86749,25.0,True,False,True,False,False,NBA $25 Double Up (Wed - Thur),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144126000,86749,1.0,True,False,True,False,False,NBA $1 Double Up (Wed - Thur),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126001,86749,3.0,True,False,True,False,False,NBA $3 Double Up (Wed - Thur),60.0,NBA,2023-05-04 00:00:00+00:00,3.0,23
+144126002,86749,5.0,True,False,True,False,False,NBA $5 Double Up (Wed - Thur),100.0,NBA,2023-05-04 00:00:00+00:00,5.0,23
+144126003,86749,10.0,True,False,True,False,False,NBA $10 Double Up (Wed - Thur),100.0,NBA,2023-05-04 00:00:00+00:00,10.0,11
+144126005,86749,1.0,True,False,True,False,False,NBA $1 Double Up (Wed - Thur),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126006,86749,3.0,True,False,True,False,False,NBA $3 Double Up (Wed - Thur),60.0,NBA,2023-05-04 00:00:00+00:00,3.0,23
+144126007,86749,5.0,True,False,True,False,False,NBA $5 Double Up (Wed - Thur),100.0,NBA,2023-05-04 00:00:00+00:00,5.0,23
+144126008,86749,10.0,True,False,True,False,False,NBA $10 Double Up (Wed - Thur),100.0,NBA,2023-05-04 00:00:00+00:00,10.0,11
+144126009,86749,85.0,False,False,True,False,True,NBA $85 Winner Take All [$300 to 1st] (Wed - Thur),300.0,NBA,2023-05-04 00:00:00+00:00,85.0,4
+144126010,86749,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire (Wed - Thur),25.0,NBA,2023-05-04 00:00:00+00:00,0.1,297
+144126011,86749,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire (Wed - Thur),25.0,NBA,2023-05-04 00:00:00+00:00,0.1,297
+144126012,86749,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire (Wed - Thur),25.0,NBA,2023-05-04 00:00:00+00:00,0.5,59
+144126013,86749,0.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire (Wed - Thur),25.0,NBA,2023-05-04 00:00:00+00:00,0.5,59
+144126014,86749,1.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire (Wed - Thur),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,29
+144126015,86749,1.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire (Wed - Thur),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,29
+144126016,86749,2.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire (Wed - Thur),25.0,NBA,2023-05-04 00:00:00+00:00,2.0,14
+144126017,86749,2.0,False,False,True,False,True,NBA Satellite to $25 Fantasy Basketball Millionaire (Wed - Thur),25.0,NBA,2023-05-04 00:00:00+00:00,2.0,14
+144126018,86749,0.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x] (Wed - Thur),50.0,NBA,2023-05-04 00:00:00+00:00,0.5,118
+144126019,86749,0.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x] (Wed - Thur),50.0,NBA,2023-05-04 00:00:00+00:00,0.5,118
+144126020,86749,2.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x] (Wed - Thur),50.0,NBA,2023-05-04 00:00:00+00:00,2.0,29
+144126021,86749,2.0,False,False,True,False,True,NBA SUPERSat to $25 Fantasy Basketball Millionaire [2x] (Wed - Thur),50.0,NBA,2023-05-04 00:00:00+00:00,2.0,29
+144126022,86749,2.0,False,False,True,False,True,NBA Satellite to TEN $20 French Slam (Wed - Thur),20.0,NBA,2023-05-04 00:00:00+00:00,2.0,11
+144126023,86749,0.0,False,False,True,False,True,NBA Satellite to TEN $20 French Slam (Wed - Thur),20.0,NBA,2023-05-04 00:00:00+00:00,0.25,95
+144126024,86749,1.0,False,False,True,False,False,NBA SUPERSat to CFL $10 Return to Kickoff Special (2x) (6-8-2023) (Wed - Thur),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126025,86749,0.0,False,False,True,False,False,NBA Satellite to CFL $10 Return to Kickoff Special (6-8-2023) (Wed - Thur),10.0,NBA,2023-05-04 00:00:00+00:00,0.5,23
+144126077,86718,3.0,False,False,True,False,False,NBA Showdown $3 Winner Take All [$100 to 1st] (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,3.0,39
+144126078,86718,1.0,False,False,True,False,False,NBA Showdown $1 Winner Take All [$100 to 1st] (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,1.0,118
+144126079,86718,0.0,False,False,True,False,True,NBA Showdown $400 Dime Time [Just $0.10!] (PHI vs BOS),400.0,NBA,2023-05-04 00:00:00+00:00,0.1,4756
+144126080,86718,1.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,28
+144126081,86718,1.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,28
+144126082,86718,1.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,28
+144126083,86718,5.0,False,False,True,False,False,NBA Showdown $5 Quintuple Up [Top 5 Win $25] (PHI vs BOS),125.0,NBA,2023-05-04 00:00:00+00:00,5.0,28
+144126084,86718,5.0,False,False,True,False,False,NBA Showdown $5 Quintuple Up [Top 5 Win $25] (PHI vs BOS),125.0,NBA,2023-05-04 00:00:00+00:00,5.0,28
+144126085,86718,10.0,False,False,True,False,False,NBA Showdown $10 Quintuple Up [Top 5 Win $50] (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,10.0,28
+144126086,86718,20.0,False,False,True,False,False,NBA Showdown $20 Winner Take All [$175 to 1st] (PHI vs BOS),175.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144126087,86718,2.0,False,False,True,False,False,NBA Showdown $2 Winner Take All [$120 to 1st] (PHI vs BOS),120.0,NBA,2023-05-04 00:00:00+00:00,2.0,71
+144126088,86718,0.0,False,False,True,False,False,NBA Showdown $0.25 Winner Take All [$50 to 1st] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.25,237
+144126089,86718,250.0,True,False,True,False,False,NBA Showdown $250 Double Up (PHI vs BOS),2500.0,NBA,2023-05-04 00:00:00+00:00,250.0,11
+144126090,86718,100.0,True,False,True,False,False,NBA Showdown $100 Double Up (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,100.0,11
+144126091,86718,100.0,True,False,True,False,False,NBA Showdown $100 Double Up (PHI vs BOS),2000.0,NBA,2023-05-04 00:00:00+00:00,100.0,22
+144126092,86718,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,50.0,22
+144126093,86718,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,50.0,11
+144126094,86718,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (PHI vs BOS),200.0,NBA,2023-05-04 00:00:00+00:00,10.0,23
+144126095,86718,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (PHI vs BOS),200.0,NBA,2023-05-04 00:00:00+00:00,10.0,23
+144126097,86718,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (PHI vs BOS),60.0,NBA,2023-05-04 00:00:00+00:00,3.0,23
+144126098,86718,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (PHI vs BOS),60.0,NBA,2023-05-04 00:00:00+00:00,3.0,23
+144126099,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),200.0,NBA,2023-05-04 00:00:00+00:00,1.0,229
+144126100,86718,25.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $250] (PHI vs BOS),750.0,NBA,2023-05-04 00:00:00+00:00,25.0,35
+144126101,86718,10.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $100] (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,10.0,58
+144126102,86718,10.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,10.0,35
+144126103,86718,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $50] (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,5.0,59
+144126104,86718,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $50] (PHI vs BOS),150.0,NBA,2023-05-04 00:00:00+00:00,5.0,35
+144126105,86718,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 10 Win $20] (PHI vs BOS),200.0,NBA,2023-05-04 00:00:00+00:00,2.0,118
+144126106,86718,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $20] (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,2.0,59
+144126107,86718,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $20] (PHI vs BOS),60.0,NBA,2023-05-04 00:00:00+00:00,2.0,35
+144126108,86718,9.0,False,False,True,False,False,NBA Showdown $9 Contest (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,9.0,39
+144126109,86718,5.0,False,False,True,False,False,NBA Showdown $5 Contest (PHI vs BOS),200.0,NBA,2023-05-04 00:00:00+00:00,5.0,47
+144126110,86718,2.0,False,False,True,False,False,NBA Showdown $2 Contest (PHI vs BOS),200.0,NBA,2023-05-04 00:00:00+00:00,2.0,118
+144126111,86718,1.0,False,False,True,False,False,NBA Showdown $1 Contest (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,1.0,118
+144126112,86718,0.0,False,False,True,False,False,NBA Showdown $0.25 Contest (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.25,237
+144126113,86718,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,25.0,22
+144126114,86718,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,5.0,23
+144126115,86718,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,5.0,23
+144126116,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126117,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126118,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126119,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126120,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126121,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126122,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126123,86718,100.0,False,False,True,False,False,NBA Showdown $100 Winner Take All [$1K to 1st] (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,100.0,11
+144126124,86718,5.0,False,False,True,False,False,NBA Showdown $5 Winner Take All [$100 to 1st] (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,5.0,23
+144126125,86718,50.0,False,False,True,False,False,NBA Showdown $50 Winner Take All [$500 to 1st] (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,50.0,11
+144126126,86718,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144126127,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126128,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126129,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126130,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126131,86718,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (PHI vs BOS),60.0,NBA,2023-05-04 00:00:00+00:00,3.0,23
+144126132,86718,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (PHI vs BOS),60.0,NBA,2023-05-04 00:00:00+00:00,3.0,23
+144126133,86718,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,5.0,23
+144126134,86718,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,1.0,31
+144126135,86718,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (PHI vs BOS),135.0,NBA,2023-05-04 00:00:00+00:00,5.0,31
+144126136,86718,10.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 9 Win $30] (PHI vs BOS),270.0,NBA,2023-05-04 00:00:00+00:00,10.0,31
+144126137,86718,25.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 9 Win $75] (PHI vs BOS),675.0,NBA,2023-05-04 00:00:00+00:00,25.0,31
+144126138,86718,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 18 Win $15] (PHI vs BOS),270.0,NBA,2023-05-04 00:00:00+00:00,5.0,62
+144126139,86718,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 18 Win $3] (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,1.0,62
+144126140,86718,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 30 Win $3] (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,1.0,103
+144126142,86718,267.0,False,False,True,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,267.0,4
+144126144,86718,1.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (PHI vs BOS),34.0,NBA,2023-05-04 00:00:00+00:00,1.0,39
+144126145,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,1.0,62
+144126146,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,1.0,62
+144126148,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,1.0,62
+144126150,86718,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (PHI vs BOS),540.0,NBA,2023-05-04 00:00:00+00:00,10.0,62
+144126151,86718,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (PHI vs BOS),162.0,NBA,2023-05-04 00:00:00+00:00,3.0,62
+144126154,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),108.0,NBA,2023-05-04 00:00:00+00:00,1.0,124
+144126155,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),108.0,NBA,2023-05-04 00:00:00+00:00,1.0,124
+144126156,86718,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (PHI vs BOS),270.0,NBA,2023-05-04 00:00:00+00:00,5.0,62
+144126157,86718,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (PHI vs BOS),850.0,NBA,2023-05-04 00:00:00+00:00,25.0,39
+144126158,86718,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (PHI vs BOS),200.0,NBA,2023-05-04 00:00:00+00:00,10.0,23
+144126159,86718,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144126160,86718,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144126161,86718,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 6 Win $15] (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144126162,86718,50.0,False,False,True,False,False,NBA Showdown $50 Triple Up [Top 3 Win $150] (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,50.0,10
+144126163,86718,25.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 6 Win $75] (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,25.0,20
+144126164,86718,10.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 6 Win $30] (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,10.0,20
+144126165,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126166,86718,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126167,86718,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (PHI vs BOS),60.0,NBA,2023-05-04 00:00:00+00:00,3.0,23
+144126168,86718,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,5.0,23
+144126169,86718,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (PHI vs BOS),200.0,NBA,2023-05-04 00:00:00+00:00,10.0,23
+144126170,86718,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (PHI vs BOS),540.0,NBA,2023-05-04 00:00:00+00:00,5.0,124
+144126171,86718,10.0,True,False,True,False,True,NBA Showdown $10 Double Up (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,10.0,114
+144126172,86718,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (PHI vs BOS),324.0,NBA,2023-05-04 00:00:00+00:00,3.0,124
+144126173,86718,1.0,False,False,True,False,False,NBA Showdown $1 Hundo [Single Entry] (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,1.0,100
+144126174,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.1,297
+144126175,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.1,297
+144126176,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.1,297
+144126177,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.1,297
+144126178,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.1,297
+144126179,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.25,118
+144126180,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.25,118
+144126181,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.25,118
+144126182,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.25,118
+144126183,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.25,118
+144126184,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.5,59
+144126185,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.5,59
+144126186,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.5,59
+144126187,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.5,59
+144126188,86718,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,0.5,59
+144126189,86718,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,29
+144126190,86718,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,29
+144126191,86718,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,29
+144126192,86718,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,29
+144126193,86718,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,29
+144126194,86718,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,2.0,14
+144126195,86718,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,2.0,14
+144126196,86718,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,2.0,14
+144126197,86718,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,2.0,14
+144126198,86718,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,2.0,14
+144126199,86718,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.25,237
+144126200,86718,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.25,237
+144126201,86718,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.25,237
+144126202,86718,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.25,237
+144126203,86718,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.5,118
+144126204,86718,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.5,118
+144126205,86718,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.5,118
+144126206,86718,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.5,118
+144126207,86718,1.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,1.0,59
+144126208,86718,1.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,1.0,59
+144126209,86718,1.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,1.0,59
+144126210,86718,1.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,1.0,59
+144126211,86718,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,2.0,29
+144126212,86718,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,2.0,29
+144126213,86718,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,2.0,29
+144126214,86718,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,2.0,29
+144126215,86718,5.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [4x] (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,5.0,23
+144126216,86718,5.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [4x] (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,5.0,23
+144126217,86718,48.0,False,False,True,False,True,NBA Showdown Satellite to TEN $333 Clay Smash (PHI vs BOS),333.0,NBA,2023-05-04 00:00:00+00:00,48.0,8
+144126218,86718,16.0,False,False,True,False,True,NBA Showdown Satellite to TEN $333 Clay Smash (PHI vs BOS),333.0,NBA,2023-05-04 00:00:00+00:00,16.0,24
+144126219,86718,1.0,False,False,True,False,True,NBA Showdown SUPERSat to TEN $20 French Slam [2x] (PHI vs BOS),40.0,NBA,2023-05-04 00:00:00+00:00,1.0,47
+144126220,86718,2.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,2.0,11
+144126221,86718,9.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (PHI vs BOS),555.0,NBA,2023-05-04 00:00:00+00:00,9.0,72
+144126222,86718,34.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (PHI vs BOS),555.0,NBA,2023-05-04 00:00:00+00:00,34.0,19
+144126223,86718,63.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (PHI vs BOS),555.0,NBA,2023-05-04 00:00:00+00:00,63.0,10
+144126224,86718,90.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (PHI vs BOS),555.0,NBA,2023-05-04 00:00:00+00:00,90.0,7
+144126225,86718,4.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [10x] (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,4.0,74
+144126226,86718,0.0,False,False,True,False,True,Fantasy Golf Millionaire Satellite (5-18) [2x] (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,0.1,594
+144126227,86718,1.0,False,False,True,False,True,Fantasy Golf Millionaire Satellite (5-18) (PHI vs BOS),25.0,NBA,2023-05-04 00:00:00+00:00,1.0,29
+144126228,86718,2.0,False,False,True,False,True,Fantasy Golf Millionaire SUPERSatellite (5-18) [10x] (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,2.0,148
+144126229,86718,5.0,False,False,True,False,True,Fantasy Golf Millionaire SUPERSatellite (5-18) [5x] (PHI vs BOS),125.0,NBA,2023-05-04 00:00:00+00:00,5.0,29
+144126230,86718,0.0,False,False,True,False,False,NBA Showdown SUPERSat to CFL $10 Return to Kickoff Special (2x) (6-8-2023) (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,0.25,95
+144126231,86718,0.0,False,False,True,False,False,NBA Showdown SUPERSat to CFL $10 Return to Kickoff Special (2x) (6-8-2023) (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,0.5,47
+144126232,86718,1.0,False,False,True,False,False,NBA Showdown SUPERSat to CFL $10 Return to Kickoff Special (2x) (6-8-2023) (PHI vs BOS),20.0,NBA,2023-05-04 00:00:00+00:00,1.0,23
+144126233,86718,0.0,False,False,True,False,False,NBA Showdown Satellite to CFL $10 Return to Kickoff Special (6-8-2023) (PHI vs BOS),10.0,NBA,2023-05-04 00:00:00+00:00,0.25,47
+144126234,86718,0.0,False,False,True,False,False,NBA Showdown Satellite to CFL $10 Return to Kickoff Special (6-8-2023) (PHI vs BOS),10.0,NBA,2023-05-04 00:00:00+00:00,0.5,23
+144126235,86718,1.0,False,False,True,False,False,NBA Showdown Satellite to CFL $10 Return to Kickoff Special (6-8-2023) (PHI vs BOS),10.0,NBA,2023-05-04 00:00:00+00:00,1.0,11
+144126268,86720,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H PHI vs BOS),20.0,NBA,2023-05-04 01:00:00+00:00,1.0,23
+144126269,86720,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H PHI vs BOS),20.0,NBA,2023-05-04 01:00:00+00:00,1.0,23
+144126270,86720,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H PHI vs BOS),20.0,NBA,2023-05-04 01:00:00+00:00,1.0,23
+144126271,86720,85.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H PHI vs BOS),300.0,NBA,2023-05-04 01:00:00+00:00,85.0,4
+144126272,86720,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H PHI vs BOS),110.0,NBA,2023-05-04 01:00:00+00:00,25.0,5
+144126273,86720,25.0,True,False,True,False,False,NBA In-Game $25 Double Up (2H PHI vs BOS),250.0,NBA,2023-05-04 01:00:00+00:00,25.0,11
+144126274,86720,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H PHI vs BOS),100.0,NBA,2023-05-04 01:00:00+00:00,10.0,11
+144126275,86720,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H PHI vs BOS),100.0,NBA,2023-05-04 01:00:00+00:00,5.0,23
+144126276,86720,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H PHI vs BOS),100.0,NBA,2023-05-04 01:00:00+00:00,5.0,23
+144126277,86720,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (2H PHI vs BOS),60.0,NBA,2023-05-04 01:00:00+00:00,3.0,23
+144126278,86720,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (2H PHI vs BOS),60.0,NBA,2023-05-04 01:00:00+00:00,3.0,23
+144126279,86720,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H PHI vs BOS),25.0,NBA,2023-05-04 01:00:00+00:00,0.1,297
+144126280,86720,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H PHI vs BOS),25.0,NBA,2023-05-04 01:00:00+00:00,0.25,118
+144126281,86720,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H PHI vs BOS),25.0,NBA,2023-05-04 01:00:00+00:00,0.5,59
+144126282,86720,1.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H PHI vs BOS),25.0,NBA,2023-05-04 01:00:00+00:00,1.0,29
+144126286,86721,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (4Q PHI vs BOS),100.0,NBA,2023-05-04 01:20:00+00:00,5.0,23
+144126287,86721,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (4Q PHI vs BOS),200.0,NBA,2023-05-04 01:20:00+00:00,10.0,23
+144126288,86721,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (4Q PHI vs BOS),110.0,NBA,2023-05-04 01:20:00+00:00,25.0,5
+144126289,86721,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (4Q PHI vs BOS),20.0,NBA,2023-05-04 01:20:00+00:00,1.0,23
+144126290,86721,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (4Q PHI vs BOS),20.0,NBA,2023-05-04 01:20:00+00:00,1.0,23
+144126291,86721,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (4Q PHI vs BOS),60.0,NBA,2023-05-04 01:20:00+00:00,3.0,23
+144126292,86721,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (4Q PHI vs BOS),60.0,NBA,2023-05-04 01:20:00+00:00,3.0,23
+144126297,86720,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H PHI vs BOS),5.4,NBA,2023-05-04 01:00:00+00:00,2.0,3
+144126298,86720,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H PHI vs BOS),27.0,NBA,2023-05-04 01:00:00+00:00,10.0,3
+144126299,86720,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H PHI vs BOS),13.5,NBA,2023-05-04 01:00:00+00:00,5.0,3
+144126300,86720,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H PHI vs BOS),2.7,NBA,2023-05-04 01:00:00+00:00,1.0,3
+144126301,86720,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H PHI vs BOS),9.0,NBA,2023-05-04 01:00:00+00:00,1.0,10
+144126302,86720,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H PHI vs BOS),4.5,NBA,2023-05-04 01:00:00+00:00,1.0,5
+144126303,86720,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H PHI vs BOS),2.7,NBA,2023-05-04 01:00:00+00:00,1.0,3
+144126304,86720,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H PHI vs BOS),2.7,NBA,2023-05-04 01:00:00+00:00,1.0,3
+144126305,86720,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H PHI vs BOS),180.0,NBA,2023-05-04 01:00:00+00:00,20.0,10
+144126306,86720,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H PHI vs BOS),90.0,NBA,2023-05-04 01:00:00+00:00,10.0,10
+144126307,86720,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H PHI vs BOS),45.0,NBA,2023-05-04 01:00:00+00:00,5.0,10
+144126308,86720,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H PHI vs BOS),27.0,NBA,2023-05-04 01:00:00+00:00,3.0,10
+144126309,86720,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H PHI vs BOS),9.0,NBA,2023-05-04 01:00:00+00:00,1.0,10
+144126310,86720,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H PHI vs BOS),13.5,NBA,2023-05-04 01:00:00+00:00,5.0,3
+144126311,86720,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H PHI vs BOS),5.4,NBA,2023-05-04 01:00:00+00:00,2.0,3
+144126312,86720,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H PHI vs BOS),5.4,NBA,2023-05-04 01:00:00+00:00,2.0,3
+144126313,86720,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H PHI vs BOS),5.4,NBA,2023-05-04 01:00:00+00:00,2.0,3
+144126314,86720,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H PHI vs BOS),9.0,NBA,2023-05-04 01:00:00+00:00,2.0,5
+144126315,86720,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H PHI vs BOS),18.0,NBA,2023-05-04 01:00:00+00:00,2.0,10
+144126316,86720,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H PHI vs BOS),13.5,NBA,2023-05-04 01:00:00+00:00,5.0,3
+144126317,86720,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H PHI vs BOS),22.5,NBA,2023-05-04 01:00:00+00:00,5.0,5
+144126318,86720,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H PHI vs BOS),45.0,NBA,2023-05-04 01:00:00+00:00,5.0,10
+144126319,86720,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H PHI vs BOS),45.0,NBA,2023-05-04 01:00:00+00:00,10.0,5
+144126320,86720,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H PHI vs BOS),27.0,NBA,2023-05-04 01:00:00+00:00,10.0,3
+144126321,86720,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H PHI vs BOS),54.0,NBA,2023-05-04 01:00:00+00:00,20.0,3
+144126322,86720,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H PHI vs BOS),225.0,NBA,2023-05-04 01:00:00+00:00,50.0,5
+144126323,86720,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H PHI vs BOS),135.0,NBA,2023-05-04 01:00:00+00:00,50.0,3
+144126324,86720,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H PHI vs BOS),300.0,NBA,2023-05-04 01:00:00+00:00,109.0,3
+144126325,86720,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H PHI vs BOS),450.0,NBA,2023-05-04 01:00:00+00:00,162.0,3
+144126326,86720,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H PHI vs BOS),1500.0,NBA,2023-05-04 01:00:00+00:00,530.0,3
+144126327,86720,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H PHI vs BOS)",3000.0,NBA,2023-05-04 01:00:00+00:00,1060.0,3
+144126328,86720,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H PHI vs BOS)",15000.0,NBA,2023-05-04 01:00:00+00:00,5300.0,3
+144126329,86720,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H PHI vs BOS)",30000.0,NBA,2023-05-04 01:00:00+00:00,10600.0,3
+144126330,86720,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H PHI vs BOS),72.0,NBA,2023-05-04 01:00:00+00:00,20.0,4
+144126331,86720,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H PHI vs BOS),90.0,NBA,2023-05-04 01:00:00+00:00,10.0,10
+144126332,86720,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H PHI vs BOS),9.0,NBA,2023-05-04 01:00:00+00:00,1.0,10
+144126333,86720,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H PHI vs BOS),27.0,NBA,2023-05-04 01:00:00+00:00,3.0,10
+144126334,86720,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H PHI vs BOS),45.0,NBA,2023-05-04 01:00:00+00:00,5.0,10
+144126335,86720,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H PHI vs BOS)",20000.0,NBA,2023-05-04 01:00:00+00:00,5300.0,4
+144126336,86720,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H PHI vs BOS)",4000.0,NBA,2023-05-04 01:00:00+00:00,1060.0,4
+144126337,86720,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H PHI vs BOS),2000.0,NBA,2023-05-04 01:00:00+00:00,530.0,4
+144126338,86720,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H PHI vs BOS),400.0,NBA,2023-05-04 01:00:00+00:00,109.0,4
+144126339,86720,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H PHI vs BOS),180.0,NBA,2023-05-04 01:00:00+00:00,50.0,4
+144126340,86720,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H PHI vs BOS),72.0,NBA,2023-05-04 01:00:00+00:00,20.0,4
+144126341,86720,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H PHI vs BOS),36.0,NBA,2023-05-04 01:00:00+00:00,10.0,4
+144126342,86720,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H PHI vs BOS),450.0,NBA,2023-05-04 01:00:00+00:00,50.0,10
+144126343,86720,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H PHI vs BOS),9.0,NBA,2023-05-04 01:00:00+00:00,1.0,10
+144126344,86720,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H PHI vs BOS),45.0,NBA,2023-05-04 01:00:00+00:00,5.0,10
+144126345,86720,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H PHI vs BOS),600.0,NBA,2023-05-04 01:00:00+00:00,109.0,6
+144126346,86720,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H PHI vs BOS),18.0,NBA,2023-05-04 01:00:00+00:00,2.0,10
+144126347,86720,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H PHI vs BOS),180.0,NBA,2023-05-04 01:00:00+00:00,20.0,10
+144126348,86720,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H PHI vs BOS),90.0,NBA,2023-05-04 01:00:00+00:00,10.0,10
+144126349,86720,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H PHI vs BOS),90.0,NBA,2023-05-04 01:00:00+00:00,5.0,20
+144126350,86720,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H PHI vs BOS),180.0,NBA,2023-05-04 01:00:00+00:00,10.0,20
+144126351,86720,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H PHI vs BOS),360.0,NBA,2023-05-04 01:00:00+00:00,20.0,20
+144126352,86720,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H PHI vs BOS),36.0,NBA,2023-05-04 01:00:00+00:00,2.0,20
+144126353,86720,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H PHI vs BOS),18.0,NBA,2023-05-04 01:00:00+00:00,1.0,20
+144126354,86720,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H PHI vs BOS),4000.0,NBA,2023-05-04 01:00:00+00:00,1060.0,4
+144126355,86720,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H PHI vs BOS),1000.0,NBA,2023-05-04 01:00:00+00:00,267.0,4
+144126356,86721,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (4Q PHI vs BOS),5.4,NBA,2023-05-04 01:20:00+00:00,2.0,3
+144126357,86721,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (4Q PHI vs BOS),27.0,NBA,2023-05-04 01:20:00+00:00,10.0,3
+144126358,86721,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (4Q PHI vs BOS),13.5,NBA,2023-05-04 01:20:00+00:00,5.0,3
+144126359,86721,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (4Q PHI vs BOS),2.7,NBA,2023-05-04 01:20:00+00:00,1.0,3
+144126360,86721,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (4Q PHI vs BOS),9.0,NBA,2023-05-04 01:20:00+00:00,1.0,10
+144126361,86721,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (4Q PHI vs BOS),4.5,NBA,2023-05-04 01:20:00+00:00,1.0,5
+144126362,86721,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (4Q PHI vs BOS),2.7,NBA,2023-05-04 01:20:00+00:00,1.0,3
+144126363,86721,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (4Q PHI vs BOS),2.7,NBA,2023-05-04 01:20:00+00:00,1.0,3
+144126364,86721,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (4Q PHI vs BOS),180.0,NBA,2023-05-04 01:20:00+00:00,20.0,10
+144126365,86721,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (4Q PHI vs BOS),90.0,NBA,2023-05-04 01:20:00+00:00,10.0,10
+144126366,86721,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (4Q PHI vs BOS),45.0,NBA,2023-05-04 01:20:00+00:00,5.0,10
+144126367,86721,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (4Q PHI vs BOS),27.0,NBA,2023-05-04 01:20:00+00:00,3.0,10
+144126368,86721,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (4Q PHI vs BOS),9.0,NBA,2023-05-04 01:20:00+00:00,1.0,10
+144126369,86721,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (4Q PHI vs BOS),13.5,NBA,2023-05-04 01:20:00+00:00,5.0,3
+144126370,86721,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (4Q PHI vs BOS),5.4,NBA,2023-05-04 01:20:00+00:00,2.0,3
+144126371,86721,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (4Q PHI vs BOS),5.4,NBA,2023-05-04 01:20:00+00:00,2.0,3
+144126372,86721,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (4Q PHI vs BOS),5.4,NBA,2023-05-04 01:20:00+00:00,2.0,3
+144126373,86721,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (4Q PHI vs BOS),9.0,NBA,2023-05-04 01:20:00+00:00,2.0,5
+144126374,86721,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (4Q PHI vs BOS),18.0,NBA,2023-05-04 01:20:00+00:00,2.0,10
+144126375,86721,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (4Q PHI vs BOS),13.5,NBA,2023-05-04 01:20:00+00:00,5.0,3
+144126376,86721,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (4Q PHI vs BOS),22.5,NBA,2023-05-04 01:20:00+00:00,5.0,5
+144126377,86721,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (4Q PHI vs BOS),45.0,NBA,2023-05-04 01:20:00+00:00,5.0,10
+144126378,86721,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (4Q PHI vs BOS),45.0,NBA,2023-05-04 01:20:00+00:00,10.0,5
+144126379,86721,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (4Q PHI vs BOS),27.0,NBA,2023-05-04 01:20:00+00:00,10.0,3
+144126380,86721,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (4Q PHI vs BOS),54.0,NBA,2023-05-04 01:20:00+00:00,20.0,3
+144126381,86721,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (4Q PHI vs BOS),225.0,NBA,2023-05-04 01:20:00+00:00,50.0,5
+144126382,86721,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (4Q PHI vs BOS),135.0,NBA,2023-05-04 01:20:00+00:00,50.0,3
+144126383,86721,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (4Q PHI vs BOS),300.0,NBA,2023-05-04 01:20:00+00:00,109.0,3
+144126384,86721,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (4Q PHI vs BOS),450.0,NBA,2023-05-04 01:20:00+00:00,162.0,3
+144126385,86721,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (4Q PHI vs BOS),1500.0,NBA,2023-05-04 01:20:00+00:00,530.0,3
+144126386,86721,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (4Q PHI vs BOS)",3000.0,NBA,2023-05-04 01:20:00+00:00,1060.0,3
+144126387,86721,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (4Q PHI vs BOS)",15000.0,NBA,2023-05-04 01:20:00+00:00,5300.0,3
+144126388,86721,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (4Q PHI vs BOS)",30000.0,NBA,2023-05-04 01:20:00+00:00,10600.0,3
+144126389,86721,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (4Q PHI vs BOS),72.0,NBA,2023-05-04 01:20:00+00:00,20.0,4
+144126390,86721,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (4Q PHI vs BOS),90.0,NBA,2023-05-04 01:20:00+00:00,10.0,10
+144126391,86721,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (4Q PHI vs BOS),9.0,NBA,2023-05-04 01:20:00+00:00,1.0,10
+144126392,86721,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (4Q PHI vs BOS),27.0,NBA,2023-05-04 01:20:00+00:00,3.0,10
+144126393,86721,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (4Q PHI vs BOS),45.0,NBA,2023-05-04 01:20:00+00:00,5.0,10
+144126394,86721,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (4Q PHI vs BOS)",20000.0,NBA,2023-05-04 01:20:00+00:00,5300.0,4
+144126395,86721,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (4Q PHI vs BOS)",4000.0,NBA,2023-05-04 01:20:00+00:00,1060.0,4
+144126396,86721,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (4Q PHI vs BOS),2000.0,NBA,2023-05-04 01:20:00+00:00,530.0,4
+144126397,86721,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (4Q PHI vs BOS),400.0,NBA,2023-05-04 01:20:00+00:00,109.0,4
+144126398,86721,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (4Q PHI vs BOS),180.0,NBA,2023-05-04 01:20:00+00:00,50.0,4
+144126399,86721,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q PHI vs BOS),72.0,NBA,2023-05-04 01:20:00+00:00,20.0,4
+144126400,86721,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q PHI vs BOS),36.0,NBA,2023-05-04 01:20:00+00:00,10.0,4
+144126401,86721,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (4Q PHI vs BOS),450.0,NBA,2023-05-04 01:20:00+00:00,50.0,10
+144126402,86721,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (4Q PHI vs BOS),9.0,NBA,2023-05-04 01:20:00+00:00,1.0,10
+144126403,86721,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (4Q PHI vs BOS),45.0,NBA,2023-05-04 01:20:00+00:00,5.0,10
+144126404,86721,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (4Q PHI vs BOS),600.0,NBA,2023-05-04 01:20:00+00:00,109.0,6
+144126405,86721,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (4Q PHI vs BOS),18.0,NBA,2023-05-04 01:20:00+00:00,2.0,10
+144126406,86721,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q PHI vs BOS),180.0,NBA,2023-05-04 01:20:00+00:00,20.0,10
+144126407,86721,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q PHI vs BOS),90.0,NBA,2023-05-04 01:20:00+00:00,10.0,10
+144126408,86721,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (4Q PHI vs BOS),90.0,NBA,2023-05-04 01:20:00+00:00,5.0,20
+144126409,86721,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q PHI vs BOS),180.0,NBA,2023-05-04 01:20:00+00:00,10.0,20
+144126410,86721,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q PHI vs BOS),360.0,NBA,2023-05-04 01:20:00+00:00,20.0,20
+144126411,86721,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (4Q PHI vs BOS),36.0,NBA,2023-05-04 01:20:00+00:00,2.0,20
+144126412,86721,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (4Q PHI vs BOS),18.0,NBA,2023-05-04 01:20:00+00:00,1.0,20
+144126413,86721,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (4Q PHI vs BOS),4000.0,NBA,2023-05-04 01:20:00+00:00,1060.0,4
+144126414,86721,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (4Q PHI vs BOS),1000.0,NBA,2023-05-04 01:20:00+00:00,267.0,4
+144126444,86718,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,50.0,4
+144126445,86718,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,50.0,4
+144126446,86718,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (PHI vs BOS),400.0,NBA,2023-05-04 00:00:00+00:00,109.0,4
+144126447,86718,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (PHI vs BOS),400.0,NBA,2023-05-04 00:00:00+00:00,109.0,4
+144126448,86718,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144126449,86718,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144126450,86718,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144126451,86718,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126452,86718,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126453,86718,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126454,86718,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126455,86718,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126456,86718,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126458,86718,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126459,86718,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126460,86718,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126461,86718,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126462,86718,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126463,86718,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (PHI vs BOS),1500.0,NBA,2023-05-04 00:00:00+00:00,530.0,3
+144126464,86718,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144126465,86718,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144126466,86718,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144126467,86718,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (PHI vs BOS),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144126468,86718,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (PHI vs BOS),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144126469,86718,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (PHI vs BOS),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144126470,86718,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126471,86718,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126472,86718,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126473,86718,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (PHI vs BOS),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144126474,86718,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (PHI vs BOS),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144126475,86718,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (PHI vs BOS),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144126476,86718,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,10.0,5
+144126477,86718,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,10.0,5
+144126478,86718,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,10.0,5
+144126479,86718,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,20.0,5
+144126480,86718,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,20.0,5
+144126481,86718,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,20.0,5
+144126482,86718,109.0,False,False,False,False,False,NBA Showdown $109 5-Player (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,109.0,5
+144126483,86718,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126484,86718,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126485,86718,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126486,86718,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126487,86718,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126488,86718,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126489,86718,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126490,86718,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126491,86718,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126492,86718,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126493,86718,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126494,86718,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126495,86718,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126496,86718,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126497,86718,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126498,86718,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126499,86718,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126500,86718,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144126501,86718,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144126502,86718,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (PHI vs BOS),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144126503,86718,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (PHI vs BOS),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144126504,86718,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (PHI vs BOS),225.0,NBA,2023-05-04 00:00:00+00:00,50.0,5
+144126505,86718,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (PHI vs BOS),225.0,NBA,2023-05-04 00:00:00+00:00,50.0,5
+144126506,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (PHI vs BOS)",20000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,4
+144126507,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (PHI vs BOS)",20000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,4
+144126508,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (PHI vs BOS)",20000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,4
+144126509,86718,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (PHI vs BOS)",3000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,3
+144126510,86718,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (PHI vs BOS),2000.0,NBA,2023-05-04 00:00:00+00:00,530.0,4
+144126511,86718,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (PHI vs BOS)",4000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,4
+144126512,86718,20.0,False,False,False,False,False,NBA Showdown $20 10-Player (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144126513,86718,20.0,False,False,False,False,False,NBA Showdown $20 10-Player (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144126514,86718,1.0,False,False,False,False,False,NBA Showdown $1 20-Player (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,1.0,20
+144126515,86718,1.0,False,False,False,False,False,NBA Showdown $1 20-Player (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,1.0,20
+144126516,86718,1.0,False,False,False,False,False,NBA Showdown $1 20-Player (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,1.0,20
+144126517,86718,2.0,False,False,False,False,False,NBA Showdown $2 20 Player (PHI vs BOS),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144126518,86718,2.0,False,False,False,False,False,NBA Showdown $2 20 Player (PHI vs BOS),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144126519,86718,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,1.0,50
+144126520,86718,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,1.0,50
+144126521,86718,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,1.0,50
+144126522,86718,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (PHI vs BOS),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144126523,86718,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (PHI vs BOS),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144126524,86718,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (PHI vs BOS),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144126525,86718,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (PHI vs BOS),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144126526,86718,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (PHI vs BOS),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144126527,86718,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,50.0,10
+144126528,86718,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,50.0,10
+144126529,86718,50.0,False,False,False,False,False,NBA Showdown $50 10-Player (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,50.0,10
+144126530,86718,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (PHI vs BOS)",20000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,4
+144126531,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (PHI vs BOS)",15000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,3
+144126532,86718,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144126533,86718,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144126534,86718,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144126535,86718,5.0,False,False,False,False,False,NBA Showdown $5 20-Player (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144126536,86718,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (PHI vs BOS),360.0,NBA,2023-05-04 00:00:00+00:00,20.0,20
+144126537,86718,20.0,False,False,False,False,False,NBA Showdown $20 20-Player (PHI vs BOS),360.0,NBA,2023-05-04 00:00:00+00:00,20.0,20
+144126538,86718,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126539,86718,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126540,86718,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126541,86718,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (PHI vs BOS),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144126542,86718,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (PHI vs BOS),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144126543,86718,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (PHI vs BOS),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144126544,86718,2.0,False,False,False,False,False,NBA Showdown $2 40-Player (PHI vs BOS),72.0,NBA,2023-05-04 00:00:00+00:00,2.0,40
+144126545,86718,2.0,False,False,False,False,False,NBA Showdown $2 40-Player (PHI vs BOS),72.0,NBA,2023-05-04 00:00:00+00:00,2.0,40
+144126546,86718,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (PHI vs BOS),600.0,NBA,2023-05-04 00:00:00+00:00,162.0,4
+144126547,86718,162.0,False,False,False,False,False,NBA Showdown $162 5-Player (PHI vs BOS),750.0,NBA,2023-05-04 00:00:00+00:00,162.0,5
+144126548,86718,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,162.0,3
+144126549,86718,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,162.0,3
+144126550,86718,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (PHI vs BOS)",30000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,3
+144126551,86718,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,10.0,20
+144126552,86718,10.0,False,False,False,False,False,NBA Showdown $10 20-Player (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,10.0,20
+144126553,86718,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,1.0,20
+144126554,86718,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,1.0,20
+144126555,86718,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,1.0,20
+144126556,86718,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126557,86718,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126558,86718,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126559,86718,1.0,False,False,False,False,False,NBA Showdown $1 40-Player (PHI vs BOS),36.0,NBA,2023-05-04 00:00:00+00:00,1.0,40
+144126560,86718,1.0,False,False,False,False,False,NBA Showdown $1 40-Player (PHI vs BOS),36.0,NBA,2023-05-04 00:00:00+00:00,1.0,40
+144126561,86718,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,50.0,10
+144126562,86718,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126563,86718,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126564,86718,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126565,86718,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (PHI vs BOS),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144126566,86718,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (PHI vs BOS),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144126567,86718,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (PHI vs BOS),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144126568,86718,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126569,86718,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126570,86718,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126571,86718,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,3.0,10
+144126572,86718,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,3.0,10
+144126573,86718,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,3.0,10
+144126574,86718,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144126575,86718,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144126576,86718,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144126577,86718,20.0,False,False,False,False,False,Beginner NBA Showdown $20 5-Player (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,20.0,5
+144126578,86718,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126579,86718,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126580,86718,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126581,86718,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126582,86718,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126583,86718,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126584,86718,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126585,86718,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126586,86718,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126587,86718,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126588,86718,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126589,86718,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126590,86718,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,10.0,5
+144126591,86718,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126592,86718,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126593,86718,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126594,86718,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126595,86718,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126596,86718,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126597,86718,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144126598,86718,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144126599,86718,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144126600,86718,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (PHI vs BOS),600.0,NBA,2023-05-04 00:00:00+00:00,109.0,6
+144126601,86718,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (PHI vs BOS)",40000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,4
+144126602,86718,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (PHI vs BOS)",40000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,4
+144126603,86718,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (PHI vs BOS)",40000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,4
+144126604,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (PHI vs BOS)",6000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,3
+144126605,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (PHI vs BOS)",6000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,3
+144126606,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (PHI vs BOS)",10000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,5
+144126607,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (PHI vs BOS)",10000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,5
+144126608,86718,2120.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (PHI vs BOS)",8000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,4
+144126609,86718,2120.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (PHI vs BOS)",8000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,4
+144126610,86718,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,50.0,4
+144126611,86718,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (PHI vs BOS),72.0,NBA,2023-05-04 00:00:00+00:00,20.0,4
+144126612,86718,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126613,86718,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126614,86718,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,3.0,10
+144126615,86718,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (PHI vs BOS),10.8,NBA,2023-05-04 00:00:00+00:00,3.0,4
+144126616,86718,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126617,86718,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (PHI vs BOS),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144126618,86718,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126619,86718,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,10.0,5
+144126620,86718,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126621,86718,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126622,86718,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126623,86718,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,109.0,5
+144126624,86718,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,10.0,11
+144126625,86718,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144126626,86718,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,50.0,11
+144126627,86718,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,5.0,11
+144126628,86718,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (PHI vs BOS),30.0,NBA,2023-05-04 00:00:00+00:00,3.0,11
+144126629,86718,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (PHI vs BOS),10.0,NBA,2023-05-04 00:00:00+00:00,1.0,11
+144126630,86718,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,25.0,22
+144126631,86718,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,50.0,22
+144126632,86718,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (PHI vs BOS),4000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,4
+144126633,86718,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,267.0,4
+144126634,86718,100.0,False,False,False,False,True,NBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (PHI vs BOS),460.0,NBA,2023-05-04 00:00:00+00:00,100.0,5
+144126644,86749,20.0,False,False,False,False,False,Beginner NBA $20 3-Player (Wed - Thur),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126645,86749,50.0,False,False,False,False,False,Beginner NBA $50 3-Player (Wed - Thur),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144126646,86749,10.0,False,False,False,False,False,Beginner NBA $10 3-Player (Wed - Thur),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126647,86749,5.0,False,False,False,False,False,Beginner NBA $5 3-Player (Wed - Thur),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126648,86749,1.0,False,False,False,False,False,Beginner NBA $1 3-Player (Wed - Thur),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144126649,86749,5300.0,True,False,False,False,False,"NBA $5,300 50-50 (Wed - Thur)",20000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,4
+144126650,86749,1060.0,True,False,False,False,False,"NBA $1,060 50-50 (Wed - Thur)",4000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,4
+144126651,86749,530.0,True,False,False,False,False,NBA $530 50-50 (Wed - Thur),2000.0,NBA,2023-05-04 00:00:00+00:00,530.0,4
+144126652,86749,162.0,True,False,False,False,False,NBA $162 50-50 (Wed - Thur),600.0,NBA,2023-05-04 00:00:00+00:00,162.0,4
+144126653,86749,109.0,True,False,False,False,False,NBA $109 50-50 (Wed - Thur),400.0,NBA,2023-05-04 00:00:00+00:00,109.0,4
+144126654,86749,50.0,True,False,False,False,False,NBA $50 50-50 (Wed - Thur),180.0,NBA,2023-05-04 00:00:00+00:00,50.0,4
+144126655,86749,20.0,True,False,False,False,False,NBA $20 50-50 (Wed - Thur),360.0,NBA,2023-05-04 00:00:00+00:00,20.0,20
+144126656,86749,20.0,True,False,False,False,False,NBA $20 50-50 (Wed - Thur),180.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144126657,86749,20.0,True,False,False,False,False,NBA $20 50-50 (Wed - Thur),72.0,NBA,2023-05-04 00:00:00+00:00,20.0,4
+144126658,86749,20.0,True,False,False,False,False,NBA $20 50-50 (Wed - Thur),72.0,NBA,2023-05-04 00:00:00+00:00,20.0,4
+144126659,86749,10.0,True,False,False,False,False,NBA $10 50-50 (Wed - Thur),180.0,NBA,2023-05-04 00:00:00+00:00,10.0,20
+144126660,86749,10.0,True,False,False,False,False,NBA $10 50-50 (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126661,86749,10.0,True,False,False,False,False,NBA $10 50-50 (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126662,86749,10.0,True,False,False,False,False,NBA $10 50-50 (Wed - Thur),36.0,NBA,2023-05-04 00:00:00+00:00,10.0,4
+144126663,86749,10.0,True,False,False,False,False,NBA $10 50-50 (Wed - Thur),36.0,NBA,2023-05-04 00:00:00+00:00,10.0,4
+144126664,86749,10.0,True,False,False,False,False,NBA $10 50-50 (Wed - Thur),36.0,NBA,2023-05-04 00:00:00+00:00,10.0,4
+144126665,86749,5.0,True,False,False,False,False,NBA $5 50-50 (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144126666,86749,5.0,True,False,False,False,False,NBA $5 50-50 (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144126667,86749,5.0,True,False,False,False,False,NBA $5 50-50 (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126668,86749,5.0,True,False,False,False,False,NBA $5 50-50 (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126669,86749,5.0,True,False,False,False,False,NBA $5 50-50 (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126670,86749,2.0,True,False,False,False,False,NBA $2 50-50 (Wed - Thur),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144126671,86749,2.0,True,False,False,False,False,NBA $2 50-50 (Wed - Thur),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144126672,86749,2.0,True,False,False,False,False,NBA $2 50-50 (Wed - Thur),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126673,86749,2.0,True,False,False,False,False,NBA $2 50-50 (Wed - Thur),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126674,86749,2.0,True,False,False,False,False,NBA $2 50-50 (Wed - Thur),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126675,86749,1.0,True,False,False,False,False,NBA $1 50-50 (Wed - Thur),18.0,NBA,2023-05-04 00:00:00+00:00,1.0,20
+144126676,86749,1.0,True,False,False,False,False,NBA $1 50-50 (Wed - Thur),18.0,NBA,2023-05-04 00:00:00+00:00,1.0,20
+144126677,86749,1.0,True,False,False,False,False,NBA $1 50-50 (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126678,86749,1.0,True,False,False,False,False,NBA $1 50-50 (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126679,86749,1.0,True,False,False,False,False,NBA $1 50-50 (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126680,86749,50.0,True,False,False,False,False,Beginner NBA $50 50-50 (Wed - Thur),180.0,NBA,2023-05-04 00:00:00+00:00,50.0,4
+144126681,86749,20.0,True,False,False,False,False,Beginner NBA $20 50-50 (Wed - Thur),72.0,NBA,2023-05-04 00:00:00+00:00,20.0,4
+144126682,86749,10.0,True,False,False,False,False,Beginner NBA $10 50-50 (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126683,86749,5.0,True,False,False,False,False,Beginner NBA $5 50-50 (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126684,86749,3.0,True,False,False,False,False,Beginner NBA $3 50-50 (Wed - Thur),27.0,NBA,2023-05-04 00:00:00+00:00,3.0,10
+144126685,86749,1.0,True,False,False,False,False,Beginner NBA $1 50-50 (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126686,86749,10.0,False,False,False,False,False,Beginner NBA $10 5-Player (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,10.0,5
+144126687,86749,5.0,False,False,False,False,False,Beginner NBA $5 5-Player (Wed - Thur),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144126688,86749,5.0,False,False,False,False,False,Beginner NBA $5 3-Player (Wed - Thur),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126689,86749,2.0,False,False,False,False,False,Beginner NBA $2 5-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126690,86749,2.0,False,False,False,False,False,Beginner NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126691,86749,1.0,False,False,False,False,False,Beginner NBA $1 5-Player (Wed - Thur),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144126692,86749,10600.0,False,False,False,False,False,"NBA $10,600 3-Player (Wed - Thur)",30000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,3
+144126693,86749,5300.0,False,False,False,False,False,"NBA $5,300 3-Player (Wed - Thur)",15000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,3
+144126694,86749,1060.0,False,False,False,False,False,"NBA $1,060 3-Player (Wed - Thur)",3000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,3
+144126695,86749,530.0,False,False,False,False,False,NBA $530 3-Player (Wed - Thur),1500.0,NBA,2023-05-04 00:00:00+00:00,530.0,3
+144126696,86749,162.0,False,False,False,False,False,NBA $162 3-Player (Wed - Thur),450.0,NBA,2023-05-04 00:00:00+00:00,162.0,3
+144126697,86749,109.0,False,False,False,False,False,NBA $109 3-Player (Wed - Thur),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144126698,86749,109.0,False,False,False,False,False,NBA $109 3-Player (Wed - Thur),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144126699,86749,50.0,False,False,False,False,False,NBA $50 5-Player (Wed - Thur),225.0,NBA,2023-05-04 00:00:00+00:00,50.0,5
+144126700,86749,50.0,False,False,False,False,False,NBA $50 3-Player (Wed - Thur),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144126701,86749,20.0,False,False,False,False,False,NBA $20 5-Player (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,20.0,5
+144126702,86749,20.0,False,False,False,False,False,NBA $20 5-Player (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,20.0,5
+144126703,86749,20.0,False,False,False,False,False,NBA $20 3-Player (Wed - Thur),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126704,86749,20.0,False,False,False,False,False,NBA $20 3-Player (Wed - Thur),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126705,86749,20.0,False,False,False,False,False,NBA $20 3-Player (Wed - Thur),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126706,86749,10.0,False,False,False,False,False,NBA $10 10-Player (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126707,86749,10.0,False,False,False,False,False,NBA $10 5-Player (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,10.0,5
+144126708,86749,10.0,False,False,False,False,False,NBA $10 5-Player (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,10.0,5
+144126709,86749,10.0,False,False,False,False,False,NBA $10 3-Player (Wed - Thur),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126710,86749,10.0,False,False,False,False,False,NBA $10 3-Player (Wed - Thur),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126711,86749,10.0,False,False,False,False,False,NBA $10 3-Player (Wed - Thur),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126712,86749,5.0,False,False,False,False,False,NBA $5 10-Player (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126713,86749,5.0,False,False,False,False,False,NBA $5 10-Player (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126714,86749,5.0,False,False,False,False,False,NBA $5 5-Player (Wed - Thur),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144126715,86749,5.0,False,False,False,False,False,NBA $5 5-Player (Wed - Thur),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144126716,86749,5.0,False,False,False,False,False,NBA $5 5-Player (Wed - Thur),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144126717,86749,5.0,False,False,False,False,False,NBA $5 3-Player (Wed - Thur),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126718,86749,5.0,False,False,False,False,False,NBA $5 3-Player (Wed - Thur),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126719,86749,5.0,False,False,False,False,False,NBA $5 3-Player (Wed - Thur),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144126720,86749,2.0,False,False,False,False,False,NBA $2 20-Player (Wed - Thur),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144126721,86749,2.0,False,False,False,False,False,NBA $2 20-Player (Wed - Thur),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144126722,86749,2.0,False,False,False,False,False,NBA $2 10-Player (Wed - Thur),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126723,86749,2.0,False,False,False,False,False,NBA $2 10-Player (Wed - Thur),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126724,86749,2.0,False,False,False,False,False,NBA $2 10-Player (Wed - Thur),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144126725,86749,2.0,False,False,False,False,False,NBA $2 5-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126726,86749,2.0,False,False,False,False,False,NBA $2 5-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126727,86749,2.0,False,False,False,False,False,NBA $2 5-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126728,86749,2.0,False,False,False,False,False,NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126729,86749,2.0,False,False,False,False,False,NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126730,86749,2.0,False,False,False,False,False,NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126731,86749,1.0,False,False,False,False,False,NBA $1 10-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126732,86749,1.0,False,False,False,False,False,NBA $1 5-Player (Wed - Thur),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144126733,86749,1.0,False,False,False,False,False,NBA $1 3-Player (Wed - Thur),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144126734,86749,1.0,False,False,False,False,False,NBA $1 3-Player (Wed - Thur),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144126735,86749,109.0,True,False,False,False,False,NBA $109 50-50 (Wed - Thur),600.0,NBA,2023-05-04 00:00:00+00:00,109.0,6
+144126736,86749,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Wed - Thur)",40000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,4
+144126737,86749,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Wed - Thur)",40000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,4
+144126738,86749,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Wed - Thur)",40000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,4
+144126739,86749,50.0,True,False,False,False,False,Casual NBA $50 50-50 (Wed - Thur),180.0,NBA,2023-05-04 00:00:00+00:00,50.0,4
+144126740,86749,20.0,True,False,False,False,False,Casual NBA $20 50-50 (Wed - Thur),72.0,NBA,2023-05-04 00:00:00+00:00,20.0,4
+144126741,86749,10.0,True,False,False,False,False,Casual NBA $10 50-50 (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144126742,86749,5.0,True,False,False,False,False,Casual NBA $5 50-50 (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144126743,86749,3.0,True,False,False,False,False,Casual NBA $3 50-50 (Wed - Thur),27.0,NBA,2023-05-04 00:00:00+00:00,3.0,10
+144126744,86749,3.0,True,False,False,False,False,Casual NBA $3 50-50 (Wed - Thur),10.8,NBA,2023-05-04 00:00:00+00:00,3.0,4
+144126745,86749,1.0,True,False,False,False,False,Casual NBA $1 50-50 (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144126746,86749,50.0,False,False,False,False,False,Casual NBA $50 3-Player (Wed - Thur),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144126747,86749,20.0,False,False,False,False,False,Casual NBA $20 3-Player (Wed - Thur),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144126748,86749,10.0,False,False,False,False,False,Casual NBA $10 5-Player (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,10.0,5
+144126749,86749,10.0,False,False,False,False,False,Casual NBA $10 3-Player (Wed - Thur),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126750,86749,2.0,False,False,False,False,False,Casual NBA $2 5-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144126751,86749,2.0,False,False,False,False,False,Casual NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144126752,86749,109.0,False,False,False,False,False,Casual NBA $109 5-Player (Wed - Thur),500.0,NBA,2023-05-04 00:00:00+00:00,109.0,5
+144126753,86749,10.0,True,False,False,False,False,NBA $10 Double Up (Wed - Thur),100.0,NBA,2023-05-04 00:00:00+00:00,10.0,11
+144126754,86749,25.0,True,False,False,False,False,NBA $25 Double Up (Wed - Thur),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144126755,86749,50.0,True,False,False,False,False,NBA $50 Double Up (Wed - Thur),500.0,NBA,2023-05-04 00:00:00+00:00,50.0,11
+144126756,86749,5.0,True,False,False,False,False,NBA $5 Double Up (Wed - Thur),50.0,NBA,2023-05-04 00:00:00+00:00,5.0,11
+144126757,86749,3.0,True,False,False,False,False,NBA $3 Double Up (Wed - Thur),30.0,NBA,2023-05-04 00:00:00+00:00,3.0,11
+144126758,86749,1.0,True,False,False,False,False,NBA $1 Double Up (Wed - Thur),10.0,NBA,2023-05-04 00:00:00+00:00,1.0,11
+144126759,86749,25.0,True,False,False,False,False,NBA $25 Double Up (Wed - Thur),500.0,NBA,2023-05-04 00:00:00+00:00,25.0,22
+144126760,86749,50.0,True,False,False,False,False,NBA $50 Double Up (Wed - Thur),1000.0,NBA,2023-05-04 00:00:00+00:00,50.0,22
+144126761,86749,1060.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill) (Wed - Thur),4000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,4
+144126762,86749,267.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill) (Wed - Thur),1000.0,NBA,2023-05-04 00:00:00+00:00,267.0,4
+144126763,86749,408.0,False,False,False,False,True,"NBA $408 Winner Take All [$1.5K to 1st, Must Fill] (Wed - Thur)",1500.0,NBA,2023-05-04 00:00:00+00:00,408.0,4
+144126790,86718,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144126840,86719,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144126842,86719,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144126843,86719,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (PHI vs BOS),1500.0,NBA,2023-05-04 00:00:00+00:00,530.0,3
+144126845,86719,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,5.0,4
+144126846,86719,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (PHI vs BOS),36.0,NBA,2023-05-04 00:00:00+00:00,10.0,4
+144126847,86719,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (PHI vs BOS),72.0,NBA,2023-05-04 00:00:00+00:00,20.0,4
+144126848,86719,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,50.0,4
+144126849,86719,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (PHI vs BOS),400.0,NBA,2023-05-04 00:00:00+00:00,109.0,4
+144126850,86719,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (PHI vs BOS),2000.0,NBA,2023-05-04 00:00:00+00:00,530.0,4
+144126851,86719,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (PHI vs BOS),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144126852,86719,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (PHI vs BOS)",3000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,3
+144126853,86719,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (PHI vs BOS)",6000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,3
+144128802,86749,1.0,False,False,False,False,False,NBA $1 12-Player (Top 5 Win) (Wed - Thur),10.8,NBA,2023-05-04 00:00:00+00:00,1.0,12
+144137006,86749,5.0,True,False,False,False,False,NBA $5 50-50 (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144137394,86749,0.0,False,False,False,False,False,NBA FREE 200-Player (Wed - Thur),0.0,NBA,2023-05-04 00:00:00+00:00,0.0,200
+144137438,86749,1.0,False,False,False,False,False,NBA $1 200-Player (Winner Takes All) (Wed - Thur),180.0,NBA,2023-05-04 00:00:00+00:00,1.0,200
+144137555,86718,1060.0,False,False,True,False,True,NBA Showdown $12K All-Star [Single Entry] (PHI vs BOS),12000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,12
+144137556,86718,5.0,False,False,True,False,True,NBA Showdown $25K Zone [$5K to 1st] (PHI vs BOS),25000.0,NBA,2023-05-04 00:00:00+00:00,5.0,5945
+144137557,86718,4.0,False,False,True,False,True,NBA Showdown $60K Four Point Play [20 Entry Max] (PHI vs BOS),60000.0,NBA,2023-05-04 00:00:00+00:00,4.0,17835
+144137558,86718,1.0,False,False,True,False,True,NBA Showdown $40K And-One [20 Entry Max] (PHI vs BOS),40000.0,NBA,2023-05-04 00:00:00+00:00,1.0,47562
+144137559,86718,5300.0,False,False,False,False,True,NBA Showdown $30K Thunderdome [Must Fill] (PHI vs BOS),30000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,6
+144137560,86718,200.0,False,False,True,False,True,NBA Showdown $20K Splash [3 Entry Max] (PHI vs BOS),20000.0,NBA,2023-05-04 00:00:00+00:00,200.0,111
+144137561,86718,2120.0,False,False,True,False,True,NBA Showdown $20K Hall of Famer [$10K to 1st] (PHI vs BOS),20000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,10
+144137562,86718,20.0,False,False,True,False,True,NBA Showdown $500K Shootaround [$100K to 1st] (PHI vs BOS),500000.0,NBA,2023-05-04 00:00:00+00:00,20.0,29411
+144137563,86718,8.0,False,False,True,False,True,NBA Showdown $30K Excellent 8's [$10K to 1st] (PHI vs BOS),30000.0,NBA,2023-05-04 00:00:00+00:00,8.0,4411
+144137564,86718,6.0,False,False,True,False,True,NBA Showdown $30K Jab Step [$5K to 1st] (PHI vs BOS),30000.0,NBA,2023-05-04 00:00:00+00:00,6.0,5882
+144137565,86718,555.0,False,False,True,False,True,NBA Showdown $120K Alley Oop [$30K to 1st] (PHI vs BOS),120000.0,NBA,2023-05-04 00:00:00+00:00,555.0,240
+144137566,86718,88.0,False,False,True,False,True,NBA Showdown $15K Box Out [$3K to 1st] (PHI vs BOS),15000.0,NBA,2023-05-04 00:00:00+00:00,88.0,193
+144137766,86749,20.0,True,False,False,False,False,NBA $20 50-50 (Wed - Thur),72.0,NBA,2023-05-04 00:00:00+00:00,20.0,4
+144137890,86749,2.0,True,False,False,False,False,NBA $2 50-50 (Wed - Thur),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144138074,86749,1.0,True,False,False,False,False,NBA $1 Double Up (Wed - Thur),10.0,NBA,2023-05-04 00:00:00+00:00,1.0,11
+144138249,86718,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (PHI vs BOS),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144138403,86749,1.0,True,False,False,False,False,NBA $1 50-50 (Wed - Thur),18.0,NBA,2023-05-04 00:00:00+00:00,1.0,20
+144138965,86749,1.0,True,False,False,False,False,Casual NBA $1 50-50 (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144139987,86749,3.0,False,False,False,False,False,NBA $3 8-Player (Winner Takes All) (Wed - Thur),21.6,NBA,2023-05-04 00:00:00+00:00,3.0,8
+144140223,86718,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (PHI vs BOS),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144140225,86749,5.0,True,False,False,False,False,Casual NBA $5 50-50 (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,5.0,10
+144140312,86719,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144140727,86718,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,50.0,4
+144140728,86718,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,50.0,4
+144140729,86718,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144140730,86718,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144140731,86718,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,10.0,10
+144140732,86718,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144140733,86718,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,20.0,10
+144140734,86718,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,50.0,10
+144140735,86718,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,50.0,10
+144140736,86718,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (PHI vs BOS),360.0,NBA,2023-05-04 00:00:00+00:00,20.0,20
+144140737,86718,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,10.0,20
+144140738,86718,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,10.0,11
+144140739,86718,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144140740,86718,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,50.0,11
+144140741,86718,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,25.0,22
+144140742,86718,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,50.0,22
+144140917,86718,1.0,False,False,False,False,False,NBA Showdown $1 35-Player (Winner Takes All) (PHI vs BOS),31.5,NBA,2023-05-04 00:00:00+00:00,1.0,35
+144140928,86718,2.0,False,False,False,False,False,NBA Showdown $2 25-Player (Winner Takes All) (PHI vs BOS),45.0,NBA,2023-05-04 00:00:00+00:00,2.0,25
+144141177,86749,333.0,False,False,True,False,True,NBA RMPGAT 2023 Approach Stinger Pack Special (Wed - Thur),1499.99,NBA,2023-05-04 00:00:00+00:00,333.0,5
+144141178,86749,71.0,False,False,True,False,True,NBA RMPGAT 2023 Approach Bump and Run Pack Special (Wed - Thur),249.99,NBA,2023-05-04 00:00:00+00:00,71.0,4
+144141179,86718,333.0,False,False,True,False,True,NBA Showdown RMPGAT 2023 Approach Stinger Pack Special (PHI vs BOS),1499.99,NBA,2023-05-04 00:00:00+00:00,333.0,5
+144141180,86718,71.0,False,False,True,False,True,NBA Showdown RMPGAT 2023 Approach Bump and Run Pack Special (PHI vs BOS),249.99,NBA,2023-05-04 00:00:00+00:00,71.0,4
+144141310,86749,10.0,True,False,False,False,False,NBA $10 Double Up (Wed - Thur),100.0,NBA,2023-05-04 00:00:00+00:00,10.0,11
+144141311,86749,25.0,True,False,False,False,False,NBA $25 Double Up (Wed - Thur),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144141312,86749,50.0,True,False,False,False,False,NBA $50 Double Up (Wed - Thur),500.0,NBA,2023-05-04 00:00:00+00:00,50.0,11
+144141313,86749,5.0,True,False,False,False,False,NBA $5 Double Up (Wed - Thur),50.0,NBA,2023-05-04 00:00:00+00:00,5.0,11
+144141314,86749,25.0,True,False,False,False,False,NBA $25 Double Up (Wed - Thur),500.0,NBA,2023-05-04 00:00:00+00:00,25.0,22
+144141315,86749,50.0,True,False,False,False,False,NBA $50 Double Up (Wed - Thur),1000.0,NBA,2023-05-04 00:00:00+00:00,50.0,22
+144141391,86718,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (PHI vs BOS),100.0,NBA,2023-05-04 00:00:00+00:00,10.0,11
+144141392,86718,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144141393,86718,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,50.0,11
+144141394,86718,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (PHI vs BOS),50.0,NBA,2023-05-04 00:00:00+00:00,5.0,11
+144141395,86718,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,25.0,22
+144141396,86718,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (PHI vs BOS),1000.0,NBA,2023-05-04 00:00:00+00:00,50.0,22
+144141438,86749,2.0,False,False,False,False,False,NBA $2 25-Player (Winner Takes All) (Wed - Thur),45.0,NBA,2023-05-04 00:00:00+00:00,2.0,25
+144141468,86749,5.0,True,False,True,False,False,NBA $5 Double Up (Wed - Thur),100.0,NBA,2023-05-04 00:00:00+00:00,5.0,23
+144141744,86718,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144141745,86718,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144141746,86718,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144141747,86718,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144141748,86718,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144141749,86718,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144141750,86718,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (PHI vs BOS),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144141751,86718,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (PHI vs BOS),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144141752,86718,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (PHI vs BOS),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144141753,86718,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144141754,86718,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144141755,86718,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144141756,86718,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144141757,86718,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144141758,86718,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (PHI vs BOS),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144141788,86749,5.0,False,False,False,False,False,NBA $5 20-Player (Winner Takes All) (Wed - Thur),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144141790,86718,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (PHI vs BOS),400.0,NBA,2023-05-04 00:00:00+00:00,109.0,4
+144141791,86718,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (PHI vs BOS),400.0,NBA,2023-05-04 00:00:00+00:00,109.0,4
+144141792,86718,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (PHI vs BOS),1500.0,NBA,2023-05-04 00:00:00+00:00,530.0,3
+144141793,86718,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144141794,86718,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144141795,86718,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144141796,86718,109.0,False,False,False,False,False,NBA Showdown $109 5-Player (PHI vs BOS),500.0,NBA,2023-05-04 00:00:00+00:00,109.0,5
+144141797,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (PHI vs BOS)",20000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,4
+144141798,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (PHI vs BOS)",20000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,4
+144141799,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (PHI vs BOS)",20000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,4
+144141800,86718,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (PHI vs BOS)",3000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,3
+144141801,86718,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (PHI vs BOS),2000.0,NBA,2023-05-04 00:00:00+00:00,530.0,4
+144141802,86718,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (PHI vs BOS)",4000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,4
+144141803,86718,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (PHI vs BOS)",20000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,4
+144141804,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (PHI vs BOS)",15000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,3
+144141805,86718,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (PHI vs BOS),600.0,NBA,2023-05-04 00:00:00+00:00,162.0,4
+144141806,86718,162.0,False,False,False,False,False,NBA Showdown $162 5-Player (PHI vs BOS),750.0,NBA,2023-05-04 00:00:00+00:00,162.0,5
+144141807,86718,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,162.0,3
+144141808,86718,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,162.0,3
+144141809,86718,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (PHI vs BOS)",30000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,3
+144141810,86718,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (PHI vs BOS),600.0,NBA,2023-05-04 00:00:00+00:00,109.0,6
+144141811,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (PHI vs BOS)",6000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,3
+144141812,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (PHI vs BOS)",6000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,3
+144141813,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (PHI vs BOS)",10000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,5
+144141814,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (PHI vs BOS)",10000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,5
+144141815,86718,2120.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (PHI vs BOS)",8000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,4
+144141816,86718,2120.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (PHI vs BOS)",8000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,4
+144141818,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (PHI vs BOS)",15000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,3
+144141819,86718,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (PHI vs BOS)",30000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,3
+144141820,86718,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (PHI vs BOS)",3000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,3
+144141821,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (PHI vs BOS)",15000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,3
+144141822,86718,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (PHI vs BOS)",30000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,3
+144141823,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (PHI vs BOS)",6000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,3
+144141825,86718,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144141966,86749,2.0,False,False,False,False,False,NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144142014,86749,2.0,False,False,False,False,False,NBA $2 5-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144142015,86749,2.0,False,False,False,False,False,NBA $2 5-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144142016,86749,2.0,False,False,False,False,False,NBA $2 5-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144142017,86749,2.0,False,False,False,False,False,NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144142018,86749,2.0,False,False,False,False,False,NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144142019,86749,2.0,False,False,False,False,False,NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144142020,86749,1.0,False,False,False,False,False,NBA $1 10-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,1.0,10
+144142021,86749,1.0,False,False,False,False,False,NBA $1 5-Player (Wed - Thur),4.5,NBA,2023-05-04 00:00:00+00:00,1.0,5
+144142022,86749,1.0,False,False,False,False,False,NBA $1 3-Player (Wed - Thur),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144142023,86749,1.0,False,False,False,False,False,NBA $1 3-Player (Wed - Thur),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144142032,86749,2.0,True,False,False,False,False,NBA $2 50-50 (Wed - Thur),36.0,NBA,2023-05-04 00:00:00+00:00,2.0,20
+144142333,86718,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (PHI vs BOS),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144142697,86749,2.0,False,False,False,False,False,Beginner NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144142900,86718,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144142901,86718,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144142902,86718,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144142903,86718,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144142904,86718,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144142905,86718,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144142906,86718,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144142907,86718,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144142908,86718,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144142909,86718,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (PHI vs BOS),1500.0,NBA,2023-05-04 00:00:00+00:00,530.0,3
+144142910,86718,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144142911,86718,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144142912,86718,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (PHI vs BOS),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144142913,86718,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (PHI vs BOS),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144142914,86718,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (PHI vs BOS),135.0,NBA,2023-05-04 00:00:00+00:00,50.0,3
+144142915,86718,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (PHI vs BOS)",3000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,3
+144142916,86718,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (PHI vs BOS)",15000.0,NBA,2023-05-04 00:00:00+00:00,5300.0,3
+144142917,86718,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,162.0,3
+144142918,86718,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (PHI vs BOS),450.0,NBA,2023-05-04 00:00:00+00:00,162.0,3
+144142919,86718,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (PHI vs BOS)",30000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,3
+144142920,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (PHI vs BOS)",6000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,3
+144142921,86718,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (PHI vs BOS)",6000.0,NBA,2023-05-04 00:00:00+00:00,2120.0,3
+144142922,86718,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (PHI vs BOS)",40000.0,NBA,2023-05-04 00:00:00+00:00,10600.0,4
+144142928,86749,1060.0,True,False,False,False,False,"NBA $1,060 50-50 (Wed - Thur)",4000.0,NBA,2023-05-04 00:00:00+00:00,1060.0,4
+144142929,86749,530.0,True,False,False,False,False,NBA $530 50-50 (Wed - Thur),2000.0,NBA,2023-05-04 00:00:00+00:00,530.0,4
+144142930,86749,530.0,False,False,False,False,False,NBA $530 3-Player (Wed - Thur),1500.0,NBA,2023-05-04 00:00:00+00:00,530.0,3
+144142931,86749,109.0,False,False,False,False,False,NBA $109 3-Player (Wed - Thur),300.0,NBA,2023-05-04 00:00:00+00:00,109.0,3
+144142932,86749,50.0,False,False,False,False,False,NBA $50 5-Player (Wed - Thur),225.0,NBA,2023-05-04 00:00:00+00:00,50.0,5
+144142933,86749,10.0,True,False,False,False,False,NBA $10 Double Up (Wed - Thur),100.0,NBA,2023-05-04 00:00:00+00:00,10.0,11
+144143095,86721,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (4Q PHI vs BOS),2.7,NBA,2023-05-04 01:20:00+00:00,1.0,3
+144143250,86718,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (Winner Takes All) (PHI vs BOS),18.0,NBA,2023-05-04 00:00:00+00:00,2.0,10
+144143255,86718,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144143320,86718,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144143322,86718,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (PHI vs BOS),250.0,NBA,2023-05-04 00:00:00+00:00,25.0,11
+144143374,86718,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (Winner Takes All) (PHI vs BOS),225.0,NBA,2023-05-04 00:00:00+00:00,50.0,5
+144143684,86719,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,20.0,3
+144143768,86718,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (PHI vs BOS),30.0,NBA,2023-05-04 00:00:00+00:00,3.0,11
+144143792,86718,0.0,False,False,False,False,False,NBA Showdown FREE 20-Player (PHI vs BOS),0.0,NBA,2023-05-04 00:00:00+00:00,0.0,20
+144143805,86719,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144143822,86718,3.0,False,False,False,False,False,NBA Showdown $3 20-Player (Winner Takes All) (PHI vs BOS),54.0,NBA,2023-05-04 00:00:00+00:00,3.0,20
+144144084,86719,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,10.0,3
+144144087,86719,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144144092,86749,3.0,False,False,False,False,False,NBA $3 20-Player (Winner Takes All) (Wed - Thur),54.0,NBA,2023-05-04 00:00:00+00:00,3.0,20
+144144107,86749,2.0,False,False,False,False,False,Casual NBA $2 5-Player (Wed - Thur),9.0,NBA,2023-05-04 00:00:00+00:00,2.0,5
+144144123,86749,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3] (Wed - Thur),27.0,NBA,2023-05-04 00:00:00+00:00,1.0,31
+144144164,86749,20.0,False,False,False,False,False,NBA $20 4-Player (Winner Takes All) (Wed - Thur),72.0,NBA,2023-05-04 00:00:00+00:00,20.0,4
+144144165,86718,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144144166,86718,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144144167,86718,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (PHI vs BOS),90.0,NBA,2023-05-04 00:00:00+00:00,5.0,20
+144144168,86718,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (PHI vs BOS),180.0,NBA,2023-05-04 00:00:00+00:00,10.0,20
+144144223,86749,5.0,False,False,False,False,False,NBA $5 9-Player (Winner Takes All) (Wed - Thur),40.5,NBA,2023-05-04 00:00:00+00:00,5.0,9
+144144224,86721,10.0,False,False,False,False,False,NBA In-Game $10 20-Player (Top 5 Win) (4Q PHI vs BOS),180.0,NBA,2023-05-04 01:20:00+00:00,10.0,20
+144144237,86719,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144144301,86718,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (PHI vs BOS),27.0,NBA,2023-05-04 00:00:00+00:00,3.0,10
+144144311,86718,0.0,False,False,False,False,False,NBA Showdown FREE 100-Player (PHI vs BOS) x2,0.0,NBA,2023-05-04 00:00:00+00:00,0.0,100
+144144312,86718,0.0,False,False,False,False,False,NBA Showdown FREE 50-Player (PHI vs BOS),0.0,NBA,2023-05-04 00:00:00+00:00,0.0,50
+144144313,86718,0.0,False,False,False,False,False,NBA Showdown FREE 25-Player (PHI vs BOS),0.0,NBA,2023-05-04 00:00:00+00:00,0.0,25
+144144518,86719,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (PHI vs BOS),3.6,NBA,2023-05-04 00:00:00+00:00,1.0,4
+144144523,86718,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (PHI vs BOS),10.8,NBA,2023-05-04 00:00:00+00:00,3.0,4
+144144559,86749,3.0,True,False,False,False,False,Casual NBA $3 50-50 (Wed - Thur),27.0,NBA,2023-05-04 00:00:00+00:00,3.0,10
+144144619,86749,2.0,False,False,False,False,False,Casual NBA $2 3-Player (Wed - Thur),5.4,NBA,2023-05-04 00:00:00+00:00,2.0,3
+144144637,86718,1.0,False,False,False,False,False,NBA Showdown $1 13-Player (Winner Takes All) (PHI vs BOS),11.7,NBA,2023-05-04 00:00:00+00:00,1.0,13
+144144663,86719,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (PHI vs BOS),13.5,NBA,2023-05-04 00:00:00+00:00,5.0,3
+144144664,86749,5.0,False,False,False,False,False,NBA $5 5-Player (Wed - Thur),22.5,NBA,2023-05-04 00:00:00+00:00,5.0,5
+144144669,86749,1.0,False,False,False,False,False,NBA $1 3-Player (Wed - Thur),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
+144145267,86749,1.0,False,False,False,False,False,NBA $1 7-Player (Winner Takes All) (Wed - Thur),6.3,NBA,2023-05-04 00:00:00+00:00,1.0,7
+144145271,86719,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (PHI vs BOS),2.7,NBA,2023-05-04 00:00:00+00:00,1.0,3
