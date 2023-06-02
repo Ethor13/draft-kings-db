@@ -1,0 +1,944 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+144848554,87444,15.0,False,False,True,False,True,WNBA $15K Fadeaway [$5K to 1st],15000.0,NBA,2023-05-23 23:00:00+00:00,15.0,1176
+144848854,87444,275.0,False,False,True,False,True,WNBA $100K Queen of the Court Qualifier #2,2400.0,NBA,2023-05-23 23:00:00+00:00,275.0,10
+144848945,87444,100.0,False,False,True,False,True,WNBA $1K Showtime [Single Entry],1000.0,NBA,2023-05-23 23:00:00+00:00,100.0,11
+144870278,87444,0.0,False,False,True,False,True,WNBA $200 Quarter Jukebox,200.0,NBA,2023-05-23 23:00:00+00:00,0.25,951
+144870279,87444,1.0,False,False,True,False,True,WNBA $750 And-One [20 Entry Max],750.0,NBA,2023-05-23 23:00:00+00:00,1.0,891
+144870280,87444,12.0,False,False,True,False,True,WNBA $200 Pick and Roll [Single Entry],200.0,NBA,2023-05-23 23:00:00+00:00,12.0,19
+144870281,87444,4.0,False,False,True,False,True,WNBA $400 Four Point Play,400.0,NBA,2023-05-23 23:00:00+00:00,4.0,118
+144870282,87444,33.0,False,False,True,False,True,WNBA $400 Triple Threat [Single Entry],400.0,NBA,2023-05-23 23:00:00+00:00,33.0,14
+144870283,87444,5.0,False,False,True,False,True,WNBA $100 High Five [Single Entry],100.0,NBA,2023-05-23 23:00:00+00:00,5.0,23
+144870284,87444,0.0,False,False,True,False,True,WNBA $50 Dime Time [Just $0.10!],50.0,NBA,2023-05-23 23:00:00+00:00,0.1,594
+144870285,87444,1.0,False,False,True,False,True,WNBA $50 Daily Dollar [Single Entry],50.0,NBA,2023-05-23 23:00:00+00:00,1.0,59
+144884880,87356,50.0,False,False,True,False,True,NBA Showdown $3K Ankle Breaker [2 Entry Max] (BOS vs MIA),3000.0,NBA,2023-05-24 00:30:00+00:00,50.0,68
+144884881,87356,0.0,False,False,True,False,True,NBA Showdown $6K Quarter Jukebox [Just $0.25!] (BOS vs MIA),6000.0,NBA,2023-05-24 00:30:00+00:00,0.25,28537
+144884882,87356,0.0,False,False,True,False,True,NBA Showdown $10K mini-MAX [150 Entry Max] (BOS vs MIA),10000.0,NBA,2023-05-24 00:30:00+00:00,0.5,23781
+144884883,87356,100.0,False,False,True,False,True,NBA Showdown $30K Showtime [Single Entry] (BOS vs MIA),30100.0,NBA,2023-05-24 00:30:00+00:00,100.0,334
+144884884,87356,40.0,False,False,True,False,True,NBA Showdown $10K Mid Range Jumper [Single Entry] (BOS vs MIA),10000.0,NBA,2023-05-24 00:30:00+00:00,40.0,291
+144884885,87356,27.0,False,False,True,False,True,NBA Showdown $5K Fast Break [Single Entry] (BOS vs MIA),5000.0,NBA,2023-05-24 00:30:00+00:00,27.0,215
+144884886,87356,12.0,False,False,True,False,True,NBA Showdown $10K Pick and Roll [Single Entry] (BOS vs MIA),10000.0,NBA,2023-05-24 00:30:00+00:00,12.0,980
+144884887,87356,2.0,False,False,True,False,True,NBA Showdown $3K Elbow Shot [Single Entry] (BOS vs MIA),3000.0,NBA,2023-05-24 00:30:00+00:00,2.0,1783
+144884888,87356,1.0,False,False,True,False,True,NBA Showdown $3K Daily Dollar [Single Entry] (BOS vs MIA),3000.0,NBA,2023-05-24 00:30:00+00:00,1.0,3567
+144884889,87356,25.0,True,False,True,False,True,NBA Showdown $25 Double Up (BOS vs MIA),2000.0,NBA,2023-05-24 00:30:00+00:00,25.0,91
+144884890,87356,40.0,False,False,True,False,True,NBA Showdown $5K Mid Range Jumper [Single Entry] (BOS vs MIA),5000.0,NBA,2023-05-24 00:30:00+00:00,40.0,145
+144884891,87356,3.0,False,False,True,False,True,NBA Showdown $8K Hot Shot [3 Entry Max] (BOS vs MIA),8000.0,NBA,2023-05-24 00:30:00+00:00,3.0,3170
+144884892,87356,100.0,False,False,True,False,True,NBA Showdown $15K Showtime [Single Entry] (BOS vs MIA),15000.0,NBA,2023-05-24 00:30:00+00:00,100.0,166
+144884893,87356,5.0,False,False,True,False,True,NBA Showdown $15K High Five [Single Entry] (BOS vs MIA),15000.0,NBA,2023-05-24 00:30:00+00:00,5.0,3567
+144884894,87356,5.0,False,False,True,False,True,NBA Showdown $12K High Five [Single Entry] (BOS vs MIA),12000.0,NBA,2023-05-24 00:30:00+00:00,5.0,2853
+144884895,87356,25.0,True,False,True,False,True,NBA Showdown Single Entry $25 Double Up (BOS vs MIA),3000.0,NBA,2023-05-24 00:30:00+00:00,25.0,137
+144884896,87356,10.0,True,False,True,False,True,NBA Showdown Single Entry $10 Double Up (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,10.0,114
+144884897,87356,10.0,True,False,True,False,True,NBA Showdown $10 Double Up (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,10.0,114
+144884898,87356,5.0,True,False,True,False,True,NBA Showdown Single Entry $5 Double Up (BOS vs MIA),2000.0,NBA,2023-05-24 00:30:00+00:00,5.0,459
+144884899,87356,2.0,True,False,True,False,True,NBA Showdown $2 Double Up (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,2.0,574
+144884900,87358,10.0,False,False,True,False,True,NBA In-Game $8K Pull Up Jumper [$2K to 1st] (2H BOS vs MIA),8000.0,NBA,2023-05-24 01:30:00+00:00,10.0,941
+144884901,87358,3.0,False,False,True,False,True,NBA In-Game $300 Sharpshooter (2H BOS vs MIA),300.0,NBA,2023-05-24 01:30:00+00:00,3.0,118
+144884902,87358,27.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (2H BOS vs MIA),240.0,NBA,2023-05-24 01:30:00+00:00,27.0,10
+144884903,87358,100.0,False,False,True,False,True,NBA In-Game $1K Showtime [Single Entry] (2H BOS vs MIA),1000.0,NBA,2023-05-24 01:30:00+00:00,100.0,11
+144884904,87358,50.0,False,False,True,False,True,NBA In-Game $310 Ankle Breaker [Single Entry] (2H BOS vs MIA),310.0,NBA,2023-05-24 01:30:00+00:00,50.0,7
+144884905,87358,12.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (2H BOS vs MIA),155.0,NBA,2023-05-24 01:30:00+00:00,12.0,15
+144884906,87358,5.0,False,False,True,False,True,NBA In-Game $300 High Five [Single Entry] (2H BOS vs MIA),300.0,NBA,2023-05-24 01:30:00+00:00,5.0,71
+144884907,87358,1.0,False,False,True,False,True,NBA In-Game $500 And-One (2H BOS vs MIA),500.0,NBA,2023-05-24 01:30:00+00:00,1.0,594
+144884908,87358,0.0,False,False,True,False,True,NBA In-Game $150 Quarter Jukebox [Just $0.25!] (2H BOS vs MIA),150.0,NBA,2023-05-24 01:30:00+00:00,0.25,713
+144884909,87359,27.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (4Q BOS vs MIA),240.0,NBA,2023-05-24 01:50:00+00:00,27.0,10
+144884910,87359,0.0,False,False,True,False,True,NBA In-Game $50 Quarter Jukebox [Just $0.25!] (4Q BOS vs MIA),50.0,NBA,2023-05-24 01:50:00+00:00,0.25,237
+144884911,87359,12.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (4Q BOS vs MIA),155.0,NBA,2023-05-24 01:50:00+00:00,12.0,15
+144884912,87359,10.0,False,False,True,False,True,NBA In-Game $500 Pull Up Jumper [$100 to 1st] (4Q BOS vs MIA),500.0,NBA,2023-05-24 01:50:00+00:00,10.0,58
+144884913,87359,5.0,False,False,True,False,True,NBA In-Game $200 High Five [Single Entry] (4Q BOS vs MIA),200.0,NBA,2023-05-24 01:50:00+00:00,5.0,47
+144884914,87359,1.0,False,False,True,False,True,NBA In-Game $200 And-One (4Q BOS vs MIA),200.0,NBA,2023-05-24 01:50:00+00:00,1.0,237
+144885100,87356,3.0,False,False,True,False,False,NBA Showdown $3 Winner Take All [$100 to 1st] (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,3.0,39
+144885101,87356,1.0,False,False,True,False,False,NBA Showdown $1 Winner Take All [$100 to 1st] (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,1.0,118
+144885102,87356,0.0,False,False,True,False,True,NBA Showdown $400 Dime Time [Just $0.10!] (BOS vs MIA),400.0,NBA,2023-05-24 00:30:00+00:00,0.1,4756
+144885103,87356,1.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,1.0,28
+144885104,87356,1.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,1.0,28
+144885105,87356,1.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,1.0,28
+144885106,87356,5.0,False,False,True,False,False,NBA Showdown $5 Quintuple Up [Top 5 Win $25] (BOS vs MIA),125.0,NBA,2023-05-24 00:30:00+00:00,5.0,28
+144885107,87356,5.0,False,False,True,False,False,NBA Showdown $5 Quintuple Up [Top 5 Win $25] (BOS vs MIA),125.0,NBA,2023-05-24 00:30:00+00:00,5.0,28
+144885108,87356,10.0,False,False,True,False,False,NBA Showdown $10 Quintuple Up [Top 5 Win $50] (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,10.0,28
+144885109,87356,20.0,False,False,True,False,False,NBA Showdown $20 Winner Take All [$175 to 1st] (BOS vs MIA),175.0,NBA,2023-05-24 00:30:00+00:00,20.0,10
+144885110,87356,2.0,False,False,True,False,False,NBA Showdown $2 Winner Take All [$120 to 1st] (BOS vs MIA),120.0,NBA,2023-05-24 00:30:00+00:00,2.0,71
+144885111,87356,0.0,False,False,True,False,False,NBA Showdown $0.25 Winner Take All [$50 to 1st] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.25,237
+144885112,87356,250.0,True,False,True,False,False,NBA Showdown $250 Double Up (BOS vs MIA),2500.0,NBA,2023-05-24 00:30:00+00:00,250.0,11
+144885113,87356,100.0,True,False,True,False,False,NBA Showdown $100 Double Up (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,100.0,11
+144885114,87356,100.0,True,False,True,False,False,NBA Showdown $100 Double Up (BOS vs MIA),2000.0,NBA,2023-05-24 00:30:00+00:00,100.0,22
+144885115,87356,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,50.0,22
+144885116,87356,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (BOS vs MIA),500.0,NBA,2023-05-24 00:30:00+00:00,50.0,11
+144885117,87356,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (BOS vs MIA),200.0,NBA,2023-05-24 00:30:00+00:00,10.0,23
+144885118,87356,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (BOS vs MIA),200.0,NBA,2023-05-24 00:30:00+00:00,10.0,23
+144885119,87356,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS vs MIA),60.0,NBA,2023-05-24 00:30:00+00:00,3.0,23
+144885120,87356,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS vs MIA),60.0,NBA,2023-05-24 00:30:00+00:00,3.0,23
+144885121,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),200.0,NBA,2023-05-24 00:30:00+00:00,1.0,229
+144885122,87356,25.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $250] (BOS vs MIA),750.0,NBA,2023-05-24 00:30:00+00:00,25.0,35
+144885123,87356,10.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $100] (BOS vs MIA),500.0,NBA,2023-05-24 00:30:00+00:00,10.0,58
+144885124,87356,10.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,10.0,35
+144885125,87356,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $50] (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,5.0,59
+144885126,87356,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $50] (BOS vs MIA),150.0,NBA,2023-05-24 00:30:00+00:00,5.0,35
+144885127,87356,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 10 Win $20] (BOS vs MIA),200.0,NBA,2023-05-24 00:30:00+00:00,2.0,118
+144885128,87356,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $20] (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,2.0,59
+144885129,87356,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $20] (BOS vs MIA),60.0,NBA,2023-05-24 00:30:00+00:00,2.0,35
+144885130,87356,9.0,False,False,True,False,False,NBA Showdown $9 Contest (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,9.0,39
+144885131,87356,5.0,False,False,True,False,False,NBA Showdown $5 Contest (BOS vs MIA),200.0,NBA,2023-05-24 00:30:00+00:00,5.0,47
+144885132,87356,2.0,False,False,True,False,False,NBA Showdown $2 Contest (BOS vs MIA),200.0,NBA,2023-05-24 00:30:00+00:00,2.0,118
+144885133,87356,1.0,False,False,True,False,False,NBA Showdown $1 Contest (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,1.0,118
+144885134,87356,0.0,False,False,True,False,False,NBA Showdown $0.25 Contest (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.25,237
+144885135,87356,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS vs MIA),500.0,NBA,2023-05-24 00:30:00+00:00,25.0,22
+144885136,87356,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,5.0,23
+144885137,87356,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,5.0,23
+144885138,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885139,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885140,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885141,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885142,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885143,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885144,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885145,87356,100.0,False,False,True,False,False,NBA Showdown $100 Winner Take All [$1K to 1st] (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,100.0,11
+144885146,87356,5.0,False,False,True,False,False,NBA Showdown $5 Winner Take All [$100 to 1st] (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,5.0,23
+144885147,87356,50.0,False,False,True,False,False,NBA Showdown $50 Winner Take All [$500 to 1st] (BOS vs MIA),500.0,NBA,2023-05-24 00:30:00+00:00,50.0,11
+144885148,87356,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,25.0,11
+144885149,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885150,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885151,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885152,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885153,87356,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS vs MIA),60.0,NBA,2023-05-24 00:30:00+00:00,3.0,23
+144885154,87356,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS vs MIA),60.0,NBA,2023-05-24 00:30:00+00:00,3.0,23
+144885155,87356,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,5.0,23
+144885156,87356,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,1.0,31
+144885157,87356,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,5.0,31
+144885158,87356,10.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 9 Win $30] (BOS vs MIA),270.0,NBA,2023-05-24 00:30:00+00:00,10.0,31
+144885159,87356,25.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 9 Win $75] (BOS vs MIA),675.0,NBA,2023-05-24 00:30:00+00:00,25.0,31
+144885160,87356,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 18 Win $15] (BOS vs MIA),270.0,NBA,2023-05-24 00:30:00+00:00,5.0,62
+144885161,87356,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 18 Win $3] (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,1.0,62
+144885162,87356,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 30 Win $3] (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,1.0,103
+144885163,87356,267.0,False,False,True,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,267.0,4
+144885164,87356,1.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (BOS vs MIA),34.0,NBA,2023-05-24 00:30:00+00:00,1.0,39
+144885165,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,1.0,62
+144885166,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,1.0,62
+144885167,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,1.0,62
+144885168,87356,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (BOS vs MIA),540.0,NBA,2023-05-24 00:30:00+00:00,10.0,62
+144885169,87356,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS vs MIA),162.0,NBA,2023-05-24 00:30:00+00:00,3.0,62
+144885170,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),108.0,NBA,2023-05-24 00:30:00+00:00,1.0,124
+144885171,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),108.0,NBA,2023-05-24 00:30:00+00:00,1.0,124
+144885172,87356,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS vs MIA),270.0,NBA,2023-05-24 00:30:00+00:00,5.0,62
+144885173,87356,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS vs MIA),850.0,NBA,2023-05-24 00:30:00+00:00,25.0,39
+144885174,87356,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (BOS vs MIA),200.0,NBA,2023-05-24 00:30:00+00:00,10.0,23
+144885175,87356,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,25.0,11
+144885176,87356,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,25.0,11
+144885177,87356,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 6 Win $15] (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,5.0,20
+144885178,87356,50.0,False,False,True,False,False,NBA Showdown $50 Triple Up [Top 3 Win $150] (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,50.0,10
+144885179,87356,25.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 6 Win $75] (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,25.0,20
+144885180,87356,10.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 6 Win $30] (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,10.0,20
+144885181,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885182,87356,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885183,87356,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS vs MIA),60.0,NBA,2023-05-24 00:30:00+00:00,3.0,23
+144885184,87356,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,5.0,23
+144885185,87356,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (BOS vs MIA),200.0,NBA,2023-05-24 00:30:00+00:00,10.0,23
+144885186,87356,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS vs MIA),540.0,NBA,2023-05-24 00:30:00+00:00,5.0,124
+144885187,87356,10.0,True,False,True,False,True,NBA Showdown $10 Double Up (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,10.0,114
+144885188,87356,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS vs MIA),324.0,NBA,2023-05-24 00:30:00+00:00,3.0,124
+144885189,87356,1.0,False,False,True,False,False,NBA Showdown $1 Hundo [Single Entry] (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,1.0,100
+144885190,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.1,297
+144885191,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.1,297
+144885192,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.1,297
+144885193,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.1,297
+144885194,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.1,297
+144885195,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.1,297
+144885196,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.1,297
+144885197,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.1,297
+144885198,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.1,297
+144885199,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.1,297
+144885200,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.25,118
+144885201,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.25,118
+144885202,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.25,118
+144885203,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.25,118
+144885204,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.25,118
+144885205,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.25,118
+144885206,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.25,118
+144885207,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.25,118
+144885208,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.25,118
+144885209,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.25,118
+144885210,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.5,59
+144885211,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.5,59
+144885212,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.5,59
+144885213,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.5,59
+144885214,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,0.5,59
+144885215,87356,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,1.0,29
+144885216,87356,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,1.0,29
+144885217,87356,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,1.0,29
+144885218,87356,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,1.0,29
+144885219,87356,1.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,1.0,29
+144885220,87356,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,2.0,14
+144885221,87356,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,2.0,14
+144885222,87356,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,2.0,14
+144885223,87356,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,2.0,14
+144885224,87356,2.0,False,False,True,False,True,NBA Showdown Satellite to $25 Fantasy Basketball Millionaire (BOS vs MIA),25.0,NBA,2023-05-24 00:30:00+00:00,2.0,14
+144885225,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.25,237
+144885226,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.25,237
+144885227,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.25,237
+144885228,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.25,237
+144885229,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.25,237
+144885230,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.25,237
+144885231,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.5,118
+144885232,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.5,118
+144885233,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.5,118
+144885234,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,0.5,118
+144885235,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,1.0,59
+144885236,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,1.0,59
+144885237,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,1.0,59
+144885238,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,1.0,59
+144885239,87356,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,2.0,29
+144885240,87356,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,2.0,29
+144885241,87356,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,2.0,29
+144885242,87356,2.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [2x] (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,2.0,29
+144885243,87356,5.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [4x] (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,5.0,23
+144885244,87356,5.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [4x] (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,5.0,23
+144885245,87356,5.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [4x] (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,5.0,23
+144885246,87356,48.0,False,False,True,False,True,NBA Showdown Satellite to TEN $333 Clay Smash (BOS vs MIA),333.0,NBA,2023-05-24 00:30:00+00:00,48.0,8
+144885247,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSat to TEN $20 French Slam [2x] (BOS vs MIA),40.0,NBA,2023-05-24 00:30:00+00:00,1.0,47
+144885248,87356,0.0,False,False,True,False,True,NBA Showdown SUPERSat to TEN $20 French Slam [2x] (BOS vs MIA),40.0,NBA,2023-05-24 00:30:00+00:00,0.25,190
+144885249,87356,2.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,2.0,11
+144885250,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,0.25,95
+144885251,87356,9.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (BOS vs MIA),555.0,NBA,2023-05-24 00:30:00+00:00,9.0,72
+144885252,87356,34.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (BOS vs MIA),555.0,NBA,2023-05-24 00:30:00+00:00,34.0,19
+144885253,87356,63.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (BOS vs MIA),555.0,NBA,2023-05-24 00:30:00+00:00,63.0,10
+144885254,87356,90.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (BOS vs MIA),555.0,NBA,2023-05-24 00:30:00+00:00,90.0,7
+144885255,87356,4.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [10x] (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,4.0,74
+144885256,87356,4.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [10x] (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,4.0,74
+144885257,87356,1.0,False,False,True,False,False,NBA Showdown SUPERSat to CFL $10 Kickoff Special (2x) (6-8-2023) (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885258,87356,0.0,False,False,True,False,False,NBA Showdown Satellite to CFL $10 Kickoff Special (6-8-2023) (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885259,87356,0.0,False,False,True,False,False,NBA Showdown Satellite to CFL $10 Kickoff Special (6-8-2023) (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.5,23
+144885260,87356,1.0,False,False,True,False,False,NBA Showdown Satellite to CFL $10 Kickoff Special (6-8-2023) (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,1.0,11
+144885261,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885262,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885263,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885264,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885265,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885266,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885267,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885268,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885269,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885270,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885271,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885272,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885273,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885274,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885275,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.1,118
+144885276,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885277,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885278,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885279,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885280,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885281,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885282,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885283,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885284,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885285,87356,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,0.25,47
+144885286,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $10M Millionaire [2x] (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885287,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $10M Millionaire [2x] (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885288,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $10M Millionaire [2x] (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885289,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $10M Millionaire [2x] (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885290,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $10M Millionaire [2x] (BOS vs MIA),20.0,NBA,2023-05-24 00:30:00+00:00,1.0,23
+144885291,87356,9.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $2.6M Millionaire (BOS vs MIA),555.0,NBA,2023-05-24 00:30:00+00:00,9.0,72
+144885292,87356,43.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $2.6M Millionaire (BOS vs MIA),555.0,NBA,2023-05-24 00:30:00+00:00,43.0,15
+144885293,87356,8.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [40x] (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,8.0,147
+144885294,87356,1.0,False,False,True,False,True,NBA Showdown SUPERSat to $25 Fantasy Basketball Millionaire [40x] (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,1.0,1189
+144885313,87358,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H BOS vs MIA),20.0,NBA,2023-05-24 01:30:00+00:00,1.0,23
+144885314,87358,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H BOS vs MIA),20.0,NBA,2023-05-24 01:30:00+00:00,1.0,23
+144885315,87358,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H BOS vs MIA),20.0,NBA,2023-05-24 01:30:00+00:00,1.0,23
+144885316,87358,85.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H BOS vs MIA),300.0,NBA,2023-05-24 01:30:00+00:00,85.0,4
+144885317,87358,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H BOS vs MIA),110.0,NBA,2023-05-24 01:30:00+00:00,25.0,5
+144885318,87358,25.0,True,False,True,False,False,NBA In-Game $25 Double Up (2H BOS vs MIA),250.0,NBA,2023-05-24 01:30:00+00:00,25.0,11
+144885319,87358,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H BOS vs MIA),100.0,NBA,2023-05-24 01:30:00+00:00,10.0,11
+144885320,87358,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H BOS vs MIA),100.0,NBA,2023-05-24 01:30:00+00:00,5.0,23
+144885321,87358,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H BOS vs MIA),100.0,NBA,2023-05-24 01:30:00+00:00,5.0,23
+144885322,87358,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (2H BOS vs MIA),60.0,NBA,2023-05-24 01:30:00+00:00,3.0,23
+144885323,87358,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (2H BOS vs MIA),60.0,NBA,2023-05-24 01:30:00+00:00,3.0,23
+144885324,87358,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H BOS vs MIA),25.0,NBA,2023-05-24 01:30:00+00:00,0.1,297
+144885325,87358,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H BOS vs MIA),25.0,NBA,2023-05-24 01:30:00+00:00,0.1,297
+144885326,87358,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H BOS vs MIA),25.0,NBA,2023-05-24 01:30:00+00:00,0.25,118
+144885327,87358,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H BOS vs MIA),25.0,NBA,2023-05-24 01:30:00+00:00,0.25,118
+144885328,87358,0.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H BOS vs MIA),25.0,NBA,2023-05-24 01:30:00+00:00,0.5,59
+144885329,87358,1.0,False,False,True,False,True,NBA In-Game Satellite to $25 Fantasy Basketball Millionaire (2H BOS vs MIA),25.0,NBA,2023-05-24 01:30:00+00:00,1.0,29
+144885334,87359,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (4Q BOS vs MIA),100.0,NBA,2023-05-24 01:50:00+00:00,5.0,23
+144885335,87359,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (4Q BOS vs MIA),200.0,NBA,2023-05-24 01:50:00+00:00,10.0,23
+144885336,87359,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (4Q BOS vs MIA),110.0,NBA,2023-05-24 01:50:00+00:00,25.0,5
+144885337,87359,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (4Q BOS vs MIA),20.0,NBA,2023-05-24 01:50:00+00:00,1.0,23
+144885338,87359,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (4Q BOS vs MIA),20.0,NBA,2023-05-24 01:50:00+00:00,1.0,23
+144885339,87359,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (4Q BOS vs MIA),60.0,NBA,2023-05-24 01:50:00+00:00,3.0,23
+144885340,87359,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (4Q BOS vs MIA),60.0,NBA,2023-05-24 01:50:00+00:00,3.0,23
+144885356,87358,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H BOS vs MIA),5.4,NBA,2023-05-24 01:30:00+00:00,2.0,3
+144885357,87358,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H BOS vs MIA),27.0,NBA,2023-05-24 01:30:00+00:00,10.0,3
+144885358,87358,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H BOS vs MIA),13.5,NBA,2023-05-24 01:30:00+00:00,5.0,3
+144885359,87358,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H BOS vs MIA),2.7,NBA,2023-05-24 01:30:00+00:00,1.0,3
+144885360,87358,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H BOS vs MIA),9.0,NBA,2023-05-24 01:30:00+00:00,1.0,10
+144885361,87358,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H BOS vs MIA),4.5,NBA,2023-05-24 01:30:00+00:00,1.0,5
+144885362,87358,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H BOS vs MIA),2.7,NBA,2023-05-24 01:30:00+00:00,1.0,3
+144885363,87358,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H BOS vs MIA),2.7,NBA,2023-05-24 01:30:00+00:00,1.0,3
+144885364,87358,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H BOS vs MIA),180.0,NBA,2023-05-24 01:30:00+00:00,20.0,10
+144885365,87358,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H BOS vs MIA),90.0,NBA,2023-05-24 01:30:00+00:00,10.0,10
+144885366,87358,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H BOS vs MIA),45.0,NBA,2023-05-24 01:30:00+00:00,5.0,10
+144885367,87358,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H BOS vs MIA),27.0,NBA,2023-05-24 01:30:00+00:00,3.0,10
+144885368,87358,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H BOS vs MIA),9.0,NBA,2023-05-24 01:30:00+00:00,1.0,10
+144885369,87358,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H BOS vs MIA),13.5,NBA,2023-05-24 01:30:00+00:00,5.0,3
+144885370,87358,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H BOS vs MIA),5.4,NBA,2023-05-24 01:30:00+00:00,2.0,3
+144885371,87358,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H BOS vs MIA),5.4,NBA,2023-05-24 01:30:00+00:00,2.0,3
+144885372,87358,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H BOS vs MIA),5.4,NBA,2023-05-24 01:30:00+00:00,2.0,3
+144885373,87358,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H BOS vs MIA),9.0,NBA,2023-05-24 01:30:00+00:00,2.0,5
+144885374,87358,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H BOS vs MIA),18.0,NBA,2023-05-24 01:30:00+00:00,2.0,10
+144885375,87358,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H BOS vs MIA),13.5,NBA,2023-05-24 01:30:00+00:00,5.0,3
+144885376,87358,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H BOS vs MIA),22.5,NBA,2023-05-24 01:30:00+00:00,5.0,5
+144885377,87358,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H BOS vs MIA),45.0,NBA,2023-05-24 01:30:00+00:00,5.0,10
+144885378,87358,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H BOS vs MIA),45.0,NBA,2023-05-24 01:30:00+00:00,10.0,5
+144885379,87358,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H BOS vs MIA),27.0,NBA,2023-05-24 01:30:00+00:00,10.0,3
+144885380,87358,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H BOS vs MIA),54.0,NBA,2023-05-24 01:30:00+00:00,20.0,3
+144885381,87358,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H BOS vs MIA),225.0,NBA,2023-05-24 01:30:00+00:00,50.0,5
+144885382,87358,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H BOS vs MIA),135.0,NBA,2023-05-24 01:30:00+00:00,50.0,3
+144885383,87358,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H BOS vs MIA),300.0,NBA,2023-05-24 01:30:00+00:00,109.0,3
+144885384,87358,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H BOS vs MIA),450.0,NBA,2023-05-24 01:30:00+00:00,162.0,3
+144885385,87358,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H BOS vs MIA),1500.0,NBA,2023-05-24 01:30:00+00:00,530.0,3
+144885386,87358,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H BOS vs MIA)",3000.0,NBA,2023-05-24 01:30:00+00:00,1060.0,3
+144885387,87358,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H BOS vs MIA)",15000.0,NBA,2023-05-24 01:30:00+00:00,5300.0,3
+144885388,87358,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H BOS vs MIA)",30000.0,NBA,2023-05-24 01:30:00+00:00,10600.0,3
+144885389,87358,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H BOS vs MIA),72.0,NBA,2023-05-24 01:30:00+00:00,20.0,4
+144885390,87358,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H BOS vs MIA),90.0,NBA,2023-05-24 01:30:00+00:00,10.0,10
+144885391,87358,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H BOS vs MIA),9.0,NBA,2023-05-24 01:30:00+00:00,1.0,10
+144885392,87358,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H BOS vs MIA),27.0,NBA,2023-05-24 01:30:00+00:00,3.0,10
+144885393,87358,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H BOS vs MIA),45.0,NBA,2023-05-24 01:30:00+00:00,5.0,10
+144885394,87358,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H BOS vs MIA)",20000.0,NBA,2023-05-24 01:30:00+00:00,5300.0,4
+144885395,87358,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H BOS vs MIA)",4000.0,NBA,2023-05-24 01:30:00+00:00,1060.0,4
+144885396,87358,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H BOS vs MIA),2000.0,NBA,2023-05-24 01:30:00+00:00,530.0,4
+144885397,87358,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H BOS vs MIA),400.0,NBA,2023-05-24 01:30:00+00:00,109.0,4
+144885398,87358,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H BOS vs MIA),180.0,NBA,2023-05-24 01:30:00+00:00,50.0,4
+144885399,87358,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H BOS vs MIA),72.0,NBA,2023-05-24 01:30:00+00:00,20.0,4
+144885400,87358,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H BOS vs MIA),36.0,NBA,2023-05-24 01:30:00+00:00,10.0,4
+144885401,87358,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H BOS vs MIA),450.0,NBA,2023-05-24 01:30:00+00:00,50.0,10
+144885402,87358,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H BOS vs MIA),9.0,NBA,2023-05-24 01:30:00+00:00,1.0,10
+144885403,87358,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H BOS vs MIA),45.0,NBA,2023-05-24 01:30:00+00:00,5.0,10
+144885404,87358,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H BOS vs MIA),600.0,NBA,2023-05-24 01:30:00+00:00,109.0,6
+144885405,87358,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H BOS vs MIA),18.0,NBA,2023-05-24 01:30:00+00:00,2.0,10
+144885406,87358,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H BOS vs MIA),180.0,NBA,2023-05-24 01:30:00+00:00,20.0,10
+144885407,87358,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H BOS vs MIA),90.0,NBA,2023-05-24 01:30:00+00:00,10.0,10
+144885408,87358,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H BOS vs MIA),90.0,NBA,2023-05-24 01:30:00+00:00,5.0,20
+144885409,87358,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H BOS vs MIA),180.0,NBA,2023-05-24 01:30:00+00:00,10.0,20
+144885410,87358,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H BOS vs MIA),360.0,NBA,2023-05-24 01:30:00+00:00,20.0,20
+144885411,87358,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H BOS vs MIA),36.0,NBA,2023-05-24 01:30:00+00:00,2.0,20
+144885412,87358,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H BOS vs MIA),18.0,NBA,2023-05-24 01:30:00+00:00,1.0,20
+144885413,87358,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H BOS vs MIA),4000.0,NBA,2023-05-24 01:30:00+00:00,1060.0,4
+144885414,87358,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H BOS vs MIA),1000.0,NBA,2023-05-24 01:30:00+00:00,267.0,4
+144885415,87358,4.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $10M Millionaire [Must Fill] (2H BOS vs MIA),10.0,NBA,2023-05-24 01:30:00+00:00,3.7,3
+144885416,87358,201.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (2H BOS vs MIA),555.0,NBA,2023-05-24 01:30:00+00:00,201.0,3
+144885417,87358,16.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $1M Four Technique [Must Fill] (2H BOS vs MIA),44.0,NBA,2023-05-24 01:30:00+00:00,16.0,3
+144885418,87358,749.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (2H BOS vs MIA),2120.0,NBA,2023-05-24 01:30:00+00:00,749.0,3
+144885419,87358,880.0,False,False,False,False,True,NBA In-Game Fantasy Golf MEGA Millionaire Satellite (6-15) [MUST FILL] (2H BOS vs MIA),3333.0,NBA,2023-05-24 01:30:00+00:00,880.0,4
+144885420,87358,1175.0,False,False,False,False,True,NBA In-Game Fantasy Golf MEGA Millionaire Satellite (6-15) [MUST FILL] (2H BOS vs MIA),3333.0,NBA,2023-05-24 01:30:00+00:00,1175.0,3
+144885421,87358,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (2H BOS vs MIA)",19.98,NBA,2023-05-24 01:30:00+00:00,5.55,4
+144885422,87358,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (2H BOS vs MIA)",19.98,NBA,2023-05-24 01:30:00+00:00,5.55,4
+144885423,87358,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (2H BOS vs MIA)",19.98,NBA,2023-05-24 01:30:00+00:00,5.55,4
+144885424,87358,6.0,False,False,False,False,True,NBA In-Game 2023 RMPGAT Booster Pack Pack Special [Must Fill] (2H BOS vs MIA),19.99,NBA,2023-05-24 01:30:00+00:00,5.55,4
+144885425,87358,6.0,False,False,False,False,True,NBA In-Game 2023 RMPGAT Booster Pack Pack Special [Must Fill] (2H BOS vs MIA),19.99,NBA,2023-05-24 01:30:00+00:00,5.55,4
+144885426,87358,6.0,False,False,False,False,True,NBA In-Game 2023 RMPGAT Booster Pack Pack Special [Must Fill] (2H BOS vs MIA),19.99,NBA,2023-05-24 01:30:00+00:00,5.55,4
+144885427,87358,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (2H BOS vs MIA),19.99,NBA,2023-05-24 01:30:00+00:00,5.55,4
+144885428,87358,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (2H BOS vs MIA),19.99,NBA,2023-05-24 01:30:00+00:00,5.55,4
+144885429,87358,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (2H BOS vs MIA),19.99,NBA,2023-05-24 01:30:00+00:00,5.55,4
+144885430,87359,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (4Q BOS vs MIA),5.4,NBA,2023-05-24 01:50:00+00:00,2.0,3
+144885431,87359,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (4Q BOS vs MIA),27.0,NBA,2023-05-24 01:50:00+00:00,10.0,3
+144885432,87359,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (4Q BOS vs MIA),13.5,NBA,2023-05-24 01:50:00+00:00,5.0,3
+144885433,87359,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (4Q BOS vs MIA),2.7,NBA,2023-05-24 01:50:00+00:00,1.0,3
+144885434,87359,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (4Q BOS vs MIA),9.0,NBA,2023-05-24 01:50:00+00:00,1.0,10
+144885435,87359,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (4Q BOS vs MIA),4.5,NBA,2023-05-24 01:50:00+00:00,1.0,5
+144885436,87359,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (4Q BOS vs MIA),2.7,NBA,2023-05-24 01:50:00+00:00,1.0,3
+144885437,87359,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (4Q BOS vs MIA),2.7,NBA,2023-05-24 01:50:00+00:00,1.0,3
+144885438,87359,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (4Q BOS vs MIA),180.0,NBA,2023-05-24 01:50:00+00:00,20.0,10
+144885439,87359,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (4Q BOS vs MIA),90.0,NBA,2023-05-24 01:50:00+00:00,10.0,10
+144885440,87359,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (4Q BOS vs MIA),45.0,NBA,2023-05-24 01:50:00+00:00,5.0,10
+144885441,87359,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (4Q BOS vs MIA),27.0,NBA,2023-05-24 01:50:00+00:00,3.0,10
+144885442,87359,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (4Q BOS vs MIA),9.0,NBA,2023-05-24 01:50:00+00:00,1.0,10
+144885443,87359,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (4Q BOS vs MIA),13.5,NBA,2023-05-24 01:50:00+00:00,5.0,3
+144885444,87359,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (4Q BOS vs MIA),5.4,NBA,2023-05-24 01:50:00+00:00,2.0,3
+144885445,87359,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (4Q BOS vs MIA),5.4,NBA,2023-05-24 01:50:00+00:00,2.0,3
+144885446,87359,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (4Q BOS vs MIA),5.4,NBA,2023-05-24 01:50:00+00:00,2.0,3
+144885447,87359,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (4Q BOS vs MIA),9.0,NBA,2023-05-24 01:50:00+00:00,2.0,5
+144885448,87359,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (4Q BOS vs MIA),18.0,NBA,2023-05-24 01:50:00+00:00,2.0,10
+144885449,87359,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (4Q BOS vs MIA),13.5,NBA,2023-05-24 01:50:00+00:00,5.0,3
+144885450,87359,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (4Q BOS vs MIA),22.5,NBA,2023-05-24 01:50:00+00:00,5.0,5
+144885451,87359,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (4Q BOS vs MIA),45.0,NBA,2023-05-24 01:50:00+00:00,5.0,10
+144885452,87359,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (4Q BOS vs MIA),45.0,NBA,2023-05-24 01:50:00+00:00,10.0,5
+144885453,87359,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (4Q BOS vs MIA),27.0,NBA,2023-05-24 01:50:00+00:00,10.0,3
+144885454,87359,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (4Q BOS vs MIA),54.0,NBA,2023-05-24 01:50:00+00:00,20.0,3
+144885455,87359,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (4Q BOS vs MIA),225.0,NBA,2023-05-24 01:50:00+00:00,50.0,5
+144885456,87359,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (4Q BOS vs MIA),135.0,NBA,2023-05-24 01:50:00+00:00,50.0,3
+144885457,87359,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (4Q BOS vs MIA),300.0,NBA,2023-05-24 01:50:00+00:00,109.0,3
+144885458,87359,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (4Q BOS vs MIA),450.0,NBA,2023-05-24 01:50:00+00:00,162.0,3
+144885459,87359,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (4Q BOS vs MIA),1500.0,NBA,2023-05-24 01:50:00+00:00,530.0,3
+144885460,87359,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (4Q BOS vs MIA)",3000.0,NBA,2023-05-24 01:50:00+00:00,1060.0,3
+144885461,87359,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (4Q BOS vs MIA)",15000.0,NBA,2023-05-24 01:50:00+00:00,5300.0,3
+144885462,87359,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (4Q BOS vs MIA)",30000.0,NBA,2023-05-24 01:50:00+00:00,10600.0,3
+144885463,87359,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (4Q BOS vs MIA),72.0,NBA,2023-05-24 01:50:00+00:00,20.0,4
+144885464,87359,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (4Q BOS vs MIA),90.0,NBA,2023-05-24 01:50:00+00:00,10.0,10
+144885465,87359,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (4Q BOS vs MIA),9.0,NBA,2023-05-24 01:50:00+00:00,1.0,10
+144885466,87359,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (4Q BOS vs MIA),27.0,NBA,2023-05-24 01:50:00+00:00,3.0,10
+144885467,87359,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (4Q BOS vs MIA),45.0,NBA,2023-05-24 01:50:00+00:00,5.0,10
+144885468,87359,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (4Q BOS vs MIA)",20000.0,NBA,2023-05-24 01:50:00+00:00,5300.0,4
+144885469,87359,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (4Q BOS vs MIA)",4000.0,NBA,2023-05-24 01:50:00+00:00,1060.0,4
+144885470,87359,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (4Q BOS vs MIA),2000.0,NBA,2023-05-24 01:50:00+00:00,530.0,4
+144885471,87359,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (4Q BOS vs MIA),400.0,NBA,2023-05-24 01:50:00+00:00,109.0,4
+144885472,87359,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (4Q BOS vs MIA),180.0,NBA,2023-05-24 01:50:00+00:00,50.0,4
+144885473,87359,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q BOS vs MIA),72.0,NBA,2023-05-24 01:50:00+00:00,20.0,4
+144885474,87359,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q BOS vs MIA),36.0,NBA,2023-05-24 01:50:00+00:00,10.0,4
+144885475,87359,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (4Q BOS vs MIA),450.0,NBA,2023-05-24 01:50:00+00:00,50.0,10
+144885476,87359,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (4Q BOS vs MIA),9.0,NBA,2023-05-24 01:50:00+00:00,1.0,10
+144885477,87359,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (4Q BOS vs MIA),45.0,NBA,2023-05-24 01:50:00+00:00,5.0,10
+144885478,87359,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (4Q BOS vs MIA),600.0,NBA,2023-05-24 01:50:00+00:00,109.0,6
+144885479,87359,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (4Q BOS vs MIA),18.0,NBA,2023-05-24 01:50:00+00:00,2.0,10
+144885480,87359,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q BOS vs MIA),180.0,NBA,2023-05-24 01:50:00+00:00,20.0,10
+144885481,87359,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q BOS vs MIA),90.0,NBA,2023-05-24 01:50:00+00:00,10.0,10
+144885482,87359,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (4Q BOS vs MIA),90.0,NBA,2023-05-24 01:50:00+00:00,5.0,20
+144885483,87359,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q BOS vs MIA),180.0,NBA,2023-05-24 01:50:00+00:00,10.0,20
+144885484,87359,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q BOS vs MIA),360.0,NBA,2023-05-24 01:50:00+00:00,20.0,20
+144885485,87359,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (4Q BOS vs MIA),36.0,NBA,2023-05-24 01:50:00+00:00,2.0,20
+144885486,87359,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (4Q BOS vs MIA),18.0,NBA,2023-05-24 01:50:00+00:00,1.0,20
+144885487,87359,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (4Q BOS vs MIA),4000.0,NBA,2023-05-24 01:50:00+00:00,1060.0,4
+144885488,87359,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (4Q BOS vs MIA),1000.0,NBA,2023-05-24 01:50:00+00:00,267.0,4
+144885489,87359,4.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $10M Millionaire [Must Fill] (4Q BOS vs MIA),10.0,NBA,2023-05-24 01:50:00+00:00,3.7,3
+144885490,87359,201.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (4Q BOS vs MIA),555.0,NBA,2023-05-24 01:50:00+00:00,201.0,3
+144885491,87359,16.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $1M Four Technique [Must Fill] (4Q BOS vs MIA),44.0,NBA,2023-05-24 01:50:00+00:00,16.0,3
+144885492,87359,749.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (4Q BOS vs MIA),2120.0,NBA,2023-05-24 01:50:00+00:00,749.0,3
+144885493,87359,880.0,False,False,False,False,True,NBA In-Game Fantasy Golf MEGA Millionaire Satellite (6-15) [MUST FILL] (4Q BOS vs MIA),3333.0,NBA,2023-05-24 01:50:00+00:00,880.0,4
+144885494,87359,1175.0,False,False,False,False,True,NBA In-Game Fantasy Golf MEGA Millionaire Satellite (6-15) [MUST FILL] (4Q BOS vs MIA),3333.0,NBA,2023-05-24 01:50:00+00:00,1175.0,3
+144885495,87359,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (4Q BOS vs MIA)",19.98,NBA,2023-05-24 01:50:00+00:00,5.55,4
+144885496,87359,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (4Q BOS vs MIA)",19.98,NBA,2023-05-24 01:50:00+00:00,5.55,4
+144885497,87359,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (4Q BOS vs MIA)",19.98,NBA,2023-05-24 01:50:00+00:00,5.55,4
+144885498,87359,6.0,False,False,False,False,True,NBA In-Game 2023 RMPGAT Booster Pack Pack Special [Must Fill] (4Q BOS vs MIA),19.99,NBA,2023-05-24 01:50:00+00:00,5.55,4
+144885499,87359,6.0,False,False,False,False,True,NBA In-Game 2023 RMPGAT Booster Pack Pack Special [Must Fill] (4Q BOS vs MIA),19.99,NBA,2023-05-24 01:50:00+00:00,5.55,4
+144885500,87359,6.0,False,False,False,False,True,NBA In-Game 2023 RMPGAT Booster Pack Pack Special [Must Fill] (4Q BOS vs MIA),19.99,NBA,2023-05-24 01:50:00+00:00,5.55,4
+144885501,87359,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (4Q BOS vs MIA),19.99,NBA,2023-05-24 01:50:00+00:00,5.55,4
+144885502,87359,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (4Q BOS vs MIA),19.99,NBA,2023-05-24 01:50:00+00:00,5.55,4
+144885503,87359,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (4Q BOS vs MIA),19.99,NBA,2023-05-24 01:50:00+00:00,5.55,4
+144885508,87356,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,50.0,4
+144885509,87356,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,50.0,4
+144885510,87356,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (BOS vs MIA),400.0,NBA,2023-05-24 00:30:00+00:00,109.0,4
+144885511,87356,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (BOS vs MIA),400.0,NBA,2023-05-24 00:30:00+00:00,109.0,4
+144885513,87356,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS vs MIA),2.7,NBA,2023-05-24 00:30:00+00:00,1.0,3
+144885514,87356,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS vs MIA),2.7,NBA,2023-05-24 00:30:00+00:00,1.0,3
+144885515,87356,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS vs MIA),5.4,NBA,2023-05-24 00:30:00+00:00,2.0,3
+144885516,87356,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS vs MIA),5.4,NBA,2023-05-24 00:30:00+00:00,2.0,3
+144885517,87356,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS vs MIA),5.4,NBA,2023-05-24 00:30:00+00:00,2.0,3
+144885519,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144885520,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144885521,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144885522,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144885523,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144885524,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144885525,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144885526,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144885527,87356,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (BOS vs MIA),1500.0,NBA,2023-05-24 00:30:00+00:00,530.0,3
+144885528,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144885529,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144885530,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144885531,87356,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (BOS vs MIA),4.5,NBA,2023-05-24 00:30:00+00:00,1.0,5
+144885532,87356,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (BOS vs MIA),4.5,NBA,2023-05-24 00:30:00+00:00,1.0,5
+144885533,87356,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (BOS vs MIA),4.5,NBA,2023-05-24 00:30:00+00:00,1.0,5
+144885534,87356,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,2.0,5
+144885535,87356,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,2.0,5
+144885536,87356,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,2.0,5
+144885537,87356,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (BOS vs MIA),22.5,NBA,2023-05-24 00:30:00+00:00,5.0,5
+144885538,87356,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (BOS vs MIA),22.5,NBA,2023-05-24 00:30:00+00:00,5.0,5
+144885539,87356,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (BOS vs MIA),22.5,NBA,2023-05-24 00:30:00+00:00,5.0,5
+144885540,87356,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,10.0,5
+144885541,87356,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,10.0,5
+144885542,87356,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,10.0,5
+144885543,87356,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,20.0,5
+144885544,87356,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,20.0,5
+144885545,87356,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,20.0,5
+144885546,87356,109.0,False,False,False,False,False,NBA Showdown $109 5-Player (BOS vs MIA),500.0,NBA,2023-05-24 00:30:00+00:00,109.0,5
+144885547,87356,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144885548,87356,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144885549,87356,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144885550,87356,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,2.0,10
+144885551,87356,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,2.0,10
+144885552,87356,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,2.0,10
+144885553,87356,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144885554,87356,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144885555,87356,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144885556,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144885557,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144885558,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144885559,87356,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144885560,87356,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144885561,87356,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144885562,87356,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144885563,87356,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144885564,87356,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,20.0,10
+144885565,87356,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,20.0,10
+144885566,87356,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144885567,87356,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144885568,87356,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (BOS vs MIA),225.0,NBA,2023-05-24 00:30:00+00:00,50.0,5
+144885569,87356,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (BOS vs MIA),225.0,NBA,2023-05-24 00:30:00+00:00,50.0,5
+144885570,87356,5300.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (BOS vs MIA)",20000.0,NBA,2023-05-24 00:30:00+00:00,5300.0,4
+144885571,87356,5300.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (BOS vs MIA)",20000.0,NBA,2023-05-24 00:30:00+00:00,5300.0,4
+144885572,87356,5300.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (BOS vs MIA)",20000.0,NBA,2023-05-24 00:30:00+00:00,5300.0,4
+144885573,87356,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (BOS vs MIA)",3000.0,NBA,2023-05-24 00:30:00+00:00,1060.0,3
+144885574,87356,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (BOS vs MIA),2000.0,NBA,2023-05-24 00:30:00+00:00,530.0,4
+144885575,87356,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (BOS vs MIA)",4000.0,NBA,2023-05-24 00:30:00+00:00,1060.0,4
+144885576,87356,20.0,False,False,False,False,False,NBA Showdown $20 10-Player (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,20.0,10
+144885577,87356,20.0,False,False,False,False,False,NBA Showdown $20 10-Player (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,20.0,10
+144885578,87356,1.0,False,False,False,False,False,NBA Showdown $1 20-Player (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,1.0,20
+144885579,87356,1.0,False,False,False,False,False,NBA Showdown $1 20-Player (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,1.0,20
+144885580,87356,1.0,False,False,False,False,False,NBA Showdown $1 20-Player (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,1.0,20
+144885581,87356,2.0,False,False,False,False,False,NBA Showdown $2 20 Player (BOS vs MIA),36.0,NBA,2023-05-24 00:30:00+00:00,2.0,20
+144885582,87356,2.0,False,False,False,False,False,NBA Showdown $2 20 Player (BOS vs MIA),36.0,NBA,2023-05-24 00:30:00+00:00,2.0,20
+144885583,87356,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,1.0,50
+144885584,87356,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,1.0,50
+144885585,87356,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,1.0,50
+144885586,87356,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144885587,87356,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144885588,87356,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (BOS vs MIA),4.5,NBA,2023-05-24 00:30:00+00:00,1.0,5
+144885589,87356,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (BOS vs MIA),4.5,NBA,2023-05-24 00:30:00+00:00,1.0,5
+144885590,87356,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (BOS vs MIA),4.5,NBA,2023-05-24 00:30:00+00:00,1.0,5
+144885591,87356,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,50.0,10
+144885592,87356,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,50.0,10
+144885593,87356,50.0,False,False,False,False,False,NBA Showdown $50 10-Player (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,50.0,10
+144885594,87356,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (BOS vs MIA)",20000.0,NBA,2023-05-24 00:30:00+00:00,5300.0,4
+144885595,87356,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (BOS vs MIA)",15000.0,NBA,2023-05-24 00:30:00+00:00,5300.0,3
+144885596,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,5.0,20
+144885597,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,5.0,20
+144885598,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,5.0,20
+144885599,87356,5.0,False,False,False,False,False,NBA Showdown $5 20-Player (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,5.0,20
+144885600,87356,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS vs MIA),360.0,NBA,2023-05-24 00:30:00+00:00,20.0,20
+144885601,87356,20.0,False,False,False,False,False,NBA Showdown $20 20-Player (BOS vs MIA),360.0,NBA,2023-05-24 00:30:00+00:00,20.0,20
+144885602,87356,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,2.0,10
+144885603,87356,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,2.0,10
+144885604,87356,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,2.0,10
+144885605,87356,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs MIA),36.0,NBA,2023-05-24 00:30:00+00:00,2.0,20
+144885606,87356,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs MIA),36.0,NBA,2023-05-24 00:30:00+00:00,2.0,20
+144885607,87356,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs MIA),36.0,NBA,2023-05-24 00:30:00+00:00,2.0,20
+144885608,87356,2.0,False,False,False,False,False,NBA Showdown $2 40-Player (BOS vs MIA),72.0,NBA,2023-05-24 00:30:00+00:00,2.0,40
+144885609,87356,2.0,False,False,False,False,False,NBA Showdown $2 40-Player (BOS vs MIA),72.0,NBA,2023-05-24 00:30:00+00:00,2.0,40
+144885610,87356,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (BOS vs MIA),600.0,NBA,2023-05-24 00:30:00+00:00,162.0,4
+144885611,87356,162.0,False,False,False,False,False,NBA Showdown $162 5-Player (BOS vs MIA),750.0,NBA,2023-05-24 00:30:00+00:00,162.0,5
+144885612,87356,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,162.0,3
+144885613,87356,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,162.0,3
+144885615,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs MIA)",30000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,3
+144885616,87356,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,10.0,20
+144885617,87356,10.0,False,False,False,False,False,NBA Showdown $10 20-Player (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,10.0,20
+144885618,87356,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,1.0,20
+144885619,87356,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,1.0,20
+144885620,87356,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,1.0,20
+144885621,87356,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144885622,87356,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144885623,87356,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144885624,87356,1.0,False,False,False,False,False,NBA Showdown $1 40-Player (BOS vs MIA),36.0,NBA,2023-05-24 00:30:00+00:00,1.0,40
+144885625,87356,1.0,False,False,False,False,False,NBA Showdown $1 40-Player (BOS vs MIA),36.0,NBA,2023-05-24 00:30:00+00:00,1.0,40
+144885626,87356,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,50.0,10
+144885627,87356,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144885628,87356,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144885629,87356,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144885630,87356,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (BOS vs MIA),22.5,NBA,2023-05-24 00:30:00+00:00,5.0,5
+144885631,87356,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (BOS vs MIA),22.5,NBA,2023-05-24 00:30:00+00:00,5.0,5
+144885632,87356,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (BOS vs MIA),22.5,NBA,2023-05-24 00:30:00+00:00,5.0,5
+144885633,87356,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144885634,87356,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144885635,87356,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144885636,87356,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,3.0,10
+144885637,87356,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,3.0,10
+144885638,87356,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,3.0,10
+144885639,87356,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,20.0,10
+144885640,87356,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,20.0,10
+144885641,87356,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,20.0,10
+144885642,87356,20.0,False,False,False,False,False,Beginner NBA Showdown $20 5-Player (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,20.0,5
+144885643,87356,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144885644,87356,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144885645,87356,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144885646,87356,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,2.0,5
+144885647,87356,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,2.0,5
+144885648,87356,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,2.0,5
+144885649,87356,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (BOS vs MIA),5.4,NBA,2023-05-24 00:30:00+00:00,2.0,3
+144885650,87356,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (BOS vs MIA),5.4,NBA,2023-05-24 00:30:00+00:00,2.0,3
+144885651,87356,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (BOS vs MIA),5.4,NBA,2023-05-24 00:30:00+00:00,2.0,3
+144885652,87356,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144885653,87356,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144885654,87356,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144885655,87356,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,10.0,5
+144885656,87356,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144885657,87356,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144885658,87356,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144885659,87356,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144885660,87356,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144885661,87356,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144885662,87356,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (BOS vs MIA),2.7,NBA,2023-05-24 00:30:00+00:00,1.0,3
+144885663,87356,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (BOS vs MIA),2.7,NBA,2023-05-24 00:30:00+00:00,1.0,3
+144885664,87356,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (BOS vs MIA),2.7,NBA,2023-05-24 00:30:00+00:00,1.0,3
+144885665,87356,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (BOS vs MIA),600.0,NBA,2023-05-24 00:30:00+00:00,109.0,6
+144885666,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (BOS vs MIA)",40000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,4
+144885667,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (BOS vs MIA)",40000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,4
+144885668,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (BOS vs MIA)",40000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,4
+144885669,87356,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (BOS vs MIA)",6000.0,NBA,2023-05-24 00:30:00+00:00,2120.0,3
+144885670,87356,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (BOS vs MIA)",6000.0,NBA,2023-05-24 00:30:00+00:00,2120.0,3
+144885671,87356,2120.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (BOS vs MIA)",10000.0,NBA,2023-05-24 00:30:00+00:00,2120.0,5
+144885672,87356,2120.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (BOS vs MIA)",10000.0,NBA,2023-05-24 00:30:00+00:00,2120.0,5
+144885673,87356,2120.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (BOS vs MIA)",8000.0,NBA,2023-05-24 00:30:00+00:00,2120.0,4
+144885674,87356,2120.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (BOS vs MIA)",8000.0,NBA,2023-05-24 00:30:00+00:00,2120.0,4
+144885675,87356,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,50.0,4
+144885676,87356,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (BOS vs MIA),72.0,NBA,2023-05-24 00:30:00+00:00,20.0,4
+144885677,87356,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144885678,87356,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144885679,87356,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,3.0,10
+144885680,87356,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (BOS vs MIA),10.8,NBA,2023-05-24 00:30:00+00:00,3.0,4
+144885681,87356,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144885682,87356,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144885683,87356,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144885684,87356,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,10.0,5
+144885685,87356,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144885686,87356,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,2.0,5
+144885687,87356,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (BOS vs MIA),5.4,NBA,2023-05-24 00:30:00+00:00,2.0,3
+144885688,87356,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (BOS vs MIA),500.0,NBA,2023-05-24 00:30:00+00:00,109.0,5
+144885689,87356,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,10.0,11
+144885690,87356,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,25.0,11
+144885691,87356,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (BOS vs MIA),500.0,NBA,2023-05-24 00:30:00+00:00,50.0,11
+144885692,87356,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (BOS vs MIA),50.0,NBA,2023-05-24 00:30:00+00:00,5.0,11
+144885693,87356,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (BOS vs MIA),30.0,NBA,2023-05-24 00:30:00+00:00,3.0,11
+144885694,87356,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,1.0,11
+144885695,87356,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (BOS vs MIA),500.0,NBA,2023-05-24 00:30:00+00:00,25.0,22
+144885696,87356,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,50.0,22
+144885697,87356,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (BOS vs MIA),4000.0,NBA,2023-05-24 00:30:00+00:00,1060.0,4
+144885698,87356,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,267.0,4
+144885699,87356,100.0,False,False,False,False,True,NBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (BOS vs MIA),460.0,NBA,2023-05-24 00:30:00+00:00,100.0,5
+144885700,87356,163.0,False,False,False,False,True,NBA Showdown Satellite to NAS 5-28 $600 Soda Fountain [Must Fill] (BOS vs MIA),600.0,NBA,2023-05-24 00:30:00+00:00,163.0,4
+144885701,87356,4.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $10M Millionaire [Must Fill] (BOS vs MIA),10.0,NBA,2023-05-24 00:30:00+00:00,3.7,3
+144885702,87356,201.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (BOS vs MIA),555.0,NBA,2023-05-24 00:30:00+00:00,201.0,3
+144885703,87356,16.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $1M Four Technique [Must Fill] (BOS vs MIA),44.0,NBA,2023-05-24 00:30:00+00:00,16.0,3
+144885704,87356,749.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (BOS vs MIA),2120.0,NBA,2023-05-24 00:30:00+00:00,749.0,3
+144885705,87356,1175.0,False,False,False,False,True,NBA Showdown Fantasy Golf MEGA Millionaire Satellite (6-15) [MUST FILL] (BOS vs MIA),3333.0,NBA,2023-05-24 00:30:00+00:00,1175.0,3
+144885706,87356,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (BOS vs MIA)",19.98,NBA,2023-05-24 00:30:00+00:00,5.55,4
+144885707,87356,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (BOS vs MIA)",19.98,NBA,2023-05-24 00:30:00+00:00,5.55,4
+144885708,87356,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (BOS vs MIA)",19.98,NBA,2023-05-24 00:30:00+00:00,5.55,4
+144885709,87356,6.0,False,False,False,False,True,NBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (BOS vs MIA),19.99,NBA,2023-05-24 00:30:00+00:00,5.55,4
+144885710,87356,6.0,False,False,False,False,True,NBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (BOS vs MIA),19.99,NBA,2023-05-24 00:30:00+00:00,5.55,4
+144885711,87356,6.0,False,False,False,False,True,NBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (BOS vs MIA),19.99,NBA,2023-05-24 00:30:00+00:00,5.55,4
+144885712,87356,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (BOS vs MIA),19.99,NBA,2023-05-24 00:30:00+00:00,5.55,4
+144885713,87356,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (BOS vs MIA),19.99,NBA,2023-05-24 00:30:00+00:00,5.55,4
+144885714,87356,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (BOS vs MIA),19.99,NBA,2023-05-24 00:30:00+00:00,5.55,4
+144885725,87357,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144885726,87357,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (BOS vs MIA),1500.0,NBA,2023-05-24 00:30:00+00:00,530.0,3
+144885730,87357,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (BOS vs MIA),72.0,NBA,2023-05-24 00:30:00+00:00,20.0,4
+144885731,87357,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,50.0,4
+144885732,87357,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (BOS vs MIA),400.0,NBA,2023-05-24 00:30:00+00:00,109.0,4
+144885733,87357,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (BOS vs MIA),2000.0,NBA,2023-05-24 00:30:00+00:00,530.0,4
+144885734,87357,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144885735,87357,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (BOS vs MIA)",3000.0,NBA,2023-05-24 00:30:00+00:00,1060.0,3
+144885736,87357,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (BOS vs MIA)",6000.0,NBA,2023-05-24 00:30:00+00:00,2120.0,3
+144886582,87356,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,2.0,10
+144895046,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144895047,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144895048,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144895049,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144895050,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144895051,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144895052,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144895053,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144895054,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144895055,87356,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (BOS vs MIA),1500.0,NBA,2023-05-24 00:30:00+00:00,530.0,3
+144895056,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144895057,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144895058,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144895059,87356,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144895060,87356,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144895061,87356,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (BOS vs MIA)",3000.0,NBA,2023-05-24 00:30:00+00:00,1060.0,3
+144895062,87356,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (BOS vs MIA)",15000.0,NBA,2023-05-24 00:30:00+00:00,5300.0,3
+144895063,87356,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,162.0,3
+144895064,87356,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,162.0,3
+144895065,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs MIA)",30000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,3
+144895066,87356,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (BOS vs MIA)",6000.0,NBA,2023-05-24 00:30:00+00:00,2120.0,3
+144895067,87356,2120.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (BOS vs MIA)",6000.0,NBA,2023-05-24 00:30:00+00:00,2120.0,3
+144895415,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144895416,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144895417,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144895418,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144895419,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144895420,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144895421,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144895422,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144895423,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144895424,87356,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (BOS vs MIA),1500.0,NBA,2023-05-24 00:30:00+00:00,530.0,3
+144895425,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144895426,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144895427,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144895428,87356,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144895429,87356,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144895430,87356,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (BOS vs MIA)",3000.0,NBA,2023-05-24 00:30:00+00:00,1060.0,3
+144895431,87356,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (BOS vs MIA)",15000.0,NBA,2023-05-24 00:30:00+00:00,5300.0,3
+144895432,87356,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,162.0,3
+144895433,87356,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,162.0,3
+144895434,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs MIA)",30000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,3
+144895440,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144895441,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144895442,87356,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144895443,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144895444,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144895445,87356,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144895446,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144895447,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144895448,87356,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144895449,87356,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (BOS vs MIA),1500.0,NBA,2023-05-24 00:30:00+00:00,530.0,3
+144895450,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144895451,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144895452,87356,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs MIA),300.0,NBA,2023-05-24 00:30:00+00:00,109.0,3
+144895453,87356,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144895454,87356,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS vs MIA),135.0,NBA,2023-05-24 00:30:00+00:00,50.0,3
+144895455,87356,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (BOS vs MIA)",3000.0,NBA,2023-05-24 00:30:00+00:00,1060.0,3
+144895456,87356,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (BOS vs MIA)",15000.0,NBA,2023-05-24 00:30:00+00:00,5300.0,3
+144895457,87356,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,162.0,3
+144895458,87356,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS vs MIA),450.0,NBA,2023-05-24 00:30:00+00:00,162.0,3
+144895459,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs MIA)",30000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,3
+144897612,87444,2.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2023-05-23 23:00:00+00:00,2.0,3
+144897613,87444,10.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2023-05-23 23:00:00+00:00,10.0,3
+144897614,87444,5.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2023-05-23 23:00:00+00:00,5.0,3
+144897615,87444,1.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2023-05-23 23:00:00+00:00,1.0,3
+144897616,87444,1.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2023-05-23 23:00:00+00:00,1.0,10
+144897617,87444,1.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2023-05-23 23:00:00+00:00,1.0,5
+144897618,87444,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2023-05-23 23:00:00+00:00,1.0,3
+144897619,87444,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2023-05-23 23:00:00+00:00,1.0,3
+144897620,87444,20.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2023-05-23 23:00:00+00:00,20.0,10
+144897621,87444,10.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2023-05-23 23:00:00+00:00,10.0,10
+144897622,87444,5.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2023-05-23 23:00:00+00:00,5.0,10
+144897623,87444,3.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2023-05-23 23:00:00+00:00,3.0,10
+144897624,87444,1.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2023-05-23 23:00:00+00:00,1.0,10
+144897625,87444,5.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2023-05-23 23:00:00+00:00,5.0,3
+144897626,87444,2.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2023-05-23 23:00:00+00:00,2.0,3
+144897627,87444,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2023-05-23 23:00:00+00:00,2.0,3
+144897628,87444,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2023-05-23 23:00:00+00:00,2.0,3
+144897629,87444,2.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2023-05-23 23:00:00+00:00,2.0,5
+144897630,87444,2.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2023-05-23 23:00:00+00:00,2.0,10
+144897631,87444,5.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2023-05-23 23:00:00+00:00,5.0,3
+144897632,87444,5.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2023-05-23 23:00:00+00:00,5.0,5
+144897633,87444,5.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2023-05-23 23:00:00+00:00,5.0,10
+144897634,87444,10.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2023-05-23 23:00:00+00:00,10.0,5
+144897635,87444,10.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2023-05-23 23:00:00+00:00,10.0,3
+144897636,87444,20.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2023-05-23 23:00:00+00:00,20.0,3
+144897637,87444,50.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2023-05-23 23:00:00+00:00,50.0,5
+144897638,87444,50.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2023-05-23 23:00:00+00:00,50.0,3
+144897639,87444,109.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2023-05-23 23:00:00+00:00,109.0,3
+144897640,87444,162.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2023-05-23 23:00:00+00:00,162.0,3
+144897641,87444,530.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2023-05-23 23:00:00+00:00,530.0,3
+144897642,87444,1060.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2023-05-23 23:00:00+00:00,1060.0,3
+144897643,87444,5300.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2023-05-23 23:00:00+00:00,5300.0,3
+144897644,87444,10600.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2023-05-23 23:00:00+00:00,10600.0,3
+144897645,87444,20.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2023-05-23 23:00:00+00:00,20.0,4
+144897646,87444,10.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2023-05-23 23:00:00+00:00,10.0,10
+144897647,87444,1.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2023-05-23 23:00:00+00:00,1.0,10
+144897648,87444,3.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2023-05-23 23:00:00+00:00,3.0,10
+144897649,87444,5.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2023-05-23 23:00:00+00:00,5.0,10
+144897650,87444,5300.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2023-05-23 23:00:00+00:00,5300.0,4
+144897651,87444,1060.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2023-05-23 23:00:00+00:00,1060.0,4
+144897652,87444,530.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2023-05-23 23:00:00+00:00,530.0,4
+144897653,87444,109.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2023-05-23 23:00:00+00:00,109.0,4
+144897654,87444,50.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2023-05-23 23:00:00+00:00,50.0,4
+144897655,87444,20.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2023-05-23 23:00:00+00:00,20.0,4
+144897656,87444,10.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2023-05-23 23:00:00+00:00,10.0,4
+144897657,87444,50.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2023-05-23 23:00:00+00:00,50.0,10
+144897658,87444,1.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2023-05-23 23:00:00+00:00,1.0,10
+144897659,87444,5.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2023-05-23 23:00:00+00:00,5.0,10
+144897660,87444,109.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2023-05-23 23:00:00+00:00,109.0,6
+144897661,87444,2.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2023-05-23 23:00:00+00:00,2.0,10
+144897662,87444,20.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2023-05-23 23:00:00+00:00,20.0,10
+144897663,87444,10.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2023-05-23 23:00:00+00:00,10.0,10
+144897664,87444,5.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2023-05-23 23:00:00+00:00,5.0,20
+144897665,87444,10.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2023-05-23 23:00:00+00:00,10.0,20
+144897666,87444,20.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2023-05-23 23:00:00+00:00,20.0,20
+144897667,87444,2.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2023-05-23 23:00:00+00:00,2.0,20
+144897668,87444,1.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2023-05-23 23:00:00+00:00,1.0,20
+144897669,87444,1060.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2023-05-23 23:00:00+00:00,1060.0,4
+144897670,87444,267.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2023-05-23 23:00:00+00:00,267.0,4
+144897671,87444,4.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $10M Millionaire [Must Fill],10.0,NBA,2023-05-23 23:00:00+00:00,3.7,3
+144897672,87444,201.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $2.6M Millionaire [Must Fill],555.0,NBA,2023-05-23 23:00:00+00:00,201.0,3
+144897673,87444,16.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $1M Four Technique [Must Fill],44.0,NBA,2023-05-23 23:00:00+00:00,16.0,3
+144897674,87444,749.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $144K Luxury Box [Must Fill],2120.0,NBA,2023-05-23 23:00:00+00:00,749.0,3
+144897675,87444,880.0,False,False,False,False,True,WNBA Fantasy Golf MEGA Millionaire Satellite (6-15) [MUST FILL],3333.0,NBA,2023-05-23 23:00:00+00:00,880.0,4
+144897676,87444,1175.0,False,False,False,False,True,WNBA Fantasy Golf MEGA Millionaire Satellite (6-15) [MUST FILL],3333.0,NBA,2023-05-23 23:00:00+00:00,1175.0,3
+144897677,87444,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA)",19.98,NBA,2023-05-23 23:00:00+00:00,5.55,4
+144897678,87444,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA)",19.98,NBA,2023-05-23 23:00:00+00:00,5.55,4
+144897679,87444,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA)",19.98,NBA,2023-05-23 23:00:00+00:00,5.55,4
+144897680,87444,6.0,False,False,False,False,True,WNBA 2023 RMPGAT Booster Pack Pack Special [Must Fill],19.99,NBA,2023-05-23 23:00:00+00:00,5.55,4
+144897681,87444,6.0,False,False,False,False,True,WNBA 2023 RMPGAT Booster Pack Pack Special [Must Fill],19.99,NBA,2023-05-23 23:00:00+00:00,5.55,4
+144897682,87444,6.0,False,False,False,False,True,WNBA 2023 RMPGAT Booster Pack Pack Special [Must Fill],19.99,NBA,2023-05-23 23:00:00+00:00,5.55,4
+144897683,87444,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA),19.99,NBA,2023-05-23 23:00:00+00:00,5.55,4
+144897684,87444,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA),19.99,NBA,2023-05-23 23:00:00+00:00,5.55,4
+144897685,87444,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA),19.99,NBA,2023-05-23 23:00:00+00:00,5.55,4
+144897775,87444,3.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2023-05-23 23:00:00+00:00,3.0,23
+144897776,87444,1.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-05-23 23:00:00+00:00,1.0,31
+144897777,87444,5.0,False,False,True,False,False,WNBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2023-05-23 23:00:00+00:00,5.0,31
+144897778,87444,50.0,True,False,True,False,False,WNBA $50 Double Up,500.0,NBA,2023-05-23 23:00:00+00:00,50.0,11
+144897779,87444,25.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2023-05-23 23:00:00+00:00,25.0,11
+144897781,87444,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2023-05-23 23:00:00+00:00,10.0,11
+144897782,87444,5.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2023-05-23 23:00:00+00:00,5.0,34
+144897783,87444,5.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2023-05-23 23:00:00+00:00,5.0,23
+144897784,87444,3.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2023-05-23 23:00:00+00:00,3.0,34
+144897785,87444,1.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2023-05-23 23:00:00+00:00,1.0,34
+144897786,87444,1.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2023-05-23 23:00:00+00:00,1.0,23
+144897787,87444,1.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2023-05-23 23:00:00+00:00,1.0,23
+144897788,87444,3.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2023-05-23 23:00:00+00:00,3.0,23
+144897789,87444,5.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2023-05-23 23:00:00+00:00,5.0,23
+144897790,87444,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2023-05-23 23:00:00+00:00,10.0,11
+144897791,87444,0.0,False,False,True,False,True,WNBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-05-23 23:00:00+00:00,0.25,118
+144897792,87444,1.0,False,False,True,False,True,WNBA Satellite to $25 Fantasy Basketball Millionaire,25.0,NBA,2023-05-23 23:00:00+00:00,1.0,29
+144897793,87444,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $10M Millionaire,10.0,NBA,2023-05-23 23:00:00+00:00,0.1,118
+144897794,87444,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $10M Millionaire,10.0,NBA,2023-05-23 23:00:00+00:00,0.25,47
+144897795,87444,1.0,False,False,True,False,True,WNBA SUPERSatellite to NFL Best Ball $10M Millionaire [2x],20.0,NBA,2023-05-23 23:00:00+00:00,1.0,23
+144897878,87448,2.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (ATL vs MIN),5.4,NBA,2023-05-24 00:00:00+00:00,2.0,3
+144897879,87448,10.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (ATL vs MIN),27.0,NBA,2023-05-24 00:00:00+00:00,10.0,3
+144897880,87448,5.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (ATL vs MIN),13.5,NBA,2023-05-24 00:00:00+00:00,5.0,3
+144897881,87448,1.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (ATL vs MIN),2.7,NBA,2023-05-24 00:00:00+00:00,1.0,3
+144897882,87448,1.0,False,False,False,False,False,WNBA Showdown $1 10-Player (ATL vs MIN),9.0,NBA,2023-05-24 00:00:00+00:00,1.0,10
+144897883,87448,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (ATL vs MIN),4.5,NBA,2023-05-24 00:00:00+00:00,1.0,5
+144897884,87448,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (ATL vs MIN),2.7,NBA,2023-05-24 00:00:00+00:00,1.0,3
+144897885,87448,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (ATL vs MIN),2.7,NBA,2023-05-24 00:00:00+00:00,1.0,3
+144897886,87448,20.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (ATL vs MIN),180.0,NBA,2023-05-24 00:00:00+00:00,20.0,10
+144897887,87448,10.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (ATL vs MIN),90.0,NBA,2023-05-24 00:00:00+00:00,10.0,10
+144897888,87448,5.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (ATL vs MIN),45.0,NBA,2023-05-24 00:00:00+00:00,5.0,10
+144897889,87448,3.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (ATL vs MIN),27.0,NBA,2023-05-24 00:00:00+00:00,3.0,10
+144897890,87448,1.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (ATL vs MIN),9.0,NBA,2023-05-24 00:00:00+00:00,1.0,10
+144897891,87448,5.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (ATL vs MIN),13.5,NBA,2023-05-24 00:00:00+00:00,5.0,3
+144897892,87448,2.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (ATL vs MIN),5.4,NBA,2023-05-24 00:00:00+00:00,2.0,3
+144897893,87448,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (ATL vs MIN),5.4,NBA,2023-05-24 00:00:00+00:00,2.0,3
+144897894,87448,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (ATL vs MIN),5.4,NBA,2023-05-24 00:00:00+00:00,2.0,3
+144897895,87448,2.0,False,False,False,False,False,WNBA Showdown $2 5-Player (ATL vs MIN),9.0,NBA,2023-05-24 00:00:00+00:00,2.0,5
+144897896,87448,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (ATL vs MIN),18.0,NBA,2023-05-24 00:00:00+00:00,2.0,10
+144897897,87448,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (ATL vs MIN),13.5,NBA,2023-05-24 00:00:00+00:00,5.0,3
+144897898,87448,5.0,False,False,False,False,False,WNBA Showdown $5 5-Player (ATL vs MIN),22.5,NBA,2023-05-24 00:00:00+00:00,5.0,5
+144897899,87448,5.0,False,False,False,False,False,WNBA Showdown $5 10-Player (ATL vs MIN),45.0,NBA,2023-05-24 00:00:00+00:00,5.0,10
+144897900,87448,10.0,False,False,False,False,False,WNBA Showdown $10 5-Player (ATL vs MIN),45.0,NBA,2023-05-24 00:00:00+00:00,10.0,5
+144897901,87448,10.0,False,False,False,False,False,WNBA Showdown $10 3-Player (ATL vs MIN),27.0,NBA,2023-05-24 00:00:00+00:00,10.0,3
+144897902,87448,20.0,False,False,False,False,False,WNBA Showdown $20 3-Player (ATL vs MIN),54.0,NBA,2023-05-24 00:00:00+00:00,20.0,3
+144897903,87448,50.0,False,False,False,False,False,WNBA Showdown $50 5-Player (ATL vs MIN),225.0,NBA,2023-05-24 00:00:00+00:00,50.0,5
+144897904,87448,50.0,False,False,False,False,False,WNBA Showdown $50 3-Player (ATL vs MIN),135.0,NBA,2023-05-24 00:00:00+00:00,50.0,3
+144897905,87448,109.0,False,False,False,False,False,WNBA Showdown $109 3-Player (ATL vs MIN),300.0,NBA,2023-05-24 00:00:00+00:00,109.0,3
+144897906,87448,162.0,False,False,False,False,False,WNBA Showdown $162 3-Player (ATL vs MIN),450.0,NBA,2023-05-24 00:00:00+00:00,162.0,3
+144897907,87448,530.0,False,False,False,False,False,WNBA Showdown $530 3-Player (ATL vs MIN),1500.0,NBA,2023-05-24 00:00:00+00:00,530.0,3
+144897908,87448,1060.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (ATL vs MIN)",3000.0,NBA,2023-05-24 00:00:00+00:00,1060.0,3
+144897909,87448,5300.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (ATL vs MIN)",15000.0,NBA,2023-05-24 00:00:00+00:00,5300.0,3
+144897910,87448,10600.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (ATL vs MIN)",30000.0,NBA,2023-05-24 00:00:00+00:00,10600.0,3
+144897911,87448,20.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (ATL vs MIN),72.0,NBA,2023-05-24 00:00:00+00:00,20.0,4
+144897912,87448,10.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (ATL vs MIN),90.0,NBA,2023-05-24 00:00:00+00:00,10.0,10
+144897913,87448,1.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (ATL vs MIN),9.0,NBA,2023-05-24 00:00:00+00:00,1.0,10
+144897914,87448,3.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (ATL vs MIN),27.0,NBA,2023-05-24 00:00:00+00:00,3.0,10
+144897915,87448,5.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (ATL vs MIN),45.0,NBA,2023-05-24 00:00:00+00:00,5.0,10
+144897916,87448,5300.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (ATL vs MIN)",20000.0,NBA,2023-05-24 00:00:00+00:00,5300.0,4
+144897917,87448,1060.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (ATL vs MIN)",4000.0,NBA,2023-05-24 00:00:00+00:00,1060.0,4
+144897918,87448,530.0,True,False,False,False,False,WNBA Showdown $530 50-50 (ATL vs MIN),2000.0,NBA,2023-05-24 00:00:00+00:00,530.0,4
+144897919,87448,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (ATL vs MIN),400.0,NBA,2023-05-24 00:00:00+00:00,109.0,4
+144897920,87448,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (ATL vs MIN),180.0,NBA,2023-05-24 00:00:00+00:00,50.0,4
+144897921,87448,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (ATL vs MIN),72.0,NBA,2023-05-24 00:00:00+00:00,20.0,4
+144897922,87448,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (ATL vs MIN),36.0,NBA,2023-05-24 00:00:00+00:00,10.0,4
+144897923,87448,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (ATL vs MIN),450.0,NBA,2023-05-24 00:00:00+00:00,50.0,10
+144897924,87448,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (ATL vs MIN),9.0,NBA,2023-05-24 00:00:00+00:00,1.0,10
+144897925,87448,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (ATL vs MIN),45.0,NBA,2023-05-24 00:00:00+00:00,5.0,10
+144897926,87448,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (ATL vs MIN),600.0,NBA,2023-05-24 00:00:00+00:00,109.0,6
+144897927,87448,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (ATL vs MIN),18.0,NBA,2023-05-24 00:00:00+00:00,2.0,10
+144897928,87448,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (ATL vs MIN),180.0,NBA,2023-05-24 00:00:00+00:00,20.0,10
+144897929,87448,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (ATL vs MIN),90.0,NBA,2023-05-24 00:00:00+00:00,10.0,10
+144897930,87448,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (ATL vs MIN),90.0,NBA,2023-05-24 00:00:00+00:00,5.0,20
+144897931,87448,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (ATL vs MIN),180.0,NBA,2023-05-24 00:00:00+00:00,10.0,20
+144897932,87448,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (ATL vs MIN),360.0,NBA,2023-05-24 00:00:00+00:00,20.0,20
+144897933,87448,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (ATL vs MIN),36.0,NBA,2023-05-24 00:00:00+00:00,2.0,20
+144897934,87448,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (ATL vs MIN),18.0,NBA,2023-05-24 00:00:00+00:00,1.0,20
+144897935,87448,1060.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (ATL vs MIN),4000.0,NBA,2023-05-24 00:00:00+00:00,1060.0,4
+144897936,87448,267.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (ATL vs MIN),1000.0,NBA,2023-05-24 00:00:00+00:00,267.0,4
+144897937,87448,4.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $10M Millionaire [Must Fill] (ATL vs MIN),10.0,NBA,2023-05-24 00:00:00+00:00,3.7,3
+144897938,87448,201.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (ATL vs MIN),555.0,NBA,2023-05-24 00:00:00+00:00,201.0,3
+144897939,87448,16.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $1M Four Technique [Must Fill] (ATL vs MIN),44.0,NBA,2023-05-24 00:00:00+00:00,16.0,3
+144897940,87448,749.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (ATL vs MIN),2120.0,NBA,2023-05-24 00:00:00+00:00,749.0,3
+144897941,87448,880.0,False,False,False,False,True,WNBA Showdown Fantasy Golf MEGA Millionaire Satellite (6-15) [MUST FILL] (ATL vs MIN),3333.0,NBA,2023-05-24 00:00:00+00:00,880.0,4
+144897942,87448,1175.0,False,False,False,False,True,WNBA Showdown Fantasy Golf MEGA Millionaire Satellite (6-15) [MUST FILL] (ATL vs MIN),3333.0,NBA,2023-05-24 00:00:00+00:00,1175.0,3
+144897943,87448,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA ATL vs MIN)",19.98,NBA,2023-05-24 00:00:00+00:00,5.55,4
+144897944,87448,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA ATL vs MIN)",19.98,NBA,2023-05-24 00:00:00+00:00,5.55,4
+144897945,87448,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA ATL vs MIN)",19.98,NBA,2023-05-24 00:00:00+00:00,5.55,4
+144897946,87448,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (ATL vs MIN),19.99,NBA,2023-05-24 00:00:00+00:00,5.55,4
+144897947,87448,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (ATL vs MIN),19.99,NBA,2023-05-24 00:00:00+00:00,5.55,4
+144897948,87448,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (ATL vs MIN),19.99,NBA,2023-05-24 00:00:00+00:00,5.55,4
+144897949,87448,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA ATL vs MIN),19.99,NBA,2023-05-24 00:00:00+00:00,5.55,4
+144897950,87448,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA ATL vs MIN),19.99,NBA,2023-05-24 00:00:00+00:00,5.55,4
+144897951,87448,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA ATL vs MIN),19.99,NBA,2023-05-24 00:00:00+00:00,5.55,4
+144897957,87448,1.0,True,False,True,False,False,WNBA Showdown $1 Double Up (ATL vs MIN),20.0,NBA,2023-05-24 00:00:00+00:00,1.0,23
+144897958,87448,3.0,True,False,True,False,False,WNBA Showdown $3 Double Up (ATL vs MIN),60.0,NBA,2023-05-24 00:00:00+00:00,3.0,23
+144897959,87448,5.0,True,False,True,False,False,WNBA Showdown $5 Double Up (ATL vs MIN),100.0,NBA,2023-05-24 00:00:00+00:00,5.0,23
+144897960,87448,10.0,True,False,True,False,False,WNBA Showdown $10 Double Up (ATL vs MIN),100.0,NBA,2023-05-24 00:00:00+00:00,10.0,11
+144897961,87448,25.0,True,False,True,False,False,WNBA Showdown $25 Double Up (ATL vs MIN),250.0,NBA,2023-05-24 00:00:00+00:00,25.0,11
+144897962,87448,25.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (ATL vs MIN),110.0,NBA,2023-05-24 00:00:00+00:00,25.0,5
+144899463,87356,5300.0,False,False,False,False,True,NBA Showdown $30K Thunderdome [Must Fill] (BOS vs MIA),30000.0,NBA,2023-05-24 00:30:00+00:00,5300.0,6
+144899483,87356,2120.0,False,False,True,False,True,NBA Showdown $36K Hall of Famer [$15K to 1st] (BOS vs MIA),36000.0,NBA,2023-05-24 00:30:00+00:00,2120.0,18
+144899484,87356,1060.0,False,False,True,False,True,NBA Showdown $15K All-Star [$8K to 1st] (BOS vs MIA),15000.0,NBA,2023-05-24 00:30:00+00:00,1060.0,15
+144899517,87356,555.0,False,False,True,False,True,NBA Showdown $185K Alley Oop [$50K to 1st] (BOS vs MIA),185000.0,NBA,2023-05-24 00:30:00+00:00,555.0,370
+144899520,87356,88.0,False,False,True,False,True,NBA Showdown $15K Box Out [$3K to 1st] (BOS vs MIA),15000.0,NBA,2023-05-24 00:30:00+00:00,88.0,193
+144899624,87356,20.0,False,False,True,False,True,NBA Showdown $600K Shootaround [$150K to 1st] (BOS vs MIA),600000.0,NBA,2023-05-24 00:30:00+00:00,20.0,35294
+144899628,87356,4.0,False,False,True,False,True,NBA Showdown $100K Four Point Play [20 Entry Max] (BOS vs MIA),100000.0,NBA,2023-05-24 00:30:00+00:00,4.0,29726
+144899674,87356,1.0,False,False,True,False,True,NBA Showdown $50K And-One [20 Entry Max] (BOS vs MIA),50000.0,NBA,2023-05-24 00:30:00+00:00,1.0,59453
+144899729,87356,200.0,False,False,True,False,True,NBA Showdown $35K Splash [3 Entry Max] (BOS vs MIA),35000.0,NBA,2023-05-24 00:30:00+00:00,200.0,194
+144899731,87356,8.0,False,False,True,False,True,NBA Showdown $35K Excellent 8's [$10K to 1st] (BOS vs MIA),35000.0,NBA,2023-05-24 00:30:00+00:00,8.0,5147
+144899734,87356,6.0,False,False,True,False,True,NBA Showdown $50K Jab Step [$10K to 1st] (BOS vs MIA),50000.0,NBA,2023-05-24 00:30:00+00:00,6.0,9803
+144899759,87356,5.0,False,False,True,False,True,NBA Showdown $30K Zone [$5K to 1st] (BOS vs MIA),30000.0,NBA,2023-05-24 00:30:00+00:00,5.0,7134
+144900112,87356,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (BOS vs MIA),4.5,NBA,2023-05-24 00:30:00+00:00,1.0,5
+144900535,87448,10.0,False,False,False,False,False,WNBA Showdown $10 200-Player (Top 10 Win) (ATL vs MIN),1800.0,NBA,2023-05-24 00:00:00+00:00,10.0,200
+144900799,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs MIA)",30000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,3
+144900800,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs MIA)",30000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,3
+144900846,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs MIA)",30000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,3
+144901131,87448,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (ATL vs MIN),18.0,NBA,2023-05-24 00:00:00+00:00,2.0,10
+144901570,87356,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS vs MIA),360.0,NBA,2023-05-24 00:30:00+00:00,20.0,20
+144901571,87356,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,10.0,20
+144901572,87356,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (BOS vs MIA),100.0,NBA,2023-05-24 00:30:00+00:00,10.0,11
+144901573,87356,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,25.0,11
+144901574,87356,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (BOS vs MIA),500.0,NBA,2023-05-24 00:30:00+00:00,50.0,11
+144901575,87356,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (BOS vs MIA),500.0,NBA,2023-05-24 00:30:00+00:00,25.0,22
+144901576,87356,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (BOS vs MIA),1000.0,NBA,2023-05-24 00:30:00+00:00,50.0,22
+144902195,87448,1.0,False,False,False,False,False,WNBA Showdown $1 10-Player (ATL vs MIN),9.0,NBA,2023-05-24 00:00:00+00:00,1.0,10
+144902523,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs MIA)",30000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,3
+144902524,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs MIA)",30000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,3
+144902573,87356,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS vs MIA),2.7,NBA,2023-05-24 00:30:00+00:00,1.0,3
+144902859,87356,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs MIA)",30000.0,NBA,2023-05-24 00:30:00+00:00,10600.0,3
+144903049,87357,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (BOS vs MIA),18.0,NBA,2023-05-24 00:30:00+00:00,5.0,4
+144903133,87356,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS vs MIA),2.7,NBA,2023-05-24 00:30:00+00:00,1.0,3
+144903285,87356,0.0,False,False,False,False,False,NBA Showdown FREE 200-Player (BOS vs MIA),0.0,NBA,2023-05-24 00:30:00+00:00,0.0,200
+144903757,87356,0.0,False,False,False,False,False,NBA Showdown FREE 100-Player (BOS vs MIA) x3,0.0,NBA,2023-05-24 00:30:00+00:00,0.0,100
+144904260,87357,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144904421,87448,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (ATL vs MIN),36.0,NBA,2023-05-24 00:00:00+00:00,2.0,20
+144904428,87448,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (ATL vs MIN),36.0,NBA,2023-05-24 00:00:00+00:00,2.0,20
+144904681,87356,1.0,False,False,False,False,False,NBA Showdown $1 40-Player (BOS vs MIA),36.0,NBA,2023-05-24 00:30:00+00:00,1.0,40
+144904794,87356,1.0,False,False,False,False,False,NBA Showdown $1 4-Player (Winner Takes All) (BOS vs MIA),3.6,NBA,2023-05-24 00:30:00+00:00,1.0,4
+144904869,87448,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (ATL vs MIN),18.0,NBA,2023-05-24 00:00:00+00:00,1.0,20
+144904871,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,5.0,20
+144904873,87356,10.0,False,False,False,False,False,NBA Showdown $10 6-Player (Winner Takes All) (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,10.0,6
+144904908,87356,3.0,False,False,False,False,False,NBA Showdown $3 20-Player (Winner Takes All) (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,3.0,20
+144904926,87356,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (BOS vs MIA),30.0,NBA,2023-05-24 00:30:00+00:00,3.0,11
+144904985,87359,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q BOS vs MIA),36.0,NBA,2023-05-24 01:50:00+00:00,10.0,4
+144905122,87357,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144905187,87356,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,25.0,11
+144905188,87357,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,10.0,3
+144905238,87448,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (ATL vs MIN),2.7,NBA,2023-05-24 00:00:00+00:00,1.0,3
+144905280,87356,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,1.0,31
+144905396,87356,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS vs MIA),250.0,NBA,2023-05-24 00:30:00+00:00,25.0,11
+144905478,87357,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (BOS vs MIA),36.0,NBA,2023-05-24 00:30:00+00:00,10.0,4
+144905793,87357,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (BOS vs MIA),54.0,NBA,2023-05-24 00:30:00+00:00,20.0,3
+144906072,87356,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (Top 3 Win) (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144906172,87356,109.0,False,False,False,False,False,NBA Showdown $109 13-Player (Top 3 Win) (BOS vs MIA),1300.0,NBA,2023-05-24 00:30:00+00:00,109.0,13
+144906174,87356,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144906214,87356,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,10.0,5
+144906309,87448,1.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (ATL vs MIN),2.7,NBA,2023-05-24 00:00:00+00:00,1.0,3
+144906331,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144906332,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144906333,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144906334,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,5.0,20
+144906335,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,5.0,20
+144906336,87356,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,5.0,20
+144906338,87356,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144906339,87356,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144906340,87356,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs MIA),90.0,NBA,2023-05-24 00:30:00+00:00,10.0,10
+144906341,87356,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,10.0,20
+144906353,87357,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144906354,87357,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (BOS vs MIA),3.6,NBA,2023-05-24 00:30:00+00:00,1.0,4
+144906388,87357,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (BOS vs MIA),13.5,NBA,2023-05-24 00:30:00+00:00,5.0,3
+144906444,87357,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (BOS vs MIA),2.7,NBA,2023-05-24 00:30:00+00:00,1.0,3
+144906446,87356,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (BOS vs MIA),180.0,NBA,2023-05-24 00:30:00+00:00,20.0,10
+144906451,87357,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (BOS vs MIA),2.7,NBA,2023-05-24 00:30:00+00:00,1.0,3
+144906551,87356,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (BOS vs MIA),45.0,NBA,2023-05-24 00:30:00+00:00,5.0,10
+144906552,87356,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
+144906564,87356,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (BOS vs MIA),27.0,NBA,2023-05-24 00:30:00+00:00,3.0,10
+144906565,87356,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,2.0,5
+144906637,87357,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (BOS vs MIA),2.7,NBA,2023-05-24 00:30:00+00:00,1.0,3
+144906681,87356,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (Winner Takes All) (BOS vs MIA),9.0,NBA,2023-05-24 00:30:00+00:00,1.0,10
