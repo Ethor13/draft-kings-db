@@ -1,0 +1,962 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+146464920,89354,50.0,True,False,True,False,False,NBASL $50 Double Up (Summer League),500.0,NBA,2023-07-09 23:30:00+00:00,50.0,11
+146464921,89354,25.0,True,False,True,False,False,NBASL $25 Double Up (Summer League),250.0,NBA,2023-07-09 23:30:00+00:00,25.0,11
+146464922,89354,1.0,True,False,True,False,False,NBASL $1 Double Up (Summer League),20.0,NBA,2023-07-09 23:30:00+00:00,1.0,23
+146464923,89354,3.0,True,False,True,False,False,NBASL $3 Double Up (Summer League),60.0,NBA,2023-07-09 23:30:00+00:00,3.0,23
+146464924,89354,5.0,True,False,True,False,False,NBASL $5 Double Up (Summer League),100.0,NBA,2023-07-09 23:30:00+00:00,5.0,23
+146464925,89354,10.0,True,False,True,False,False,NBASL $10 Double Up (Summer League),100.0,NBA,2023-07-09 23:30:00+00:00,10.0,11
+146464926,89354,1.0,False,False,True,False,False,NBASL $1 Triple Up [Top 9 Win $3] (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,1.0,31
+146464927,89354,1.0,True,False,True,False,False,NBASL $1 Double Up (Summer League),20.0,NBA,2023-07-09 23:30:00+00:00,1.0,23
+146464928,89354,3.0,True,False,True,False,False,NBASL $3 Double Up (Summer League),60.0,NBA,2023-07-09 23:30:00+00:00,3.0,23
+146464929,89354,5.0,True,False,True,False,False,NBASL $5 Double Up (Summer League),100.0,NBA,2023-07-09 23:30:00+00:00,5.0,23
+146464930,89354,10.0,True,False,True,False,False,NBASL $10 Double Up (Summer League),100.0,NBA,2023-07-09 23:30:00+00:00,10.0,11
+146464931,89354,85.0,False,False,True,False,True,NBASL $85 Winner Take All [$300 to 1st] (Summer League),300.0,NBA,2023-07-09 23:30:00+00:00,85.0,4
+146464932,89354,0.0,False,False,True,False,True,NBASL Satellite to NFL Best Ball $10M Millionaire (Summer League),10.0,NBA,2023-07-09 23:30:00+00:00,0.1,118
+146464933,89354,0.0,False,False,True,False,True,NBASL Satellite to NFL Best Ball $10M Millionaire (Summer League),10.0,NBA,2023-07-09 23:30:00+00:00,0.25,47
+146464934,89354,1.0,False,False,True,False,True,NBASL SUPERSatellite to NFL Best Ball $10M Millionaire [2x] (Summer League),20.0,NBA,2023-07-09 23:30:00+00:00,1.0,23
+146464970,89511,5.0,True,False,True,False,False,NBASL $5 Double Up (SL Afternoon),100.0,NBA,2023-07-09 21:30:00+00:00,5.0,23
+146464971,89511,10.0,True,False,True,False,False,NBASL $10 Double Up (SL Afternoon),200.0,NBA,2023-07-09 21:30:00+00:00,10.0,23
+146464972,89511,25.0,False,False,True,False,True,NBASL $25 Winner Take All [$110 to 1st] (SL Afternoon),110.0,NBA,2023-07-09 21:30:00+00:00,25.0,5
+146464973,89511,1.0,True,False,True,False,False,NBASL $1 Double Up (SL Afternoon),20.0,NBA,2023-07-09 21:30:00+00:00,1.0,23
+146464974,89511,1.0,True,False,True,False,False,NBASL $1 Double Up (SL Afternoon),20.0,NBA,2023-07-09 21:30:00+00:00,1.0,23
+146464975,89511,3.0,True,False,True,False,False,NBASL $3 Double Up (SL Afternoon),60.0,NBA,2023-07-09 21:30:00+00:00,3.0,23
+146464976,89511,3.0,True,False,True,False,False,NBASL $3 Double Up (SL Afternoon),60.0,NBA,2023-07-09 21:30:00+00:00,3.0,23
+146464999,89353,1.0,True,False,True,False,False,NBASL $1 Double Up (SL Early),20.0,NBA,2023-07-09 19:30:00+00:00,1.0,23
+146465000,89353,1.0,True,False,True,False,False,NBASL $1 Double Up (SL Early),20.0,NBA,2023-07-09 19:30:00+00:00,1.0,23
+146465001,89353,1.0,True,False,True,False,False,NBASL $1 Double Up (SL Early),20.0,NBA,2023-07-09 19:30:00+00:00,1.0,23
+146465002,89353,85.0,False,False,True,False,True,NBASL $85 Winner Take All [$300 to 1st] (SL Early),300.0,NBA,2023-07-09 19:30:00+00:00,85.0,4
+146465003,89353,25.0,False,False,True,False,True,NBASL $25 Winner Take All [$110 to 1st] (SL Early),110.0,NBA,2023-07-09 19:30:00+00:00,25.0,5
+146465004,89353,25.0,True,False,True,False,False,NBASL $25 Double Up (SL Early),250.0,NBA,2023-07-09 19:30:00+00:00,25.0,11
+146465005,89353,10.0,True,False,True,False,False,NBASL $10 Double Up (SL Early),100.0,NBA,2023-07-09 19:30:00+00:00,10.0,11
+146465006,89353,5.0,True,False,True,False,False,NBASL $5 Double Up (SL Early),100.0,NBA,2023-07-09 19:30:00+00:00,5.0,23
+146465007,89353,5.0,True,False,True,False,False,NBASL $5 Double Up (SL Early),100.0,NBA,2023-07-09 19:30:00+00:00,5.0,23
+146465008,89353,3.0,True,False,True,False,False,NBASL $3 Double Up (SL Early),60.0,NBA,2023-07-09 19:30:00+00:00,3.0,23
+146465009,89353,3.0,True,False,True,False,False,NBASL $3 Double Up (SL Early),60.0,NBA,2023-07-09 19:30:00+00:00,3.0,23
+146465010,89356,1.0,True,False,True,False,False,NBASL $1 Double Up (SL Night),20.0,NBA,2023-07-10 01:30:00+00:00,1.0,23
+146465011,89356,1.0,True,False,True,False,False,NBASL $1 Double Up (SL Night),20.0,NBA,2023-07-10 01:30:00+00:00,1.0,23
+146465012,89356,1.0,True,False,True,False,False,NBASL $1 Double Up (SL Night),20.0,NBA,2023-07-10 01:30:00+00:00,1.0,23
+146465013,89356,85.0,False,False,True,False,True,NBASL $85 Winner Take All [$300 to 1st] (SL Night),300.0,NBA,2023-07-10 01:30:00+00:00,85.0,4
+146465014,89356,25.0,False,False,True,False,True,NBASL $25 Winner Take All [$110 to 1st] (SL Night),110.0,NBA,2023-07-10 01:30:00+00:00,25.0,5
+146465015,89356,25.0,True,False,True,False,False,NBASL $25 Double Up (SL Night),250.0,NBA,2023-07-10 01:30:00+00:00,25.0,11
+146465016,89356,10.0,True,False,True,False,False,NBASL $10 Double Up (SL Night),100.0,NBA,2023-07-10 01:30:00+00:00,10.0,11
+146465017,89356,5.0,True,False,True,False,False,NBASL $5 Double Up (SL Night),100.0,NBA,2023-07-10 01:30:00+00:00,5.0,23
+146465018,89356,5.0,True,False,True,False,False,NBASL $5 Double Up (SL Night),100.0,NBA,2023-07-10 01:30:00+00:00,5.0,23
+146465019,89356,3.0,True,False,True,False,False,NBASL $3 Double Up (SL Night),60.0,NBA,2023-07-10 01:30:00+00:00,3.0,23
+146465020,89356,3.0,True,False,True,False,False,NBASL $3 Double Up (SL Night),60.0,NBA,2023-07-10 01:30:00+00:00,3.0,23
+146465021,89357,1.0,True,False,True,False,False,NBASL Showdown $1 Double Up (SL NOP vs GSW),20.0,NBA,2023-07-10 02:00:00+00:00,1.0,23
+146465022,89357,1.0,True,False,True,False,False,NBASL Showdown $1 Double Up (SL NOP vs GSW),20.0,NBA,2023-07-10 02:00:00+00:00,1.0,23
+146465023,89357,1.0,True,False,True,False,False,NBASL Showdown $1 Double Up (SL NOP vs GSW),20.0,NBA,2023-07-10 02:00:00+00:00,1.0,23
+146465024,89357,85.0,False,False,True,False,True,NBASL Showdown $85 Winner Take All [$300 to 1st] (SL NOP vs GSW),300.0,NBA,2023-07-10 02:00:00+00:00,85.0,4
+146465025,89357,25.0,False,False,True,False,True,NBASL Showdown $25 Winner Take All [$110 to 1st] (SL NOP vs GSW),110.0,NBA,2023-07-10 02:00:00+00:00,25.0,5
+146465026,89357,25.0,True,False,True,False,False,NBASL Showdown $25 Double Up (SL NOP vs GSW),250.0,NBA,2023-07-10 02:00:00+00:00,25.0,11
+146465027,89357,10.0,True,False,True,False,False,NBASL Showdown $10 Double Up (SL NOP vs GSW),100.0,NBA,2023-07-10 02:00:00+00:00,10.0,11
+146465028,89357,5.0,True,False,True,False,False,NBASL Showdown $5 Double Up (SL NOP vs GSW),100.0,NBA,2023-07-10 02:00:00+00:00,5.0,23
+146465029,89357,5.0,True,False,True,False,False,NBASL Showdown $5 Double Up (SL NOP vs GSW),100.0,NBA,2023-07-10 02:00:00+00:00,5.0,23
+146465030,89357,3.0,True,False,True,False,False,NBASL Showdown $3 Double Up (SL NOP vs GSW),60.0,NBA,2023-07-10 02:00:00+00:00,3.0,23
+146465031,89357,3.0,True,False,True,False,False,NBASL Showdown $3 Double Up (SL NOP vs GSW),60.0,NBA,2023-07-10 02:00:00+00:00,3.0,23
+146465118,89354,20.0,False,False,False,False,False,Beginner NBASL $20 3-Player (Summer League),54.0,NBA,2023-07-09 23:30:00+00:00,20.0,3
+146465119,89354,50.0,False,False,False,False,False,Beginner NBASL $50 3-Player (Summer League),135.0,NBA,2023-07-09 23:30:00+00:00,50.0,3
+146465120,89354,10.0,False,False,False,False,False,Beginner NBASL $10 3-Player (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,10.0,3
+146465121,89354,5.0,False,False,False,False,False,Beginner NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146465122,89354,1.0,False,False,False,False,False,Beginner NBASL $1 3-Player (Summer League),2.7,NBA,2023-07-09 23:30:00+00:00,1.0,3
+146465123,89354,5300.0,True,False,False,False,False,"NBASL $5,300 50-50 (Summer League)",20000.0,NBA,2023-07-09 23:30:00+00:00,5300.0,4
+146465124,89354,1060.0,True,False,False,False,False,"NBASL $1,060 50-50 (Summer League)",4000.0,NBA,2023-07-09 23:30:00+00:00,1060.0,4
+146465125,89354,530.0,True,False,False,False,False,NBASL $530 50-50 (Summer League),2000.0,NBA,2023-07-09 23:30:00+00:00,530.0,4
+146465126,89354,162.0,True,False,False,False,False,NBASL $162 50-50 (Summer League),600.0,NBA,2023-07-09 23:30:00+00:00,162.0,4
+146465127,89354,109.0,True,False,False,False,False,NBASL $109 50-50 (Summer League),400.0,NBA,2023-07-09 23:30:00+00:00,109.0,4
+146465128,89354,50.0,True,False,False,False,False,NBASL $50 50-50 (Summer League),180.0,NBA,2023-07-09 23:30:00+00:00,50.0,4
+146465129,89354,20.0,True,False,False,False,False,NBASL $20 50-50 (Summer League),360.0,NBA,2023-07-09 23:30:00+00:00,20.0,20
+146465130,89354,20.0,True,False,False,False,False,NBASL $20 50-50 (Summer League),180.0,NBA,2023-07-09 23:30:00+00:00,20.0,10
+146465131,89354,20.0,True,False,False,False,False,NBASL $20 50-50 (Summer League),72.0,NBA,2023-07-09 23:30:00+00:00,20.0,4
+146465132,89354,20.0,True,False,False,False,False,NBASL $20 50-50 (Summer League),72.0,NBA,2023-07-09 23:30:00+00:00,20.0,4
+146465133,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),180.0,NBA,2023-07-09 23:30:00+00:00,10.0,20
+146465134,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,10.0,10
+146465135,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,10.0,10
+146465136,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),36.0,NBA,2023-07-09 23:30:00+00:00,10.0,4
+146465137,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),36.0,NBA,2023-07-09 23:30:00+00:00,10.0,4
+146465138,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),36.0,NBA,2023-07-09 23:30:00+00:00,10.0,4
+146465139,89354,5.0,True,False,False,False,False,NBASL $5 50-50 (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,5.0,20
+146465140,89354,5.0,True,False,False,False,False,NBASL $5 50-50 (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,5.0,20
+146465141,89354,5.0,True,False,False,False,False,NBASL $5 50-50 (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,5.0,10
+146465142,89354,5.0,True,False,False,False,False,NBASL $5 50-50 (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,5.0,10
+146465143,89354,5.0,True,False,False,False,False,NBASL $5 50-50 (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,5.0,10
+146465144,89354,2.0,True,False,False,False,False,NBASL $2 50-50 (Summer League),36.0,NBA,2023-07-09 23:30:00+00:00,2.0,20
+146465145,89354,2.0,True,False,False,False,False,NBASL $2 50-50 (Summer League),36.0,NBA,2023-07-09 23:30:00+00:00,2.0,20
+146465146,89354,2.0,True,False,False,False,False,NBASL $2 50-50 (Summer League),18.0,NBA,2023-07-09 23:30:00+00:00,2.0,10
+146465147,89354,2.0,True,False,False,False,False,NBASL $2 50-50 (Summer League),18.0,NBA,2023-07-09 23:30:00+00:00,2.0,10
+146465148,89354,2.0,True,False,False,False,False,NBASL $2 50-50 (Summer League),18.0,NBA,2023-07-09 23:30:00+00:00,2.0,10
+146465149,89354,1.0,True,False,False,False,False,NBASL $1 50-50 (Summer League),18.0,NBA,2023-07-09 23:30:00+00:00,1.0,20
+146465150,89354,1.0,True,False,False,False,False,NBASL $1 50-50 (Summer League),18.0,NBA,2023-07-09 23:30:00+00:00,1.0,20
+146465151,89354,1.0,True,False,False,False,False,NBASL $1 50-50 (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,1.0,10
+146465152,89354,1.0,True,False,False,False,False,NBASL $1 50-50 (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,1.0,10
+146465153,89354,1.0,True,False,False,False,False,NBASL $1 50-50 (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,1.0,10
+146465154,89354,50.0,True,False,False,False,False,Beginner NBASL $50 50-50 (Summer League),180.0,NBA,2023-07-09 23:30:00+00:00,50.0,4
+146465155,89354,20.0,True,False,False,False,False,Beginner NBASL $20 50-50 (Summer League),72.0,NBA,2023-07-09 23:30:00+00:00,20.0,4
+146465156,89354,10.0,True,False,False,False,False,Beginner NBASL $10 50-50 (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,10.0,10
+146465157,89354,5.0,True,False,False,False,False,Beginner NBASL $5 50-50 (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,5.0,10
+146465158,89354,3.0,True,False,False,False,False,Beginner NBASL $3 50-50 (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,3.0,10
+146465159,89354,1.0,True,False,False,False,False,Beginner NBASL $1 50-50 (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,1.0,10
+146465160,89354,10.0,False,False,False,False,False,Beginner NBASL $10 5-Player (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,10.0,5
+146465161,89354,5.0,False,False,False,False,False,Beginner NBASL $5 5-Player (Summer League),22.5,NBA,2023-07-09 23:30:00+00:00,5.0,5
+146465162,89354,5.0,False,False,False,False,False,Beginner NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146465163,89354,2.0,False,False,False,False,False,Beginner NBASL $2 5-Player (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,2.0,5
+146465164,89354,2.0,False,False,False,False,False,Beginner NBASL $2 3-Player (Summer League),5.4,NBA,2023-07-09 23:30:00+00:00,2.0,3
+146465165,89354,1.0,False,False,False,False,False,Beginner NBASL $1 5-Player (Summer League),4.5,NBA,2023-07-09 23:30:00+00:00,1.0,5
+146465166,89354,10600.0,False,False,False,False,False,"NBASL $10,600 3-Player (Summer League)",30000.0,NBA,2023-07-09 23:30:00+00:00,10600.0,3
+146465167,89354,5300.0,False,False,False,False,False,"NBASL $5,300 3-Player (Summer League)",15000.0,NBA,2023-07-09 23:30:00+00:00,5300.0,3
+146465168,89354,1060.0,False,False,False,False,False,"NBASL $1,060 3-Player (Summer League)",3000.0,NBA,2023-07-09 23:30:00+00:00,1060.0,3
+146465169,89354,530.0,False,False,False,False,False,NBASL $530 3-Player (Summer League),1500.0,NBA,2023-07-09 23:30:00+00:00,530.0,3
+146465170,89354,162.0,False,False,False,False,False,NBASL $162 3-Player (Summer League),450.0,NBA,2023-07-09 23:30:00+00:00,162.0,3
+146465171,89354,109.0,False,False,False,False,False,NBASL $109 3-Player (Summer League),300.0,NBA,2023-07-09 23:30:00+00:00,109.0,3
+146465172,89354,109.0,False,False,False,False,False,NBASL $109 3-Player (Summer League),300.0,NBA,2023-07-09 23:30:00+00:00,109.0,3
+146465173,89354,50.0,False,False,False,False,False,NBASL $50 5-Player (Summer League),225.0,NBA,2023-07-09 23:30:00+00:00,50.0,5
+146465174,89354,50.0,False,False,False,False,False,NBASL $50 3-Player (Summer League),135.0,NBA,2023-07-09 23:30:00+00:00,50.0,3
+146465175,89354,20.0,False,False,False,False,False,NBASL $20 5-Player (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,20.0,5
+146465176,89354,20.0,False,False,False,False,False,NBASL $20 5-Player (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,20.0,5
+146465177,89354,20.0,False,False,False,False,False,NBASL $20 3-Player (Summer League),54.0,NBA,2023-07-09 23:30:00+00:00,20.0,3
+146465178,89354,20.0,False,False,False,False,False,NBASL $20 3-Player (Summer League),54.0,NBA,2023-07-09 23:30:00+00:00,20.0,3
+146465179,89354,20.0,False,False,False,False,False,NBASL $20 3-Player (Summer League),54.0,NBA,2023-07-09 23:30:00+00:00,20.0,3
+146465180,89354,10.0,False,False,False,False,False,NBASL $10 10-Player (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,10.0,10
+146465181,89354,10.0,False,False,False,False,False,NBASL $10 5-Player (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,10.0,5
+146465182,89354,10.0,False,False,False,False,False,NBASL $10 5-Player (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,10.0,5
+146465183,89354,10.0,False,False,False,False,False,NBASL $10 3-Player (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,10.0,3
+146465184,89354,10.0,False,False,False,False,False,NBASL $10 3-Player (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,10.0,3
+146465185,89354,10.0,False,False,False,False,False,NBASL $10 3-Player (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,10.0,3
+146465186,89354,5.0,False,False,False,False,False,NBASL $5 10-Player (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,5.0,10
+146465187,89354,5.0,False,False,False,False,False,NBASL $5 10-Player (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,5.0,10
+146465188,89354,5.0,False,False,False,False,False,NBASL $5 5-Player (Summer League),22.5,NBA,2023-07-09 23:30:00+00:00,5.0,5
+146465189,89354,5.0,False,False,False,False,False,NBASL $5 5-Player (Summer League),22.5,NBA,2023-07-09 23:30:00+00:00,5.0,5
+146465190,89354,5.0,False,False,False,False,False,NBASL $5 5-Player (Summer League),22.5,NBA,2023-07-09 23:30:00+00:00,5.0,5
+146465191,89354,5.0,False,False,False,False,False,NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146465192,89354,5.0,False,False,False,False,False,NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146465193,89354,5.0,False,False,False,False,False,NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146465194,89354,2.0,False,False,False,False,False,NBASL $2 20-Player (Summer League),36.0,NBA,2023-07-09 23:30:00+00:00,2.0,20
+146465195,89354,2.0,False,False,False,False,False,NBASL $2 20-Player (Summer League),36.0,NBA,2023-07-09 23:30:00+00:00,2.0,20
+146465196,89354,2.0,False,False,False,False,False,NBASL $2 10-Player (Summer League),18.0,NBA,2023-07-09 23:30:00+00:00,2.0,10
+146465197,89354,2.0,False,False,False,False,False,NBASL $2 10-Player (Summer League),18.0,NBA,2023-07-09 23:30:00+00:00,2.0,10
+146465198,89354,2.0,False,False,False,False,False,NBASL $2 10-Player (Summer League),18.0,NBA,2023-07-09 23:30:00+00:00,2.0,10
+146465199,89354,2.0,False,False,False,False,False,NBASL $2 5-Player (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,2.0,5
+146465200,89354,2.0,False,False,False,False,False,NBASL $2 5-Player (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,2.0,5
+146465201,89354,2.0,False,False,False,False,False,NBASL $2 5-Player (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,2.0,5
+146465202,89354,2.0,False,False,False,False,False,NBASL $2 3-Player (Summer League),5.4,NBA,2023-07-09 23:30:00+00:00,2.0,3
+146465203,89354,2.0,False,False,False,False,False,NBASL $2 3-Player (Summer League),5.4,NBA,2023-07-09 23:30:00+00:00,2.0,3
+146465204,89354,2.0,False,False,False,False,False,NBASL $2 3-Player (Summer League),5.4,NBA,2023-07-09 23:30:00+00:00,2.0,3
+146465205,89354,1.0,False,False,False,False,False,NBASL $1 10-Player (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,1.0,10
+146465206,89354,1.0,False,False,False,False,False,NBASL $1 5-Player (Summer League),4.5,NBA,2023-07-09 23:30:00+00:00,1.0,5
+146465207,89354,1.0,False,False,False,False,False,NBASL $1 3-Player (Summer League),2.7,NBA,2023-07-09 23:30:00+00:00,1.0,3
+146465208,89354,1.0,False,False,False,False,False,NBASL $1 3-Player (Summer League),2.7,NBA,2023-07-09 23:30:00+00:00,1.0,3
+146465209,89354,109.0,True,False,False,False,False,NBASL $109 50-50 (Summer League),600.0,NBA,2023-07-09 23:30:00+00:00,109.0,6
+146465210,89354,10600.0,False,False,False,False,False,"NBASL $10,600 4-Player (Winner Takes All) (Summer League)",40000.0,NBA,2023-07-09 23:30:00+00:00,10600.0,4
+146465211,89354,10600.0,False,False,False,False,False,"NBASL $10,600 4-Player (Winner Takes All) (Summer League)",40000.0,NBA,2023-07-09 23:30:00+00:00,10600.0,4
+146465212,89354,10600.0,False,False,False,False,False,"NBASL $10,600 4-Player (Winner Takes All) (Summer League)",40000.0,NBA,2023-07-09 23:30:00+00:00,10600.0,4
+146465213,89354,50.0,True,False,False,False,False,Casual NBASL $50 50-50 (Summer League),180.0,NBA,2023-07-09 23:30:00+00:00,50.0,4
+146465214,89354,20.0,True,False,False,False,False,Casual NBASL $20 50-50 (Summer League),72.0,NBA,2023-07-09 23:30:00+00:00,20.0,4
+146465215,89354,10.0,True,False,False,False,False,Casual NBASL $10 50-50 (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,10.0,10
+146465216,89354,5.0,True,False,False,False,False,Casual NBASL $5 50-50 (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,5.0,10
+146465217,89354,3.0,True,False,False,False,False,Casual NBASL $3 50-50 (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,3.0,10
+146465218,89354,3.0,True,False,False,False,False,Casual NBASL $3 50-50 (Summer League),10.8,NBA,2023-07-09 23:30:00+00:00,3.0,4
+146465219,89354,1.0,True,False,False,False,False,Casual NBASL $1 50-50 (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,1.0,10
+146465220,89354,50.0,False,False,False,False,False,Casual NBASL $50 3-Player (Summer League),135.0,NBA,2023-07-09 23:30:00+00:00,50.0,3
+146465221,89354,20.0,False,False,False,False,False,Casual NBASL $20 3-Player (Summer League),54.0,NBA,2023-07-09 23:30:00+00:00,20.0,3
+146465222,89354,10.0,False,False,False,False,False,Casual NBASL $10 5-Player (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,10.0,5
+146465223,89354,10.0,False,False,False,False,False,Casual NBASL $10 3-Player (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,10.0,3
+146465224,89354,2.0,False,False,False,False,False,Casual NBASL $2 5-Player (Summer League),9.0,NBA,2023-07-09 23:30:00+00:00,2.0,5
+146465225,89354,2.0,False,False,False,False,False,Casual NBASL $2 3-Player (Summer League),5.4,NBA,2023-07-09 23:30:00+00:00,2.0,3
+146465226,89354,109.0,False,False,False,False,False,Casual NBASL $109 5-Player (Summer League),500.0,NBA,2023-07-09 23:30:00+00:00,109.0,5
+146465227,89354,10.0,True,False,False,False,False,NBASL $10 Double Up (Summer League),100.0,NBA,2023-07-09 23:30:00+00:00,10.0,11
+146465228,89354,25.0,True,False,False,False,False,NBASL $25 Double Up (Summer League),250.0,NBA,2023-07-09 23:30:00+00:00,25.0,11
+146465229,89354,50.0,True,False,False,False,False,NBASL $50 Double Up (Summer League),500.0,NBA,2023-07-09 23:30:00+00:00,50.0,11
+146465230,89354,5.0,True,False,False,False,False,NBASL $5 Double Up (Summer League),50.0,NBA,2023-07-09 23:30:00+00:00,5.0,11
+146465231,89354,3.0,True,False,False,False,False,NBASL $3 Double Up (Summer League),30.0,NBA,2023-07-09 23:30:00+00:00,3.0,11
+146465232,89354,1.0,True,False,False,False,False,NBASL $1 Double Up (Summer League),10.0,NBA,2023-07-09 23:30:00+00:00,1.0,11
+146465233,89354,25.0,True,False,False,False,False,NBASL $25 Double Up (Summer League),500.0,NBA,2023-07-09 23:30:00+00:00,25.0,22
+146465234,89354,50.0,True,False,False,False,False,NBASL $50 Double Up (Summer League),1000.0,NBA,2023-07-09 23:30:00+00:00,50.0,22
+146465235,89354,1060.0,False,False,False,False,True,NBASL $4K All Star [Single Entry] (Must Fill) (Summer League),4000.0,NBA,2023-07-09 23:30:00+00:00,1060.0,4
+146465236,89354,267.0,False,False,False,False,True,NBASL $267 Winner Take All [$1K to 1st] (Must Fill) (Summer League),1000.0,NBA,2023-07-09 23:30:00+00:00,267.0,4
+146465237,89354,408.0,False,False,False,False,True,"NBASL $408 Winner Take All [$1.5K to 1st, Must Fill] (Summer League)",1500.0,NBA,2023-07-09 23:30:00+00:00,408.0,4
+146465238,89354,4.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $10M Millionaire [Must Fill] (Summer League),10.0,NBA,2023-07-09 23:30:00+00:00,3.7,3
+146465239,89354,201.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (Summer League),555.0,NBA,2023-07-09 23:30:00+00:00,201.0,3
+146465240,89354,16.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $1M Four Technique [Must Fill] (Summer League),44.0,NBA,2023-07-09 23:30:00+00:00,16.0,3
+146465241,89354,749.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (Summer League),2120.0,NBA,2023-07-09 23:30:00+00:00,749.0,3
+146465242,89354,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (Summer League)",19.98,NBA,2023-07-09 23:30:00+00:00,5.55,4
+146465243,89354,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (Summer League)",19.98,NBA,2023-07-09 23:30:00+00:00,5.55,4
+146465244,89354,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (Summer League)",19.98,NBA,2023-07-09 23:30:00+00:00,5.55,4
+146465245,89354,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (Summer League),19.99,NBA,2023-07-09 23:30:00+00:00,5.55,4
+146465246,89354,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (Summer League),19.99,NBA,2023-07-09 23:30:00+00:00,5.55,4
+146465247,89354,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (Summer League),19.99,NBA,2023-07-09 23:30:00+00:00,5.55,4
+146465248,89354,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (Summer League),19.99,NBA,2023-07-09 23:30:00+00:00,5.55,4
+146465249,89354,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (Summer League),19.99,NBA,2023-07-09 23:30:00+00:00,5.55,4
+146465250,89354,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (Summer League),19.99,NBA,2023-07-09 23:30:00+00:00,5.55,4
+146465309,89353,2.0,False,False,False,False,False,Beginner NBASL $2 3-Player (SL Early),5.4,NBA,2023-07-09 19:30:00+00:00,2.0,3
+146465310,89353,10.0,False,False,False,False,False,Beginner NBASL $10 3-Player (SL Early),27.0,NBA,2023-07-09 19:30:00+00:00,10.0,3
+146465311,89353,5.0,False,False,False,False,False,Beginner NBASL $5 3-Player (SL Early),13.5,NBA,2023-07-09 19:30:00+00:00,5.0,3
+146465312,89353,1.0,False,False,False,False,False,Beginner NBASL $1 3-Player (SL Early),2.7,NBA,2023-07-09 19:30:00+00:00,1.0,3
+146465313,89353,1.0,False,False,False,False,False,NBASL $1 10-Player (SL Early),9.0,NBA,2023-07-09 19:30:00+00:00,1.0,10
+146465314,89353,1.0,False,False,False,False,False,NBASL $1 5-Player (SL Early),4.5,NBA,2023-07-09 19:30:00+00:00,1.0,5
+146465315,89353,1.0,False,False,False,False,False,NBASL $1 3-Player (SL Early),2.7,NBA,2023-07-09 19:30:00+00:00,1.0,3
+146465316,89353,1.0,False,False,False,False,False,NBASL $1 3-Player (SL Early),2.7,NBA,2023-07-09 19:30:00+00:00,1.0,3
+146465317,89353,20.0,True,False,False,False,False,Casual NBASL $20 50-50 (SL Early),180.0,NBA,2023-07-09 19:30:00+00:00,20.0,10
+146465318,89353,10.0,True,False,False,False,False,Casual NBASL $10 50-50 (SL Early),90.0,NBA,2023-07-09 19:30:00+00:00,10.0,10
+146465319,89353,5.0,True,False,False,False,False,Casual NBASL $5 50-50 (SL Early),45.0,NBA,2023-07-09 19:30:00+00:00,5.0,10
+146465320,89353,3.0,True,False,False,False,False,Casual NBASL $3 50-50 (SL Early),27.0,NBA,2023-07-09 19:30:00+00:00,3.0,10
+146465321,89353,1.0,True,False,False,False,False,Casual NBASL $1 50-50 (SL Early),9.0,NBA,2023-07-09 19:30:00+00:00,1.0,10
+146465322,89353,5.0,False,False,False,False,False,Casual NBASL $5 3-Player (SL Early),13.5,NBA,2023-07-09 19:30:00+00:00,5.0,3
+146465323,89353,2.0,False,False,False,False,False,Casual NBASL $2 3-Player (SL Early),5.4,NBA,2023-07-09 19:30:00+00:00,2.0,3
+146465324,89353,2.0,False,False,False,False,False,NBASL $2 3-Player (SL Early),5.4,NBA,2023-07-09 19:30:00+00:00,2.0,3
+146465325,89353,2.0,False,False,False,False,False,NBASL $2 3-Player (SL Early),5.4,NBA,2023-07-09 19:30:00+00:00,2.0,3
+146465326,89353,2.0,False,False,False,False,False,NBASL $2 5-Player (SL Early),9.0,NBA,2023-07-09 19:30:00+00:00,2.0,5
+146465327,89353,2.0,False,False,False,False,False,NBASL $2 10-Player (SL Early),18.0,NBA,2023-07-09 19:30:00+00:00,2.0,10
+146465328,89353,5.0,False,False,False,False,False,NBASL $5 3-Player (SL Early),13.5,NBA,2023-07-09 19:30:00+00:00,5.0,3
+146465329,89353,5.0,False,False,False,False,False,NBASL $5 5-Player (SL Early),22.5,NBA,2023-07-09 19:30:00+00:00,5.0,5
+146465330,89353,5.0,False,False,False,False,False,NBASL $5 10-Player (SL Early),45.0,NBA,2023-07-09 19:30:00+00:00,5.0,10
+146465331,89353,10.0,False,False,False,False,False,NBASL $10 5-Player (SL Early),45.0,NBA,2023-07-09 19:30:00+00:00,10.0,5
+146465332,89353,10.0,False,False,False,False,False,NBASL $10 3-Player (SL Early),27.0,NBA,2023-07-09 19:30:00+00:00,10.0,3
+146465333,89353,20.0,False,False,False,False,False,NBASL $20 3-Player (SL Early),54.0,NBA,2023-07-09 19:30:00+00:00,20.0,3
+146465334,89353,50.0,False,False,False,False,False,NBASL $50 5-Player (SL Early),225.0,NBA,2023-07-09 19:30:00+00:00,50.0,5
+146465335,89353,50.0,False,False,False,False,False,NBASL $50 3-Player (SL Early),135.0,NBA,2023-07-09 19:30:00+00:00,50.0,3
+146465336,89353,109.0,False,False,False,False,False,NBASL $109 3-Player (SL Early),300.0,NBA,2023-07-09 19:30:00+00:00,109.0,3
+146465337,89353,162.0,False,False,False,False,False,NBASL $162 3-Player (SL Early),450.0,NBA,2023-07-09 19:30:00+00:00,162.0,3
+146465338,89353,530.0,False,False,False,False,False,NBASL $530 3-Player (SL Early),1500.0,NBA,2023-07-09 19:30:00+00:00,530.0,3
+146465339,89353,1060.0,False,False,False,False,False,"NBASL $1,060 3-Player (SL Early)",3000.0,NBA,2023-07-09 19:30:00+00:00,1060.0,3
+146465340,89353,5300.0,False,False,False,False,False,"NBASL $5,300 3-Player (SL Early)",15000.0,NBA,2023-07-09 19:30:00+00:00,5300.0,3
+146465341,89353,10600.0,False,False,False,False,False,"NBASL $10,600 3-Player (SL Early)",30000.0,NBA,2023-07-09 19:30:00+00:00,10600.0,3
+146465342,89353,20.0,True,False,False,False,False,Beginner NBASL $20 50-50 (SL Early),72.0,NBA,2023-07-09 19:30:00+00:00,20.0,4
+146465343,89353,10.0,True,False,False,False,False,Beginner NBASL $10 50-50 (SL Early),90.0,NBA,2023-07-09 19:30:00+00:00,10.0,10
+146465344,89353,1.0,True,False,False,False,False,Beginner NBASL $1 50-50 (SL Early),9.0,NBA,2023-07-09 19:30:00+00:00,1.0,10
+146465345,89353,3.0,True,False,False,False,False,Beginner NBASL $3 50-50 (SL Early),27.0,NBA,2023-07-09 19:30:00+00:00,3.0,10
+146465346,89353,5.0,True,False,False,False,False,Beginner NBASL $5 50-50 (SL Early),45.0,NBA,2023-07-09 19:30:00+00:00,5.0,10
+146465347,89353,5300.0,True,False,False,False,False,"NBASL $5,300 50-50 (SL Early)",20000.0,NBA,2023-07-09 19:30:00+00:00,5300.0,4
+146465348,89353,1060.0,True,False,False,False,False,"NBASL $1,060 50-50 (SL Early)",4000.0,NBA,2023-07-09 19:30:00+00:00,1060.0,4
+146465349,89353,530.0,True,False,False,False,False,NBASL $530 50-50 (SL Early),2000.0,NBA,2023-07-09 19:30:00+00:00,530.0,4
+146465350,89353,109.0,True,False,False,False,False,NBASL $109 50-50 (SL Early),400.0,NBA,2023-07-09 19:30:00+00:00,109.0,4
+146465351,89353,50.0,True,False,False,False,False,NBASL $50 50-50 (SL Early),180.0,NBA,2023-07-09 19:30:00+00:00,50.0,4
+146465352,89353,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Early),72.0,NBA,2023-07-09 19:30:00+00:00,20.0,4
+146465353,89353,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Early),36.0,NBA,2023-07-09 19:30:00+00:00,10.0,4
+146465354,89353,50.0,True,False,False,False,False,NBASL $50 50-50 (SL Early),450.0,NBA,2023-07-09 19:30:00+00:00,50.0,10
+146465355,89353,1.0,True,False,False,False,False,NBASL $1 50-50 (SL Early),9.0,NBA,2023-07-09 19:30:00+00:00,1.0,10
+146465356,89353,5.0,True,False,False,False,False,NBASL $5 50-50 (SL Early),45.0,NBA,2023-07-09 19:30:00+00:00,5.0,10
+146465357,89353,109.0,True,False,False,False,False,NBASL $109 50-50 (SL Early),600.0,NBA,2023-07-09 19:30:00+00:00,109.0,6
+146465358,89353,2.0,True,False,False,False,False,NBASL $2 50-50 (SL Early),18.0,NBA,2023-07-09 19:30:00+00:00,2.0,10
+146465359,89353,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Early),180.0,NBA,2023-07-09 19:30:00+00:00,20.0,10
+146465360,89353,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Early),90.0,NBA,2023-07-09 19:30:00+00:00,10.0,10
+146465361,89353,5.0,True,False,False,False,False,NBASL $5 50-50 (SL Early),90.0,NBA,2023-07-09 19:30:00+00:00,5.0,20
+146465362,89353,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Early),180.0,NBA,2023-07-09 19:30:00+00:00,10.0,20
+146465363,89353,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Early),360.0,NBA,2023-07-09 19:30:00+00:00,20.0,20
+146465364,89353,2.0,True,False,False,False,False,NBASL $2 50-50 (SL Early),36.0,NBA,2023-07-09 19:30:00+00:00,2.0,20
+146465365,89353,1.0,True,False,False,False,False,NBASL $1 50-50 (SL Early),18.0,NBA,2023-07-09 19:30:00+00:00,1.0,20
+146465366,89353,1060.0,False,False,False,False,True,NBASL $4K All Star [Single Entry] (Must Fill) (SL Early),4000.0,NBA,2023-07-09 19:30:00+00:00,1060.0,4
+146465367,89353,267.0,False,False,False,False,True,NBASL $267 Winner Take All [$1K to 1st] (Must Fill) (SL Early),1000.0,NBA,2023-07-09 19:30:00+00:00,267.0,4
+146465368,89353,4.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $10M Millionaire [Must Fill] (SL Early),10.0,NBA,2023-07-09 19:30:00+00:00,3.7,3
+146465369,89353,201.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (SL Early),555.0,NBA,2023-07-09 19:30:00+00:00,201.0,3
+146465370,89353,16.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $1M Four Technique [Must Fill] (SL Early),44.0,NBA,2023-07-09 19:30:00+00:00,16.0,3
+146465371,89353,749.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (SL Early),2120.0,NBA,2023-07-09 19:30:00+00:00,749.0,3
+146465372,89353,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL Early)",19.98,NBA,2023-07-09 19:30:00+00:00,5.55,4
+146465373,89353,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL Early)",19.98,NBA,2023-07-09 19:30:00+00:00,5.55,4
+146465374,89353,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL Early)",19.98,NBA,2023-07-09 19:30:00+00:00,5.55,4
+146465375,89353,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL Early),19.99,NBA,2023-07-09 19:30:00+00:00,5.55,4
+146465376,89353,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL Early),19.99,NBA,2023-07-09 19:30:00+00:00,5.55,4
+146465377,89353,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL Early),19.99,NBA,2023-07-09 19:30:00+00:00,5.55,4
+146465378,89353,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL Early),19.99,NBA,2023-07-09 19:30:00+00:00,5.55,4
+146465379,89353,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL Early),19.99,NBA,2023-07-09 19:30:00+00:00,5.55,4
+146465380,89353,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL Early),19.99,NBA,2023-07-09 19:30:00+00:00,5.55,4
+146465381,89353,76.0,False,False,False,False,True,NBASL Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (SL Early),275.0,NBA,2023-07-09 19:30:00+00:00,76.0,4
+146465382,89353,76.0,False,False,False,False,True,NBASL Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (SL Early),275.0,NBA,2023-07-09 19:30:00+00:00,76.0,4
+146465383,89353,121.0,False,False,False,False,True,NBASL Satellite to WNBA 7-25 $333 MEGA Moneyball Special (SL Early),333.0,NBA,2023-07-09 19:30:00+00:00,121.0,3
+146465384,89511,2.0,False,False,False,False,False,Beginner NBASL $2 3-Player (SL Afternoon),5.4,NBA,2023-07-09 21:30:00+00:00,2.0,3
+146465385,89511,10.0,False,False,False,False,False,Beginner NBASL $10 3-Player (SL Afternoon),27.0,NBA,2023-07-09 21:30:00+00:00,10.0,3
+146465386,89511,5.0,False,False,False,False,False,Beginner NBASL $5 3-Player (SL Afternoon),13.5,NBA,2023-07-09 21:30:00+00:00,5.0,3
+146465387,89511,1.0,False,False,False,False,False,Beginner NBASL $1 3-Player (SL Afternoon),2.7,NBA,2023-07-09 21:30:00+00:00,1.0,3
+146465388,89511,1.0,False,False,False,False,False,NBASL $1 10-Player (SL Afternoon),9.0,NBA,2023-07-09 21:30:00+00:00,1.0,10
+146465389,89511,1.0,False,False,False,False,False,NBASL $1 5-Player (SL Afternoon),4.5,NBA,2023-07-09 21:30:00+00:00,1.0,5
+146465390,89511,1.0,False,False,False,False,False,NBASL $1 3-Player (SL Afternoon),2.7,NBA,2023-07-09 21:30:00+00:00,1.0,3
+146465391,89511,1.0,False,False,False,False,False,NBASL $1 3-Player (SL Afternoon),2.7,NBA,2023-07-09 21:30:00+00:00,1.0,3
+146465392,89511,20.0,True,False,False,False,False,Casual NBASL $20 50-50 (SL Afternoon),180.0,NBA,2023-07-09 21:30:00+00:00,20.0,10
+146465393,89511,10.0,True,False,False,False,False,Casual NBASL $10 50-50 (SL Afternoon),90.0,NBA,2023-07-09 21:30:00+00:00,10.0,10
+146465394,89511,5.0,True,False,False,False,False,Casual NBASL $5 50-50 (SL Afternoon),45.0,NBA,2023-07-09 21:30:00+00:00,5.0,10
+146465395,89511,3.0,True,False,False,False,False,Casual NBASL $3 50-50 (SL Afternoon),27.0,NBA,2023-07-09 21:30:00+00:00,3.0,10
+146465396,89511,1.0,True,False,False,False,False,Casual NBASL $1 50-50 (SL Afternoon),9.0,NBA,2023-07-09 21:30:00+00:00,1.0,10
+146465397,89511,5.0,False,False,False,False,False,Casual NBASL $5 3-Player (SL Afternoon),13.5,NBA,2023-07-09 21:30:00+00:00,5.0,3
+146465398,89511,2.0,False,False,False,False,False,Casual NBASL $2 3-Player (SL Afternoon),5.4,NBA,2023-07-09 21:30:00+00:00,2.0,3
+146465399,89511,2.0,False,False,False,False,False,NBASL $2 3-Player (SL Afternoon),5.4,NBA,2023-07-09 21:30:00+00:00,2.0,3
+146465400,89511,2.0,False,False,False,False,False,NBASL $2 3-Player (SL Afternoon),5.4,NBA,2023-07-09 21:30:00+00:00,2.0,3
+146465401,89511,2.0,False,False,False,False,False,NBASL $2 5-Player (SL Afternoon),9.0,NBA,2023-07-09 21:30:00+00:00,2.0,5
+146465402,89511,2.0,False,False,False,False,False,NBASL $2 10-Player (SL Afternoon),18.0,NBA,2023-07-09 21:30:00+00:00,2.0,10
+146465403,89511,5.0,False,False,False,False,False,NBASL $5 3-Player (SL Afternoon),13.5,NBA,2023-07-09 21:30:00+00:00,5.0,3
+146465404,89511,5.0,False,False,False,False,False,NBASL $5 5-Player (SL Afternoon),22.5,NBA,2023-07-09 21:30:00+00:00,5.0,5
+146465405,89511,5.0,False,False,False,False,False,NBASL $5 10-Player (SL Afternoon),45.0,NBA,2023-07-09 21:30:00+00:00,5.0,10
+146465406,89511,10.0,False,False,False,False,False,NBASL $10 5-Player (SL Afternoon),45.0,NBA,2023-07-09 21:30:00+00:00,10.0,5
+146465407,89511,10.0,False,False,False,False,False,NBASL $10 3-Player (SL Afternoon),27.0,NBA,2023-07-09 21:30:00+00:00,10.0,3
+146465408,89511,20.0,False,False,False,False,False,NBASL $20 3-Player (SL Afternoon),54.0,NBA,2023-07-09 21:30:00+00:00,20.0,3
+146465409,89511,50.0,False,False,False,False,False,NBASL $50 5-Player (SL Afternoon),225.0,NBA,2023-07-09 21:30:00+00:00,50.0,5
+146465410,89511,50.0,False,False,False,False,False,NBASL $50 3-Player (SL Afternoon),135.0,NBA,2023-07-09 21:30:00+00:00,50.0,3
+146465411,89511,109.0,False,False,False,False,False,NBASL $109 3-Player (SL Afternoon),300.0,NBA,2023-07-09 21:30:00+00:00,109.0,3
+146465412,89511,162.0,False,False,False,False,False,NBASL $162 3-Player (SL Afternoon),450.0,NBA,2023-07-09 21:30:00+00:00,162.0,3
+146465413,89511,530.0,False,False,False,False,False,NBASL $530 3-Player (SL Afternoon),1500.0,NBA,2023-07-09 21:30:00+00:00,530.0,3
+146465414,89511,1060.0,False,False,False,False,False,"NBASL $1,060 3-Player (SL Afternoon)",3000.0,NBA,2023-07-09 21:30:00+00:00,1060.0,3
+146465415,89511,5300.0,False,False,False,False,False,"NBASL $5,300 3-Player (SL Afternoon)",15000.0,NBA,2023-07-09 21:30:00+00:00,5300.0,3
+146465416,89511,10600.0,False,False,False,False,False,"NBASL $10,600 3-Player (SL Afternoon)",30000.0,NBA,2023-07-09 21:30:00+00:00,10600.0,3
+146465417,89511,20.0,True,False,False,False,False,Beginner NBASL $20 50-50 (SL Afternoon),72.0,NBA,2023-07-09 21:30:00+00:00,20.0,4
+146465418,89511,10.0,True,False,False,False,False,Beginner NBASL $10 50-50 (SL Afternoon),90.0,NBA,2023-07-09 21:30:00+00:00,10.0,10
+146465419,89511,1.0,True,False,False,False,False,Beginner NBASL $1 50-50 (SL Afternoon),9.0,NBA,2023-07-09 21:30:00+00:00,1.0,10
+146465420,89511,3.0,True,False,False,False,False,Beginner NBASL $3 50-50 (SL Afternoon),27.0,NBA,2023-07-09 21:30:00+00:00,3.0,10
+146465421,89511,5.0,True,False,False,False,False,Beginner NBASL $5 50-50 (SL Afternoon),45.0,NBA,2023-07-09 21:30:00+00:00,5.0,10
+146465422,89511,5300.0,True,False,False,False,False,"NBASL $5,300 50-50 (SL Afternoon)",20000.0,NBA,2023-07-09 21:30:00+00:00,5300.0,4
+146465423,89511,1060.0,True,False,False,False,False,"NBASL $1,060 50-50 (SL Afternoon)",4000.0,NBA,2023-07-09 21:30:00+00:00,1060.0,4
+146465424,89511,530.0,True,False,False,False,False,NBASL $530 50-50 (SL Afternoon),2000.0,NBA,2023-07-09 21:30:00+00:00,530.0,4
+146465425,89511,109.0,True,False,False,False,False,NBASL $109 50-50 (SL Afternoon),400.0,NBA,2023-07-09 21:30:00+00:00,109.0,4
+146465426,89511,50.0,True,False,False,False,False,NBASL $50 50-50 (SL Afternoon),180.0,NBA,2023-07-09 21:30:00+00:00,50.0,4
+146465427,89511,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Afternoon),72.0,NBA,2023-07-09 21:30:00+00:00,20.0,4
+146465428,89511,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Afternoon),36.0,NBA,2023-07-09 21:30:00+00:00,10.0,4
+146465429,89511,50.0,True,False,False,False,False,NBASL $50 50-50 (SL Afternoon),450.0,NBA,2023-07-09 21:30:00+00:00,50.0,10
+146465430,89511,1.0,True,False,False,False,False,NBASL $1 50-50 (SL Afternoon),9.0,NBA,2023-07-09 21:30:00+00:00,1.0,10
+146465431,89511,5.0,True,False,False,False,False,NBASL $5 50-50 (SL Afternoon),45.0,NBA,2023-07-09 21:30:00+00:00,5.0,10
+146465432,89511,109.0,True,False,False,False,False,NBASL $109 50-50 (SL Afternoon),600.0,NBA,2023-07-09 21:30:00+00:00,109.0,6
+146465433,89511,2.0,True,False,False,False,False,NBASL $2 50-50 (SL Afternoon),18.0,NBA,2023-07-09 21:30:00+00:00,2.0,10
+146465434,89511,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Afternoon),180.0,NBA,2023-07-09 21:30:00+00:00,20.0,10
+146465435,89511,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Afternoon),90.0,NBA,2023-07-09 21:30:00+00:00,10.0,10
+146465436,89511,5.0,True,False,False,False,False,NBASL $5 50-50 (SL Afternoon),90.0,NBA,2023-07-09 21:30:00+00:00,5.0,20
+146465437,89511,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Afternoon),180.0,NBA,2023-07-09 21:30:00+00:00,10.0,20
+146465438,89511,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Afternoon),360.0,NBA,2023-07-09 21:30:00+00:00,20.0,20
+146465439,89511,2.0,True,False,False,False,False,NBASL $2 50-50 (SL Afternoon),36.0,NBA,2023-07-09 21:30:00+00:00,2.0,20
+146465440,89511,1.0,True,False,False,False,False,NBASL $1 50-50 (SL Afternoon),18.0,NBA,2023-07-09 21:30:00+00:00,1.0,20
+146465441,89511,1060.0,False,False,False,False,True,NBASL $4K All Star [Single Entry] (Must Fill) (SL Afternoon),4000.0,NBA,2023-07-09 21:30:00+00:00,1060.0,4
+146465442,89511,267.0,False,False,False,False,True,NBASL $267 Winner Take All [$1K to 1st] (Must Fill) (SL Afternoon),1000.0,NBA,2023-07-09 21:30:00+00:00,267.0,4
+146465443,89511,4.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $10M Millionaire [Must Fill] (SL Afternoon),10.0,NBA,2023-07-09 21:30:00+00:00,3.7,3
+146465444,89511,201.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (SL Afternoon),555.0,NBA,2023-07-09 21:30:00+00:00,201.0,3
+146465445,89511,16.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $1M Four Technique [Must Fill] (SL Afternoon),44.0,NBA,2023-07-09 21:30:00+00:00,16.0,3
+146465446,89511,749.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (SL Afternoon),2120.0,NBA,2023-07-09 21:30:00+00:00,749.0,3
+146465447,89511,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL Afternoon)",19.98,NBA,2023-07-09 21:30:00+00:00,5.55,4
+146465448,89511,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL Afternoon)",19.98,NBA,2023-07-09 21:30:00+00:00,5.55,4
+146465449,89511,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL Afternoon)",19.98,NBA,2023-07-09 21:30:00+00:00,5.55,4
+146465450,89511,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL Afternoon),19.99,NBA,2023-07-09 21:30:00+00:00,5.55,4
+146465451,89511,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL Afternoon),19.99,NBA,2023-07-09 21:30:00+00:00,5.55,4
+146465452,89511,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL Afternoon),19.99,NBA,2023-07-09 21:30:00+00:00,5.55,4
+146465453,89511,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL Afternoon),19.99,NBA,2023-07-09 21:30:00+00:00,5.55,4
+146465454,89511,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL Afternoon),19.99,NBA,2023-07-09 21:30:00+00:00,5.55,4
+146465455,89511,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL Afternoon),19.99,NBA,2023-07-09 21:30:00+00:00,5.55,4
+146465456,89511,76.0,False,False,False,False,True,NBASL Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (SL Afternoon),275.0,NBA,2023-07-09 21:30:00+00:00,76.0,4
+146465457,89511,76.0,False,False,False,False,True,NBASL Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (SL Afternoon),275.0,NBA,2023-07-09 21:30:00+00:00,76.0,4
+146465458,89511,121.0,False,False,False,False,True,NBASL Satellite to WNBA 7-25 $333 MEGA Moneyball Special (SL Afternoon),333.0,NBA,2023-07-09 21:30:00+00:00,121.0,3
+146465459,89356,2.0,False,False,False,False,False,Beginner NBASL $2 3-Player (SL Night),5.4,NBA,2023-07-10 01:30:00+00:00,2.0,3
+146465460,89356,10.0,False,False,False,False,False,Beginner NBASL $10 3-Player (SL Night),27.0,NBA,2023-07-10 01:30:00+00:00,10.0,3
+146465461,89356,5.0,False,False,False,False,False,Beginner NBASL $5 3-Player (SL Night),13.5,NBA,2023-07-10 01:30:00+00:00,5.0,3
+146465462,89356,1.0,False,False,False,False,False,Beginner NBASL $1 3-Player (SL Night),2.7,NBA,2023-07-10 01:30:00+00:00,1.0,3
+146465463,89356,1.0,False,False,False,False,False,NBASL $1 10-Player (SL Night),9.0,NBA,2023-07-10 01:30:00+00:00,1.0,10
+146465464,89356,1.0,False,False,False,False,False,NBASL $1 5-Player (SL Night),4.5,NBA,2023-07-10 01:30:00+00:00,1.0,5
+146465465,89356,1.0,False,False,False,False,False,NBASL $1 3-Player (SL Night),2.7,NBA,2023-07-10 01:30:00+00:00,1.0,3
+146465466,89356,1.0,False,False,False,False,False,NBASL $1 3-Player (SL Night),2.7,NBA,2023-07-10 01:30:00+00:00,1.0,3
+146465467,89356,20.0,True,False,False,False,False,Casual NBASL $20 50-50 (SL Night),180.0,NBA,2023-07-10 01:30:00+00:00,20.0,10
+146465468,89356,10.0,True,False,False,False,False,Casual NBASL $10 50-50 (SL Night),90.0,NBA,2023-07-10 01:30:00+00:00,10.0,10
+146465469,89356,5.0,True,False,False,False,False,Casual NBASL $5 50-50 (SL Night),45.0,NBA,2023-07-10 01:30:00+00:00,5.0,10
+146465470,89356,3.0,True,False,False,False,False,Casual NBASL $3 50-50 (SL Night),27.0,NBA,2023-07-10 01:30:00+00:00,3.0,10
+146465471,89356,1.0,True,False,False,False,False,Casual NBASL $1 50-50 (SL Night),9.0,NBA,2023-07-10 01:30:00+00:00,1.0,10
+146465472,89356,5.0,False,False,False,False,False,Casual NBASL $5 3-Player (SL Night),13.5,NBA,2023-07-10 01:30:00+00:00,5.0,3
+146465473,89356,2.0,False,False,False,False,False,Casual NBASL $2 3-Player (SL Night),5.4,NBA,2023-07-10 01:30:00+00:00,2.0,3
+146465474,89356,2.0,False,False,False,False,False,NBASL $2 3-Player (SL Night),5.4,NBA,2023-07-10 01:30:00+00:00,2.0,3
+146465475,89356,2.0,False,False,False,False,False,NBASL $2 3-Player (SL Night),5.4,NBA,2023-07-10 01:30:00+00:00,2.0,3
+146465476,89356,2.0,False,False,False,False,False,NBASL $2 5-Player (SL Night),9.0,NBA,2023-07-10 01:30:00+00:00,2.0,5
+146465477,89356,2.0,False,False,False,False,False,NBASL $2 10-Player (SL Night),18.0,NBA,2023-07-10 01:30:00+00:00,2.0,10
+146465478,89356,5.0,False,False,False,False,False,NBASL $5 3-Player (SL Night),13.5,NBA,2023-07-10 01:30:00+00:00,5.0,3
+146465479,89356,5.0,False,False,False,False,False,NBASL $5 5-Player (SL Night),22.5,NBA,2023-07-10 01:30:00+00:00,5.0,5
+146465480,89356,5.0,False,False,False,False,False,NBASL $5 10-Player (SL Night),45.0,NBA,2023-07-10 01:30:00+00:00,5.0,10
+146465481,89356,10.0,False,False,False,False,False,NBASL $10 5-Player (SL Night),45.0,NBA,2023-07-10 01:30:00+00:00,10.0,5
+146465482,89356,10.0,False,False,False,False,False,NBASL $10 3-Player (SL Night),27.0,NBA,2023-07-10 01:30:00+00:00,10.0,3
+146465483,89356,20.0,False,False,False,False,False,NBASL $20 3-Player (SL Night),54.0,NBA,2023-07-10 01:30:00+00:00,20.0,3
+146465484,89356,50.0,False,False,False,False,False,NBASL $50 5-Player (SL Night),225.0,NBA,2023-07-10 01:30:00+00:00,50.0,5
+146465485,89356,50.0,False,False,False,False,False,NBASL $50 3-Player (SL Night),135.0,NBA,2023-07-10 01:30:00+00:00,50.0,3
+146465486,89356,109.0,False,False,False,False,False,NBASL $109 3-Player (SL Night),300.0,NBA,2023-07-10 01:30:00+00:00,109.0,3
+146465487,89356,162.0,False,False,False,False,False,NBASL $162 3-Player (SL Night),450.0,NBA,2023-07-10 01:30:00+00:00,162.0,3
+146465488,89356,530.0,False,False,False,False,False,NBASL $530 3-Player (SL Night),1500.0,NBA,2023-07-10 01:30:00+00:00,530.0,3
+146465489,89356,1060.0,False,False,False,False,False,"NBASL $1,060 3-Player (SL Night)",3000.0,NBA,2023-07-10 01:30:00+00:00,1060.0,3
+146465490,89356,5300.0,False,False,False,False,False,"NBASL $5,300 3-Player (SL Night)",15000.0,NBA,2023-07-10 01:30:00+00:00,5300.0,3
+146465491,89356,10600.0,False,False,False,False,False,"NBASL $10,600 3-Player (SL Night)",30000.0,NBA,2023-07-10 01:30:00+00:00,10600.0,3
+146465492,89356,20.0,True,False,False,False,False,Beginner NBASL $20 50-50 (SL Night),72.0,NBA,2023-07-10 01:30:00+00:00,20.0,4
+146465493,89356,10.0,True,False,False,False,False,Beginner NBASL $10 50-50 (SL Night),90.0,NBA,2023-07-10 01:30:00+00:00,10.0,10
+146465494,89356,1.0,True,False,False,False,False,Beginner NBASL $1 50-50 (SL Night),9.0,NBA,2023-07-10 01:30:00+00:00,1.0,10
+146465495,89356,3.0,True,False,False,False,False,Beginner NBASL $3 50-50 (SL Night),27.0,NBA,2023-07-10 01:30:00+00:00,3.0,10
+146465496,89356,5.0,True,False,False,False,False,Beginner NBASL $5 50-50 (SL Night),45.0,NBA,2023-07-10 01:30:00+00:00,5.0,10
+146465497,89356,5300.0,True,False,False,False,False,"NBASL $5,300 50-50 (SL Night)",20000.0,NBA,2023-07-10 01:30:00+00:00,5300.0,4
+146465498,89356,1060.0,True,False,False,False,False,"NBASL $1,060 50-50 (SL Night)",4000.0,NBA,2023-07-10 01:30:00+00:00,1060.0,4
+146465499,89356,530.0,True,False,False,False,False,NBASL $530 50-50 (SL Night),2000.0,NBA,2023-07-10 01:30:00+00:00,530.0,4
+146465500,89356,109.0,True,False,False,False,False,NBASL $109 50-50 (SL Night),400.0,NBA,2023-07-10 01:30:00+00:00,109.0,4
+146465501,89356,50.0,True,False,False,False,False,NBASL $50 50-50 (SL Night),180.0,NBA,2023-07-10 01:30:00+00:00,50.0,4
+146465502,89356,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Night),72.0,NBA,2023-07-10 01:30:00+00:00,20.0,4
+146465503,89356,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Night),36.0,NBA,2023-07-10 01:30:00+00:00,10.0,4
+146465504,89356,50.0,True,False,False,False,False,NBASL $50 50-50 (SL Night),450.0,NBA,2023-07-10 01:30:00+00:00,50.0,10
+146465505,89356,1.0,True,False,False,False,False,NBASL $1 50-50 (SL Night),9.0,NBA,2023-07-10 01:30:00+00:00,1.0,10
+146465506,89356,5.0,True,False,False,False,False,NBASL $5 50-50 (SL Night),45.0,NBA,2023-07-10 01:30:00+00:00,5.0,10
+146465507,89356,109.0,True,False,False,False,False,NBASL $109 50-50 (SL Night),600.0,NBA,2023-07-10 01:30:00+00:00,109.0,6
+146465508,89356,2.0,True,False,False,False,False,NBASL $2 50-50 (SL Night),18.0,NBA,2023-07-10 01:30:00+00:00,2.0,10
+146465509,89356,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Night),180.0,NBA,2023-07-10 01:30:00+00:00,20.0,10
+146465510,89356,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Night),90.0,NBA,2023-07-10 01:30:00+00:00,10.0,10
+146465511,89356,5.0,True,False,False,False,False,NBASL $5 50-50 (SL Night),90.0,NBA,2023-07-10 01:30:00+00:00,5.0,20
+146465512,89356,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Night),180.0,NBA,2023-07-10 01:30:00+00:00,10.0,20
+146465513,89356,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Night),360.0,NBA,2023-07-10 01:30:00+00:00,20.0,20
+146465514,89356,2.0,True,False,False,False,False,NBASL $2 50-50 (SL Night),36.0,NBA,2023-07-10 01:30:00+00:00,2.0,20
+146465515,89356,1.0,True,False,False,False,False,NBASL $1 50-50 (SL Night),18.0,NBA,2023-07-10 01:30:00+00:00,1.0,20
+146465516,89356,1060.0,False,False,False,False,True,NBASL $4K All Star [Single Entry] (Must Fill) (SL Night),4000.0,NBA,2023-07-10 01:30:00+00:00,1060.0,4
+146465517,89356,267.0,False,False,False,False,True,NBASL $267 Winner Take All [$1K to 1st] (Must Fill) (SL Night),1000.0,NBA,2023-07-10 01:30:00+00:00,267.0,4
+146465518,89356,4.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $10M Millionaire [Must Fill] (SL Night),10.0,NBA,2023-07-10 01:30:00+00:00,3.7,3
+146465519,89356,201.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (SL Night),555.0,NBA,2023-07-10 01:30:00+00:00,201.0,3
+146465520,89356,16.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $1M Four Technique [Must Fill] (SL Night),44.0,NBA,2023-07-10 01:30:00+00:00,16.0,3
+146465521,89356,749.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (SL Night),2120.0,NBA,2023-07-10 01:30:00+00:00,749.0,3
+146465522,89356,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL Night)",19.98,NBA,2023-07-10 01:30:00+00:00,5.55,4
+146465523,89356,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL Night)",19.98,NBA,2023-07-10 01:30:00+00:00,5.55,4
+146465524,89356,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL Night)",19.98,NBA,2023-07-10 01:30:00+00:00,5.55,4
+146465525,89356,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL Night),19.99,NBA,2023-07-10 01:30:00+00:00,5.55,4
+146465526,89356,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL Night),19.99,NBA,2023-07-10 01:30:00+00:00,5.55,4
+146465527,89356,6.0,False,False,False,False,True,NBASL 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL Night),19.99,NBA,2023-07-10 01:30:00+00:00,5.55,4
+146465528,89356,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL Night),19.99,NBA,2023-07-10 01:30:00+00:00,5.55,4
+146465529,89356,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL Night),19.99,NBA,2023-07-10 01:30:00+00:00,5.55,4
+146465530,89356,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL Night),19.99,NBA,2023-07-10 01:30:00+00:00,5.55,4
+146465531,89356,76.0,False,False,False,False,True,NBASL Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (SL Night),275.0,NBA,2023-07-10 01:30:00+00:00,76.0,4
+146465532,89356,76.0,False,False,False,False,True,NBASL Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (SL Night),275.0,NBA,2023-07-10 01:30:00+00:00,76.0,4
+146465533,89356,121.0,False,False,False,False,True,NBASL Satellite to WNBA 7-25 $333 MEGA Moneyball Special (SL Night),333.0,NBA,2023-07-10 01:30:00+00:00,121.0,3
+146465534,89357,2.0,False,False,False,False,False,Beginner NBASL Showdown $2 3-Player (SL NOP vs GSW),5.4,NBA,2023-07-10 02:00:00+00:00,2.0,3
+146465535,89357,10.0,False,False,False,False,False,Beginner NBASL Showdown $10 3-Player (SL NOP vs GSW),27.0,NBA,2023-07-10 02:00:00+00:00,10.0,3
+146465536,89357,5.0,False,False,False,False,False,Beginner NBASL Showdown $5 3-Player (SL NOP vs GSW),13.5,NBA,2023-07-10 02:00:00+00:00,5.0,3
+146465537,89357,1.0,False,False,False,False,False,Beginner NBASL Showdown $1 3-Player (SL NOP vs GSW),2.7,NBA,2023-07-10 02:00:00+00:00,1.0,3
+146465538,89357,1.0,False,False,False,False,False,NBASL Showdown $1 10-Player (SL NOP vs GSW),9.0,NBA,2023-07-10 02:00:00+00:00,1.0,10
+146465539,89357,1.0,False,False,False,False,False,NBASL Showdown $1 5-Player (SL NOP vs GSW),4.5,NBA,2023-07-10 02:00:00+00:00,1.0,5
+146465540,89357,1.0,False,False,False,False,False,NBASL Showdown $1 3-Player (SL NOP vs GSW),2.7,NBA,2023-07-10 02:00:00+00:00,1.0,3
+146465541,89357,1.0,False,False,False,False,False,NBASL Showdown $1 3-Player (SL NOP vs GSW),2.7,NBA,2023-07-10 02:00:00+00:00,1.0,3
+146465542,89357,20.0,True,False,False,False,False,Casual NBASL Showdown $20 50-50 (SL NOP vs GSW),180.0,NBA,2023-07-10 02:00:00+00:00,20.0,10
+146465543,89357,10.0,True,False,False,False,False,Casual NBASL Showdown $10 50-50 (SL NOP vs GSW),90.0,NBA,2023-07-10 02:00:00+00:00,10.0,10
+146465544,89357,5.0,True,False,False,False,False,Casual NBASL Showdown $5 50-50 (SL NOP vs GSW),45.0,NBA,2023-07-10 02:00:00+00:00,5.0,10
+146465545,89357,3.0,True,False,False,False,False,Casual NBASL Showdown $3 50-50 (SL NOP vs GSW),27.0,NBA,2023-07-10 02:00:00+00:00,3.0,10
+146465546,89357,1.0,True,False,False,False,False,Casual NBASL Showdown $1 50-50 (SL NOP vs GSW),9.0,NBA,2023-07-10 02:00:00+00:00,1.0,10
+146465547,89357,5.0,False,False,False,False,False,Casual NBASL Showdown $5 3-Player (SL NOP vs GSW),13.5,NBA,2023-07-10 02:00:00+00:00,5.0,3
+146465548,89357,2.0,False,False,False,False,False,Casual NBASL Showdown $2 3-Player (SL NOP vs GSW),5.4,NBA,2023-07-10 02:00:00+00:00,2.0,3
+146465549,89357,2.0,False,False,False,False,False,NBASL Showdown $2 3-Player (SL NOP vs GSW),5.4,NBA,2023-07-10 02:00:00+00:00,2.0,3
+146465550,89357,2.0,False,False,False,False,False,NBASL Showdown $2 3-Player (SL NOP vs GSW),5.4,NBA,2023-07-10 02:00:00+00:00,2.0,3
+146465551,89357,2.0,False,False,False,False,False,NBASL Showdown $2 5-Player (SL NOP vs GSW),9.0,NBA,2023-07-10 02:00:00+00:00,2.0,5
+146465552,89357,2.0,False,False,False,False,False,NBASL Showdown $2 10-Player (SL NOP vs GSW),18.0,NBA,2023-07-10 02:00:00+00:00,2.0,10
+146465553,89357,5.0,False,False,False,False,False,NBASL Showdown $5 3-Player (SL NOP vs GSW),13.5,NBA,2023-07-10 02:00:00+00:00,5.0,3
+146465554,89357,5.0,False,False,False,False,False,NBASL Showdown $5 5-Player (SL NOP vs GSW),22.5,NBA,2023-07-10 02:00:00+00:00,5.0,5
+146465555,89357,5.0,False,False,False,False,False,NBASL Showdown $5 10-Player (SL NOP vs GSW),45.0,NBA,2023-07-10 02:00:00+00:00,5.0,10
+146465556,89357,10.0,False,False,False,False,False,NBASL Showdown $10 5-Player (SL NOP vs GSW),45.0,NBA,2023-07-10 02:00:00+00:00,10.0,5
+146465557,89357,10.0,False,False,False,False,False,NBASL Showdown $10 3-Player (SL NOP vs GSW),27.0,NBA,2023-07-10 02:00:00+00:00,10.0,3
+146465558,89357,20.0,False,False,False,False,False,NBASL Showdown $20 3-Player (SL NOP vs GSW),54.0,NBA,2023-07-10 02:00:00+00:00,20.0,3
+146465559,89357,50.0,False,False,False,False,False,NBASL Showdown $50 5-Player (SL NOP vs GSW),225.0,NBA,2023-07-10 02:00:00+00:00,50.0,5
+146465560,89357,50.0,False,False,False,False,False,NBASL Showdown $50 3-Player (SL NOP vs GSW),135.0,NBA,2023-07-10 02:00:00+00:00,50.0,3
+146465561,89357,109.0,False,False,False,False,False,NBASL Showdown $109 3-Player (SL NOP vs GSW),300.0,NBA,2023-07-10 02:00:00+00:00,109.0,3
+146465562,89357,162.0,False,False,False,False,False,NBASL Showdown $162 3-Player (SL NOP vs GSW),450.0,NBA,2023-07-10 02:00:00+00:00,162.0,3
+146465563,89357,530.0,False,False,False,False,False,NBASL Showdown $530 3-Player (SL NOP vs GSW),1500.0,NBA,2023-07-10 02:00:00+00:00,530.0,3
+146465564,89357,1060.0,False,False,False,False,False,"NBASL Showdown $1,060 3-Player (SL NOP vs GSW)",3000.0,NBA,2023-07-10 02:00:00+00:00,1060.0,3
+146465565,89357,5300.0,False,False,False,False,False,"NBASL Showdown $5,300 3-Player (SL NOP vs GSW)",15000.0,NBA,2023-07-10 02:00:00+00:00,5300.0,3
+146465566,89357,10600.0,False,False,False,False,False,"NBASL Showdown $10,600 3-Player (SL NOP vs GSW)",30000.0,NBA,2023-07-10 02:00:00+00:00,10600.0,3
+146465567,89357,20.0,True,False,False,False,False,Beginner NBASL Showdown $20 50-50 (SL NOP vs GSW),72.0,NBA,2023-07-10 02:00:00+00:00,20.0,4
+146465568,89357,10.0,True,False,False,False,False,Beginner NBASL Showdown $10 50-50 (SL NOP vs GSW),90.0,NBA,2023-07-10 02:00:00+00:00,10.0,10
+146465569,89357,1.0,True,False,False,False,False,Beginner NBASL Showdown $1 50-50 (SL NOP vs GSW),9.0,NBA,2023-07-10 02:00:00+00:00,1.0,10
+146465570,89357,3.0,True,False,False,False,False,Beginner NBASL Showdown $3 50-50 (SL NOP vs GSW),27.0,NBA,2023-07-10 02:00:00+00:00,3.0,10
+146465571,89357,5.0,True,False,False,False,False,Beginner NBASL Showdown $5 50-50 (SL NOP vs GSW),45.0,NBA,2023-07-10 02:00:00+00:00,5.0,10
+146465572,89357,5300.0,True,False,False,False,False,"NBASL Showdown $5,300 50-50 (SL NOP vs GSW)",20000.0,NBA,2023-07-10 02:00:00+00:00,5300.0,4
+146465573,89357,1060.0,True,False,False,False,False,"NBASL Showdown $1,060 50-50 (SL NOP vs GSW)",4000.0,NBA,2023-07-10 02:00:00+00:00,1060.0,4
+146465574,89357,530.0,True,False,False,False,False,NBASL Showdown $530 50-50 (SL NOP vs GSW),2000.0,NBA,2023-07-10 02:00:00+00:00,530.0,4
+146465575,89357,109.0,True,False,False,False,False,NBASL Showdown $109 50-50 (SL NOP vs GSW),400.0,NBA,2023-07-10 02:00:00+00:00,109.0,4
+146465576,89357,50.0,True,False,False,False,False,NBASL Showdown $50 50-50 (SL NOP vs GSW),180.0,NBA,2023-07-10 02:00:00+00:00,50.0,4
+146465577,89357,20.0,True,False,False,False,False,NBASL Showdown $20 50-50 (SL NOP vs GSW),72.0,NBA,2023-07-10 02:00:00+00:00,20.0,4
+146465578,89357,10.0,True,False,False,False,False,NBASL Showdown $10 50-50 (SL NOP vs GSW),36.0,NBA,2023-07-10 02:00:00+00:00,10.0,4
+146465579,89357,50.0,True,False,False,False,False,NBASL Showdown $50 50-50 (SL NOP vs GSW),450.0,NBA,2023-07-10 02:00:00+00:00,50.0,10
+146465580,89357,1.0,True,False,False,False,False,NBASL Showdown $1 50-50 (SL NOP vs GSW),9.0,NBA,2023-07-10 02:00:00+00:00,1.0,10
+146465581,89357,5.0,True,False,False,False,False,NBASL Showdown $5 50-50 (SL NOP vs GSW),45.0,NBA,2023-07-10 02:00:00+00:00,5.0,10
+146465582,89357,109.0,True,False,False,False,False,NBASL Showdown $109 50-50 (SL NOP vs GSW),600.0,NBA,2023-07-10 02:00:00+00:00,109.0,6
+146465583,89357,2.0,True,False,False,False,False,NBASL Showdown $2 50-50 (SL NOP vs GSW),18.0,NBA,2023-07-10 02:00:00+00:00,2.0,10
+146465584,89357,20.0,True,False,False,False,False,NBASL Showdown $20 50-50 (SL NOP vs GSW),180.0,NBA,2023-07-10 02:00:00+00:00,20.0,10
+146465585,89357,10.0,True,False,False,False,False,NBASL Showdown $10 50-50 (SL NOP vs GSW),90.0,NBA,2023-07-10 02:00:00+00:00,10.0,10
+146465586,89357,5.0,True,False,False,False,False,NBASL Showdown $5 50-50 (SL NOP vs GSW),90.0,NBA,2023-07-10 02:00:00+00:00,5.0,20
+146465587,89357,10.0,True,False,False,False,False,NBASL Showdown $10 50-50 (SL NOP vs GSW),180.0,NBA,2023-07-10 02:00:00+00:00,10.0,20
+146465588,89357,20.0,True,False,False,False,False,NBASL Showdown $20 50-50 (SL NOP vs GSW),360.0,NBA,2023-07-10 02:00:00+00:00,20.0,20
+146465589,89357,2.0,True,False,False,False,False,NBASL Showdown $2 50-50 (SL NOP vs GSW),36.0,NBA,2023-07-10 02:00:00+00:00,2.0,20
+146465590,89357,1.0,True,False,False,False,False,NBASL Showdown $1 50-50 (SL NOP vs GSW),18.0,NBA,2023-07-10 02:00:00+00:00,1.0,20
+146465591,89357,1060.0,False,False,False,False,True,NBASL Showdown $4K All Star [Single Entry] (Must Fill) (SL NOP vs GSW),4000.0,NBA,2023-07-10 02:00:00+00:00,1060.0,4
+146465592,89357,267.0,False,False,False,False,True,NBASL Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (SL NOP vs GSW),1000.0,NBA,2023-07-10 02:00:00+00:00,267.0,4
+146465593,89357,4.0,False,False,False,False,True,NBASL Showdown Satellite to NFL Best Ball $10M Millionaire [Must Fill] (SL NOP vs GSW),10.0,NBA,2023-07-10 02:00:00+00:00,3.7,3
+146465594,89357,201.0,False,False,False,False,True,NBASL Showdown Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (SL NOP vs GSW),555.0,NBA,2023-07-10 02:00:00+00:00,201.0,3
+146465595,89357,16.0,False,False,False,False,True,NBASL Showdown Satellite to NFL Best Ball $1M Four Technique [Must Fill] (SL NOP vs GSW),44.0,NBA,2023-07-10 02:00:00+00:00,16.0,3
+146465596,89357,749.0,False,False,False,False,True,NBASL Showdown Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (SL NOP vs GSW),2120.0,NBA,2023-07-10 02:00:00+00:00,749.0,3
+146465597,89357,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL NOP vs GSW)",19.98,NBA,2023-07-10 02:00:00+00:00,5.55,4
+146465598,89357,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL NOP vs GSW)",19.98,NBA,2023-07-10 02:00:00+00:00,5.55,4
+146465599,89357,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (SL NOP vs GSW)",19.98,NBA,2023-07-10 02:00:00+00:00,5.55,4
+146465600,89357,6.0,False,False,False,False,True,NBASL Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL NOP vs GSW),19.99,NBA,2023-07-10 02:00:00+00:00,5.55,4
+146465601,89357,6.0,False,False,False,False,True,NBASL Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL NOP vs GSW),19.99,NBA,2023-07-10 02:00:00+00:00,5.55,4
+146465602,89357,6.0,False,False,False,False,True,NBASL Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (SL NOP vs GSW),19.99,NBA,2023-07-10 02:00:00+00:00,5.55,4
+146465603,89357,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL NOP vs GSW),19.99,NBA,2023-07-10 02:00:00+00:00,5.55,4
+146465604,89357,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL NOP vs GSW),19.99,NBA,2023-07-10 02:00:00+00:00,5.55,4
+146465605,89357,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (SL NOP vs GSW),19.99,NBA,2023-07-10 02:00:00+00:00,5.55,4
+146465606,89357,76.0,False,False,False,False,True,NBASL Showdown Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (SL NOP vs GSW),275.0,NBA,2023-07-10 02:00:00+00:00,76.0,4
+146465607,89357,76.0,False,False,False,False,True,NBASL Showdown Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (SL NOP vs GSW),275.0,NBA,2023-07-10 02:00:00+00:00,76.0,4
+146465608,89357,121.0,False,False,False,False,True,NBASL Showdown Satellite to WNBA 7-25 $333 MEGA Moneyball Special (SL NOP vs GSW),333.0,NBA,2023-07-10 02:00:00+00:00,121.0,3
+146465978,89356,1.0,True,False,False,False,False,Casual NBASL $1 50-50 (SL Night),9.0,NBA,2023-07-10 01:30:00+00:00,1.0,10
+146467877,89353,50.0,False,False,True,False,True,NBASL $1K Ankle Breaker [Single Entry] (SL Early),1000.0,NBA,2023-07-09 19:30:00+00:00,50.0,22
+146467878,89353,27.0,False,False,True,False,True,NBASL $500 Fast Break (SL Early),500.0,NBA,2023-07-09 19:30:00+00:00,27.0,21
+146467879,89353,10.0,False,False,True,False,True,NBASL $8K Pull Up Jumper [$2K to 1st] (SL Early),8000.0,NBA,2023-07-09 19:30:00+00:00,10.0,941
+146467880,89353,150.0,False,False,True,False,True,NBASL $1.5K Posterizer [Single Entry] (SL Early),1500.0,NBA,2023-07-09 19:30:00+00:00,150.0,11
+146467881,89353,12.0,False,False,True,False,True,NBASL $200 Pick and Roll [Single Entry] (SL Early),200.0,NBA,2023-07-09 19:30:00+00:00,12.0,19
+146467882,89353,5.0,False,False,True,False,True,NBASL $300 High Five [Single Entry] (SL Early),300.0,NBA,2023-07-09 19:30:00+00:00,5.0,71
+146467883,89353,1.0,False,False,True,False,True,NBASL $750 And-One [20 Entry Max] (SL Early),750.0,NBA,2023-07-09 19:30:00+00:00,1.0,891
+146467884,89353,3.0,False,False,True,False,True,NBASL $400 Sharpshooter (SL Early),400.0,NBA,2023-07-09 19:30:00+00:00,3.0,158
+146467885,89353,0.0,False,False,True,False,True,NBASL $200 Quarter Jukebox (SL Early),200.0,NBA,2023-07-09 19:30:00+00:00,0.25,951
+146467886,89511,27.0,False,False,True,False,True,NBASL $240 Fast Break [Single Entry] (SL Afternoon),240.0,NBA,2023-07-09 21:30:00+00:00,27.0,10
+146467887,89511,5.0,False,False,True,False,True,NBASL $100 High Five [Single Entry] (SL Afternoon),100.0,NBA,2023-07-09 21:30:00+00:00,5.0,23
+146467888,89511,50.0,False,False,True,False,True,NBASL $310 Ankle Breaker [Single Entry] (SL Afternoon),310.0,NBA,2023-07-09 21:30:00+00:00,50.0,7
+146467889,89511,12.0,False,False,True,False,True,NBASL $155 Pick and Roll [Single Entry] (SL Afternoon),155.0,NBA,2023-07-09 21:30:00+00:00,12.0,15
+146467890,89511,10.0,False,False,True,False,True,NBASL $2K Pull Up Jumper [$500 to 1st] (SL Afternoon),2000.0,NBA,2023-07-09 21:30:00+00:00,10.0,235
+146467891,89511,1.0,False,False,True,False,True,NBASL $200 And-One (SL Afternoon),200.0,NBA,2023-07-09 21:30:00+00:00,1.0,237
+146467892,89511,0.0,False,False,True,False,True,NBASL $100 Quarter Jukebox [Just $0.25!] (SL Afternoon),100.0,NBA,2023-07-09 21:30:00+00:00,0.25,475
+146467893,89354,50.0,False,False,True,False,True,NBASL $1K Ankle Breaker [Single Entry] (Summer League),1000.0,NBA,2023-07-09 23:30:00+00:00,50.0,22
+146467894,89354,12.0,False,False,True,False,True,NBASL $500 Pick and Roll [Single Entry] (Summer League),500.0,NBA,2023-07-09 23:30:00+00:00,12.0,49
+146467895,89354,5.0,False,False,True,False,True,NBASL $1K High Five [Single Entry] (Summer League),1000.0,NBA,2023-07-09 23:30:00+00:00,5.0,237
+146467896,89354,0.0,False,False,True,False,True,NBASL $500 Quarter Jukebox [Just $0.25!] (Summer League),500.0,NBA,2023-07-09 23:30:00+00:00,0.25,2378
+146467897,89354,180.0,False,False,True,False,True,NBASL $10.9K Windmill [$3K to 1st] (Summer League),10900.0,NBA,2023-07-09 23:30:00+00:00,180.0,67
+146467898,89354,33.0,False,False,True,False,True,NBASL $2.5K Triple Threat (Summer League),2500.0,NBA,2023-07-09 23:30:00+00:00,33.0,88
+146467899,89354,3.0,False,False,True,False,True,NBASL $500 Hot Shot [3 Entry Max] (Summer League),500.0,NBA,2023-07-09 23:30:00+00:00,3.0,198
+146467900,89354,1.0,False,False,True,False,True,NBASL $2.5K And-One (Summer League),2500.0,NBA,2023-07-09 23:30:00+00:00,1.0,2972
+146467901,89356,10.0,False,False,True,False,True,NBASL $10K Pull Up Jumper [$2K to 1st] (SL Night),10000.0,NBA,2023-07-10 01:30:00+00:00,10.0,1176
+146467902,89356,150.0,False,False,True,False,True,NBASL $1.9K Posterizer [Single Entry] (SL Night),1900.0,NBA,2023-07-10 01:30:00+00:00,150.0,14
+146467903,89356,12.0,False,False,True,False,True,NBASL $200 Pick and Roll [Single Entry] (SL Night),200.0,NBA,2023-07-10 01:30:00+00:00,12.0,19
+146467904,89356,50.0,False,False,True,False,True,NBASL $500 Ankle Breaker [Single Entry] (SL Night),500.0,NBA,2023-07-10 01:30:00+00:00,50.0,11
+146467905,89356,5.0,False,False,True,False,True,NBASL $300 High Five [Single Entry] (SL Night),300.0,NBA,2023-07-10 01:30:00+00:00,5.0,71
+146467906,89356,1.0,False,False,True,False,True,NBASL $750 And-One [20 Entry Max] (SL Night),750.0,NBA,2023-07-10 01:30:00+00:00,1.0,891
+146467907,89356,0.0,False,False,True,False,True,NBASL $150 Quarter Jukebox [Just $0.25!] (SL Night),150.0,NBA,2023-07-10 01:30:00+00:00,0.25,713
+146467908,89356,33.0,False,False,True,False,True,NBASL $510 Triple Threat (SL Night),510.0,NBA,2023-07-10 01:30:00+00:00,33.0,18
+146467909,89356,3.0,False,False,True,False,True,NBASL $150 Sharpshooter (SL Night),150.0,NBA,2023-07-10 01:30:00+00:00,3.0,59
+146467910,89357,10.0,False,False,True,False,True,NBASL Showdown $8K Pull Up Jumper [$2K to 1st] (SL NOP vs GSW),8000.0,NBA,2023-07-10 02:00:00+00:00,10.0,941
+146467911,89357,150.0,False,False,True,False,True,NBASL Showdown $1.5K Posterizer [Single Entry] (SL NOP vs GSW),1500.0,NBA,2023-07-10 02:00:00+00:00,150.0,11
+146467912,89357,12.0,False,False,True,False,True,NBASL Showdown $200 Pick and Roll [Single Entry] (SL NOP vs GSW),200.0,NBA,2023-07-10 02:00:00+00:00,12.0,19
+146467913,89357,50.0,False,False,True,False,True,NBASL Showdown $500 Ankle Breaker [Single Entry] (SL NOP vs GSW),500.0,NBA,2023-07-10 02:00:00+00:00,50.0,11
+146467914,89357,1.0,False,False,True,False,True,NBASL Showdown $500 And-One (SL NOP vs GSW),500.0,NBA,2023-07-10 02:00:00+00:00,1.0,594
+146467915,89357,27.0,False,False,True,False,True,NBASL Showdown $305 Fast Break [Single Entry] (SL NOP vs GSW),305.0,NBA,2023-07-10 02:00:00+00:00,27.0,13
+146467916,89357,5.0,False,False,True,False,True,NBASL Showdown $200 High Five [Single Entry] (SL NOP vs GSW),200.0,NBA,2023-07-10 02:00:00+00:00,5.0,47
+146467917,89357,0.0,False,False,True,False,True,NBASL Showdown $150 Quarter Jukebox [Just $0.25!] (SL NOP vs GSW),150.0,NBA,2023-07-10 02:00:00+00:00,0.25,713
+146467918,89357,3.0,False,False,True,False,True,NBASL Showdown $150 Sharpshooter (SL NOP vs GSW),150.0,NBA,2023-07-10 02:00:00+00:00,3.0,59
+146469690,89353,0.0,False,False,False,False,False,NBASL FREE 200-Player (SL Early),0.0,NBA,2023-07-09 19:30:00+00:00,0.0,200
+146469733,89357,0.0,False,False,False,False,False,NBASL Showdown FREE 200-Player (SL NOP vs GSW),0.0,NBA,2023-07-10 02:00:00+00:00,0.0,200
+146469826,89511,0.0,False,False,False,False,False,NBASL FREE 200-Player (SL Afternoon),0.0,NBA,2023-07-09 21:30:00+00:00,0.0,200
+146472671,89354,0.0,False,False,False,False,False,NBASL FREE 100-Player (Summer League),0.0,NBA,2023-07-09 23:30:00+00:00,0.0,100
+146473757,89421,5.0,False,False,True,False,True,WNBA $1K Zone,1000.0,NBA,2023-07-09 19:00:00+00:00,5.0,237
+146473758,89421,1.0,False,False,True,False,True,WNBA $100 Daily Dollar [Single Entry],100.0,NBA,2023-07-09 19:00:00+00:00,1.0,118
+146473759,89421,5.0,False,False,True,False,True,WNBA $500 High Five [Single Entry],500.0,NBA,2023-07-09 19:00:00+00:00,5.0,118
+146473760,89421,0.0,False,False,True,False,True,WNBA $300 Quarter Jukebox [Just $0.25!] ,300.0,NBA,2023-07-09 19:00:00+00:00,0.25,1426
+146473761,89421,100.0,False,False,True,False,True,WNBA $1K Showtime [Single Entry],1000.0,NBA,2023-07-09 19:00:00+00:00,100.0,11
+146473762,89421,1.0,False,False,True,False,True,WNBA $1K And-One [20 Entry Max],1000.0,NBA,2023-07-09 19:00:00+00:00,1.0,1189
+146473763,89421,12.0,False,False,True,False,True,WNBA $300 Pick and Roll [Single Entry],300.0,NBA,2023-07-09 19:00:00+00:00,12.0,29
+146473764,89421,33.0,False,False,True,False,True,WNBA $600 Triple Threat,600.0,NBA,2023-07-09 19:00:00+00:00,33.0,21
+146473765,89421,15.0,False,False,True,False,True,WNBA $20K Fadeaway [$5K to 1st],20000.0,NBA,2023-07-09 19:00:00+00:00,15.0,1568
+146473766,89421,333.0,False,False,True,False,True,WNBA $3.3K Money Ball [Single Entry],3300.0,NBA,2023-07-09 19:00:00+00:00,333.0,11
+146473767,89421,0.0,False,False,True,False,True,WNBA $50 Dime Time [Just $0.10!],50.0,NBA,2023-07-09 19:00:00+00:00,0.1,594
+146473768,89421,5.0,True,False,True,False,True,WNBA Single Entry $5 Double Up,200.0,NBA,2023-07-09 19:00:00+00:00,5.0,45
+146473769,89421,275.0,False,False,True,False,True,WNBA $100K Queen of the Court Qualifier #28,2400.0,NBA,2023-07-09 19:00:00+00:00,275.0,10
+146473830,89422,0.0,False,False,True,False,True,WNBA Showdown $100 Quarter Jukebox [Just $0.25!] (WAS vs CON),100.0,NBA,2023-07-09 19:00:00+00:00,0.25,475
+146473831,89422,1.0,False,False,True,False,True,WNBA Showdown $250 And-One (WAS vs CON),250.0,NBA,2023-07-09 19:00:00+00:00,1.0,297
+146473832,89422,12.0,False,False,True,False,True,WNBA Showdown $155 Pick and Roll [Single Entry] (WAS vs CON),155.0,NBA,2023-07-09 19:00:00+00:00,12.0,15
+146473833,89422,15.0,False,False,True,False,True,WNBA Showdown $6K Fadeaway [$2K to 1st] (WAS vs CON),6000.0,NBA,2023-07-09 19:00:00+00:00,15.0,470
+146473871,89423,0.0,False,False,True,False,True,WNBA Showdown $100 Quarter Jukebox [Just $0.25!] (ATL vs CHI),100.0,NBA,2023-07-10 00:00:00+00:00,0.25,475
+146473872,89423,12.0,False,False,True,False,True,WNBA Showdown $155 Pick and Roll [Single Entry] (ATL vs CHI),155.0,NBA,2023-07-10 00:00:00+00:00,12.0,15
+146473873,89423,1.0,False,False,True,False,True,WNBA Showdown $400 And-One (ATL vs CHI),400.0,NBA,2023-07-10 00:00:00+00:00,1.0,475
+146473874,89423,33.0,False,False,True,False,True,WNBA Showdown $285 Triple Threat [Single Entry] (ATL vs CHI),285.0,NBA,2023-07-10 00:00:00+00:00,33.0,10
+146473875,89423,15.0,False,False,True,False,True,WNBA Showdown $10K Fadeaway [$2K to 1st] (ATL vs CHI),10000.0,NBA,2023-07-10 00:00:00+00:00,15.0,784
+146473951,89421,3.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2023-07-09 19:00:00+00:00,3.0,23
+146473952,89421,1.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-07-09 19:00:00+00:00,1.0,31
+146473953,89421,5.0,False,False,True,False,False,WNBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2023-07-09 19:00:00+00:00,5.0,31
+146473954,89421,50.0,True,False,True,False,False,WNBA $50 Double Up,500.0,NBA,2023-07-09 19:00:00+00:00,50.0,11
+146473955,89421,25.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2023-07-09 19:00:00+00:00,25.0,11
+146473956,89421,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2023-07-09 19:00:00+00:00,10.0,11
+146473957,89421,5.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2023-07-09 19:00:00+00:00,5.0,34
+146473958,89421,5.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2023-07-09 19:00:00+00:00,5.0,23
+146473959,89421,3.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2023-07-09 19:00:00+00:00,3.0,34
+146473960,89421,1.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2023-07-09 19:00:00+00:00,1.0,34
+146473961,89421,1.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2023-07-09 19:00:00+00:00,1.0,23
+146473962,89421,1.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2023-07-09 19:00:00+00:00,1.0,23
+146473963,89421,3.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2023-07-09 19:00:00+00:00,3.0,23
+146473964,89421,5.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2023-07-09 19:00:00+00:00,5.0,23
+146473965,89421,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2023-07-09 19:00:00+00:00,10.0,11
+146473966,89421,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $10M Millionaire,10.0,NBA,2023-07-09 19:00:00+00:00,0.1,118
+146473967,89421,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $10M Millionaire,10.0,NBA,2023-07-09 19:00:00+00:00,0.25,47
+146473968,89421,1.0,False,False,True,False,True,WNBA SUPERSatellite to NFL Best Ball $10M Millionaire [2x],20.0,NBA,2023-07-09 19:00:00+00:00,1.0,23
+146473969,89421,4.0,False,False,True,False,True,WNBA Satellite to WNBA $100K QotC $44 Qualifier,44.0,NBA,2023-07-09 19:00:00+00:00,4.0,13
+146473970,89421,9.0,False,False,True,False,True,WNBA Satellite to WNBA $100K QotC $44 Qualifier,46.0,NBA,2023-07-09 19:00:00+00:00,9.0,6
+146473971,89421,0.0,False,False,True,False,True,WNBA Satellite to WNBA $100K QotC $12 Qualifier,12.0,NBA,2023-07-09 19:00:00+00:00,0.25,57
+146473972,89421,1.0,False,False,True,False,True,WNBA Satellite to WNBA $100K QotC $12 Qualifier,12.0,NBA,2023-07-09 19:00:00+00:00,1.0,14
+146473973,89421,2.0,False,False,True,False,True,WNBA Satellite to WNBA $100K QotC $12 Qualifier,12.0,NBA,2023-07-09 19:00:00+00:00,2.0,7
+146473974,89421,1.0,False,False,True,False,True,WNBA SUPERSatellite to WNBA $100K QotC $12 Qualifier [2x],24.0,NBA,2023-07-09 19:00:00+00:00,1.0,28
+146473975,89421,2.0,False,False,True,False,True,WNBA SUPERSatellite to WNBA $100K QotC $12 Qualifier [2x],24.0,NBA,2023-07-09 19:00:00+00:00,2.0,14
+146473976,89421,3.0,False,False,True,False,True,WNBA SUPERSatellite to WNBA $100K QotC $12 Qualifier [4x],48.0,NBA,2023-07-09 19:00:00+00:00,3.0,19
+146473977,89421,1.0,False,False,True,False,True,WNBA SUPERSatellite to WNBA $100K QotC $12 Qualifier [5x],60.0,NBA,2023-07-09 19:00:00+00:00,1.0,71
+146473978,89421,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-09 19:00:00+00:00,0.1,178
+146473979,89421,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-09 19:00:00+00:00,0.1,178
+146473980,89421,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-09 19:00:00+00:00,0.25,71
+146473981,89421,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-09 19:00:00+00:00,0.25,71
+146473982,89421,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-09 19:00:00+00:00,0.5,35
+146473983,89421,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-09 19:00:00+00:00,0.5,35
+146473984,89421,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-09 19:00:00+00:00,0.5,35
+146473985,89421,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special [2x],30.0,NBA,2023-07-09 19:00:00+00:00,0.25,142
+146473986,89421,1.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special [2x],30.0,NBA,2023-07-09 19:00:00+00:00,1.0,35
+146473987,89421,1.0,False,False,True,False,True,WNBA SUPERSat to $15 WNBA 7-25 July Fadeaway Special [4x],60.0,NBA,2023-07-09 19:00:00+00:00,1.0,71
+146473988,89421,5.0,False,False,True,False,True,WNBA SUPERSat to $15 WNBA 7-25 July Fadeaway Special [4x],60.0,NBA,2023-07-09 19:00:00+00:00,5.0,14
+146473989,89421,5.0,False,False,True,False,True,WNBA SUPERSat to $15 WNBA 7-25 July Fadeaway Special [4x],150.0,NBA,2023-07-09 19:00:00+00:00,5.0,35
+146473990,89421,1.0,False,False,True,False,True,WNBA 7-20 Fantasy Golf Millionaire Satellite,25.0,NBA,2023-07-09 19:00:00+00:00,1.0,29
+146473991,89421,0.0,False,False,True,False,True,WNBA 7-20 Fantasy Golf Millionaire SUPERSatellite [2x],50.0,NBA,2023-07-09 19:00:00+00:00,0.25,237
+146473992,89421,0.0,False,False,True,False,True,WNBA 7-20 Fantasy Golf Millionaire Satellite,25.0,NBA,2023-07-09 19:00:00+00:00,0.25,118
+146473993,89421,0.0,False,False,True,False,True,WNBA 7-20 Fantasy Golf Millionaire Satellite,25.0,NBA,2023-07-09 19:00:00+00:00,0.1,297
+146473994,89422,2.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (WAS vs CON),5.4,NBA,2023-07-09 19:00:00+00:00,2.0,3
+146473995,89422,10.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (WAS vs CON),27.0,NBA,2023-07-09 19:00:00+00:00,10.0,3
+146473996,89422,5.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (WAS vs CON),13.5,NBA,2023-07-09 19:00:00+00:00,5.0,3
+146473997,89422,1.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (WAS vs CON),2.7,NBA,2023-07-09 19:00:00+00:00,1.0,3
+146473998,89422,1.0,False,False,False,False,False,WNBA Showdown $1 10-Player (WAS vs CON),9.0,NBA,2023-07-09 19:00:00+00:00,1.0,10
+146473999,89422,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (WAS vs CON),4.5,NBA,2023-07-09 19:00:00+00:00,1.0,5
+146474000,89422,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (WAS vs CON),2.7,NBA,2023-07-09 19:00:00+00:00,1.0,3
+146474001,89422,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (WAS vs CON),2.7,NBA,2023-07-09 19:00:00+00:00,1.0,3
+146474002,89422,20.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (WAS vs CON),180.0,NBA,2023-07-09 19:00:00+00:00,20.0,10
+146474003,89422,10.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (WAS vs CON),90.0,NBA,2023-07-09 19:00:00+00:00,10.0,10
+146474004,89422,5.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (WAS vs CON),45.0,NBA,2023-07-09 19:00:00+00:00,5.0,10
+146474005,89422,3.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (WAS vs CON),27.0,NBA,2023-07-09 19:00:00+00:00,3.0,10
+146474006,89422,1.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (WAS vs CON),9.0,NBA,2023-07-09 19:00:00+00:00,1.0,10
+146474007,89422,5.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (WAS vs CON),13.5,NBA,2023-07-09 19:00:00+00:00,5.0,3
+146474008,89422,2.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (WAS vs CON),5.4,NBA,2023-07-09 19:00:00+00:00,2.0,3
+146474009,89422,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (WAS vs CON),5.4,NBA,2023-07-09 19:00:00+00:00,2.0,3
+146474010,89422,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (WAS vs CON),5.4,NBA,2023-07-09 19:00:00+00:00,2.0,3
+146474011,89422,2.0,False,False,False,False,False,WNBA Showdown $2 5-Player (WAS vs CON),9.0,NBA,2023-07-09 19:00:00+00:00,2.0,5
+146474012,89422,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (WAS vs CON),18.0,NBA,2023-07-09 19:00:00+00:00,2.0,10
+146474013,89422,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (WAS vs CON),13.5,NBA,2023-07-09 19:00:00+00:00,5.0,3
+146474014,89422,5.0,False,False,False,False,False,WNBA Showdown $5 5-Player (WAS vs CON),22.5,NBA,2023-07-09 19:00:00+00:00,5.0,5
+146474015,89422,5.0,False,False,False,False,False,WNBA Showdown $5 10-Player (WAS vs CON),45.0,NBA,2023-07-09 19:00:00+00:00,5.0,10
+146474016,89422,10.0,False,False,False,False,False,WNBA Showdown $10 5-Player (WAS vs CON),45.0,NBA,2023-07-09 19:00:00+00:00,10.0,5
+146474017,89422,10.0,False,False,False,False,False,WNBA Showdown $10 3-Player (WAS vs CON),27.0,NBA,2023-07-09 19:00:00+00:00,10.0,3
+146474018,89422,20.0,False,False,False,False,False,WNBA Showdown $20 3-Player (WAS vs CON),54.0,NBA,2023-07-09 19:00:00+00:00,20.0,3
+146474019,89422,50.0,False,False,False,False,False,WNBA Showdown $50 5-Player (WAS vs CON),225.0,NBA,2023-07-09 19:00:00+00:00,50.0,5
+146474020,89422,50.0,False,False,False,False,False,WNBA Showdown $50 3-Player (WAS vs CON),135.0,NBA,2023-07-09 19:00:00+00:00,50.0,3
+146474021,89422,109.0,False,False,False,False,False,WNBA Showdown $109 3-Player (WAS vs CON),300.0,NBA,2023-07-09 19:00:00+00:00,109.0,3
+146474022,89422,162.0,False,False,False,False,False,WNBA Showdown $162 3-Player (WAS vs CON),450.0,NBA,2023-07-09 19:00:00+00:00,162.0,3
+146474023,89422,530.0,False,False,False,False,False,WNBA Showdown $530 3-Player (WAS vs CON),1500.0,NBA,2023-07-09 19:00:00+00:00,530.0,3
+146474024,89422,1060.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (WAS vs CON)",3000.0,NBA,2023-07-09 19:00:00+00:00,1060.0,3
+146474025,89422,5300.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (WAS vs CON)",15000.0,NBA,2023-07-09 19:00:00+00:00,5300.0,3
+146474026,89422,10600.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (WAS vs CON)",30000.0,NBA,2023-07-09 19:00:00+00:00,10600.0,3
+146474027,89422,20.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (WAS vs CON),72.0,NBA,2023-07-09 19:00:00+00:00,20.0,4
+146474028,89422,10.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (WAS vs CON),90.0,NBA,2023-07-09 19:00:00+00:00,10.0,10
+146474029,89422,1.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (WAS vs CON),9.0,NBA,2023-07-09 19:00:00+00:00,1.0,10
+146474030,89422,3.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (WAS vs CON),27.0,NBA,2023-07-09 19:00:00+00:00,3.0,10
+146474031,89422,5.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (WAS vs CON),45.0,NBA,2023-07-09 19:00:00+00:00,5.0,10
+146474032,89422,5300.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (WAS vs CON)",20000.0,NBA,2023-07-09 19:00:00+00:00,5300.0,4
+146474033,89422,1060.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (WAS vs CON)",4000.0,NBA,2023-07-09 19:00:00+00:00,1060.0,4
+146474034,89422,530.0,True,False,False,False,False,WNBA Showdown $530 50-50 (WAS vs CON),2000.0,NBA,2023-07-09 19:00:00+00:00,530.0,4
+146474035,89422,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (WAS vs CON),400.0,NBA,2023-07-09 19:00:00+00:00,109.0,4
+146474036,89422,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (WAS vs CON),180.0,NBA,2023-07-09 19:00:00+00:00,50.0,4
+146474037,89422,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (WAS vs CON),72.0,NBA,2023-07-09 19:00:00+00:00,20.0,4
+146474038,89422,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (WAS vs CON),36.0,NBA,2023-07-09 19:00:00+00:00,10.0,4
+146474039,89422,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (WAS vs CON),450.0,NBA,2023-07-09 19:00:00+00:00,50.0,10
+146474040,89422,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (WAS vs CON),9.0,NBA,2023-07-09 19:00:00+00:00,1.0,10
+146474041,89422,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (WAS vs CON),45.0,NBA,2023-07-09 19:00:00+00:00,5.0,10
+146474042,89422,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (WAS vs CON),600.0,NBA,2023-07-09 19:00:00+00:00,109.0,6
+146474043,89422,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (WAS vs CON),18.0,NBA,2023-07-09 19:00:00+00:00,2.0,10
+146474044,89422,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (WAS vs CON),180.0,NBA,2023-07-09 19:00:00+00:00,20.0,10
+146474045,89422,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (WAS vs CON),90.0,NBA,2023-07-09 19:00:00+00:00,10.0,10
+146474046,89422,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (WAS vs CON),90.0,NBA,2023-07-09 19:00:00+00:00,5.0,20
+146474047,89422,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (WAS vs CON),180.0,NBA,2023-07-09 19:00:00+00:00,10.0,20
+146474048,89422,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (WAS vs CON),360.0,NBA,2023-07-09 19:00:00+00:00,20.0,20
+146474049,89422,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (WAS vs CON),36.0,NBA,2023-07-09 19:00:00+00:00,2.0,20
+146474050,89422,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (WAS vs CON),18.0,NBA,2023-07-09 19:00:00+00:00,1.0,20
+146474051,89422,1060.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (WAS vs CON),4000.0,NBA,2023-07-09 19:00:00+00:00,1060.0,4
+146474052,89422,267.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (WAS vs CON),1000.0,NBA,2023-07-09 19:00:00+00:00,267.0,4
+146474053,89422,4.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $10M Millionaire [Must Fill] (WAS vs CON),10.0,NBA,2023-07-09 19:00:00+00:00,3.7,3
+146474054,89422,201.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (WAS vs CON),555.0,NBA,2023-07-09 19:00:00+00:00,201.0,3
+146474055,89422,16.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $1M Four Technique [Must Fill] (WAS vs CON),44.0,NBA,2023-07-09 19:00:00+00:00,16.0,3
+146474056,89422,749.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (WAS vs CON),2120.0,NBA,2023-07-09 19:00:00+00:00,749.0,3
+146474057,89422,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA WAS vs CON)",19.98,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474058,89422,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA WAS vs CON)",19.98,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474059,89422,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA WAS vs CON)",19.98,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474060,89422,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (WAS vs CON),19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474061,89422,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (WAS vs CON),19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474062,89422,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (WAS vs CON),19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474063,89422,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA WAS vs CON),19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474064,89422,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA WAS vs CON),19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474065,89422,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA WAS vs CON),19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474066,89422,76.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (WAS vs CON),275.0,NBA,2023-07-09 19:00:00+00:00,76.0,4
+146474067,89422,76.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (WAS vs CON),275.0,NBA,2023-07-09 19:00:00+00:00,76.0,4
+146474068,89422,121.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA 7-25 $333 MEGA Moneyball Special (WAS vs CON),333.0,NBA,2023-07-09 19:00:00+00:00,121.0,3
+146474069,89421,2.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2023-07-09 19:00:00+00:00,2.0,3
+146474070,89421,10.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2023-07-09 19:00:00+00:00,10.0,3
+146474071,89421,5.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2023-07-09 19:00:00+00:00,5.0,3
+146474072,89421,1.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2023-07-09 19:00:00+00:00,1.0,3
+146474073,89421,1.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2023-07-09 19:00:00+00:00,1.0,10
+146474074,89421,1.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2023-07-09 19:00:00+00:00,1.0,5
+146474076,89421,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2023-07-09 19:00:00+00:00,1.0,3
+146474077,89421,20.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2023-07-09 19:00:00+00:00,20.0,10
+146474078,89421,10.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2023-07-09 19:00:00+00:00,10.0,10
+146474079,89421,5.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2023-07-09 19:00:00+00:00,5.0,10
+146474080,89421,3.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2023-07-09 19:00:00+00:00,3.0,10
+146474081,89421,1.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2023-07-09 19:00:00+00:00,1.0,10
+146474082,89421,5.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2023-07-09 19:00:00+00:00,5.0,3
+146474083,89421,2.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2023-07-09 19:00:00+00:00,2.0,3
+146474084,89421,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2023-07-09 19:00:00+00:00,2.0,3
+146474085,89421,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2023-07-09 19:00:00+00:00,2.0,3
+146474086,89421,2.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2023-07-09 19:00:00+00:00,2.0,5
+146474087,89421,2.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2023-07-09 19:00:00+00:00,2.0,10
+146474088,89421,5.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2023-07-09 19:00:00+00:00,5.0,3
+146474089,89421,5.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2023-07-09 19:00:00+00:00,5.0,5
+146474090,89421,5.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2023-07-09 19:00:00+00:00,5.0,10
+146474091,89421,10.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2023-07-09 19:00:00+00:00,10.0,5
+146474092,89421,10.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2023-07-09 19:00:00+00:00,10.0,3
+146474093,89421,20.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2023-07-09 19:00:00+00:00,20.0,3
+146474094,89421,50.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2023-07-09 19:00:00+00:00,50.0,5
+146474095,89421,50.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2023-07-09 19:00:00+00:00,50.0,3
+146474096,89421,109.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2023-07-09 19:00:00+00:00,109.0,3
+146474097,89421,162.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2023-07-09 19:00:00+00:00,162.0,3
+146474098,89421,530.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2023-07-09 19:00:00+00:00,530.0,3
+146474099,89421,1060.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2023-07-09 19:00:00+00:00,1060.0,3
+146474100,89421,5300.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2023-07-09 19:00:00+00:00,5300.0,3
+146474101,89421,10600.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2023-07-09 19:00:00+00:00,10600.0,3
+146474102,89421,20.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2023-07-09 19:00:00+00:00,20.0,4
+146474103,89421,10.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2023-07-09 19:00:00+00:00,10.0,10
+146474104,89421,1.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2023-07-09 19:00:00+00:00,1.0,10
+146474105,89421,3.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2023-07-09 19:00:00+00:00,3.0,10
+146474106,89421,5.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2023-07-09 19:00:00+00:00,5.0,10
+146474107,89421,5300.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2023-07-09 19:00:00+00:00,5300.0,4
+146474108,89421,1060.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2023-07-09 19:00:00+00:00,1060.0,4
+146474109,89421,530.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2023-07-09 19:00:00+00:00,530.0,4
+146474110,89421,109.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2023-07-09 19:00:00+00:00,109.0,4
+146474111,89421,50.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2023-07-09 19:00:00+00:00,50.0,4
+146474112,89421,20.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2023-07-09 19:00:00+00:00,20.0,4
+146474113,89421,10.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2023-07-09 19:00:00+00:00,10.0,4
+146474114,89421,50.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2023-07-09 19:00:00+00:00,50.0,10
+146474115,89421,1.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2023-07-09 19:00:00+00:00,1.0,10
+146474116,89421,5.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2023-07-09 19:00:00+00:00,5.0,10
+146474117,89421,109.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2023-07-09 19:00:00+00:00,109.0,6
+146474118,89421,2.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2023-07-09 19:00:00+00:00,2.0,10
+146474119,89421,20.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2023-07-09 19:00:00+00:00,20.0,10
+146474120,89421,10.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2023-07-09 19:00:00+00:00,10.0,10
+146474121,89421,5.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2023-07-09 19:00:00+00:00,5.0,20
+146474122,89421,10.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2023-07-09 19:00:00+00:00,10.0,20
+146474123,89421,20.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2023-07-09 19:00:00+00:00,20.0,20
+146474124,89421,2.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2023-07-09 19:00:00+00:00,2.0,20
+146474125,89421,1.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2023-07-09 19:00:00+00:00,1.0,20
+146474126,89421,1060.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2023-07-09 19:00:00+00:00,1060.0,4
+146474127,89421,267.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2023-07-09 19:00:00+00:00,267.0,4
+146474128,89421,4.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $10M Millionaire [Must Fill],10.0,NBA,2023-07-09 19:00:00+00:00,3.7,3
+146474129,89421,201.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $2.6M Millionaire [Must Fill],555.0,NBA,2023-07-09 19:00:00+00:00,201.0,3
+146474130,89421,16.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $1M Four Technique [Must Fill],44.0,NBA,2023-07-09 19:00:00+00:00,16.0,3
+146474131,89421,749.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $144K Luxury Box [Must Fill],2120.0,NBA,2023-07-09 19:00:00+00:00,749.0,3
+146474132,89421,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA)",19.98,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474133,89421,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA)",19.98,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474134,89421,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA)",19.98,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474135,89421,6.0,False,False,False,False,True,WNBA 2023 RMPGAT Booster Pack Pack Special [Must Fill],19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474136,89421,6.0,False,False,False,False,True,WNBA 2023 RMPGAT Booster Pack Pack Special [Must Fill],19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474137,89421,6.0,False,False,False,False,True,WNBA 2023 RMPGAT Booster Pack Pack Special [Must Fill],19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474138,89421,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA),19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474139,89421,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA),19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474140,89421,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA),19.99,NBA,2023-07-09 19:00:00+00:00,5.55,4
+146474141,89421,76.0,False,False,False,False,True,WNBA Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL],275.0,NBA,2023-07-09 19:00:00+00:00,76.0,4
+146474142,89421,76.0,False,False,False,False,True,WNBA Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL],275.0,NBA,2023-07-09 19:00:00+00:00,76.0,4
+146474143,89421,121.0,False,False,False,False,True,WNBA Satellite to WNBA 7-25 $333 MEGA Moneyball Special,333.0,NBA,2023-07-09 19:00:00+00:00,121.0,3
+146474144,89423,2.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (ATL vs CHI),5.4,NBA,2023-07-10 00:00:00+00:00,2.0,3
+146474145,89423,10.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (ATL vs CHI),27.0,NBA,2023-07-10 00:00:00+00:00,10.0,3
+146474146,89423,5.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (ATL vs CHI),13.5,NBA,2023-07-10 00:00:00+00:00,5.0,3
+146474147,89423,1.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (ATL vs CHI),2.7,NBA,2023-07-10 00:00:00+00:00,1.0,3
+146474148,89423,1.0,False,False,False,False,False,WNBA Showdown $1 10-Player (ATL vs CHI),9.0,NBA,2023-07-10 00:00:00+00:00,1.0,10
+146474149,89423,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (ATL vs CHI),4.5,NBA,2023-07-10 00:00:00+00:00,1.0,5
+146474150,89423,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (ATL vs CHI),2.7,NBA,2023-07-10 00:00:00+00:00,1.0,3
+146474151,89423,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (ATL vs CHI),2.7,NBA,2023-07-10 00:00:00+00:00,1.0,3
+146474152,89423,20.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (ATL vs CHI),180.0,NBA,2023-07-10 00:00:00+00:00,20.0,10
+146474153,89423,10.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (ATL vs CHI),90.0,NBA,2023-07-10 00:00:00+00:00,10.0,10
+146474154,89423,5.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (ATL vs CHI),45.0,NBA,2023-07-10 00:00:00+00:00,5.0,10
+146474155,89423,3.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (ATL vs CHI),27.0,NBA,2023-07-10 00:00:00+00:00,3.0,10
+146474156,89423,1.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (ATL vs CHI),9.0,NBA,2023-07-10 00:00:00+00:00,1.0,10
+146474157,89423,5.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (ATL vs CHI),13.5,NBA,2023-07-10 00:00:00+00:00,5.0,3
+146474158,89423,2.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (ATL vs CHI),5.4,NBA,2023-07-10 00:00:00+00:00,2.0,3
+146474159,89423,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (ATL vs CHI),5.4,NBA,2023-07-10 00:00:00+00:00,2.0,3
+146474160,89423,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (ATL vs CHI),5.4,NBA,2023-07-10 00:00:00+00:00,2.0,3
+146474161,89423,2.0,False,False,False,False,False,WNBA Showdown $2 5-Player (ATL vs CHI),9.0,NBA,2023-07-10 00:00:00+00:00,2.0,5
+146474162,89423,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (ATL vs CHI),18.0,NBA,2023-07-10 00:00:00+00:00,2.0,10
+146474163,89423,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (ATL vs CHI),13.5,NBA,2023-07-10 00:00:00+00:00,5.0,3
+146474164,89423,5.0,False,False,False,False,False,WNBA Showdown $5 5-Player (ATL vs CHI),22.5,NBA,2023-07-10 00:00:00+00:00,5.0,5
+146474165,89423,5.0,False,False,False,False,False,WNBA Showdown $5 10-Player (ATL vs CHI),45.0,NBA,2023-07-10 00:00:00+00:00,5.0,10
+146474166,89423,10.0,False,False,False,False,False,WNBA Showdown $10 5-Player (ATL vs CHI),45.0,NBA,2023-07-10 00:00:00+00:00,10.0,5
+146474167,89423,10.0,False,False,False,False,False,WNBA Showdown $10 3-Player (ATL vs CHI),27.0,NBA,2023-07-10 00:00:00+00:00,10.0,3
+146474168,89423,20.0,False,False,False,False,False,WNBA Showdown $20 3-Player (ATL vs CHI),54.0,NBA,2023-07-10 00:00:00+00:00,20.0,3
+146474169,89423,50.0,False,False,False,False,False,WNBA Showdown $50 5-Player (ATL vs CHI),225.0,NBA,2023-07-10 00:00:00+00:00,50.0,5
+146474170,89423,50.0,False,False,False,False,False,WNBA Showdown $50 3-Player (ATL vs CHI),135.0,NBA,2023-07-10 00:00:00+00:00,50.0,3
+146474171,89423,109.0,False,False,False,False,False,WNBA Showdown $109 3-Player (ATL vs CHI),300.0,NBA,2023-07-10 00:00:00+00:00,109.0,3
+146474172,89423,162.0,False,False,False,False,False,WNBA Showdown $162 3-Player (ATL vs CHI),450.0,NBA,2023-07-10 00:00:00+00:00,162.0,3
+146474173,89423,530.0,False,False,False,False,False,WNBA Showdown $530 3-Player (ATL vs CHI),1500.0,NBA,2023-07-10 00:00:00+00:00,530.0,3
+146474174,89423,1060.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (ATL vs CHI)",3000.0,NBA,2023-07-10 00:00:00+00:00,1060.0,3
+146474175,89423,5300.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (ATL vs CHI)",15000.0,NBA,2023-07-10 00:00:00+00:00,5300.0,3
+146474176,89423,10600.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (ATL vs CHI)",30000.0,NBA,2023-07-10 00:00:00+00:00,10600.0,3
+146474177,89423,20.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (ATL vs CHI),72.0,NBA,2023-07-10 00:00:00+00:00,20.0,4
+146474178,89423,10.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (ATL vs CHI),90.0,NBA,2023-07-10 00:00:00+00:00,10.0,10
+146474179,89423,1.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (ATL vs CHI),9.0,NBA,2023-07-10 00:00:00+00:00,1.0,10
+146474180,89423,3.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (ATL vs CHI),27.0,NBA,2023-07-10 00:00:00+00:00,3.0,10
+146474181,89423,5.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (ATL vs CHI),45.0,NBA,2023-07-10 00:00:00+00:00,5.0,10
+146474182,89423,5300.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (ATL vs CHI)",20000.0,NBA,2023-07-10 00:00:00+00:00,5300.0,4
+146474183,89423,1060.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (ATL vs CHI)",4000.0,NBA,2023-07-10 00:00:00+00:00,1060.0,4
+146474184,89423,530.0,True,False,False,False,False,WNBA Showdown $530 50-50 (ATL vs CHI),2000.0,NBA,2023-07-10 00:00:00+00:00,530.0,4
+146474185,89423,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (ATL vs CHI),400.0,NBA,2023-07-10 00:00:00+00:00,109.0,4
+146474186,89423,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (ATL vs CHI),180.0,NBA,2023-07-10 00:00:00+00:00,50.0,4
+146474187,89423,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (ATL vs CHI),72.0,NBA,2023-07-10 00:00:00+00:00,20.0,4
+146474188,89423,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (ATL vs CHI),36.0,NBA,2023-07-10 00:00:00+00:00,10.0,4
+146474189,89423,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (ATL vs CHI),450.0,NBA,2023-07-10 00:00:00+00:00,50.0,10
+146474190,89423,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (ATL vs CHI),9.0,NBA,2023-07-10 00:00:00+00:00,1.0,10
+146474191,89423,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (ATL vs CHI),45.0,NBA,2023-07-10 00:00:00+00:00,5.0,10
+146474192,89423,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (ATL vs CHI),600.0,NBA,2023-07-10 00:00:00+00:00,109.0,6
+146474193,89423,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (ATL vs CHI),18.0,NBA,2023-07-10 00:00:00+00:00,2.0,10
+146474194,89423,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (ATL vs CHI),180.0,NBA,2023-07-10 00:00:00+00:00,20.0,10
+146474195,89423,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (ATL vs CHI),90.0,NBA,2023-07-10 00:00:00+00:00,10.0,10
+146474196,89423,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (ATL vs CHI),90.0,NBA,2023-07-10 00:00:00+00:00,5.0,20
+146474197,89423,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (ATL vs CHI),180.0,NBA,2023-07-10 00:00:00+00:00,10.0,20
+146474198,89423,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (ATL vs CHI),360.0,NBA,2023-07-10 00:00:00+00:00,20.0,20
+146474199,89423,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (ATL vs CHI),36.0,NBA,2023-07-10 00:00:00+00:00,2.0,20
+146474200,89423,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (ATL vs CHI),18.0,NBA,2023-07-10 00:00:00+00:00,1.0,20
+146474201,89423,1060.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (ATL vs CHI),4000.0,NBA,2023-07-10 00:00:00+00:00,1060.0,4
+146474202,89423,267.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (ATL vs CHI),1000.0,NBA,2023-07-10 00:00:00+00:00,267.0,4
+146474203,89423,4.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $10M Millionaire [Must Fill] (ATL vs CHI),10.0,NBA,2023-07-10 00:00:00+00:00,3.7,3
+146474204,89423,201.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (ATL vs CHI),555.0,NBA,2023-07-10 00:00:00+00:00,201.0,3
+146474205,89423,16.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $1M Four Technique [Must Fill] (ATL vs CHI),44.0,NBA,2023-07-10 00:00:00+00:00,16.0,3
+146474206,89423,749.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (ATL vs CHI),2120.0,NBA,2023-07-10 00:00:00+00:00,749.0,3
+146474207,89423,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA ATL vs CHI)",19.98,NBA,2023-07-10 00:00:00+00:00,5.55,4
+146474208,89423,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA ATL vs CHI)",19.98,NBA,2023-07-10 00:00:00+00:00,5.55,4
+146474209,89423,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA ATL vs CHI)",19.98,NBA,2023-07-10 00:00:00+00:00,5.55,4
+146474210,89423,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (ATL vs CHI),19.99,NBA,2023-07-10 00:00:00+00:00,5.55,4
+146474211,89423,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (ATL vs CHI),19.99,NBA,2023-07-10 00:00:00+00:00,5.55,4
+146474212,89423,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (ATL vs CHI),19.99,NBA,2023-07-10 00:00:00+00:00,5.55,4
+146474213,89423,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA ATL vs CHI),19.99,NBA,2023-07-10 00:00:00+00:00,5.55,4
+146474214,89423,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA ATL vs CHI),19.99,NBA,2023-07-10 00:00:00+00:00,5.55,4
+146474215,89423,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA ATL vs CHI),19.99,NBA,2023-07-10 00:00:00+00:00,5.55,4
+146474216,89423,76.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (ATL vs CHI),275.0,NBA,2023-07-10 00:00:00+00:00,76.0,4
+146474217,89423,76.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (ATL vs CHI),275.0,NBA,2023-07-10 00:00:00+00:00,76.0,4
+146474218,89423,121.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA 7-25 $333 MEGA Moneyball Special (ATL vs CHI),333.0,NBA,2023-07-10 00:00:00+00:00,121.0,3
+146474228,89422,1.0,True,False,True,False,False,WNBA Showdown $1 Double Up (WAS vs CON),20.0,NBA,2023-07-09 19:00:00+00:00,1.0,23
+146474229,89422,3.0,True,False,True,False,False,WNBA Showdown $3 Double Up (WAS vs CON),60.0,NBA,2023-07-09 19:00:00+00:00,3.0,23
+146474230,89422,5.0,True,False,True,False,False,WNBA Showdown $5 Double Up (WAS vs CON),100.0,NBA,2023-07-09 19:00:00+00:00,5.0,23
+146474231,89422,10.0,True,False,True,False,False,WNBA Showdown $10 Double Up (WAS vs CON),100.0,NBA,2023-07-09 19:00:00+00:00,10.0,11
+146474232,89422,25.0,True,False,True,False,False,WNBA Showdown $25 Double Up (WAS vs CON),250.0,NBA,2023-07-09 19:00:00+00:00,25.0,11
+146474233,89422,25.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (WAS vs CON),110.0,NBA,2023-07-09 19:00:00+00:00,25.0,5
+146474234,89423,1.0,True,False,True,False,False,WNBA Showdown $1 Double Up (ATL vs CHI),20.0,NBA,2023-07-10 00:00:00+00:00,1.0,23
+146474235,89423,3.0,True,False,True,False,False,WNBA Showdown $3 Double Up (ATL vs CHI),60.0,NBA,2023-07-10 00:00:00+00:00,3.0,23
+146474236,89423,5.0,True,False,True,False,False,WNBA Showdown $5 Double Up (ATL vs CHI),100.0,NBA,2023-07-10 00:00:00+00:00,5.0,23
+146474237,89423,10.0,True,False,True,False,False,WNBA Showdown $10 Double Up (ATL vs CHI),100.0,NBA,2023-07-10 00:00:00+00:00,10.0,11
+146474238,89423,25.0,True,False,True,False,False,WNBA Showdown $25 Double Up (ATL vs CHI),250.0,NBA,2023-07-10 00:00:00+00:00,25.0,11
+146474239,89423,25.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (ATL vs CHI),110.0,NBA,2023-07-10 00:00:00+00:00,25.0,5
+146476936,89421,0.0,False,False,False,False,False,WNBA FREE 200-Player,0.0,NBA,2023-07-09 19:00:00+00:00,0.0,200
+146480084,89354,15.0,False,False,True,False,True,NBASL $50K Fadeaway [$10K to 1st]  (Summer League),50000.0,NBA,2023-07-09 23:30:00+00:00,15.0,3921
+146480617,89421,1.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2023-07-09 19:00:00+00:00,1.0,10
+146480618,89421,1.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2023-07-09 19:00:00+00:00,1.0,5
+146480619,89421,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2023-07-09 19:00:00+00:00,1.0,3
+146480620,89421,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2023-07-09 19:00:00+00:00,1.0,3
+146480621,89421,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2023-07-09 19:00:00+00:00,2.0,3
+146480622,89421,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2023-07-09 19:00:00+00:00,2.0,3
+146480623,89421,2.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2023-07-09 19:00:00+00:00,2.0,5
+146480624,89421,2.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2023-07-09 19:00:00+00:00,2.0,10
+146480715,89421,1.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2023-07-09 19:00:00+00:00,1.0,10
+146480716,89421,2.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2023-07-09 19:00:00+00:00,2.0,10
+146480717,89421,2.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2023-07-09 19:00:00+00:00,2.0,20
+146480718,89421,1.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2023-07-09 19:00:00+00:00,1.0,20
+146481670,89353,1.0,False,False,False,False,False,NBASL $1 5-Player (SL Early),4.5,NBA,2023-07-09 19:30:00+00:00,1.0,5
+146482575,89423,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (ATL vs CHI),2.7,NBA,2023-07-10 00:00:00+00:00,1.0,3
+146482809,89356,2.0,False,False,False,False,False,Beginner NBASL $2 3-Player (SL Night),5.4,NBA,2023-07-10 01:30:00+00:00,2.0,3
+146487325,89422,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (WAS vs CON),2.7,NBA,2023-07-09 19:00:00+00:00,1.0,3
+146487373,89423,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (ATL vs CHI),2.7,NBA,2023-07-10 00:00:00+00:00,1.0,3
+146487562,89421,1060.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2023-07-09 19:00:00+00:00,1060.0,3
+146487564,89421,5.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2023-07-09 19:00:00+00:00,5.0,3
+146487565,89421,5.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2023-07-09 19:00:00+00:00,5.0,5
+146487566,89421,5.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2023-07-09 19:00:00+00:00,5.0,10
+146487567,89421,10.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2023-07-09 19:00:00+00:00,10.0,5
+146487568,89421,10.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2023-07-09 19:00:00+00:00,10.0,3
+146487569,89421,20.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2023-07-09 19:00:00+00:00,20.0,3
+146487570,89421,50.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2023-07-09 19:00:00+00:00,50.0,5
+146487571,89421,50.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2023-07-09 19:00:00+00:00,50.0,3
+146487572,89421,109.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2023-07-09 19:00:00+00:00,109.0,3
+146487573,89421,162.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2023-07-09 19:00:00+00:00,162.0,3
+146487574,89421,530.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2023-07-09 19:00:00+00:00,530.0,3
+146487575,89421,109.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2023-07-09 19:00:00+00:00,109.0,4
+146487576,89421,50.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2023-07-09 19:00:00+00:00,50.0,4
+146487577,89421,20.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2023-07-09 19:00:00+00:00,20.0,4
+146487578,89421,10.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2023-07-09 19:00:00+00:00,10.0,4
+146487628,89422,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (WAS vs CON),2.7,NBA,2023-07-09 19:00:00+00:00,1.0,3
+146487629,89422,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (WAS vs CON),4.5,NBA,2023-07-09 19:00:00+00:00,1.0,5
+146487962,89354,530.0,True,False,False,False,False,NBASL $530 50-50 (Summer League),2000.0,NBA,2023-07-09 23:30:00+00:00,530.0,4
+146487963,89354,162.0,True,False,False,False,False,NBASL $162 50-50 (Summer League),600.0,NBA,2023-07-09 23:30:00+00:00,162.0,4
+146487964,89354,109.0,True,False,False,False,False,NBASL $109 50-50 (Summer League),400.0,NBA,2023-07-09 23:30:00+00:00,109.0,4
+146487965,89354,50.0,True,False,False,False,False,NBASL $50 50-50 (Summer League),180.0,NBA,2023-07-09 23:30:00+00:00,50.0,4
+146487966,89354,20.0,True,False,False,False,False,NBASL $20 50-50 (Summer League),360.0,NBA,2023-07-09 23:30:00+00:00,20.0,20
+146487967,89354,20.0,True,False,False,False,False,NBASL $20 50-50 (Summer League),180.0,NBA,2023-07-09 23:30:00+00:00,20.0,10
+146487968,89354,20.0,True,False,False,False,False,NBASL $20 50-50 (Summer League),72.0,NBA,2023-07-09 23:30:00+00:00,20.0,4
+146487969,89354,20.0,True,False,False,False,False,NBASL $20 50-50 (Summer League),72.0,NBA,2023-07-09 23:30:00+00:00,20.0,4
+146487970,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),180.0,NBA,2023-07-09 23:30:00+00:00,10.0,20
+146487971,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,10.0,10
+146487972,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,10.0,10
+146487973,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),36.0,NBA,2023-07-09 23:30:00+00:00,10.0,4
+146487974,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),36.0,NBA,2023-07-09 23:30:00+00:00,10.0,4
+146487975,89354,10.0,True,False,False,False,False,NBASL $10 50-50 (Summer League),36.0,NBA,2023-07-09 23:30:00+00:00,10.0,4
+146487976,89354,5.0,True,False,False,False,False,NBASL $5 50-50 (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,5.0,20
+146487977,89354,5.0,True,False,False,False,False,NBASL $5 50-50 (Summer League),90.0,NBA,2023-07-09 23:30:00+00:00,5.0,20
+146487978,89354,5.0,True,False,False,False,False,NBASL $5 50-50 (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,5.0,10
+146487979,89354,5.0,True,False,False,False,False,NBASL $5 50-50 (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,5.0,10
+146487980,89354,5.0,True,False,False,False,False,NBASL $5 50-50 (Summer League),45.0,NBA,2023-07-09 23:30:00+00:00,5.0,10
+146487981,89354,109.0,True,False,False,False,False,NBASL $109 50-50 (Summer League),600.0,NBA,2023-07-09 23:30:00+00:00,109.0,6
+146487982,89354,10.0,True,False,False,False,False,NBASL $10 Double Up (Summer League),100.0,NBA,2023-07-09 23:30:00+00:00,10.0,11
+146487983,89354,25.0,True,False,False,False,False,NBASL $25 Double Up (Summer League),250.0,NBA,2023-07-09 23:30:00+00:00,25.0,11
+146487984,89354,50.0,True,False,False,False,False,NBASL $50 Double Up (Summer League),500.0,NBA,2023-07-09 23:30:00+00:00,50.0,11
+146487985,89354,5.0,True,False,False,False,False,NBASL $5 Double Up (Summer League),50.0,NBA,2023-07-09 23:30:00+00:00,5.0,11
+146487986,89354,25.0,True,False,False,False,False,NBASL $25 Double Up (Summer League),500.0,NBA,2023-07-09 23:30:00+00:00,25.0,22
+146487987,89354,50.0,True,False,False,False,False,NBASL $50 Double Up (Summer League),1000.0,NBA,2023-07-09 23:30:00+00:00,50.0,22
+146488568,89353,1.0,False,False,False,False,False,NBASL $1 3-Player (SL Early),2.7,NBA,2023-07-09 19:30:00+00:00,1.0,3
+146488569,89353,1.0,False,False,False,False,False,NBASL $1 3-Player (SL Early),2.7,NBA,2023-07-09 19:30:00+00:00,1.0,3
+146488656,89353,5.0,False,False,False,False,False,NBASL $5 3-Player (SL Early),13.5,NBA,2023-07-09 19:30:00+00:00,5.0,3
+146488688,89422,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (WAS vs CON),4.5,NBA,2023-07-09 19:00:00+00:00,1.0,5
+146488855,89354,1.0,False,False,False,False,False,NBASL $1 3-Player (Summer League),2.7,NBA,2023-07-09 23:30:00+00:00,1.0,3
+146488856,89354,1.0,False,False,False,False,False,NBASL $1 3-Player (Summer League),2.7,NBA,2023-07-09 23:30:00+00:00,1.0,3
+146489168,89423,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (ATL vs CHI),36.0,NBA,2023-07-10 00:00:00+00:00,2.0,20
+146489634,89353,1.0,True,False,False,False,False,Beginner NBASL $1 50-50 (SL Early),9.0,NBA,2023-07-09 19:30:00+00:00,1.0,10
+146490143,89353,5.0,False,False,False,False,False,NBASL $5 3-Player (SL Early),13.5,NBA,2023-07-09 19:30:00+00:00,5.0,3
+146490144,89353,5.0,False,False,False,False,False,NBASL $5 5-Player (SL Early),22.5,NBA,2023-07-09 19:30:00+00:00,5.0,5
+146490145,89353,10.0,False,False,False,False,False,NBASL $10 5-Player (SL Early),45.0,NBA,2023-07-09 19:30:00+00:00,10.0,5
+146490146,89353,10.0,False,False,False,False,False,NBASL $10 3-Player (SL Early),27.0,NBA,2023-07-09 19:30:00+00:00,10.0,3
+146490147,89353,20.0,False,False,False,False,False,NBASL $20 3-Player (SL Early),54.0,NBA,2023-07-09 19:30:00+00:00,20.0,3
+146490148,89353,50.0,False,False,False,False,False,NBASL $50 5-Player (SL Early),225.0,NBA,2023-07-09 19:30:00+00:00,50.0,5
+146490149,89353,50.0,False,False,False,False,False,NBASL $50 3-Player (SL Early),135.0,NBA,2023-07-09 19:30:00+00:00,50.0,3
+146490150,89353,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Early),36.0,NBA,2023-07-09 19:30:00+00:00,10.0,4
+146490153,89423,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (ATL vs CHI),13.5,NBA,2023-07-10 00:00:00+00:00,5.0,3
+146490154,89511,5.0,False,False,False,False,False,NBASL $5 3-Player (SL Afternoon),13.5,NBA,2023-07-09 21:30:00+00:00,5.0,3
+146490155,89511,5.0,False,False,False,False,False,NBASL $5 5-Player (SL Afternoon),22.5,NBA,2023-07-09 21:30:00+00:00,5.0,5
+146490156,89511,10.0,False,False,False,False,False,NBASL $10 5-Player (SL Afternoon),45.0,NBA,2023-07-09 21:30:00+00:00,10.0,5
+146490157,89511,10.0,False,False,False,False,False,NBASL $10 3-Player (SL Afternoon),27.0,NBA,2023-07-09 21:30:00+00:00,10.0,3
+146490158,89511,20.0,False,False,False,False,False,NBASL $20 3-Player (SL Afternoon),54.0,NBA,2023-07-09 21:30:00+00:00,20.0,3
+146490159,89511,50.0,False,False,False,False,False,NBASL $50 5-Player (SL Afternoon),225.0,NBA,2023-07-09 21:30:00+00:00,50.0,5
+146490160,89511,50.0,False,False,False,False,False,NBASL $50 3-Player (SL Afternoon),135.0,NBA,2023-07-09 21:30:00+00:00,50.0,3
+146490161,89511,50.0,True,False,False,False,False,NBASL $50 50-50 (SL Afternoon),180.0,NBA,2023-07-09 21:30:00+00:00,50.0,4
+146490162,89511,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Afternoon),72.0,NBA,2023-07-09 21:30:00+00:00,20.0,4
+146490163,89511,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Afternoon),36.0,NBA,2023-07-09 21:30:00+00:00,10.0,4
+146490188,89423,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (ATL vs CHI),13.5,NBA,2023-07-10 00:00:00+00:00,5.0,3
+146490191,89354,50.0,False,False,False,False,False,NBASL $50 3-Player (Summer League),135.0,NBA,2023-07-09 23:30:00+00:00,50.0,3
+146490192,89354,20.0,False,False,False,False,False,NBASL $20 3-Player (Summer League),54.0,NBA,2023-07-09 23:30:00+00:00,20.0,3
+146490193,89354,20.0,False,False,False,False,False,NBASL $20 3-Player (Summer League),54.0,NBA,2023-07-09 23:30:00+00:00,20.0,3
+146490194,89354,20.0,False,False,False,False,False,NBASL $20 3-Player (Summer League),54.0,NBA,2023-07-09 23:30:00+00:00,20.0,3
+146490195,89354,10.0,False,False,False,False,False,NBASL $10 3-Player (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,10.0,3
+146490196,89354,10.0,False,False,False,False,False,NBASL $10 3-Player (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,10.0,3
+146490197,89354,10.0,False,False,False,False,False,NBASL $10 3-Player (Summer League),27.0,NBA,2023-07-09 23:30:00+00:00,10.0,3
+146490198,89354,5.0,False,False,False,False,False,NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146490199,89354,5.0,False,False,False,False,False,NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146490200,89354,5.0,False,False,False,False,False,NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146490205,89356,5.0,False,False,False,False,False,NBASL $5 3-Player (SL Night),13.5,NBA,2023-07-10 01:30:00+00:00,5.0,3
+146490206,89356,5.0,False,False,False,False,False,NBASL $5 5-Player (SL Night),22.5,NBA,2023-07-10 01:30:00+00:00,5.0,5
+146490207,89356,10.0,False,False,False,False,False,NBASL $10 5-Player (SL Night),45.0,NBA,2023-07-10 01:30:00+00:00,10.0,5
+146490208,89356,10.0,False,False,False,False,False,NBASL $10 3-Player (SL Night),27.0,NBA,2023-07-10 01:30:00+00:00,10.0,3
+146490209,89356,20.0,False,False,False,False,False,NBASL $20 3-Player (SL Night),54.0,NBA,2023-07-10 01:30:00+00:00,20.0,3
+146490210,89356,50.0,False,False,False,False,False,NBASL $50 5-Player (SL Night),225.0,NBA,2023-07-10 01:30:00+00:00,50.0,5
+146490211,89356,50.0,False,False,False,False,False,NBASL $50 3-Player (SL Night),135.0,NBA,2023-07-10 01:30:00+00:00,50.0,3
+146490264,89356,50.0,True,False,False,False,False,NBASL $50 50-50 (SL Night),180.0,NBA,2023-07-10 01:30:00+00:00,50.0,4
+146490265,89356,20.0,True,False,False,False,False,NBASL $20 50-50 (SL Night),72.0,NBA,2023-07-10 01:30:00+00:00,20.0,4
+146490266,89356,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Night),36.0,NBA,2023-07-10 01:30:00+00:00,10.0,4
+146490337,89357,5.0,False,False,False,False,False,NBASL Showdown $5 3-Player (SL NOP vs GSW),13.5,NBA,2023-07-10 02:00:00+00:00,5.0,3
+146490338,89357,10.0,False,False,False,False,False,NBASL Showdown $10 3-Player (SL NOP vs GSW),27.0,NBA,2023-07-10 02:00:00+00:00,10.0,3
+146490339,89357,20.0,False,False,False,False,False,NBASL Showdown $20 3-Player (SL NOP vs GSW),54.0,NBA,2023-07-10 02:00:00+00:00,20.0,3
+146490340,89357,50.0,False,False,False,False,False,NBASL Showdown $50 3-Player (SL NOP vs GSW),135.0,NBA,2023-07-10 02:00:00+00:00,50.0,3
+146491096,89354,5.0,False,False,False,False,False,NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146491097,89354,5.0,False,False,False,False,False,NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146491098,89354,5.0,False,False,False,False,False,NBASL $5 3-Player (Summer League),13.5,NBA,2023-07-09 23:30:00+00:00,5.0,3
+146491316,89353,10.0,True,False,False,False,False,NBASL $10 50-50 (SL Early),36.0,NBA,2023-07-09 19:30:00+00:00,10.0,4
+146491318,89353,5.0,False,False,False,False,False,NBASL $5 3-Player (SL Early),13.5,NBA,2023-07-09 19:30:00+00:00,5.0,3
+146491360,89356,5.0,False,False,False,False,False,NBASL $5 3-Player (SL Night),13.5,NBA,2023-07-10 01:30:00+00:00,5.0,3
+146491403,89511,5.0,False,False,False,False,False,NBASL $5 3-Player (SL Afternoon),13.5,NBA,2023-07-09 21:30:00+00:00,5.0,3
+146491766,89353,1.0,True,False,False,False,False,NBASL $1 50-50 (SL Early),18.0,NBA,2023-07-09 19:30:00+00:00,1.0,20
+146492906,89422,0.0,False,False,False,False,False,WNBA Showdown FREE 200-Player (WAS vs CON),0.0,NBA,2023-07-09 19:00:00+00:00,0.0,200
+146492907,89423,0.0,False,False,False,False,False,WNBA Showdown FREE 200-Player (ATL vs CHI),0.0,NBA,2023-07-10 00:00:00+00:00,0.0,200
