@@ -1,0 +1,3 @@
+game_type_id,allow_late_swaps,description,enforce_selecting_unique_players,draft_type_name,name,has_salary_cap,salary_max,salary_min
+92,True,"Create an 8-player lineup while staying under the $50,000 salary cap",True,SalaryCap,Summer League,True,50000.0,0.0
+93,False,"Create your team from 1 game, while staying under the $50,000 salary cap",True,SalaryCap,Summer League Showdown Captain Mode,True,50000.0,0.0
