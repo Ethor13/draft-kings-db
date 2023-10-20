@@ -1,0 +1,645 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+152497624,94074,12.0,False,False,True,False,True,NBA $1K Pick and Roll [Single Entry],1000.0,NBA,2023-10-17 23:00:00+00:00,12.0,98
+152497625,94074,5.0,False,False,True,False,True,NBA $1.5K High Five [Single Entry],1500.0,NBA,2023-10-17 23:00:00+00:00,5.0,356
+152497626,94074,4.0,False,False,True,False,True,NBA $750 Four Point Play,750.0,NBA,2023-10-17 23:00:00+00:00,4.0,222
+152497627,94074,1.0,False,False,True,False,True,NBA $3K And-One [20 Entry Max],3000.0,NBA,2023-10-17 23:00:00+00:00,1.0,3567
+152497628,94074,50.0,False,False,True,False,True,NBA $500 Ankle Breaker [Single Entry],500.0,NBA,2023-10-17 23:00:00+00:00,50.0,11
+152497629,94074,33.0,False,False,True,False,True,NBA $1K Triple Threat,1000.0,NBA,2023-10-17 23:00:00+00:00,33.0,35
+152497630,94074,180.0,False,False,True,False,True,NBA $5.2K Windmill [$2K to 1st],5200.0,NBA,2023-10-17 23:00:00+00:00,180.0,32
+152497631,94074,100.0,False,False,True,False,True,"NBA $720 Showtime [Single Entry, Top 2 Win]",720.0,NBA,2023-10-17 23:00:00+00:00,100.0,8
+152497632,94074,0.0,False,False,True,False,True,NBA $500 Quarter Jukebox [Just $0.25!],500.0,NBA,2023-10-17 23:00:00+00:00,0.25,2378
+152497633,94074,15.0,False,False,True,False,True,NBA $30K Fadeaway [$10K to 1st],30000.0,NBA,2023-10-17 23:00:00+00:00,15.0,2352
+152497687,94076,0.0,False,False,True,False,True,NBA Showdown $50 Quarter Jukebox [Just $0.25!] (NYK vs BOS),50.0,NBA,2023-10-17 23:30:00+00:00,0.25,237
+152497688,94076,1.0,False,False,True,False,True,NBA Showdown $100 And-One (NYK vs BOS),100.0,NBA,2023-10-17 23:30:00+00:00,1.0,118
+152497689,94076,5.0,False,False,True,False,True,NBA Showdown $100 High Five [Single Entry] (NYK vs BOS),100.0,NBA,2023-10-17 23:30:00+00:00,5.0,23
+152497690,94076,27.0,False,False,True,False,True,NBA Showdown $240 Fast Break [Single Entry] (NYK vs BOS),240.0,NBA,2023-10-17 23:30:00+00:00,27.0,10
+152497691,94076,10.0,False,False,True,False,True,NBA Showdown $1K Pull Up Jumper [$200 to 1st] (NYK vs BOS),1000.0,NBA,2023-10-17 23:30:00+00:00,10.0,117
+152497798,94077,0.0,False,False,True,False,True,NBA $100 Quarter Jukebox [Just $0.25!] (Night),100.0,NBA,2023-10-18 00:00:00+00:00,0.25,475
+152497799,94077,3.0,False,False,True,False,True,NBA $100 Sharpshooter (Night),100.0,NBA,2023-10-18 00:00:00+00:00,3.0,39
+152497800,94077,12.0,False,False,True,False,True,NBA $155 Pick and Roll [Single Entry] (Night),155.0,NBA,2023-10-18 00:00:00+00:00,12.0,15
+152497801,94077,1.0,False,False,True,False,True,NBA $300 And-One (Night),300.0,NBA,2023-10-18 00:00:00+00:00,1.0,356
+152497802,94077,10.0,False,False,True,False,True,NBA $4K Pull Up Jumper [$1K to 1st] (Night),4000.0,NBA,2023-10-18 00:00:00+00:00,10.0,470
+152497803,94077,5.0,False,False,True,False,True,NBA $100 High Five [Single Entry] (Night),100.0,NBA,2023-10-18 00:00:00+00:00,5.0,23
+152497804,94077,100.0,False,False,False,False,True,NBA $100 Winner Take All [$460 to 1st] (Must Fill) (Night),460.0,NBA,2023-10-18 00:00:00+00:00,100.0,5
+152497805,94077,27.0,False,False,True,False,True,NBA $240 Fast Break [Single Entry] (Night),240.0,NBA,2023-10-18 00:00:00+00:00,27.0,10
+152497806,94077,50.0,False,False,True,False,True,NBA $310 Ankle Breaker [Single Entry] (Night),310.0,NBA,2023-10-18 00:00:00+00:00,50.0,7
+152497843,94078,0.0,False,False,True,False,True,NBA Showdown $200 Quarter Jukebox (DEN vs LAC),200.0,NBA,2023-10-18 02:30:00+00:00,0.25,951
+152497844,94078,3.0,False,False,True,False,True,NBA Showdown $150 Sharpshooter (DEN vs LAC),150.0,NBA,2023-10-18 02:30:00+00:00,3.0,59
+152497845,94078,5.0,False,False,True,False,True,NBA Showdown $200 High Five [Single Entry] (DEN vs LAC),200.0,NBA,2023-10-18 02:30:00+00:00,5.0,47
+152497846,94078,1.0,False,False,True,False,True,NBA Showdown $750 And-One [20 Entry Max] (DEN vs LAC),750.0,NBA,2023-10-18 02:30:00+00:00,1.0,891
+152497847,94078,12.0,False,False,True,False,True,NBA Showdown $155 Pick and Roll [Single Entry] (DEN vs LAC),155.0,NBA,2023-10-18 02:30:00+00:00,12.0,15
+152497848,94078,27.0,False,False,True,False,True,NBA Showdown $240 Fast Break [Single Entry] (DEN vs LAC),240.0,NBA,2023-10-18 02:30:00+00:00,27.0,10
+152497849,94078,10.0,False,False,True,False,True,NBA Showdown $6K Pull Up Jumper [$2K to 1st] (DEN vs LAC),6000.0,NBA,2023-10-18 02:30:00+00:00,10.0,705
+152497850,94078,50.0,False,False,True,False,True,NBA Showdown $310 Ankle Breaker [Single Entry] (DEN vs LAC),310.0,NBA,2023-10-18 02:30:00+00:00,50.0,7
+152497851,94078,100.0,False,False,True,False,True,"NBA Showdown $540 Showtime [Single Entry, Top 2 Win] (DEN vs LAC)",540.0,NBA,2023-10-18 02:30:00+00:00,100.0,6
+152501156,94075,1.0,False,False,False,False,False,NBA Snake $1 6-Player,5.4,NBA,2023-10-17 23:00:00+00:00,1.0,6
+152501158,94075,5.0,False,False,False,False,False,NBA Snake $5 6-Player,27.0,NBA,2023-10-17 23:00:00+00:00,5.0,6
+152501159,94075,5.0,False,False,False,False,False,NBA Snake $5 6-Player,27.0,NBA,2023-10-17 23:00:00+00:00,5.0,6
+152501160,94075,10.0,False,False,False,False,False,NBA Snake $10 6-Player,54.0,NBA,2023-10-17 23:00:00+00:00,10.0,6
+152501161,94075,10.0,False,False,False,False,False,NBA Snake $10 6-Player,54.0,NBA,2023-10-17 23:00:00+00:00,10.0,6
+152501162,94075,20.0,False,False,False,False,False,NBA Snake $20 6-Player,108.0,NBA,2023-10-17 23:00:00+00:00,20.0,6
+152501163,94075,50.0,False,False,False,False,False,NBA Snake $50 6-Player,270.0,NBA,2023-10-17 23:00:00+00:00,50.0,6
+152501164,94075,50.0,False,False,False,False,False,NBA Snake $50 6-Player,270.0,NBA,2023-10-17 23:00:00+00:00,50.0,6
+152501165,94075,109.0,False,False,False,False,False,NBA Snake $109 6-Player,600.0,NBA,2023-10-17 23:00:00+00:00,109.0,6
+152501166,94075,530.0,False,False,False,False,False,NBA Snake $530 6-Player,3000.0,NBA,2023-10-17 23:00:00+00:00,530.0,6
+152501167,94075,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-10-17 23:00:00+00:00,1.0,3
+152501168,94075,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-10-17 23:00:00+00:00,1.0,3
+152501169,94075,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2023-10-17 23:00:00+00:00,1.0,3
+152501170,94075,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2023-10-17 23:00:00+00:00,5.0,3
+152501171,94075,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2023-10-17 23:00:00+00:00,5.0,3
+152501172,94075,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2023-10-17 23:00:00+00:00,10.0,3
+152501173,94075,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2023-10-17 23:00:00+00:00,10.0,3
+152501174,94075,20.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2023-10-17 23:00:00+00:00,20.0,3
+152501175,94075,50.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2023-10-17 23:00:00+00:00,50.0,3
+152501176,94075,50.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2023-10-17 23:00:00+00:00,50.0,3
+152501177,94075,109.0,False,False,False,False,False,NBA Snake $109 3-Player,300.0,NBA,2023-10-17 23:00:00+00:00,109.0,3
+152501178,94075,530.0,False,False,False,False,False,NBA Snake $530 3-Player,1500.0,NBA,2023-10-17 23:00:00+00:00,530.0,3
+152501179,94075,2120.0,False,False,False,False,False,"NBA Snake $2,120 3-Player",6000.0,NBA,2023-10-17 23:00:00+00:00,2120.0,3
+152501180,94075,1060.0,False,False,False,False,False,"NBA Snake $1,060 3-Player",3000.0,NBA,2023-10-17 23:00:00+00:00,1060.0,3
+152501183,94079,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (DEN vs LAC),2.7,NBA,2023-10-18 02:30:00+00:00,1.0,3
+152501184,94079,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (DEN vs LAC),2.7,NBA,2023-10-18 02:30:00+00:00,1.0,3
+152501185,94079,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (DEN vs LAC),2.7,NBA,2023-10-18 02:30:00+00:00,1.0,3
+152501186,94079,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (DEN vs LAC),13.5,NBA,2023-10-18 02:30:00+00:00,5.0,3
+152501187,94079,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (DEN vs LAC),13.5,NBA,2023-10-18 02:30:00+00:00,5.0,3
+152501188,94079,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (DEN vs LAC),27.0,NBA,2023-10-18 02:30:00+00:00,10.0,3
+152501189,94079,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (DEN vs LAC),27.0,NBA,2023-10-18 02:30:00+00:00,10.0,3
+152501190,94079,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (DEN vs LAC),27.0,NBA,2023-10-18 02:30:00+00:00,10.0,3
+152501191,94079,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (DEN vs LAC),54.0,NBA,2023-10-18 02:30:00+00:00,20.0,3
+152501192,94079,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (DEN vs LAC),300.0,NBA,2023-10-18 02:30:00+00:00,109.0,3
+152501193,94079,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (DEN vs LAC),1500.0,NBA,2023-10-18 02:30:00+00:00,530.0,3
+152501194,94079,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (DEN vs LAC),3.6,NBA,2023-10-18 02:30:00+00:00,1.0,4
+152501195,94079,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (DEN vs LAC),18.0,NBA,2023-10-18 02:30:00+00:00,5.0,4
+152501196,94079,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (DEN vs LAC),36.0,NBA,2023-10-18 02:30:00+00:00,10.0,4
+152501197,94079,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (DEN vs LAC),72.0,NBA,2023-10-18 02:30:00+00:00,20.0,4
+152501198,94079,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (DEN vs LAC),180.0,NBA,2023-10-18 02:30:00+00:00,50.0,4
+152501199,94079,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (DEN vs LAC),400.0,NBA,2023-10-18 02:30:00+00:00,109.0,4
+152501200,94079,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (DEN vs LAC),2000.0,NBA,2023-10-18 02:30:00+00:00,530.0,4
+152501201,94079,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (DEN vs LAC),135.0,NBA,2023-10-18 02:30:00+00:00,50.0,3
+152501202,94079,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (DEN vs LAC)",3000.0,NBA,2023-10-18 02:30:00+00:00,1060.0,3
+152501203,94079,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (DEN vs LAC)",6000.0,NBA,2023-10-18 02:30:00+00:00,2120.0,3
+152501209,94074,20.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2023-10-17 23:00:00+00:00,20.0,3
+152501210,94074,50.0,False,False,False,False,False,Beginner NBA $50 3-Player,135.0,NBA,2023-10-17 23:00:00+00:00,50.0,3
+152501211,94074,10.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2023-10-17 23:00:00+00:00,10.0,3
+152501212,94074,5.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2023-10-17 23:00:00+00:00,5.0,3
+152501213,94074,1.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2023-10-17 23:00:00+00:00,1.0,3
+152501214,94074,5300.0,True,False,False,False,False,"NBA $5,300 50-50",20000.0,NBA,2023-10-17 23:00:00+00:00,5300.0,4
+152501215,94074,1060.0,True,False,False,False,False,"NBA $1,060 50-50",4000.0,NBA,2023-10-17 23:00:00+00:00,1060.0,4
+152501216,94074,530.0,True,False,False,False,False,NBA $530 50-50,2000.0,NBA,2023-10-17 23:00:00+00:00,530.0,4
+152501217,94074,162.0,True,False,False,False,False,NBA $162 50-50,600.0,NBA,2023-10-17 23:00:00+00:00,162.0,4
+152501218,94074,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2023-10-17 23:00:00+00:00,109.0,4
+152501219,94074,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2023-10-17 23:00:00+00:00,50.0,4
+152501220,94074,20.0,True,False,False,False,False,NBA $20 50-50,360.0,NBA,2023-10-17 23:00:00+00:00,20.0,20
+152501221,94074,20.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2023-10-17 23:00:00+00:00,20.0,10
+152501222,94074,20.0,True,False,False,False,False,NBA $20 50-50,72.0,NBA,2023-10-17 23:00:00+00:00,20.0,4
+152501223,94074,20.0,True,False,False,False,False,NBA $20 50-50,72.0,NBA,2023-10-17 23:00:00+00:00,20.0,4
+152501224,94074,10.0,True,False,False,False,False,NBA $10 50-50,180.0,NBA,2023-10-17 23:00:00+00:00,10.0,20
+152501225,94074,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2023-10-17 23:00:00+00:00,10.0,10
+152501226,94074,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2023-10-17 23:00:00+00:00,10.0,10
+152501227,94074,10.0,True,False,False,False,False,NBA $10 50-50,36.0,NBA,2023-10-17 23:00:00+00:00,10.0,4
+152501228,94074,10.0,True,False,False,False,False,NBA $10 50-50,36.0,NBA,2023-10-17 23:00:00+00:00,10.0,4
+152501229,94074,10.0,True,False,False,False,False,NBA $10 50-50,36.0,NBA,2023-10-17 23:00:00+00:00,10.0,4
+152501230,94074,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-10-17 23:00:00+00:00,5.0,20
+152501231,94074,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2023-10-17 23:00:00+00:00,5.0,20
+152501232,94074,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2023-10-17 23:00:00+00:00,5.0,10
+152501233,94074,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2023-10-17 23:00:00+00:00,5.0,10
+152501234,94074,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2023-10-17 23:00:00+00:00,5.0,10
+152501235,94074,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-10-17 23:00:00+00:00,2.0,20
+152501236,94074,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2023-10-17 23:00:00+00:00,2.0,20
+152501237,94074,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-10-17 23:00:00+00:00,2.0,10
+152501238,94074,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-10-17 23:00:00+00:00,2.0,10
+152501239,94074,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2023-10-17 23:00:00+00:00,2.0,10
+152501240,94074,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2023-10-17 23:00:00+00:00,1.0,20
+152501241,94074,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2023-10-17 23:00:00+00:00,1.0,20
+152501242,94074,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-10-17 23:00:00+00:00,1.0,10
+152501243,94074,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-10-17 23:00:00+00:00,1.0,10
+152501244,94074,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2023-10-17 23:00:00+00:00,1.0,10
+152501245,94074,50.0,True,False,False,False,False,Beginner NBA $50 50-50,180.0,NBA,2023-10-17 23:00:00+00:00,50.0,4
+152501246,94074,20.0,True,False,False,False,False,Beginner NBA $20 50-50,72.0,NBA,2023-10-17 23:00:00+00:00,20.0,4
+152501247,94074,10.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2023-10-17 23:00:00+00:00,10.0,10
+152501248,94074,5.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2023-10-17 23:00:00+00:00,5.0,10
+152501249,94074,3.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2023-10-17 23:00:00+00:00,3.0,10
+152501250,94074,1.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2023-10-17 23:00:00+00:00,1.0,10
+152501251,94074,10.0,False,False,False,False,False,Beginner NBA $10 5-Player,45.0,NBA,2023-10-17 23:00:00+00:00,10.0,5
+152501252,94074,5.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2023-10-17 23:00:00+00:00,5.0,5
+152501253,94074,5.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2023-10-17 23:00:00+00:00,5.0,3
+152501254,94074,2.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2023-10-17 23:00:00+00:00,2.0,5
+152501255,94074,2.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2023-10-17 23:00:00+00:00,2.0,3
+152501256,94074,1.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2023-10-17 23:00:00+00:00,1.0,5
+152501257,94074,10600.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2023-10-17 23:00:00+00:00,10600.0,3
+152501258,94074,5300.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2023-10-17 23:00:00+00:00,5300.0,3
+152501259,94074,1060.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2023-10-17 23:00:00+00:00,1060.0,3
+152501260,94074,530.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2023-10-17 23:00:00+00:00,530.0,3
+152501261,94074,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2023-10-17 23:00:00+00:00,162.0,3
+152501262,94074,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-10-17 23:00:00+00:00,109.0,3
+152501263,94074,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2023-10-17 23:00:00+00:00,109.0,3
+152501264,94074,50.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2023-10-17 23:00:00+00:00,50.0,5
+152501265,94074,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2023-10-17 23:00:00+00:00,50.0,3
+152501266,94074,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2023-10-17 23:00:00+00:00,20.0,5
+152501267,94074,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2023-10-17 23:00:00+00:00,20.0,5
+152501268,94074,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-10-17 23:00:00+00:00,20.0,3
+152501269,94074,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-10-17 23:00:00+00:00,20.0,3
+152501270,94074,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2023-10-17 23:00:00+00:00,20.0,3
+152501271,94074,10.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2023-10-17 23:00:00+00:00,10.0,10
+152501272,94074,10.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2023-10-17 23:00:00+00:00,10.0,5
+152501273,94074,10.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2023-10-17 23:00:00+00:00,10.0,5
+152501274,94074,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-10-17 23:00:00+00:00,10.0,3
+152501275,94074,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-10-17 23:00:00+00:00,10.0,3
+152501276,94074,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2023-10-17 23:00:00+00:00,10.0,3
+152501277,94074,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2023-10-17 23:00:00+00:00,5.0,10
+152501278,94074,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2023-10-17 23:00:00+00:00,5.0,10
+152501279,94074,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2023-10-17 23:00:00+00:00,5.0,5
+152501280,94074,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2023-10-17 23:00:00+00:00,5.0,5
+152501281,94074,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2023-10-17 23:00:00+00:00,5.0,5
+152501284,94074,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-10-17 23:00:00+00:00,5.0,3
+152501285,94074,2.0,False,False,False,False,False,NBA $2 20-Player,36.0,NBA,2023-10-17 23:00:00+00:00,2.0,20
+152501286,94074,2.0,False,False,False,False,False,NBA $2 20-Player,36.0,NBA,2023-10-17 23:00:00+00:00,2.0,20
+152501287,94074,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2023-10-17 23:00:00+00:00,2.0,10
+152501288,94074,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2023-10-17 23:00:00+00:00,2.0,10
+152501289,94074,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2023-10-17 23:00:00+00:00,2.0,10
+152501290,94074,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2023-10-17 23:00:00+00:00,2.0,5
+152501291,94074,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2023-10-17 23:00:00+00:00,2.0,5
+152501292,94074,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2023-10-17 23:00:00+00:00,2.0,5
+152501293,94074,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-10-17 23:00:00+00:00,2.0,3
+152501294,94074,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-10-17 23:00:00+00:00,2.0,3
+152501295,94074,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-10-17 23:00:00+00:00,2.0,3
+152501296,94074,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2023-10-17 23:00:00+00:00,1.0,10
+152501297,94074,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2023-10-17 23:00:00+00:00,1.0,5
+152501298,94074,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-10-17 23:00:00+00:00,1.0,3
+152501299,94074,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2023-10-17 23:00:00+00:00,1.0,3
+152501300,94074,109.0,True,False,False,False,False,NBA $109 50-50,600.0,NBA,2023-10-17 23:00:00+00:00,109.0,6
+152501301,94074,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-10-17 23:00:00+00:00,10600.0,4
+152501302,94074,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-10-17 23:00:00+00:00,10600.0,4
+152501303,94074,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2023-10-17 23:00:00+00:00,10600.0,4
+152501304,94074,50.0,True,False,False,False,False,Casual NBA $50 50-50,180.0,NBA,2023-10-17 23:00:00+00:00,50.0,4
+152501305,94074,20.0,True,False,False,False,False,Casual NBA $20 50-50,72.0,NBA,2023-10-17 23:00:00+00:00,20.0,4
+152501306,94074,10.0,True,False,False,False,False,Casual NBA $10 50-50,90.0,NBA,2023-10-17 23:00:00+00:00,10.0,10
+152501307,94074,5.0,True,False,False,False,False,Casual NBA $5 50-50,45.0,NBA,2023-10-17 23:00:00+00:00,5.0,10
+152501308,94074,3.0,True,False,False,False,False,Casual NBA $3 50-50,27.0,NBA,2023-10-17 23:00:00+00:00,3.0,10
+152501309,94074,3.0,True,False,False,False,False,Casual NBA $3 50-50,10.8,NBA,2023-10-17 23:00:00+00:00,3.0,4
+152501310,94074,1.0,True,False,False,False,False,Casual NBA $1 50-50,9.0,NBA,2023-10-17 23:00:00+00:00,1.0,10
+152501311,94074,50.0,False,False,False,False,False,Casual NBA $50 3-Player,135.0,NBA,2023-10-17 23:00:00+00:00,50.0,3
+152501312,94074,20.0,False,False,False,False,False,Casual NBA $20 3-Player,54.0,NBA,2023-10-17 23:00:00+00:00,20.0,3
+152501313,94074,10.0,False,False,False,False,False,Casual NBA $10 5-Player,45.0,NBA,2023-10-17 23:00:00+00:00,10.0,5
+152501314,94074,10.0,False,False,False,False,False,Casual NBA $10 3-Player,27.0,NBA,2023-10-17 23:00:00+00:00,10.0,3
+152501315,94074,2.0,False,False,False,False,False,Casual NBA $2 5-Player,9.0,NBA,2023-10-17 23:00:00+00:00,2.0,5
+152501316,94074,2.0,False,False,False,False,False,Casual NBA $2 3-Player,5.4,NBA,2023-10-17 23:00:00+00:00,2.0,3
+152501317,94074,109.0,False,False,False,False,False,Casual NBA $109 5-Player,500.0,NBA,2023-10-17 23:00:00+00:00,109.0,5
+152501318,94074,10.0,True,False,False,False,False,NBA $10 Double Up,100.0,NBA,2023-10-17 23:00:00+00:00,10.0,11
+152501319,94074,25.0,True,False,False,False,False,NBA $25 Double Up,250.0,NBA,2023-10-17 23:00:00+00:00,25.0,11
+152501320,94074,50.0,True,False,False,False,False,NBA $50 Double Up,500.0,NBA,2023-10-17 23:00:00+00:00,50.0,11
+152501321,94074,5.0,True,False,False,False,False,NBA $5 Double Up,50.0,NBA,2023-10-17 23:00:00+00:00,5.0,11
+152501322,94074,3.0,True,False,False,False,False,NBA $3 Double Up,30.0,NBA,2023-10-17 23:00:00+00:00,3.0,11
+152501323,94074,1.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2023-10-17 23:00:00+00:00,1.0,11
+152501324,94074,25.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2023-10-17 23:00:00+00:00,25.0,22
+152501325,94074,50.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2023-10-17 23:00:00+00:00,50.0,22
+152501326,94074,1060.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2023-10-17 23:00:00+00:00,1060.0,4
+152501327,94074,267.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2023-10-17 23:00:00+00:00,267.0,4
+152501328,94074,408.0,False,False,False,False,True,"NBA $408 Winner Take All [$1.5K to 1st, Must Fill]",1500.0,NBA,2023-10-17 23:00:00+00:00,408.0,4
+152501329,94074,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st]",19.98,NBA,2023-10-17 23:00:00+00:00,5.55,4
+152501330,94074,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st]",19.98,NBA,2023-10-17 23:00:00+00:00,5.55,4
+152501331,94074,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st]",19.98,NBA,2023-10-17 23:00:00+00:00,5.55,4
+152501332,94074,8.0,False,False,False,False,True,NBA Satellite to 2024 NAS America's Race [Must Fill],36.0,NBA,2023-10-17 23:00:00+00:00,8.0,5
+152501333,94076,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (NYK vs BOS),54.0,NBA,2023-10-17 23:30:00+00:00,20.0,3
+152501334,94076,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (NYK vs BOS),135.0,NBA,2023-10-17 23:30:00+00:00,50.0,3
+152501335,94076,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (NYK vs BOS),27.0,NBA,2023-10-17 23:30:00+00:00,10.0,3
+152501336,94076,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (NYK vs BOS),13.5,NBA,2023-10-17 23:30:00+00:00,5.0,3
+152501337,94076,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (NYK vs BOS),2.7,NBA,2023-10-17 23:30:00+00:00,1.0,3
+152501338,94076,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (NYK vs BOS)",20000.0,NBA,2023-10-17 23:30:00+00:00,5300.0,4
+152501339,94076,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (NYK vs BOS)",4000.0,NBA,2023-10-17 23:30:00+00:00,1060.0,4
+152501340,94076,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (NYK vs BOS),2000.0,NBA,2023-10-17 23:30:00+00:00,530.0,4
+152501341,94076,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (NYK vs BOS),600.0,NBA,2023-10-17 23:30:00+00:00,162.0,4
+152501342,94076,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (NYK vs BOS),400.0,NBA,2023-10-17 23:30:00+00:00,109.0,4
+152501343,94076,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (NYK vs BOS),180.0,NBA,2023-10-17 23:30:00+00:00,50.0,4
+152501344,94076,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (NYK vs BOS),360.0,NBA,2023-10-17 23:30:00+00:00,20.0,20
+152501345,94076,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (NYK vs BOS),180.0,NBA,2023-10-17 23:30:00+00:00,20.0,10
+152501346,94076,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (NYK vs BOS),72.0,NBA,2023-10-17 23:30:00+00:00,20.0,4
+152501347,94076,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (NYK vs BOS),72.0,NBA,2023-10-17 23:30:00+00:00,20.0,4
+152501348,94076,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (NYK vs BOS),180.0,NBA,2023-10-17 23:30:00+00:00,10.0,20
+152501349,94076,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (NYK vs BOS),90.0,NBA,2023-10-17 23:30:00+00:00,10.0,10
+152501350,94076,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (NYK vs BOS),90.0,NBA,2023-10-17 23:30:00+00:00,10.0,10
+152501351,94076,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (NYK vs BOS),36.0,NBA,2023-10-17 23:30:00+00:00,10.0,4
+152501352,94076,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (NYK vs BOS),36.0,NBA,2023-10-17 23:30:00+00:00,10.0,4
+152501353,94076,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (NYK vs BOS),36.0,NBA,2023-10-17 23:30:00+00:00,10.0,4
+152501354,94076,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (NYK vs BOS),90.0,NBA,2023-10-17 23:30:00+00:00,5.0,20
+152501355,94076,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (NYK vs BOS),90.0,NBA,2023-10-17 23:30:00+00:00,5.0,20
+152501356,94076,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,5.0,10
+152501357,94076,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,5.0,10
+152501358,94076,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,5.0,10
+152501359,94076,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (NYK vs BOS),36.0,NBA,2023-10-17 23:30:00+00:00,2.0,20
+152501360,94076,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (NYK vs BOS),36.0,NBA,2023-10-17 23:30:00+00:00,2.0,20
+152501361,94076,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (NYK vs BOS),18.0,NBA,2023-10-17 23:30:00+00:00,2.0,10
+152501362,94076,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (NYK vs BOS),18.0,NBA,2023-10-17 23:30:00+00:00,2.0,10
+152501363,94076,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (NYK vs BOS),18.0,NBA,2023-10-17 23:30:00+00:00,2.0,10
+152501364,94076,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (NYK vs BOS),18.0,NBA,2023-10-17 23:30:00+00:00,1.0,20
+152501365,94076,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (NYK vs BOS),18.0,NBA,2023-10-17 23:30:00+00:00,1.0,20
+152501366,94076,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,1.0,10
+152501367,94076,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,1.0,10
+152501368,94076,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,1.0,10
+152501369,94076,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (NYK vs BOS),180.0,NBA,2023-10-17 23:30:00+00:00,50.0,4
+152501370,94076,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (NYK vs BOS),72.0,NBA,2023-10-17 23:30:00+00:00,20.0,4
+152501371,94076,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (NYK vs BOS),90.0,NBA,2023-10-17 23:30:00+00:00,10.0,10
+152501372,94076,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,5.0,10
+152501373,94076,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (NYK vs BOS),27.0,NBA,2023-10-17 23:30:00+00:00,3.0,10
+152501374,94076,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,1.0,10
+152501375,94076,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,10.0,5
+152501376,94076,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (NYK vs BOS),22.5,NBA,2023-10-17 23:30:00+00:00,5.0,5
+152501377,94076,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (NYK vs BOS),13.5,NBA,2023-10-17 23:30:00+00:00,5.0,3
+152501378,94076,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,2.0,5
+152501379,94076,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (NYK vs BOS),5.4,NBA,2023-10-17 23:30:00+00:00,2.0,3
+152501380,94076,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (NYK vs BOS),4.5,NBA,2023-10-17 23:30:00+00:00,1.0,5
+152501381,94076,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (NYK vs BOS)",30000.0,NBA,2023-10-17 23:30:00+00:00,10600.0,3
+152501382,94076,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (NYK vs BOS)",15000.0,NBA,2023-10-17 23:30:00+00:00,5300.0,3
+152501383,94076,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (NYK vs BOS)",3000.0,NBA,2023-10-17 23:30:00+00:00,1060.0,3
+152501384,94076,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (NYK vs BOS),1500.0,NBA,2023-10-17 23:30:00+00:00,530.0,3
+152501385,94076,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (NYK vs BOS),450.0,NBA,2023-10-17 23:30:00+00:00,162.0,3
+152501386,94076,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (NYK vs BOS),300.0,NBA,2023-10-17 23:30:00+00:00,109.0,3
+152501387,94076,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (NYK vs BOS),300.0,NBA,2023-10-17 23:30:00+00:00,109.0,3
+152501388,94076,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (NYK vs BOS),225.0,NBA,2023-10-17 23:30:00+00:00,50.0,5
+152501389,94076,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (NYK vs BOS),135.0,NBA,2023-10-17 23:30:00+00:00,50.0,3
+152501390,94076,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (NYK vs BOS),90.0,NBA,2023-10-17 23:30:00+00:00,20.0,5
+152501391,94076,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (NYK vs BOS),90.0,NBA,2023-10-17 23:30:00+00:00,20.0,5
+152501392,94076,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (NYK vs BOS),54.0,NBA,2023-10-17 23:30:00+00:00,20.0,3
+152501393,94076,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (NYK vs BOS),54.0,NBA,2023-10-17 23:30:00+00:00,20.0,3
+152501394,94076,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (NYK vs BOS),54.0,NBA,2023-10-17 23:30:00+00:00,20.0,3
+152501395,94076,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (NYK vs BOS),90.0,NBA,2023-10-17 23:30:00+00:00,10.0,10
+152501396,94076,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,10.0,5
+152501397,94076,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,10.0,5
+152501398,94076,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (NYK vs BOS),27.0,NBA,2023-10-17 23:30:00+00:00,10.0,3
+152501399,94076,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (NYK vs BOS),27.0,NBA,2023-10-17 23:30:00+00:00,10.0,3
+152501400,94076,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (NYK vs BOS),27.0,NBA,2023-10-17 23:30:00+00:00,10.0,3
+152501401,94076,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,5.0,10
+152501402,94076,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,5.0,10
+152501403,94076,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (NYK vs BOS),22.5,NBA,2023-10-17 23:30:00+00:00,5.0,5
+152501404,94076,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (NYK vs BOS),22.5,NBA,2023-10-17 23:30:00+00:00,5.0,5
+152501405,94076,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (NYK vs BOS),22.5,NBA,2023-10-17 23:30:00+00:00,5.0,5
+152501406,94076,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (NYK vs BOS),13.5,NBA,2023-10-17 23:30:00+00:00,5.0,3
+152501407,94076,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (NYK vs BOS),13.5,NBA,2023-10-17 23:30:00+00:00,5.0,3
+152501408,94076,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (NYK vs BOS),13.5,NBA,2023-10-17 23:30:00+00:00,5.0,3
+152501409,94076,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (NYK vs BOS),36.0,NBA,2023-10-17 23:30:00+00:00,2.0,20
+152501410,94076,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (NYK vs BOS),36.0,NBA,2023-10-17 23:30:00+00:00,2.0,20
+152501411,94076,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (NYK vs BOS),18.0,NBA,2023-10-17 23:30:00+00:00,2.0,10
+152501412,94076,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (NYK vs BOS),18.0,NBA,2023-10-17 23:30:00+00:00,2.0,10
+152501413,94076,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (NYK vs BOS),18.0,NBA,2023-10-17 23:30:00+00:00,2.0,10
+152501414,94076,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,2.0,5
+152501415,94076,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,2.0,5
+152501416,94076,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,2.0,5
+152501417,94076,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (NYK vs BOS),5.4,NBA,2023-10-17 23:30:00+00:00,2.0,3
+152501418,94076,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (NYK vs BOS),5.4,NBA,2023-10-17 23:30:00+00:00,2.0,3
+152501419,94076,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (NYK vs BOS),5.4,NBA,2023-10-17 23:30:00+00:00,2.0,3
+152501420,94076,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,1.0,10
+152501421,94076,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (NYK vs BOS),4.5,NBA,2023-10-17 23:30:00+00:00,1.0,5
+152501422,94076,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (NYK vs BOS),2.7,NBA,2023-10-17 23:30:00+00:00,1.0,3
+152501423,94076,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (NYK vs BOS),2.7,NBA,2023-10-17 23:30:00+00:00,1.0,3
+152501424,94076,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (NYK vs BOS),600.0,NBA,2023-10-17 23:30:00+00:00,109.0,6
+152501425,94076,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (NYK vs BOS)",40000.0,NBA,2023-10-17 23:30:00+00:00,10600.0,4
+152501426,94076,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (NYK vs BOS)",40000.0,NBA,2023-10-17 23:30:00+00:00,10600.0,4
+152501427,94076,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (NYK vs BOS)",40000.0,NBA,2023-10-17 23:30:00+00:00,10600.0,4
+152501428,94076,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (NYK vs BOS),180.0,NBA,2023-10-17 23:30:00+00:00,50.0,4
+152501429,94076,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (NYK vs BOS),72.0,NBA,2023-10-17 23:30:00+00:00,20.0,4
+152501430,94076,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (NYK vs BOS),90.0,NBA,2023-10-17 23:30:00+00:00,10.0,10
+152501431,94076,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,5.0,10
+152501432,94076,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (NYK vs BOS),27.0,NBA,2023-10-17 23:30:00+00:00,3.0,10
+152501433,94076,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (NYK vs BOS),10.8,NBA,2023-10-17 23:30:00+00:00,3.0,4
+152501434,94076,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,1.0,10
+152501435,94076,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (NYK vs BOS),135.0,NBA,2023-10-17 23:30:00+00:00,50.0,3
+152501436,94076,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (NYK vs BOS),54.0,NBA,2023-10-17 23:30:00+00:00,20.0,3
+152501437,94076,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,10.0,5
+152501438,94076,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (NYK vs BOS),27.0,NBA,2023-10-17 23:30:00+00:00,10.0,3
+152501439,94076,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,2.0,5
+152501440,94076,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (NYK vs BOS),5.4,NBA,2023-10-17 23:30:00+00:00,2.0,3
+152501441,94076,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (NYK vs BOS),500.0,NBA,2023-10-17 23:30:00+00:00,109.0,5
+152501442,94076,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (NYK vs BOS),100.0,NBA,2023-10-17 23:30:00+00:00,10.0,11
+152501443,94076,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (NYK vs BOS),250.0,NBA,2023-10-17 23:30:00+00:00,25.0,11
+152501444,94076,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (NYK vs BOS),500.0,NBA,2023-10-17 23:30:00+00:00,50.0,11
+152501445,94076,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (NYK vs BOS),50.0,NBA,2023-10-17 23:30:00+00:00,5.0,11
+152501446,94076,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (NYK vs BOS),30.0,NBA,2023-10-17 23:30:00+00:00,3.0,11
+152501447,94076,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (NYK vs BOS),10.0,NBA,2023-10-17 23:30:00+00:00,1.0,11
+152501448,94076,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (NYK vs BOS),500.0,NBA,2023-10-17 23:30:00+00:00,25.0,22
+152501449,94076,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (NYK vs BOS),1000.0,NBA,2023-10-17 23:30:00+00:00,50.0,22
+152501450,94076,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (NYK vs BOS),4000.0,NBA,2023-10-17 23:30:00+00:00,1060.0,4
+152501451,94076,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (NYK vs BOS),1000.0,NBA,2023-10-17 23:30:00+00:00,267.0,4
+152501452,94076,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (NYK vs BOS)",1500.0,NBA,2023-10-17 23:30:00+00:00,408.0,4
+152501453,94076,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (NYK vs BOS)",19.98,NBA,2023-10-17 23:30:00+00:00,5.55,4
+152501454,94076,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (NYK vs BOS)",19.98,NBA,2023-10-17 23:30:00+00:00,5.55,4
+152501455,94076,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (NYK vs BOS)",19.98,NBA,2023-10-17 23:30:00+00:00,5.55,4
+152501456,94076,8.0,False,False,False,False,True,NBA Showdown Satellite to 2024 NAS America's Race [Must Fill] (NYK vs BOS),36.0,NBA,2023-10-17 23:30:00+00:00,8.0,5
+152501457,94077,20.0,False,False,False,False,False,Beginner NBA $20 3-Player (Night),54.0,NBA,2023-10-18 00:00:00+00:00,20.0,3
+152501458,94077,50.0,False,False,False,False,False,Beginner NBA $50 3-Player (Night),135.0,NBA,2023-10-18 00:00:00+00:00,50.0,3
+152501459,94077,10.0,False,False,False,False,False,Beginner NBA $10 3-Player (Night),27.0,NBA,2023-10-18 00:00:00+00:00,10.0,3
+152501460,94077,5.0,False,False,False,False,False,Beginner NBA $5 3-Player (Night),13.5,NBA,2023-10-18 00:00:00+00:00,5.0,3
+152501461,94077,1.0,False,False,False,False,False,Beginner NBA $1 3-Player (Night),2.7,NBA,2023-10-18 00:00:00+00:00,1.0,3
+152501462,94077,5300.0,True,False,False,False,False,"NBA $5,300 50-50 (Night)",20000.0,NBA,2023-10-18 00:00:00+00:00,5300.0,4
+152501463,94077,1060.0,True,False,False,False,False,"NBA $1,060 50-50 (Night)",4000.0,NBA,2023-10-18 00:00:00+00:00,1060.0,4
+152501464,94077,530.0,True,False,False,False,False,NBA $530 50-50 (Night),2000.0,NBA,2023-10-18 00:00:00+00:00,530.0,4
+152501465,94077,162.0,True,False,False,False,False,NBA $162 50-50 (Night),600.0,NBA,2023-10-18 00:00:00+00:00,162.0,4
+152501466,94077,109.0,True,False,False,False,False,NBA $109 50-50 (Night),400.0,NBA,2023-10-18 00:00:00+00:00,109.0,4
+152501467,94077,50.0,True,False,False,False,False,NBA $50 50-50 (Night),180.0,NBA,2023-10-18 00:00:00+00:00,50.0,4
+152501468,94077,20.0,True,False,False,False,False,NBA $20 50-50 (Night),360.0,NBA,2023-10-18 00:00:00+00:00,20.0,20
+152501469,94077,20.0,True,False,False,False,False,NBA $20 50-50 (Night),180.0,NBA,2023-10-18 00:00:00+00:00,20.0,10
+152501470,94077,20.0,True,False,False,False,False,NBA $20 50-50 (Night),72.0,NBA,2023-10-18 00:00:00+00:00,20.0,4
+152501471,94077,20.0,True,False,False,False,False,NBA $20 50-50 (Night),72.0,NBA,2023-10-18 00:00:00+00:00,20.0,4
+152501472,94077,10.0,True,False,False,False,False,NBA $10 50-50 (Night),180.0,NBA,2023-10-18 00:00:00+00:00,10.0,20
+152501473,94077,10.0,True,False,False,False,False,NBA $10 50-50 (Night),90.0,NBA,2023-10-18 00:00:00+00:00,10.0,10
+152501474,94077,10.0,True,False,False,False,False,NBA $10 50-50 (Night),90.0,NBA,2023-10-18 00:00:00+00:00,10.0,10
+152501475,94077,10.0,True,False,False,False,False,NBA $10 50-50 (Night),36.0,NBA,2023-10-18 00:00:00+00:00,10.0,4
+152501476,94077,10.0,True,False,False,False,False,NBA $10 50-50 (Night),36.0,NBA,2023-10-18 00:00:00+00:00,10.0,4
+152501477,94077,10.0,True,False,False,False,False,NBA $10 50-50 (Night),36.0,NBA,2023-10-18 00:00:00+00:00,10.0,4
+152501478,94077,5.0,True,False,False,False,False,NBA $5 50-50 (Night),90.0,NBA,2023-10-18 00:00:00+00:00,5.0,20
+152501479,94077,5.0,True,False,False,False,False,NBA $5 50-50 (Night),90.0,NBA,2023-10-18 00:00:00+00:00,5.0,20
+152501480,94077,5.0,True,False,False,False,False,NBA $5 50-50 (Night),45.0,NBA,2023-10-18 00:00:00+00:00,5.0,10
+152501481,94077,5.0,True,False,False,False,False,NBA $5 50-50 (Night),45.0,NBA,2023-10-18 00:00:00+00:00,5.0,10
+152501482,94077,5.0,True,False,False,False,False,NBA $5 50-50 (Night),45.0,NBA,2023-10-18 00:00:00+00:00,5.0,10
+152501483,94077,2.0,True,False,False,False,False,NBA $2 50-50 (Night),36.0,NBA,2023-10-18 00:00:00+00:00,2.0,20
+152501484,94077,2.0,True,False,False,False,False,NBA $2 50-50 (Night),36.0,NBA,2023-10-18 00:00:00+00:00,2.0,20
+152501485,94077,2.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2023-10-18 00:00:00+00:00,2.0,10
+152501486,94077,2.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2023-10-18 00:00:00+00:00,2.0,10
+152501487,94077,2.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2023-10-18 00:00:00+00:00,2.0,10
+152501488,94077,1.0,True,False,False,False,False,NBA $1 50-50 (Night),18.0,NBA,2023-10-18 00:00:00+00:00,1.0,20
+152501489,94077,1.0,True,False,False,False,False,NBA $1 50-50 (Night),18.0,NBA,2023-10-18 00:00:00+00:00,1.0,20
+152501490,94077,1.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2023-10-18 00:00:00+00:00,1.0,10
+152501491,94077,1.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2023-10-18 00:00:00+00:00,1.0,10
+152501492,94077,1.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2023-10-18 00:00:00+00:00,1.0,10
+152501493,94077,50.0,True,False,False,False,False,Beginner NBA $50 50-50 (Night),180.0,NBA,2023-10-18 00:00:00+00:00,50.0,4
+152501494,94077,20.0,True,False,False,False,False,Beginner NBA $20 50-50 (Night),72.0,NBA,2023-10-18 00:00:00+00:00,20.0,4
+152501495,94077,10.0,True,False,False,False,False,Beginner NBA $10 50-50 (Night),90.0,NBA,2023-10-18 00:00:00+00:00,10.0,10
+152501496,94077,5.0,True,False,False,False,False,Beginner NBA $5 50-50 (Night),45.0,NBA,2023-10-18 00:00:00+00:00,5.0,10
+152501497,94077,3.0,True,False,False,False,False,Beginner NBA $3 50-50 (Night),27.0,NBA,2023-10-18 00:00:00+00:00,3.0,10
+152501498,94077,1.0,True,False,False,False,False,Beginner NBA $1 50-50 (Night),9.0,NBA,2023-10-18 00:00:00+00:00,1.0,10
+152501499,94077,10.0,False,False,False,False,False,Beginner NBA $10 5-Player (Night),45.0,NBA,2023-10-18 00:00:00+00:00,10.0,5
+152501500,94077,5.0,False,False,False,False,False,Beginner NBA $5 5-Player (Night),22.5,NBA,2023-10-18 00:00:00+00:00,5.0,5
+152501501,94077,5.0,False,False,False,False,False,Beginner NBA $5 3-Player (Night),13.5,NBA,2023-10-18 00:00:00+00:00,5.0,3
+152501502,94077,2.0,False,False,False,False,False,Beginner NBA $2 5-Player (Night),9.0,NBA,2023-10-18 00:00:00+00:00,2.0,5
+152501503,94077,2.0,False,False,False,False,False,Beginner NBA $2 3-Player (Night),5.4,NBA,2023-10-18 00:00:00+00:00,2.0,3
+152501504,94077,1.0,False,False,False,False,False,Beginner NBA $1 5-Player (Night),4.5,NBA,2023-10-18 00:00:00+00:00,1.0,5
+152501505,94077,10600.0,False,False,False,False,False,"NBA $10,600 3-Player (Night)",30000.0,NBA,2023-10-18 00:00:00+00:00,10600.0,3
+152501506,94077,5300.0,False,False,False,False,False,"NBA $5,300 3-Player (Night)",15000.0,NBA,2023-10-18 00:00:00+00:00,5300.0,3
+152501507,94077,1060.0,False,False,False,False,False,"NBA $1,060 3-Player (Night)",3000.0,NBA,2023-10-18 00:00:00+00:00,1060.0,3
+152501508,94077,530.0,False,False,False,False,False,NBA $530 3-Player (Night),1500.0,NBA,2023-10-18 00:00:00+00:00,530.0,3
+152501509,94077,162.0,False,False,False,False,False,NBA $162 3-Player (Night),450.0,NBA,2023-10-18 00:00:00+00:00,162.0,3
+152501510,94077,109.0,False,False,False,False,False,NBA $109 3-Player (Night),300.0,NBA,2023-10-18 00:00:00+00:00,109.0,3
+152501511,94077,109.0,False,False,False,False,False,NBA $109 3-Player (Night),300.0,NBA,2023-10-18 00:00:00+00:00,109.0,3
+152501512,94077,50.0,False,False,False,False,False,NBA $50 5-Player (Night),225.0,NBA,2023-10-18 00:00:00+00:00,50.0,5
+152501513,94077,50.0,False,False,False,False,False,NBA $50 3-Player (Night),135.0,NBA,2023-10-18 00:00:00+00:00,50.0,3
+152501514,94077,20.0,False,False,False,False,False,NBA $20 5-Player (Night),90.0,NBA,2023-10-18 00:00:00+00:00,20.0,5
+152501515,94077,20.0,False,False,False,False,False,NBA $20 5-Player (Night),90.0,NBA,2023-10-18 00:00:00+00:00,20.0,5
+152501516,94077,20.0,False,False,False,False,False,NBA $20 3-Player (Night),54.0,NBA,2023-10-18 00:00:00+00:00,20.0,3
+152501517,94077,20.0,False,False,False,False,False,NBA $20 3-Player (Night),54.0,NBA,2023-10-18 00:00:00+00:00,20.0,3
+152501518,94077,20.0,False,False,False,False,False,NBA $20 3-Player (Night),54.0,NBA,2023-10-18 00:00:00+00:00,20.0,3
+152501519,94077,10.0,False,False,False,False,False,NBA $10 10-Player (Night),90.0,NBA,2023-10-18 00:00:00+00:00,10.0,10
+152501520,94077,10.0,False,False,False,False,False,NBA $10 5-Player (Night),45.0,NBA,2023-10-18 00:00:00+00:00,10.0,5
+152501521,94077,10.0,False,False,False,False,False,NBA $10 5-Player (Night),45.0,NBA,2023-10-18 00:00:00+00:00,10.0,5
+152501522,94077,10.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2023-10-18 00:00:00+00:00,10.0,3
+152501523,94077,10.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2023-10-18 00:00:00+00:00,10.0,3
+152501524,94077,10.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2023-10-18 00:00:00+00:00,10.0,3
+152501525,94077,5.0,False,False,False,False,False,NBA $5 10-Player (Night),45.0,NBA,2023-10-18 00:00:00+00:00,5.0,10
+152501526,94077,5.0,False,False,False,False,False,NBA $5 10-Player (Night),45.0,NBA,2023-10-18 00:00:00+00:00,5.0,10
+152501527,94077,5.0,False,False,False,False,False,NBA $5 5-Player (Night),22.5,NBA,2023-10-18 00:00:00+00:00,5.0,5
+152501528,94077,5.0,False,False,False,False,False,NBA $5 5-Player (Night),22.5,NBA,2023-10-18 00:00:00+00:00,5.0,5
+152501529,94077,5.0,False,False,False,False,False,NBA $5 5-Player (Night),22.5,NBA,2023-10-18 00:00:00+00:00,5.0,5
+152501530,94077,5.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2023-10-18 00:00:00+00:00,5.0,3
+152501531,94077,5.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2023-10-18 00:00:00+00:00,5.0,3
+152501532,94077,5.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2023-10-18 00:00:00+00:00,5.0,3
+152501533,94077,2.0,False,False,False,False,False,NBA $2 20-Player (Night),36.0,NBA,2023-10-18 00:00:00+00:00,2.0,20
+152501534,94077,2.0,False,False,False,False,False,NBA $2 20-Player (Night),36.0,NBA,2023-10-18 00:00:00+00:00,2.0,20
+152501535,94077,2.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2023-10-18 00:00:00+00:00,2.0,10
+152501536,94077,2.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2023-10-18 00:00:00+00:00,2.0,10
+152501537,94077,2.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2023-10-18 00:00:00+00:00,2.0,10
+152501538,94077,2.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2023-10-18 00:00:00+00:00,2.0,5
+152501539,94077,2.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2023-10-18 00:00:00+00:00,2.0,5
+152501540,94077,2.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2023-10-18 00:00:00+00:00,2.0,5
+152501541,94077,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2023-10-18 00:00:00+00:00,2.0,3
+152501542,94077,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2023-10-18 00:00:00+00:00,2.0,3
+152501543,94077,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2023-10-18 00:00:00+00:00,2.0,3
+152501544,94077,1.0,False,False,False,False,False,NBA $1 10-Player (Night),9.0,NBA,2023-10-18 00:00:00+00:00,1.0,10
+152501545,94077,1.0,False,False,False,False,False,NBA $1 5-Player (Night),4.5,NBA,2023-10-18 00:00:00+00:00,1.0,5
+152501546,94077,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2023-10-18 00:00:00+00:00,1.0,3
+152501547,94077,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2023-10-18 00:00:00+00:00,1.0,3
+152501548,94077,109.0,True,False,False,False,False,NBA $109 50-50 (Night),600.0,NBA,2023-10-18 00:00:00+00:00,109.0,6
+152501549,94077,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2023-10-18 00:00:00+00:00,10600.0,4
+152501550,94077,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2023-10-18 00:00:00+00:00,10600.0,4
+152501551,94077,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2023-10-18 00:00:00+00:00,10600.0,4
+152501552,94077,50.0,True,False,False,False,False,Casual NBA $50 50-50 (Night),180.0,NBA,2023-10-18 00:00:00+00:00,50.0,4
+152501553,94077,20.0,True,False,False,False,False,Casual NBA $20 50-50 (Night),72.0,NBA,2023-10-18 00:00:00+00:00,20.0,4
+152501554,94077,10.0,True,False,False,False,False,Casual NBA $10 50-50 (Night),90.0,NBA,2023-10-18 00:00:00+00:00,10.0,10
+152501555,94077,5.0,True,False,False,False,False,Casual NBA $5 50-50 (Night),45.0,NBA,2023-10-18 00:00:00+00:00,5.0,10
+152501556,94077,3.0,True,False,False,False,False,Casual NBA $3 50-50 (Night),27.0,NBA,2023-10-18 00:00:00+00:00,3.0,10
+152501557,94077,3.0,True,False,False,False,False,Casual NBA $3 50-50 (Night),10.8,NBA,2023-10-18 00:00:00+00:00,3.0,4
+152501558,94077,1.0,True,False,False,False,False,Casual NBA $1 50-50 (Night),9.0,NBA,2023-10-18 00:00:00+00:00,1.0,10
+152501559,94077,50.0,False,False,False,False,False,Casual NBA $50 3-Player (Night),135.0,NBA,2023-10-18 00:00:00+00:00,50.0,3
+152501560,94077,20.0,False,False,False,False,False,Casual NBA $20 3-Player (Night),54.0,NBA,2023-10-18 00:00:00+00:00,20.0,3
+152501561,94077,10.0,False,False,False,False,False,Casual NBA $10 5-Player (Night),45.0,NBA,2023-10-18 00:00:00+00:00,10.0,5
+152501562,94077,10.0,False,False,False,False,False,Casual NBA $10 3-Player (Night),27.0,NBA,2023-10-18 00:00:00+00:00,10.0,3
+152501563,94077,2.0,False,False,False,False,False,Casual NBA $2 5-Player (Night),9.0,NBA,2023-10-18 00:00:00+00:00,2.0,5
+152501564,94077,2.0,False,False,False,False,False,Casual NBA $2 3-Player (Night),5.4,NBA,2023-10-18 00:00:00+00:00,2.0,3
+152501565,94077,109.0,False,False,False,False,False,Casual NBA $109 5-Player (Night),500.0,NBA,2023-10-18 00:00:00+00:00,109.0,5
+152501566,94077,10.0,True,False,False,False,False,NBA $10 Double Up (Night),100.0,NBA,2023-10-18 00:00:00+00:00,10.0,11
+152501567,94077,25.0,True,False,False,False,False,NBA $25 Double Up (Night),250.0,NBA,2023-10-18 00:00:00+00:00,25.0,11
+152501568,94077,50.0,True,False,False,False,False,NBA $50 Double Up (Night),500.0,NBA,2023-10-18 00:00:00+00:00,50.0,11
+152501569,94077,5.0,True,False,False,False,False,NBA $5 Double Up (Night),50.0,NBA,2023-10-18 00:00:00+00:00,5.0,11
+152501570,94077,3.0,True,False,False,False,False,NBA $3 Double Up (Night),30.0,NBA,2023-10-18 00:00:00+00:00,3.0,11
+152501571,94077,1.0,True,False,False,False,False,NBA $1 Double Up (Night),10.0,NBA,2023-10-18 00:00:00+00:00,1.0,11
+152501572,94077,25.0,True,False,False,False,False,NBA $25 Double Up (Night),500.0,NBA,2023-10-18 00:00:00+00:00,25.0,22
+152501573,94077,50.0,True,False,False,False,False,NBA $50 Double Up (Night),1000.0,NBA,2023-10-18 00:00:00+00:00,50.0,22
+152501574,94077,1060.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill) (Night),4000.0,NBA,2023-10-18 00:00:00+00:00,1060.0,4
+152501575,94077,267.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill) (Night),1000.0,NBA,2023-10-18 00:00:00+00:00,267.0,4
+152501576,94077,408.0,False,False,False,False,True,"NBA $408 Winner Take All [$1.5K to 1st, Must Fill] (Night)",1500.0,NBA,2023-10-18 00:00:00+00:00,408.0,4
+152501577,94077,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (Night)",19.98,NBA,2023-10-18 00:00:00+00:00,5.55,4
+152501578,94077,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (Night)",19.98,NBA,2023-10-18 00:00:00+00:00,5.55,4
+152501579,94077,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (Night)",19.98,NBA,2023-10-18 00:00:00+00:00,5.55,4
+152501580,94077,8.0,False,False,False,False,True,NBA Satellite to 2024 NAS America's Race [Must Fill] (Night),36.0,NBA,2023-10-18 00:00:00+00:00,8.0,5
+152501581,94078,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (DEN vs LAC),54.0,NBA,2023-10-18 02:30:00+00:00,20.0,3
+152501582,94078,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (DEN vs LAC),135.0,NBA,2023-10-18 02:30:00+00:00,50.0,3
+152501583,94078,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (DEN vs LAC),27.0,NBA,2023-10-18 02:30:00+00:00,10.0,3
+152501584,94078,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (DEN vs LAC),13.5,NBA,2023-10-18 02:30:00+00:00,5.0,3
+152501585,94078,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (DEN vs LAC),2.7,NBA,2023-10-18 02:30:00+00:00,1.0,3
+152501586,94078,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (DEN vs LAC)",20000.0,NBA,2023-10-18 02:30:00+00:00,5300.0,4
+152501587,94078,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (DEN vs LAC)",4000.0,NBA,2023-10-18 02:30:00+00:00,1060.0,4
+152501588,94078,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (DEN vs LAC),2000.0,NBA,2023-10-18 02:30:00+00:00,530.0,4
+152501589,94078,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (DEN vs LAC),600.0,NBA,2023-10-18 02:30:00+00:00,162.0,4
+152501590,94078,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (DEN vs LAC),400.0,NBA,2023-10-18 02:30:00+00:00,109.0,4
+152501591,94078,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (DEN vs LAC),180.0,NBA,2023-10-18 02:30:00+00:00,50.0,4
+152501592,94078,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (DEN vs LAC),360.0,NBA,2023-10-18 02:30:00+00:00,20.0,20
+152501593,94078,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (DEN vs LAC),180.0,NBA,2023-10-18 02:30:00+00:00,20.0,10
+152501594,94078,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (DEN vs LAC),72.0,NBA,2023-10-18 02:30:00+00:00,20.0,4
+152501595,94078,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (DEN vs LAC),72.0,NBA,2023-10-18 02:30:00+00:00,20.0,4
+152501596,94078,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs LAC),180.0,NBA,2023-10-18 02:30:00+00:00,10.0,20
+152501597,94078,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs LAC),90.0,NBA,2023-10-18 02:30:00+00:00,10.0,10
+152501598,94078,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs LAC),90.0,NBA,2023-10-18 02:30:00+00:00,10.0,10
+152501599,94078,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs LAC),36.0,NBA,2023-10-18 02:30:00+00:00,10.0,4
+152501600,94078,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs LAC),36.0,NBA,2023-10-18 02:30:00+00:00,10.0,4
+152501601,94078,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs LAC),36.0,NBA,2023-10-18 02:30:00+00:00,10.0,4
+152501602,94078,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (DEN vs LAC),90.0,NBA,2023-10-18 02:30:00+00:00,5.0,20
+152501603,94078,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (DEN vs LAC),90.0,NBA,2023-10-18 02:30:00+00:00,5.0,20
+152501604,94078,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,5.0,10
+152501605,94078,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,5.0,10
+152501606,94078,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,5.0,10
+152501607,94078,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (DEN vs LAC),36.0,NBA,2023-10-18 02:30:00+00:00,2.0,20
+152501608,94078,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (DEN vs LAC),36.0,NBA,2023-10-18 02:30:00+00:00,2.0,20
+152501609,94078,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (DEN vs LAC),18.0,NBA,2023-10-18 02:30:00+00:00,2.0,10
+152501610,94078,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (DEN vs LAC),18.0,NBA,2023-10-18 02:30:00+00:00,2.0,10
+152501611,94078,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (DEN vs LAC),18.0,NBA,2023-10-18 02:30:00+00:00,2.0,10
+152501612,94078,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs LAC),18.0,NBA,2023-10-18 02:30:00+00:00,1.0,20
+152501613,94078,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs LAC),18.0,NBA,2023-10-18 02:30:00+00:00,1.0,20
+152501614,94078,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,1.0,10
+152501615,94078,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,1.0,10
+152501616,94078,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,1.0,10
+152501617,94078,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (DEN vs LAC),180.0,NBA,2023-10-18 02:30:00+00:00,50.0,4
+152501618,94078,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (DEN vs LAC),72.0,NBA,2023-10-18 02:30:00+00:00,20.0,4
+152501619,94078,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (DEN vs LAC),90.0,NBA,2023-10-18 02:30:00+00:00,10.0,10
+152501620,94078,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,5.0,10
+152501621,94078,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (DEN vs LAC),27.0,NBA,2023-10-18 02:30:00+00:00,3.0,10
+152501622,94078,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,1.0,10
+152501623,94078,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,10.0,5
+152501624,94078,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (DEN vs LAC),22.5,NBA,2023-10-18 02:30:00+00:00,5.0,5
+152501625,94078,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (DEN vs LAC),13.5,NBA,2023-10-18 02:30:00+00:00,5.0,3
+152501626,94078,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,2.0,5
+152501627,94078,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (DEN vs LAC),5.4,NBA,2023-10-18 02:30:00+00:00,2.0,3
+152501628,94078,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (DEN vs LAC),4.5,NBA,2023-10-18 02:30:00+00:00,1.0,5
+152501629,94078,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (DEN vs LAC)",30000.0,NBA,2023-10-18 02:30:00+00:00,10600.0,3
+152501630,94078,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (DEN vs LAC)",15000.0,NBA,2023-10-18 02:30:00+00:00,5300.0,3
+152501631,94078,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (DEN vs LAC)",3000.0,NBA,2023-10-18 02:30:00+00:00,1060.0,3
+152501632,94078,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (DEN vs LAC),1500.0,NBA,2023-10-18 02:30:00+00:00,530.0,3
+152501633,94078,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (DEN vs LAC),450.0,NBA,2023-10-18 02:30:00+00:00,162.0,3
+152501634,94078,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (DEN vs LAC),300.0,NBA,2023-10-18 02:30:00+00:00,109.0,3
+152501635,94078,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (DEN vs LAC),300.0,NBA,2023-10-18 02:30:00+00:00,109.0,3
+152501636,94078,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (DEN vs LAC),225.0,NBA,2023-10-18 02:30:00+00:00,50.0,5
+152501637,94078,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (DEN vs LAC),135.0,NBA,2023-10-18 02:30:00+00:00,50.0,3
+152501638,94078,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (DEN vs LAC),90.0,NBA,2023-10-18 02:30:00+00:00,20.0,5
+152501639,94078,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (DEN vs LAC),90.0,NBA,2023-10-18 02:30:00+00:00,20.0,5
+152501640,94078,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (DEN vs LAC),54.0,NBA,2023-10-18 02:30:00+00:00,20.0,3
+152501641,94078,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (DEN vs LAC),54.0,NBA,2023-10-18 02:30:00+00:00,20.0,3
+152501642,94078,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (DEN vs LAC),54.0,NBA,2023-10-18 02:30:00+00:00,20.0,3
+152501643,94078,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (DEN vs LAC),90.0,NBA,2023-10-18 02:30:00+00:00,10.0,10
+152501644,94078,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,10.0,5
+152501645,94078,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,10.0,5
+152501646,94078,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (DEN vs LAC),27.0,NBA,2023-10-18 02:30:00+00:00,10.0,3
+152501647,94078,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (DEN vs LAC),27.0,NBA,2023-10-18 02:30:00+00:00,10.0,3
+152501648,94078,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (DEN vs LAC),27.0,NBA,2023-10-18 02:30:00+00:00,10.0,3
+152501649,94078,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,5.0,10
+152501650,94078,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,5.0,10
+152501651,94078,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (DEN vs LAC),22.5,NBA,2023-10-18 02:30:00+00:00,5.0,5
+152501652,94078,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (DEN vs LAC),22.5,NBA,2023-10-18 02:30:00+00:00,5.0,5
+152501653,94078,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (DEN vs LAC),22.5,NBA,2023-10-18 02:30:00+00:00,5.0,5
+152501654,94078,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (DEN vs LAC),13.5,NBA,2023-10-18 02:30:00+00:00,5.0,3
+152501655,94078,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (DEN vs LAC),13.5,NBA,2023-10-18 02:30:00+00:00,5.0,3
+152501656,94078,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (DEN vs LAC),13.5,NBA,2023-10-18 02:30:00+00:00,5.0,3
+152501657,94078,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (DEN vs LAC),36.0,NBA,2023-10-18 02:30:00+00:00,2.0,20
+152501658,94078,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (DEN vs LAC),36.0,NBA,2023-10-18 02:30:00+00:00,2.0,20
+152501659,94078,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (DEN vs LAC),18.0,NBA,2023-10-18 02:30:00+00:00,2.0,10
+152501660,94078,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (DEN vs LAC),18.0,NBA,2023-10-18 02:30:00+00:00,2.0,10
+152501661,94078,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (DEN vs LAC),18.0,NBA,2023-10-18 02:30:00+00:00,2.0,10
+152501662,94078,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,2.0,5
+152501663,94078,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,2.0,5
+152501664,94078,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,2.0,5
+152501665,94078,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (DEN vs LAC),5.4,NBA,2023-10-18 02:30:00+00:00,2.0,3
+152501666,94078,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (DEN vs LAC),5.4,NBA,2023-10-18 02:30:00+00:00,2.0,3
+152501667,94078,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (DEN vs LAC),5.4,NBA,2023-10-18 02:30:00+00:00,2.0,3
+152501668,94078,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,1.0,10
+152501669,94078,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (DEN vs LAC),4.5,NBA,2023-10-18 02:30:00+00:00,1.0,5
+152501670,94078,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (DEN vs LAC),2.7,NBA,2023-10-18 02:30:00+00:00,1.0,3
+152501671,94078,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (DEN vs LAC),2.7,NBA,2023-10-18 02:30:00+00:00,1.0,3
+152501672,94078,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (DEN vs LAC),600.0,NBA,2023-10-18 02:30:00+00:00,109.0,6
+152501673,94078,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (DEN vs LAC)",40000.0,NBA,2023-10-18 02:30:00+00:00,10600.0,4
+152501674,94078,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (DEN vs LAC)",40000.0,NBA,2023-10-18 02:30:00+00:00,10600.0,4
+152501675,94078,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (DEN vs LAC)",40000.0,NBA,2023-10-18 02:30:00+00:00,10600.0,4
+152501676,94078,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (DEN vs LAC),180.0,NBA,2023-10-18 02:30:00+00:00,50.0,4
+152501677,94078,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (DEN vs LAC),72.0,NBA,2023-10-18 02:30:00+00:00,20.0,4
+152501678,94078,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (DEN vs LAC),90.0,NBA,2023-10-18 02:30:00+00:00,10.0,10
+152501679,94078,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,5.0,10
+152501680,94078,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (DEN vs LAC),27.0,NBA,2023-10-18 02:30:00+00:00,3.0,10
+152501681,94078,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (DEN vs LAC),10.8,NBA,2023-10-18 02:30:00+00:00,3.0,4
+152501682,94078,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,1.0,10
+152501683,94078,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (DEN vs LAC),135.0,NBA,2023-10-18 02:30:00+00:00,50.0,3
+152501684,94078,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (DEN vs LAC),54.0,NBA,2023-10-18 02:30:00+00:00,20.0,3
+152501685,94078,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,10.0,5
+152501686,94078,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (DEN vs LAC),27.0,NBA,2023-10-18 02:30:00+00:00,10.0,3
+152501687,94078,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (DEN vs LAC),9.0,NBA,2023-10-18 02:30:00+00:00,2.0,5
+152501688,94078,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (DEN vs LAC),5.4,NBA,2023-10-18 02:30:00+00:00,2.0,3
+152501689,94078,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (DEN vs LAC),500.0,NBA,2023-10-18 02:30:00+00:00,109.0,5
+152501690,94078,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (DEN vs LAC),100.0,NBA,2023-10-18 02:30:00+00:00,10.0,11
+152501691,94078,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (DEN vs LAC),250.0,NBA,2023-10-18 02:30:00+00:00,25.0,11
+152501692,94078,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (DEN vs LAC),500.0,NBA,2023-10-18 02:30:00+00:00,50.0,11
+152501693,94078,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (DEN vs LAC),50.0,NBA,2023-10-18 02:30:00+00:00,5.0,11
+152501694,94078,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (DEN vs LAC),30.0,NBA,2023-10-18 02:30:00+00:00,3.0,11
+152501695,94078,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (DEN vs LAC),10.0,NBA,2023-10-18 02:30:00+00:00,1.0,11
+152501696,94078,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (DEN vs LAC),500.0,NBA,2023-10-18 02:30:00+00:00,25.0,22
+152501697,94078,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (DEN vs LAC),1000.0,NBA,2023-10-18 02:30:00+00:00,50.0,22
+152501698,94078,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (DEN vs LAC),4000.0,NBA,2023-10-18 02:30:00+00:00,1060.0,4
+152501699,94078,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (DEN vs LAC),1000.0,NBA,2023-10-18 02:30:00+00:00,267.0,4
+152501700,94078,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (DEN vs LAC)",1500.0,NBA,2023-10-18 02:30:00+00:00,408.0,4
+152501701,94078,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (DEN vs LAC)",19.98,NBA,2023-10-18 02:30:00+00:00,5.55,4
+152501702,94078,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (DEN vs LAC)",19.98,NBA,2023-10-18 02:30:00+00:00,5.55,4
+152501703,94078,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (DEN vs LAC)",19.98,NBA,2023-10-18 02:30:00+00:00,5.55,4
+152501704,94078,8.0,False,False,False,False,True,NBA Showdown Satellite to 2024 NAS America's Race [Must Fill] (DEN vs LAC),36.0,NBA,2023-10-18 02:30:00+00:00,8.0,5
+152501709,94076,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (NYK vs BOS),100.0,NBA,2023-10-17 23:30:00+00:00,5.0,23
+152501710,94076,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (NYK vs BOS),200.0,NBA,2023-10-17 23:30:00+00:00,10.0,23
+152501711,94076,25.0,False,False,True,False,True,NBA Showdown $25 Winner Take All [$110 to 1st] (NYK vs BOS),110.0,NBA,2023-10-17 23:30:00+00:00,25.0,5
+152501712,94076,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (NYK vs BOS),20.0,NBA,2023-10-17 23:30:00+00:00,1.0,23
+152501713,94076,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (NYK vs BOS),60.0,NBA,2023-10-17 23:30:00+00:00,3.0,23
+152501714,94076,1.0,False,False,True,False,True,NBA Showdown Satellite to NBA $1M Opening Tip Off (NYK vs BOS),10.0,NBA,2023-10-17 23:30:00+00:00,1.0,11
+152501715,94076,1.0,False,False,True,False,True,NBA Showdown Satellite to NBA $1M Opening Tip Off (NYK vs BOS),10.0,NBA,2023-10-17 23:30:00+00:00,1.0,11
+152501716,94076,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $1M Opening Tip Off (NYK vs BOS),10.0,NBA,2023-10-17 23:30:00+00:00,0.1,118
+152501717,94076,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $1M Opening Tip Off (NYK vs BOS),10.0,NBA,2023-10-17 23:30:00+00:00,0.1,118
+152501718,94077,5.0,True,False,True,False,False,NBA $5 Double Up (Night),100.0,NBA,2023-10-18 00:00:00+00:00,5.0,23
+152501719,94077,10.0,True,False,True,False,False,NBA $10 Double Up (Night),200.0,NBA,2023-10-18 00:00:00+00:00,10.0,23
+152501720,94077,25.0,False,False,True,False,True,NBA $25 Winner Take All [$110 to 1st] (Night),110.0,NBA,2023-10-18 00:00:00+00:00,25.0,5
+152501721,94077,1.0,True,False,True,False,False,NBA $1 Double Up (Night),20.0,NBA,2023-10-18 00:00:00+00:00,1.0,23
+152501722,94077,3.0,True,False,True,False,False,NBA $3 Double Up (Night),60.0,NBA,2023-10-18 00:00:00+00:00,3.0,23
+152501723,94077,1.0,False,False,True,False,True,NBA Satellite to NBA $1M Opening Tip Off (Night),10.0,NBA,2023-10-18 00:00:00+00:00,1.0,11
+152501724,94077,1.0,False,False,True,False,True,NBA Satellite to NBA $1M Opening Tip Off (Night),10.0,NBA,2023-10-18 00:00:00+00:00,1.0,11
+152501725,94077,0.0,False,False,True,False,True,NBA Satellite to NBA $1M Opening Tip Off (Night),10.0,NBA,2023-10-18 00:00:00+00:00,0.1,118
+152501726,94077,0.0,False,False,True,False,True,NBA Satellite to NBA $1M Opening Tip Off (Night),10.0,NBA,2023-10-18 00:00:00+00:00,0.1,118
+152501727,94078,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (DEN vs LAC),100.0,NBA,2023-10-18 02:30:00+00:00,5.0,23
+152501728,94078,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (DEN vs LAC),200.0,NBA,2023-10-18 02:30:00+00:00,10.0,23
+152501729,94078,25.0,False,False,True,False,True,NBA Showdown $25 Winner Take All [$110 to 1st] (DEN vs LAC),110.0,NBA,2023-10-18 02:30:00+00:00,25.0,5
+152501730,94078,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (DEN vs LAC),20.0,NBA,2023-10-18 02:30:00+00:00,1.0,23
+152501731,94078,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (DEN vs LAC),60.0,NBA,2023-10-18 02:30:00+00:00,3.0,23
+152501732,94078,1.0,False,False,True,False,True,NBA Showdown Satellite to NBA $1M Opening Tip Off (DEN vs LAC),10.0,NBA,2023-10-18 02:30:00+00:00,1.0,11
+152501733,94078,1.0,False,False,True,False,True,NBA Showdown Satellite to NBA $1M Opening Tip Off (DEN vs LAC),10.0,NBA,2023-10-18 02:30:00+00:00,1.0,11
+152501734,94078,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $1M Opening Tip Off (DEN vs LAC),10.0,NBA,2023-10-18 02:30:00+00:00,0.1,118
+152501735,94078,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $1M Opening Tip Off (DEN vs LAC),10.0,NBA,2023-10-18 02:30:00+00:00,0.1,118
+152501762,94074,50.0,True,False,True,False,False,NBA $50 Double Up,500.0,NBA,2023-10-17 23:00:00+00:00,50.0,11
+152501763,94074,25.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2023-10-17 23:00:00+00:00,25.0,11
+152501764,94074,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-10-17 23:00:00+00:00,1.0,23
+152501765,94074,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2023-10-17 23:00:00+00:00,3.0,23
+152501767,94074,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2023-10-17 23:00:00+00:00,5.0,23
+152501768,94074,10.0,True,False,True,False,False,NBA $10 Double Up,100.0,NBA,2023-10-17 23:00:00+00:00,10.0,11
+152501769,94074,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-10-17 23:00:00+00:00,1.0,31
+152501770,94074,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2023-10-17 23:00:00+00:00,1.0,23
+152501771,94074,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2023-10-17 23:00:00+00:00,3.0,23
+152501772,94074,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2023-10-17 23:00:00+00:00,5.0,23
+152501773,94074,10.0,True,False,True,False,False,NBA $10 Double Up,100.0,NBA,2023-10-17 23:00:00+00:00,10.0,11
+152501774,94074,85.0,False,False,True,False,True,NBA $85 Winner Take All [$300 to 1st],300.0,NBA,2023-10-17 23:00:00+00:00,85.0,4
+152501775,94074,0.0,False,False,True,False,True,NBA SUPERSat to NBA $1M Opening Tip Off [2x],20.0,NBA,2023-10-17 23:00:00+00:00,0.25,95
+152501777,94074,0.0,False,False,True,False,True,NBA Satellite to NBA $1M Opening Tip Off,10.0,NBA,2023-10-17 23:00:00+00:00,0.1,118
+152501817,94078,1570.0,False,False,False,False,True,"NBA Showdown Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill] (DEN vs LAC)",4444.0,NBA,2023-10-18 02:30:00+00:00,1570.0,3
+152501818,94077,1570.0,False,False,False,False,True,"NBA Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill] (Night)",4444.0,NBA,2023-10-18 00:00:00+00:00,1570.0,3
+152501819,94076,1570.0,False,False,False,False,True,"NBA Showdown Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill] (NYK vs BOS)",4444.0,NBA,2023-10-17 23:30:00+00:00,1570.0,3
+152501820,94074,1570.0,False,False,False,False,True,"NBA Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill]",4444.0,NBA,2023-10-17 23:00:00+00:00,1570.0,3
+152514168,94074,3.0,True,False,False,False,False,Casual NBA $3 50-50,10.8,NBA,2023-10-17 23:00:00+00:00,3.0,4
+152526345,94075,1.0,False,False,False,False,False,NBA Snake $1 6-Player,5.4,NBA,2023-10-17 23:00:00+00:00,1.0,6
+152527683,94076,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (NYK vs BOS),4.5,NBA,2023-10-17 23:30:00+00:00,1.0,5
+152527738,94077,1.0,True,False,False,False,False,Casual NBA $1 50-50 (Night),9.0,NBA,2023-10-18 00:00:00+00:00,1.0,10
+152528803,94076,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (NYK vs BOS),13.5,NBA,2023-10-17 23:30:00+00:00,5.0,3
+152529321,94076,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (NYK vs BOS),9.0,NBA,2023-10-17 23:30:00+00:00,1.0,10
+152529987,94074,1.0,False,False,False,False,False,NBA $1 100-Player (Top 3 Win),90.0,NBA,2023-10-17 23:00:00+00:00,1.0,100
+152530456,94074,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-10-17 23:00:00+00:00,5.0,3
+152530457,94074,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-10-17 23:00:00+00:00,5.0,3
+152530458,94074,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-10-17 23:00:00+00:00,5.0,3
+152530476,94074,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-10-17 23:00:00+00:00,2.0,3
+152530477,94074,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-10-17 23:00:00+00:00,2.0,3
+152530478,94074,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2023-10-17 23:00:00+00:00,2.0,3
+152530606,94074,10.0,True,False,False,False,False,NBA $10 50-50,36.0,NBA,2023-10-17 23:00:00+00:00,10.0,4
+152530607,94074,10.0,True,False,False,False,False,NBA $10 50-50,36.0,NBA,2023-10-17 23:00:00+00:00,10.0,4
+152530608,94074,10.0,True,False,False,False,False,NBA $10 50-50,36.0,NBA,2023-10-17 23:00:00+00:00,10.0,4
+152531912,94077,0.0,False,False,False,False,False,NBA FREE 150-Player (Night),0.0,NBA,2023-10-18 00:00:00+00:00,0.0,150
+152532696,94074,1.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2023-10-17 23:00:00+00:00,1.0,3
+152533013,94074,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2023-10-17 23:00:00+00:00,5.0,10
+152533053,94074,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2023-10-17 23:00:00+00:00,5.0,3
+152533069,94076,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (NYK vs BOS),45.0,NBA,2023-10-17 23:30:00+00:00,5.0,10
+152533070,94076,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (NYK vs BOS),13.5,NBA,2023-10-17 23:30:00+00:00,5.0,3
+152533088,94078,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (DEN vs LAC),13.5,NBA,2023-10-18 02:30:00+00:00,5.0,3
+152533089,94078,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (DEN vs LAC),45.0,NBA,2023-10-18 02:30:00+00:00,5.0,10
+152533095,94074,10.0,True,False,True,False,False,NBA $10 Double Up,100.0,NBA,2023-10-17 23:00:00+00:00,10.0,11
+152533152,94074,1.0,False,False,True,False,True,NBA Satellite to NBA $1M Opening Tip Off,10.0,NBA,2023-10-17 23:00:00+00:00,1.0,11
+152535006,94074,0.0,False,False,False,False,False,NBA FREE 10-Player,0.0,NBA,2023-10-17 23:00:00+00:00,0.0,10
