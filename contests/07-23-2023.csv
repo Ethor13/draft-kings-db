@@ -1,0 +1,322 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+147076990,90001,5.0,False,False,True,False,True,WNBA $750 Zone,750.0,NBA,2023-07-23 17:00:00+00:00,5.0,178
+147076991,90001,5.0,False,False,True,False,True,WNBA $300 High Five [Single Entry],300.0,NBA,2023-07-23 17:00:00+00:00,5.0,71
+147076992,90001,0.0,False,False,True,False,True,WNBA $200 Quarter Jukebox,200.0,NBA,2023-07-23 17:00:00+00:00,0.25,951
+147076993,90001,1.0,False,False,True,False,True,WNBA $750 And-One [20 Entry Max],750.0,NBA,2023-07-23 17:00:00+00:00,1.0,891
+147076994,90001,12.0,False,False,True,False,True,WNBA $200 Pick and Roll [Single Entry],200.0,NBA,2023-07-23 17:00:00+00:00,12.0,19
+147076995,90001,1.0,False,False,True,False,True,WNBA $150 Daily Dollar [Single Entry],150.0,NBA,2023-07-23 17:00:00+00:00,1.0,178
+147076996,90001,33.0,False,False,True,False,True,WNBA $340 Triple Threat [Single Entry],340.0,NBA,2023-07-23 17:00:00+00:00,33.0,12
+147076997,90001,100.0,False,False,True,False,True,"WNBA $720 Showtime [Single Entry, Top 2 Win]",720.0,NBA,2023-07-23 17:00:00+00:00,100.0,8
+147076998,90001,0.0,False,False,True,False,True,WNBA $50 Dime Time [Just $0.10!],50.0,NBA,2023-07-23 17:00:00+00:00,0.1,594
+147076999,90001,15.0,False,False,True,False,True,WNBA $15K Fadeaway [$5K to 1st],15000.0,NBA,2023-07-23 17:00:00+00:00,15.0,1176
+147077000,90001,300.0,False,False,True,False,True,WNBA $1.9K 3-Ball [Single Entry],1900.0,NBA,2023-07-23 17:00:00+00:00,300.0,7
+147077021,90003,0.0,False,False,True,False,True,WNBA Showdown $100 Quarter Jukebox [Just $0.25!] (IND vs NYL),100.0,NBA,2023-07-23 19:00:00+00:00,0.25,475
+147077022,90003,5.0,False,False,True,False,True,WNBA Showdown $200 High Five [Single Entry] (IND vs NYL),200.0,NBA,2023-07-23 19:00:00+00:00,5.0,47
+147077023,90003,12.0,False,False,True,False,True,WNBA Showdown $155 Pick and Roll [Single Entry] (IND vs NYL),155.0,NBA,2023-07-23 19:00:00+00:00,12.0,15
+147077024,90003,1.0,False,False,True,False,True,WNBA Showdown $300 And-One (IND vs NYL),300.0,NBA,2023-07-23 19:00:00+00:00,1.0,356
+147077025,90003,15.0,False,False,True,False,True,WNBA Showdown $4K Fadeaway [$1K to 1st] (IND vs NYL),4000.0,NBA,2023-07-23 19:00:00+00:00,15.0,313
+147077026,90002,0.0,False,False,True,False,True,WNBA Showdown $100 Quarter Jukebox [Just $0.25!] (PHO vs WAS),100.0,NBA,2023-07-23 17:00:00+00:00,0.25,475
+147077027,90002,5.0,False,False,True,False,True,WNBA Showdown $200 High Five [Single Entry] (PHO vs WAS),200.0,NBA,2023-07-23 17:00:00+00:00,5.0,47
+147077028,90002,12.0,False,False,True,False,True,WNBA Showdown $155 Pick and Roll [Single Entry] (PHO vs WAS),155.0,NBA,2023-07-23 17:00:00+00:00,12.0,15
+147077029,90002,1.0,False,False,True,False,True,WNBA Showdown $300 And-One (PHO vs WAS),300.0,NBA,2023-07-23 17:00:00+00:00,1.0,356
+147077030,90002,15.0,False,False,True,False,True,WNBA Showdown $4K Fadeaway [$1K to 1st] (PHO vs WAS),4000.0,NBA,2023-07-23 17:00:00+00:00,15.0,313
+147077094,90001,3.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2023-07-23 17:00:00+00:00,3.0,23
+147077095,90001,1.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2023-07-23 17:00:00+00:00,1.0,31
+147077096,90001,5.0,False,False,True,False,False,WNBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2023-07-23 17:00:00+00:00,5.0,31
+147077097,90001,50.0,True,False,True,False,False,WNBA $50 Double Up,500.0,NBA,2023-07-23 17:00:00+00:00,50.0,11
+147077098,90001,25.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2023-07-23 17:00:00+00:00,25.0,11
+147077099,90001,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2023-07-23 17:00:00+00:00,10.0,11
+147077100,90001,5.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2023-07-23 17:00:00+00:00,5.0,34
+147077101,90001,5.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2023-07-23 17:00:00+00:00,5.0,23
+147077102,90001,3.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2023-07-23 17:00:00+00:00,3.0,34
+147077103,90001,1.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2023-07-23 17:00:00+00:00,1.0,34
+147077104,90001,1.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2023-07-23 17:00:00+00:00,1.0,23
+147077105,90001,1.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2023-07-23 17:00:00+00:00,1.0,23
+147077106,90001,3.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2023-07-23 17:00:00+00:00,3.0,23
+147077107,90001,5.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2023-07-23 17:00:00+00:00,5.0,23
+147077108,90001,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2023-07-23 17:00:00+00:00,10.0,11
+147077109,90001,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $10M Millionaire,10.0,NBA,2023-07-23 17:00:00+00:00,0.1,118
+147077110,90001,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $10M Millionaire,10.0,NBA,2023-07-23 17:00:00+00:00,0.25,47
+147077111,90001,1.0,False,False,True,False,True,WNBA SUPERSatellite to NFL Best Ball $10M Millionaire [2x],20.0,NBA,2023-07-23 17:00:00+00:00,1.0,23
+147077112,90001,4.0,False,False,True,False,True,WNBA Satellite to WNBA $100K QotC $44 Qualifier,44.0,NBA,2023-07-23 17:00:00+00:00,4.0,13
+147077113,90001,9.0,False,False,True,False,True,WNBA Satellite to WNBA $100K QotC $44 Qualifier,46.0,NBA,2023-07-23 17:00:00+00:00,9.0,6
+147077114,90001,0.0,False,False,True,False,True,WNBA Satellite to WNBA $100K QotC $12 Qualifier,12.0,NBA,2023-07-23 17:00:00+00:00,0.25,57
+147077115,90001,1.0,False,False,True,False,True,WNBA Satellite to WNBA $100K QotC $12 Qualifier,12.0,NBA,2023-07-23 17:00:00+00:00,1.0,14
+147077116,90001,2.0,False,False,True,False,True,WNBA Satellite to WNBA $100K QotC $12 Qualifier,12.0,NBA,2023-07-23 17:00:00+00:00,2.0,7
+147077117,90001,1.0,False,False,True,False,True,WNBA SUPERSatellite to WNBA $100K QotC $12 Qualifier [2x],24.0,NBA,2023-07-23 17:00:00+00:00,1.0,28
+147077118,90001,2.0,False,False,True,False,True,WNBA SUPERSatellite to WNBA $100K QotC $12 Qualifier [2x],24.0,NBA,2023-07-23 17:00:00+00:00,2.0,14
+147077119,90001,3.0,False,False,True,False,True,WNBA SUPERSatellite to WNBA $100K QotC $12 Qualifier [4x],48.0,NBA,2023-07-23 17:00:00+00:00,3.0,19
+147077120,90001,1.0,False,False,True,False,True,WNBA SUPERSatellite to WNBA $100K QotC $12 Qualifier [5x],60.0,NBA,2023-07-23 17:00:00+00:00,1.0,71
+147077121,90001,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-23 17:00:00+00:00,0.1,178
+147077122,90001,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-23 17:00:00+00:00,0.1,178
+147077123,90001,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-23 17:00:00+00:00,0.25,71
+147077124,90001,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-23 17:00:00+00:00,0.25,71
+147077125,90001,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-23 17:00:00+00:00,0.5,35
+147077126,90001,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-23 17:00:00+00:00,0.5,35
+147077127,90001,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special ,15.0,NBA,2023-07-23 17:00:00+00:00,0.5,35
+147077128,90001,0.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special [2x],30.0,NBA,2023-07-23 17:00:00+00:00,0.25,142
+147077129,90001,1.0,False,False,True,False,True,WNBA Satellite to $15 WNBA 7-25 July Fadeaway Special [2x],30.0,NBA,2023-07-23 17:00:00+00:00,1.0,35
+147077130,90001,1.0,False,False,True,False,True,WNBA SUPERSat to $15 WNBA 7-25 July Fadeaway Special [4x],60.0,NBA,2023-07-23 17:00:00+00:00,1.0,71
+147077131,90001,5.0,False,False,True,False,True,WNBA SUPERSat to $15 WNBA 7-25 July Fadeaway Special [4x],60.0,NBA,2023-07-23 17:00:00+00:00,5.0,14
+147077132,90001,5.0,False,False,True,False,True,WNBA SUPERSat to $15 WNBA 7-25 July Fadeaway Special [4x],150.0,NBA,2023-07-23 17:00:00+00:00,5.0,35
+147077155,90002,2.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (PHO vs WAS),5.4,NBA,2023-07-23 17:00:00+00:00,2.0,3
+147077156,90002,10.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (PHO vs WAS),27.0,NBA,2023-07-23 17:00:00+00:00,10.0,3
+147077157,90002,5.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (PHO vs WAS),13.5,NBA,2023-07-23 17:00:00+00:00,5.0,3
+147077158,90002,1.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (PHO vs WAS),2.7,NBA,2023-07-23 17:00:00+00:00,1.0,3
+147077159,90002,1.0,False,False,False,False,False,WNBA Showdown $1 10-Player (PHO vs WAS),9.0,NBA,2023-07-23 17:00:00+00:00,1.0,10
+147077160,90002,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (PHO vs WAS),4.5,NBA,2023-07-23 17:00:00+00:00,1.0,5
+147077161,90002,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (PHO vs WAS),2.7,NBA,2023-07-23 17:00:00+00:00,1.0,3
+147077162,90002,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (PHO vs WAS),2.7,NBA,2023-07-23 17:00:00+00:00,1.0,3
+147077163,90002,20.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (PHO vs WAS),180.0,NBA,2023-07-23 17:00:00+00:00,20.0,10
+147077164,90002,10.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (PHO vs WAS),90.0,NBA,2023-07-23 17:00:00+00:00,10.0,10
+147077165,90002,5.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (PHO vs WAS),45.0,NBA,2023-07-23 17:00:00+00:00,5.0,10
+147077166,90002,3.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (PHO vs WAS),27.0,NBA,2023-07-23 17:00:00+00:00,3.0,10
+147077167,90002,1.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (PHO vs WAS),9.0,NBA,2023-07-23 17:00:00+00:00,1.0,10
+147077168,90002,5.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (PHO vs WAS),13.5,NBA,2023-07-23 17:00:00+00:00,5.0,3
+147077169,90002,2.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (PHO vs WAS),5.4,NBA,2023-07-23 17:00:00+00:00,2.0,3
+147077170,90002,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (PHO vs WAS),5.4,NBA,2023-07-23 17:00:00+00:00,2.0,3
+147077171,90002,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (PHO vs WAS),5.4,NBA,2023-07-23 17:00:00+00:00,2.0,3
+147077172,90002,2.0,False,False,False,False,False,WNBA Showdown $2 5-Player (PHO vs WAS),9.0,NBA,2023-07-23 17:00:00+00:00,2.0,5
+147077173,90002,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (PHO vs WAS),18.0,NBA,2023-07-23 17:00:00+00:00,2.0,10
+147077174,90002,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (PHO vs WAS),13.5,NBA,2023-07-23 17:00:00+00:00,5.0,3
+147077175,90002,5.0,False,False,False,False,False,WNBA Showdown $5 5-Player (PHO vs WAS),22.5,NBA,2023-07-23 17:00:00+00:00,5.0,5
+147077176,90002,5.0,False,False,False,False,False,WNBA Showdown $5 10-Player (PHO vs WAS),45.0,NBA,2023-07-23 17:00:00+00:00,5.0,10
+147077177,90002,10.0,False,False,False,False,False,WNBA Showdown $10 5-Player (PHO vs WAS),45.0,NBA,2023-07-23 17:00:00+00:00,10.0,5
+147077178,90002,10.0,False,False,False,False,False,WNBA Showdown $10 3-Player (PHO vs WAS),27.0,NBA,2023-07-23 17:00:00+00:00,10.0,3
+147077179,90002,20.0,False,False,False,False,False,WNBA Showdown $20 3-Player (PHO vs WAS),54.0,NBA,2023-07-23 17:00:00+00:00,20.0,3
+147077180,90002,50.0,False,False,False,False,False,WNBA Showdown $50 5-Player (PHO vs WAS),225.0,NBA,2023-07-23 17:00:00+00:00,50.0,5
+147077181,90002,50.0,False,False,False,False,False,WNBA Showdown $50 3-Player (PHO vs WAS),135.0,NBA,2023-07-23 17:00:00+00:00,50.0,3
+147077182,90002,109.0,False,False,False,False,False,WNBA Showdown $109 3-Player (PHO vs WAS),300.0,NBA,2023-07-23 17:00:00+00:00,109.0,3
+147077183,90002,162.0,False,False,False,False,False,WNBA Showdown $162 3-Player (PHO vs WAS),450.0,NBA,2023-07-23 17:00:00+00:00,162.0,3
+147077184,90002,530.0,False,False,False,False,False,WNBA Showdown $530 3-Player (PHO vs WAS),1500.0,NBA,2023-07-23 17:00:00+00:00,530.0,3
+147077185,90002,1060.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (PHO vs WAS)",3000.0,NBA,2023-07-23 17:00:00+00:00,1060.0,3
+147077186,90002,5300.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (PHO vs WAS)",15000.0,NBA,2023-07-23 17:00:00+00:00,5300.0,3
+147077187,90002,10600.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (PHO vs WAS)",30000.0,NBA,2023-07-23 17:00:00+00:00,10600.0,3
+147077188,90002,20.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (PHO vs WAS),72.0,NBA,2023-07-23 17:00:00+00:00,20.0,4
+147077189,90002,10.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (PHO vs WAS),90.0,NBA,2023-07-23 17:00:00+00:00,10.0,10
+147077190,90002,1.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (PHO vs WAS),9.0,NBA,2023-07-23 17:00:00+00:00,1.0,10
+147077191,90002,3.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (PHO vs WAS),27.0,NBA,2023-07-23 17:00:00+00:00,3.0,10
+147077192,90002,5.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (PHO vs WAS),45.0,NBA,2023-07-23 17:00:00+00:00,5.0,10
+147077193,90002,5300.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (PHO vs WAS)",20000.0,NBA,2023-07-23 17:00:00+00:00,5300.0,4
+147077194,90002,1060.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (PHO vs WAS)",4000.0,NBA,2023-07-23 17:00:00+00:00,1060.0,4
+147077195,90002,530.0,True,False,False,False,False,WNBA Showdown $530 50-50 (PHO vs WAS),2000.0,NBA,2023-07-23 17:00:00+00:00,530.0,4
+147077196,90002,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (PHO vs WAS),400.0,NBA,2023-07-23 17:00:00+00:00,109.0,4
+147077197,90002,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (PHO vs WAS),180.0,NBA,2023-07-23 17:00:00+00:00,50.0,4
+147077198,90002,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (PHO vs WAS),72.0,NBA,2023-07-23 17:00:00+00:00,20.0,4
+147077199,90002,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (PHO vs WAS),36.0,NBA,2023-07-23 17:00:00+00:00,10.0,4
+147077200,90002,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (PHO vs WAS),450.0,NBA,2023-07-23 17:00:00+00:00,50.0,10
+147077201,90002,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (PHO vs WAS),9.0,NBA,2023-07-23 17:00:00+00:00,1.0,10
+147077202,90002,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (PHO vs WAS),45.0,NBA,2023-07-23 17:00:00+00:00,5.0,10
+147077203,90002,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (PHO vs WAS),600.0,NBA,2023-07-23 17:00:00+00:00,109.0,6
+147077204,90002,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (PHO vs WAS),18.0,NBA,2023-07-23 17:00:00+00:00,2.0,10
+147077205,90002,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (PHO vs WAS),180.0,NBA,2023-07-23 17:00:00+00:00,20.0,10
+147077206,90002,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (PHO vs WAS),90.0,NBA,2023-07-23 17:00:00+00:00,10.0,10
+147077207,90002,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (PHO vs WAS),90.0,NBA,2023-07-23 17:00:00+00:00,5.0,20
+147077208,90002,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (PHO vs WAS),180.0,NBA,2023-07-23 17:00:00+00:00,10.0,20
+147077209,90002,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (PHO vs WAS),360.0,NBA,2023-07-23 17:00:00+00:00,20.0,20
+147077210,90002,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (PHO vs WAS),36.0,NBA,2023-07-23 17:00:00+00:00,2.0,20
+147077211,90002,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (PHO vs WAS),18.0,NBA,2023-07-23 17:00:00+00:00,1.0,20
+147077212,90002,1060.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (PHO vs WAS),4000.0,NBA,2023-07-23 17:00:00+00:00,1060.0,4
+147077213,90002,267.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (PHO vs WAS),1000.0,NBA,2023-07-23 17:00:00+00:00,267.0,4
+147077214,90002,4.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $10M Millionaire [Must Fill] (PHO vs WAS),10.0,NBA,2023-07-23 17:00:00+00:00,3.7,3
+147077215,90002,201.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (PHO vs WAS),555.0,NBA,2023-07-23 17:00:00+00:00,201.0,3
+147077216,90002,16.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $1M Four Technique [Must Fill] (PHO vs WAS),44.0,NBA,2023-07-23 17:00:00+00:00,16.0,3
+147077217,90002,749.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (PHO vs WAS),2120.0,NBA,2023-07-23 17:00:00+00:00,749.0,3
+147077218,90002,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (PHO vs WAS)",19.98,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077219,90002,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (PHO vs WAS)",19.98,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077220,90002,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (PHO vs WAS)",19.98,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077221,90002,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (PHO vs WAS),19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077222,90002,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (PHO vs WAS),19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077223,90002,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (PHO vs WAS),19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077224,90002,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (PHO vs WAS),19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077225,90002,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (PHO vs WAS),19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077226,90002,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (PHO vs WAS),19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077227,90002,76.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (PHO vs WAS),275.0,NBA,2023-07-23 17:00:00+00:00,76.0,4
+147077228,90002,76.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (PHO vs WAS),275.0,NBA,2023-07-23 17:00:00+00:00,76.0,4
+147077229,90002,121.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA 7-25 $333 MEGA Moneyball Special (PHO vs WAS),333.0,NBA,2023-07-23 17:00:00+00:00,121.0,3
+147077230,90001,2.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2023-07-23 17:00:00+00:00,2.0,3
+147077231,90001,10.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2023-07-23 17:00:00+00:00,10.0,3
+147077232,90001,5.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2023-07-23 17:00:00+00:00,5.0,3
+147077233,90001,1.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2023-07-23 17:00:00+00:00,1.0,3
+147077234,90001,1.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2023-07-23 17:00:00+00:00,1.0,10
+147077235,90001,1.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2023-07-23 17:00:00+00:00,1.0,5
+147077236,90001,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2023-07-23 17:00:00+00:00,1.0,3
+147077237,90001,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2023-07-23 17:00:00+00:00,1.0,3
+147077238,90001,20.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2023-07-23 17:00:00+00:00,20.0,10
+147077239,90001,10.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2023-07-23 17:00:00+00:00,10.0,10
+147077240,90001,5.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2023-07-23 17:00:00+00:00,5.0,10
+147077241,90001,3.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2023-07-23 17:00:00+00:00,3.0,10
+147077242,90001,1.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2023-07-23 17:00:00+00:00,1.0,10
+147077243,90001,5.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2023-07-23 17:00:00+00:00,5.0,3
+147077244,90001,2.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2023-07-23 17:00:00+00:00,2.0,3
+147077245,90001,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2023-07-23 17:00:00+00:00,2.0,3
+147077246,90001,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2023-07-23 17:00:00+00:00,2.0,3
+147077247,90001,2.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2023-07-23 17:00:00+00:00,2.0,5
+147077248,90001,2.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2023-07-23 17:00:00+00:00,2.0,10
+147077249,90001,5.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2023-07-23 17:00:00+00:00,5.0,3
+147077250,90001,5.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2023-07-23 17:00:00+00:00,5.0,5
+147077251,90001,5.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2023-07-23 17:00:00+00:00,5.0,10
+147077252,90001,10.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2023-07-23 17:00:00+00:00,10.0,5
+147077253,90001,10.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2023-07-23 17:00:00+00:00,10.0,3
+147077254,90001,20.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2023-07-23 17:00:00+00:00,20.0,3
+147077255,90001,50.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2023-07-23 17:00:00+00:00,50.0,5
+147077256,90001,50.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2023-07-23 17:00:00+00:00,50.0,3
+147077257,90001,109.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2023-07-23 17:00:00+00:00,109.0,3
+147077258,90001,162.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2023-07-23 17:00:00+00:00,162.0,3
+147077259,90001,530.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2023-07-23 17:00:00+00:00,530.0,3
+147077260,90001,1060.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2023-07-23 17:00:00+00:00,1060.0,3
+147077261,90001,5300.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2023-07-23 17:00:00+00:00,5300.0,3
+147077262,90001,10600.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2023-07-23 17:00:00+00:00,10600.0,3
+147077263,90001,20.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2023-07-23 17:00:00+00:00,20.0,4
+147077264,90001,10.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2023-07-23 17:00:00+00:00,10.0,10
+147077265,90001,1.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2023-07-23 17:00:00+00:00,1.0,10
+147077266,90001,3.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2023-07-23 17:00:00+00:00,3.0,10
+147077267,90001,5.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2023-07-23 17:00:00+00:00,5.0,10
+147077268,90001,5300.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2023-07-23 17:00:00+00:00,5300.0,4
+147077269,90001,1060.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2023-07-23 17:00:00+00:00,1060.0,4
+147077270,90001,530.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2023-07-23 17:00:00+00:00,530.0,4
+147077271,90001,109.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2023-07-23 17:00:00+00:00,109.0,4
+147077272,90001,50.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2023-07-23 17:00:00+00:00,50.0,4
+147077273,90001,20.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2023-07-23 17:00:00+00:00,20.0,4
+147077274,90001,10.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2023-07-23 17:00:00+00:00,10.0,4
+147077275,90001,50.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2023-07-23 17:00:00+00:00,50.0,10
+147077276,90001,1.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2023-07-23 17:00:00+00:00,1.0,10
+147077277,90001,5.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2023-07-23 17:00:00+00:00,5.0,10
+147077278,90001,109.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2023-07-23 17:00:00+00:00,109.0,6
+147077279,90001,2.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2023-07-23 17:00:00+00:00,2.0,10
+147077280,90001,20.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2023-07-23 17:00:00+00:00,20.0,10
+147077281,90001,10.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2023-07-23 17:00:00+00:00,10.0,10
+147077282,90001,5.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2023-07-23 17:00:00+00:00,5.0,20
+147077283,90001,10.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2023-07-23 17:00:00+00:00,10.0,20
+147077284,90001,20.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2023-07-23 17:00:00+00:00,20.0,20
+147077285,90001,2.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2023-07-23 17:00:00+00:00,2.0,20
+147077286,90001,1.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2023-07-23 17:00:00+00:00,1.0,20
+147077287,90001,1060.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2023-07-23 17:00:00+00:00,1060.0,4
+147077288,90001,267.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2023-07-23 17:00:00+00:00,267.0,4
+147077289,90001,4.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $10M Millionaire [Must Fill],10.0,NBA,2023-07-23 17:00:00+00:00,3.7,3
+147077290,90001,201.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $2.6M Millionaire [Must Fill],555.0,NBA,2023-07-23 17:00:00+00:00,201.0,3
+147077291,90001,16.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $1M Four Technique [Must Fill],44.0,NBA,2023-07-23 17:00:00+00:00,16.0,3
+147077292,90001,749.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $144K Luxury Box [Must Fill],2120.0,NBA,2023-07-23 17:00:00+00:00,749.0,3
+147077293,90001,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA)",19.98,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077294,90001,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA)",19.98,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077295,90001,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA)",19.98,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077296,90001,6.0,False,False,False,False,True,WNBA 2023 RMPGAT Booster Pack Pack Special [Must Fill],19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077297,90001,6.0,False,False,False,False,True,WNBA 2023 RMPGAT Booster Pack Pack Special [Must Fill],19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077298,90001,6.0,False,False,False,False,True,WNBA 2023 RMPGAT Booster Pack Pack Special [Must Fill],19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077299,90001,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA),19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077300,90001,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA),19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077301,90001,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA),19.99,NBA,2023-07-23 17:00:00+00:00,5.55,4
+147077302,90001,76.0,False,False,False,False,True,WNBA Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL],275.0,NBA,2023-07-23 17:00:00+00:00,76.0,4
+147077303,90001,76.0,False,False,False,False,True,WNBA Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL],275.0,NBA,2023-07-23 17:00:00+00:00,76.0,4
+147077304,90001,121.0,False,False,False,False,True,WNBA Satellite to WNBA 7-25 $333 MEGA Moneyball Special,333.0,NBA,2023-07-23 17:00:00+00:00,121.0,3
+147077305,90003,2.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (IND vs NYL),5.4,NBA,2023-07-23 19:00:00+00:00,2.0,3
+147077306,90003,10.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (IND vs NYL),27.0,NBA,2023-07-23 19:00:00+00:00,10.0,3
+147077307,90003,5.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (IND vs NYL),13.5,NBA,2023-07-23 19:00:00+00:00,5.0,3
+147077308,90003,1.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (IND vs NYL),2.7,NBA,2023-07-23 19:00:00+00:00,1.0,3
+147077309,90003,1.0,False,False,False,False,False,WNBA Showdown $1 10-Player (IND vs NYL),9.0,NBA,2023-07-23 19:00:00+00:00,1.0,10
+147077310,90003,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (IND vs NYL),4.5,NBA,2023-07-23 19:00:00+00:00,1.0,5
+147077311,90003,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (IND vs NYL),2.7,NBA,2023-07-23 19:00:00+00:00,1.0,3
+147077312,90003,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (IND vs NYL),2.7,NBA,2023-07-23 19:00:00+00:00,1.0,3
+147077313,90003,20.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (IND vs NYL),180.0,NBA,2023-07-23 19:00:00+00:00,20.0,10
+147077314,90003,10.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (IND vs NYL),90.0,NBA,2023-07-23 19:00:00+00:00,10.0,10
+147077315,90003,5.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (IND vs NYL),45.0,NBA,2023-07-23 19:00:00+00:00,5.0,10
+147077316,90003,3.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (IND vs NYL),27.0,NBA,2023-07-23 19:00:00+00:00,3.0,10
+147077317,90003,1.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (IND vs NYL),9.0,NBA,2023-07-23 19:00:00+00:00,1.0,10
+147077318,90003,5.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (IND vs NYL),13.5,NBA,2023-07-23 19:00:00+00:00,5.0,3
+147077319,90003,2.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (IND vs NYL),5.4,NBA,2023-07-23 19:00:00+00:00,2.0,3
+147077320,90003,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (IND vs NYL),5.4,NBA,2023-07-23 19:00:00+00:00,2.0,3
+147077321,90003,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (IND vs NYL),5.4,NBA,2023-07-23 19:00:00+00:00,2.0,3
+147077322,90003,2.0,False,False,False,False,False,WNBA Showdown $2 5-Player (IND vs NYL),9.0,NBA,2023-07-23 19:00:00+00:00,2.0,5
+147077323,90003,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (IND vs NYL),18.0,NBA,2023-07-23 19:00:00+00:00,2.0,10
+147077324,90003,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (IND vs NYL),13.5,NBA,2023-07-23 19:00:00+00:00,5.0,3
+147077325,90003,5.0,False,False,False,False,False,WNBA Showdown $5 5-Player (IND vs NYL),22.5,NBA,2023-07-23 19:00:00+00:00,5.0,5
+147077326,90003,5.0,False,False,False,False,False,WNBA Showdown $5 10-Player (IND vs NYL),45.0,NBA,2023-07-23 19:00:00+00:00,5.0,10
+147077327,90003,10.0,False,False,False,False,False,WNBA Showdown $10 5-Player (IND vs NYL),45.0,NBA,2023-07-23 19:00:00+00:00,10.0,5
+147077328,90003,10.0,False,False,False,False,False,WNBA Showdown $10 3-Player (IND vs NYL),27.0,NBA,2023-07-23 19:00:00+00:00,10.0,3
+147077329,90003,20.0,False,False,False,False,False,WNBA Showdown $20 3-Player (IND vs NYL),54.0,NBA,2023-07-23 19:00:00+00:00,20.0,3
+147077330,90003,50.0,False,False,False,False,False,WNBA Showdown $50 5-Player (IND vs NYL),225.0,NBA,2023-07-23 19:00:00+00:00,50.0,5
+147077331,90003,50.0,False,False,False,False,False,WNBA Showdown $50 3-Player (IND vs NYL),135.0,NBA,2023-07-23 19:00:00+00:00,50.0,3
+147077332,90003,109.0,False,False,False,False,False,WNBA Showdown $109 3-Player (IND vs NYL),300.0,NBA,2023-07-23 19:00:00+00:00,109.0,3
+147077333,90003,162.0,False,False,False,False,False,WNBA Showdown $162 3-Player (IND vs NYL),450.0,NBA,2023-07-23 19:00:00+00:00,162.0,3
+147077334,90003,530.0,False,False,False,False,False,WNBA Showdown $530 3-Player (IND vs NYL),1500.0,NBA,2023-07-23 19:00:00+00:00,530.0,3
+147077335,90003,1060.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (IND vs NYL)",3000.0,NBA,2023-07-23 19:00:00+00:00,1060.0,3
+147077336,90003,5300.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (IND vs NYL)",15000.0,NBA,2023-07-23 19:00:00+00:00,5300.0,3
+147077337,90003,10600.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (IND vs NYL)",30000.0,NBA,2023-07-23 19:00:00+00:00,10600.0,3
+147077338,90003,20.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (IND vs NYL),72.0,NBA,2023-07-23 19:00:00+00:00,20.0,4
+147077339,90003,10.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (IND vs NYL),90.0,NBA,2023-07-23 19:00:00+00:00,10.0,10
+147077340,90003,1.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (IND vs NYL),9.0,NBA,2023-07-23 19:00:00+00:00,1.0,10
+147077341,90003,3.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (IND vs NYL),27.0,NBA,2023-07-23 19:00:00+00:00,3.0,10
+147077342,90003,5.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (IND vs NYL),45.0,NBA,2023-07-23 19:00:00+00:00,5.0,10
+147077343,90003,5300.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (IND vs NYL)",20000.0,NBA,2023-07-23 19:00:00+00:00,5300.0,4
+147077344,90003,1060.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (IND vs NYL)",4000.0,NBA,2023-07-23 19:00:00+00:00,1060.0,4
+147077345,90003,530.0,True,False,False,False,False,WNBA Showdown $530 50-50 (IND vs NYL),2000.0,NBA,2023-07-23 19:00:00+00:00,530.0,4
+147077346,90003,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (IND vs NYL),400.0,NBA,2023-07-23 19:00:00+00:00,109.0,4
+147077347,90003,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (IND vs NYL),180.0,NBA,2023-07-23 19:00:00+00:00,50.0,4
+147077348,90003,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND vs NYL),72.0,NBA,2023-07-23 19:00:00+00:00,20.0,4
+147077349,90003,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND vs NYL),36.0,NBA,2023-07-23 19:00:00+00:00,10.0,4
+147077350,90003,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (IND vs NYL),450.0,NBA,2023-07-23 19:00:00+00:00,50.0,10
+147077351,90003,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (IND vs NYL),9.0,NBA,2023-07-23 19:00:00+00:00,1.0,10
+147077352,90003,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (IND vs NYL),45.0,NBA,2023-07-23 19:00:00+00:00,5.0,10
+147077353,90003,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (IND vs NYL),600.0,NBA,2023-07-23 19:00:00+00:00,109.0,6
+147077354,90003,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (IND vs NYL),18.0,NBA,2023-07-23 19:00:00+00:00,2.0,10
+147077355,90003,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND vs NYL),180.0,NBA,2023-07-23 19:00:00+00:00,20.0,10
+147077356,90003,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND vs NYL),90.0,NBA,2023-07-23 19:00:00+00:00,10.0,10
+147077357,90003,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (IND vs NYL),90.0,NBA,2023-07-23 19:00:00+00:00,5.0,20
+147077358,90003,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND vs NYL),180.0,NBA,2023-07-23 19:00:00+00:00,10.0,20
+147077359,90003,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND vs NYL),360.0,NBA,2023-07-23 19:00:00+00:00,20.0,20
+147077360,90003,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (IND vs NYL),36.0,NBA,2023-07-23 19:00:00+00:00,2.0,20
+147077361,90003,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (IND vs NYL),18.0,NBA,2023-07-23 19:00:00+00:00,1.0,20
+147077362,90003,1060.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (IND vs NYL),4000.0,NBA,2023-07-23 19:00:00+00:00,1060.0,4
+147077363,90003,267.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (IND vs NYL),1000.0,NBA,2023-07-23 19:00:00+00:00,267.0,4
+147077364,90003,4.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $10M Millionaire [Must Fill] (IND vs NYL),10.0,NBA,2023-07-23 19:00:00+00:00,3.7,3
+147077365,90003,201.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $2.6M Millionaire [Must Fill] (IND vs NYL),555.0,NBA,2023-07-23 19:00:00+00:00,201.0,3
+147077366,90003,16.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $1M Four Technique [Must Fill] (IND vs NYL),44.0,NBA,2023-07-23 19:00:00+00:00,16.0,3
+147077367,90003,749.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $144K Luxury Box [Must Fill] (IND vs NYL),2120.0,NBA,2023-07-23 19:00:00+00:00,749.0,3
+147077368,90003,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA IND vs NYL)",19.98,NBA,2023-07-23 19:00:00+00:00,5.55,4
+147077369,90003,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA IND vs NYL)",19.98,NBA,2023-07-23 19:00:00+00:00,5.55,4
+147077370,90003,6.0,False,False,False,False,True,"Reignmakers UFC 2023 Booster Pack Special [Must Fill, 2x to 1st] (WNBA IND vs NYL)",19.98,NBA,2023-07-23 19:00:00+00:00,5.55,4
+147077371,90003,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (IND vs NYL),19.99,NBA,2023-07-23 19:00:00+00:00,5.55,4
+147077372,90003,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (IND vs NYL),19.99,NBA,2023-07-23 19:00:00+00:00,5.55,4
+147077373,90003,6.0,False,False,False,False,True,WNBA Showdown 2023 RMPGAT Booster Pack Pack Special [Must Fill] (IND vs NYL),19.99,NBA,2023-07-23 19:00:00+00:00,5.55,4
+147077374,90003,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA IND vs NYL),19.99,NBA,2023-07-23 19:00:00+00:00,5.55,4
+147077375,90003,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA IND vs NYL),19.99,NBA,2023-07-23 19:00:00+00:00,5.55,4
+147077376,90003,6.0,False,False,False,False,True,Reignmakers PGAT 2023 Booster Pack Special [Must Fill] (WNBA IND vs NYL),19.99,NBA,2023-07-23 19:00:00+00:00,5.55,4
+147077377,90003,76.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (IND vs NYL),275.0,NBA,2023-07-23 19:00:00+00:00,76.0,4
+147077378,90003,76.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $275 Queen of the Court Qualifier [MUST FILL] (IND vs NYL),275.0,NBA,2023-07-23 19:00:00+00:00,76.0,4
+147077379,90003,121.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA 7-25 $333 MEGA Moneyball Special (IND vs NYL),333.0,NBA,2023-07-23 19:00:00+00:00,121.0,3
+147077380,90002,1.0,True,False,True,False,False,WNBA Showdown $1 Double Up (PHO vs WAS),20.0,NBA,2023-07-23 17:00:00+00:00,1.0,23
+147077381,90002,3.0,True,False,True,False,False,WNBA Showdown $3 Double Up (PHO vs WAS),60.0,NBA,2023-07-23 17:00:00+00:00,3.0,23
+147077382,90002,5.0,True,False,True,False,False,WNBA Showdown $5 Double Up (PHO vs WAS),100.0,NBA,2023-07-23 17:00:00+00:00,5.0,23
+147077383,90002,10.0,True,False,True,False,False,WNBA Showdown $10 Double Up (PHO vs WAS),100.0,NBA,2023-07-23 17:00:00+00:00,10.0,11
+147077384,90002,25.0,True,False,True,False,False,WNBA Showdown $25 Double Up (PHO vs WAS),250.0,NBA,2023-07-23 17:00:00+00:00,25.0,11
+147077385,90002,25.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (PHO vs WAS),110.0,NBA,2023-07-23 17:00:00+00:00,25.0,5
+147077386,90003,1.0,True,False,True,False,False,WNBA Showdown $1 Double Up (IND vs NYL),20.0,NBA,2023-07-23 19:00:00+00:00,1.0,23
+147077387,90003,3.0,True,False,True,False,False,WNBA Showdown $3 Double Up (IND vs NYL),60.0,NBA,2023-07-23 19:00:00+00:00,3.0,23
+147077388,90003,5.0,True,False,True,False,False,WNBA Showdown $5 Double Up (IND vs NYL),100.0,NBA,2023-07-23 19:00:00+00:00,5.0,23
+147077389,90003,10.0,True,False,True,False,False,WNBA Showdown $10 Double Up (IND vs NYL),100.0,NBA,2023-07-23 19:00:00+00:00,10.0,11
+147077390,90003,25.0,True,False,True,False,False,WNBA Showdown $25 Double Up (IND vs NYL),250.0,NBA,2023-07-23 19:00:00+00:00,25.0,11
+147077391,90003,25.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (IND vs NYL),110.0,NBA,2023-07-23 19:00:00+00:00,25.0,5
+147078970,90001,1.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2023-07-23 17:00:00+00:00,1.0,20
+147079865,90002,0.0,False,False,False,False,False,WNBA Showdown FREE 25-Player (PHO vs WAS),0.0,NBA,2023-07-23 17:00:00+00:00,0.0,25
+147079896,90003,0.0,False,False,False,False,False,WNBA Showdown FREE 25-Player (IND vs NYL),0.0,NBA,2023-07-23 19:00:00+00:00,0.0,25
+147079949,90001,0.0,False,False,False,False,False,WNBA FREE 25-Player,0.0,NBA,2023-07-23 17:00:00+00:00,0.0,25
+147081460,90002,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (PHO vs WAS),18.0,NBA,2023-07-23 17:00:00+00:00,1.0,20
+147084997,90003,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (IND vs NYL),5.4,NBA,2023-07-23 19:00:00+00:00,2.0,3
+147084998,90003,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (IND vs NYL),2.7,NBA,2023-07-23 19:00:00+00:00,1.0,3
+147085227,90001,10.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2023-07-23 17:00:00+00:00,10.0,5
+147085228,90001,10.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2023-07-23 17:00:00+00:00,10.0,3
+147085229,90001,20.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2023-07-23 17:00:00+00:00,20.0,3
+147085230,90001,50.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2023-07-23 17:00:00+00:00,50.0,5
+147085231,90001,50.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2023-07-23 17:00:00+00:00,50.0,3
+147085232,90001,109.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2023-07-23 17:00:00+00:00,109.0,3
+147085233,90001,162.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2023-07-23 17:00:00+00:00,162.0,3
+147085234,90001,530.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2023-07-23 17:00:00+00:00,530.0,3
+147085235,90001,109.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2023-07-23 17:00:00+00:00,109.0,4
+147085236,90001,20.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2023-07-23 17:00:00+00:00,20.0,4
+147085238,90001,5.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2023-07-23 17:00:00+00:00,5.0,3
+147085239,90001,5.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2023-07-23 17:00:00+00:00,5.0,5
+147085240,90001,5.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2023-07-23 17:00:00+00:00,5.0,10
+147085241,90001,10.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2023-07-23 17:00:00+00:00,10.0,4
+147086671,90001,1.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2023-07-23 17:00:00+00:00,1.0,5
+147088141,90002,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (PHO vs WAS),36.0,NBA,2023-07-23 17:00:00+00:00,2.0,20
+147088440,90002,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (Winner Takes All) (PHO vs WAS),18.0,NBA,2023-07-23 17:00:00+00:00,2.0,10
