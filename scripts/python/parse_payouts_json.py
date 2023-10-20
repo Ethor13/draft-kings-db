@@ -8,9 +8,9 @@ import datetime
 TEMP_DIR = "tmp/"
 LOG_DIR = "logs/"
 DOWNLOAD_DIR = "tmp/downloads/"
-CONTESTS_DIR = "contests/"
-MAX_ENTRIES_DIR = "max-entries/"
-PAYOUTS_DIR = "payouts/"
+CONTESTS_DIR = "data/contests/"
+MAX_ENTRIES_DIR = "data/max-entries/"
+PAYOUTS_DIR = "data/payouts/"
 
 if __name__ == "__main__":
     today = datetime.datetime.today().strftime("%m-%d-%Y")

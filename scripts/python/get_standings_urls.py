@@ -6,7 +6,7 @@ import sys
 
 ROWS_PER_FILE = 50
 URL_DIR = "tmp/urls/"
-CONTESTS_DIR = "contests/"
+CONTESTS_DIR = "data/contests/"
 standings_url = "https://draftkings.com/contest/exportfullstandingscsv/"
 
 if __name__ == "__main__":

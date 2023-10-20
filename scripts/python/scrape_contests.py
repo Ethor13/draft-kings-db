@@ -201,7 +201,7 @@ if __name__ == "__main__":
     ct_df, dg_df = get_contests_df(clt, Sport.NBA)
 
     if ct_df is not None:
-        ct_df.to_csv(f"contests/{today}.csv")
+        ct_df.to_csv(f"data/contests/{today}.csv")
         print("Successfully wrote contests to files")
     elif dg_df is None:
         print("No contests today")
@@ -214,19 +214,19 @@ if __name__ == "__main__":
         comp_df, game_df, player_df = get_draftables(clt, draft_group_ids)
         contest_df, lineups_df = get_contest_info(clt, contest_type_ids)
 
-        dg_df.to_csv(f"draft-groups/{today}.csv")
-        game_df.to_csv(f"draft-group-games/{today}.csv", index=False)
-        contest_df.to_csv(f"contest-types/{today}.csv")
-        lineups_df.to_csv(f"lineup-requirements/{today}.csv", index=False)
+        dg_df.to_csv(f"data/draft-groups/{today}.csv")
+        game_df.to_csv(f"data/draft-group-games/{today}.csv", index=False)
+        contest_df.to_csv(f"data/contest-types/{today}.csv")
+        lineups_df.to_csv(f"data/lineup-requirements/{today}.csv", index=False)
         print(
             "Successfully wrote draft groups, draft group games, contest types,"
             + " and lineup reqs to files"
         )
 
         if comp_df is not None:
-            comp_df.to_csv(f"competitions/{today}.csv")
+            comp_df.to_csv(f"data/competitions/{today}.csv")
         if player_df is not None:
-            player_df.to_csv(f"draftables/{today}.csv")
+            player_df.to_csv(f"data/draftables/{today}.csv")
 
         print("Draft Group Details successfully written to files")
     else:

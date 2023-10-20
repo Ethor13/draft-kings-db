@@ -5,8 +5,8 @@ import random
 
 TEMP_DIR = "tmp/"
 LOG_DIR = "logs/"
-CONTESTS_DIR = "contests/"
-PAYOUTS_DIR = "payouts/"
+CONTESTS_DIR = "data/contests/"
+PAYOUTS_DIR = "data/payouts/"
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.774.76",
     "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36",

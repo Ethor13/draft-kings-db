@@ -5,8 +5,8 @@ from datetime import timedelta
 import os
 
 DOWNLOAD_DIR = "tmp/downloads/"
-STANDINGS_DIR = "standings/"
-PERFORMANCE_DIR = "player-performances/"
+STANDINGS_DIR = "data/standings/"
+PERFORMANCE_DIR = "data/player-performances/"
 
 if __name__ == "__main__":
     two_days_ago = datetime.today() - timedelta(days=2)
