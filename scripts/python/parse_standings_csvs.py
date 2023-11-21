@@ -13,12 +13,12 @@ if __name__ == "__main__":
     date_dir = two_days_ago.strftime("%m-%d-%Y") + "/"
 
     # Catch up on missed contests
-    # available_contest_dates = os.listdir("contests/")
+    # available_contest_dates = os.listdir("data/contests/")
     # two_days_ago = None
     # idx = 0
     # while two_days_ago is None:
     #     d = available_contest_dates[idx].split(".")[0]
-    #     if not os.path.exists("standings/" + d):
+    #     if not os.path.exists("data/standings/" + d):
     #         two_days_ago = d
     #     idx += 1
     #     if idx == len(available_contest_dates):
@@ -79,7 +79,7 @@ if __name__ == "__main__":
             player_performances.to_csv(PERFORMANCE_DIR + f, index=False)
             successes += 1
 
-        except EmptyDataError as e:
+        except EmptyDataError:
             errors += 1
             pass
 

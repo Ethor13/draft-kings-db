@@ -19,7 +19,7 @@ if __name__ == "__main__":
     # idx = 0
     # while two_days_ago is None:
     #     d = available_contest_dates[idx].split(".")[0]
-    #     if not os.path.exists("standings/" + d):
+    #     if not os.path.exists("data/standings/" + d):
     #         two_days_ago = d
     #     idx += 1
     #     if idx == len(available_contest_dates):
