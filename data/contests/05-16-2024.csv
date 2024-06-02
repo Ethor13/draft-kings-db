@@ -1,0 +1,675 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+161648361,106805,3.0,False,False,True,False,True,NBA Showdown $5K Hot Shot [3 Entry Max] (DEN vs MIN),5000.0,NBA,2024-05-17 00:30:00+00:00,3.0,1981
+161648362,106805,40.0,False,False,True,False,True,NBA Showdown $10K Mid Range Jumper [Single Entry] (DEN vs MIN),10000.0,NBA,2024-05-17 00:30:00+00:00,40.0,291
+161648363,106805,100.0,False,False,True,False,True,NBA Showdown $5K Showtime [Single Entry] (DEN vs MIN),5000.0,NBA,2024-05-17 00:30:00+00:00,100.0,55
+161648364,106805,100.0,True,False,True,False,True,NBA Showdown Single Entry $100 Double Up (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,100.0,22
+161648365,106805,2.0,False,False,True,False,True,NBA Showdown $2K Elbow Shot [Single Entry] (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,2.0,1189
+161648366,106805,5.0,True,False,True,False,True,NBA Showdown $5 Double Up (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,5.0,459
+161648367,106805,2.0,True,False,True,False,True,NBA Showdown $2 Double Up (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,2.0,1149
+161648368,106805,50.0,False,False,True,False,True,NBA Showdown $2K Ankle Breaker [Single Entry] (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,50.0,45
+161648369,106805,0.0,False,False,True,False,True,NBA Showdown $4K Quarter Jukebox [Just $0.25!] (DEN vs MIN),4000.0,NBA,2024-05-17 00:30:00+00:00,0.25,19024
+161648370,106805,0.0,False,False,True,False,True,NBA Showdown $5K mini-MAX [150 Entry Max] (DEN vs MIN),5000.0,NBA,2024-05-17 00:30:00+00:00,0.5,11890
+161648371,106805,100.0,False,False,True,False,True,NBA Showdown $20K Showtime [Single Entry] (DEN vs MIN),20000.0,NBA,2024-05-17 00:30:00+00:00,100.0,222
+161648372,106805,27.0,False,False,True,False,True,NBA Showdown $3K Fast Break [Single Entry] (DEN vs MIN),3000.0,NBA,2024-05-17 00:30:00+00:00,27.0,129
+161648373,106805,12.0,False,False,True,False,True,NBA Showdown $8K Pick and Roll [Single Entry] (DEN vs MIN),8000.0,NBA,2024-05-17 00:30:00+00:00,12.0,784
+161648374,106805,12.0,False,False,True,False,True,NBA Showdown $2K Pick and Roll [Single Entry] (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,12.0,196
+161648375,106805,5.0,False,False,True,False,True,NBA Showdown $8K High Five [Single Entry] (DEN vs MIN),8000.0,NBA,2024-05-17 00:30:00+00:00,5.0,1902
+161648376,106805,5.0,False,False,True,False,True,NBA Showdown $2K High Five [Single Entry]  (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,5.0,475
+161648377,106805,1.0,False,False,True,False,True,NBA Showdown $2K Daily Dollar [Single Entry]  (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,1.0,2378
+161648378,106805,50.0,True,False,True,False,True,NBA Showdown Single Entry $50 Double Up (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,50.0,45
+161648379,106805,10.0,True,False,True,False,True,NBA Showdown Single Entry $10 Double Up (DEN vs MIN),1000.0,NBA,2024-05-17 00:30:00+00:00,10.0,114
+161648380,106805,5.0,True,False,True,False,True,NBA Showdown Single Entry $5 Double Up (DEN vs MIN),1000.0,NBA,2024-05-17 00:30:00+00:00,5.0,229
+161648381,106808,10.0,False,False,True,False,True,NBA In-Game $10K Pull Up Jumper [$2K to 1st] (2H DEN vs MIN),10000.0,NBA,2024-05-17 01:30:00+00:00,10.0,1176
+161648382,106808,27.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (2H DEN vs MIN),240.0,NBA,2024-05-17 01:30:00+00:00,27.0,10
+161648383,106808,50.0,False,False,True,False,True,NBA In-Game $400 Ankle Breaker [Single Entry] (2H DEN vs MIN),400.0,NBA,2024-05-17 01:30:00+00:00,50.0,9
+161648384,106808,3.0,False,False,True,False,True,NBA In-Game $100 Sharpshooter (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,3.0,39
+161648385,106808,1.0,False,False,True,False,True,NBA In-Game $300 And-One (2H DEN vs MIN),300.0,NBA,2024-05-17 01:30:00+00:00,1.0,356
+161648386,106808,300.0,False,False,True,False,True,NBA In-Game $1.35K 3-Ball [Single Entry] (2H DEN vs MIN),1350.0,NBA,2024-05-17 01:30:00+00:00,300.0,5
+161648387,106808,100.0,False,False,True,False,True,NBA In-Game $1K Showtime [Single Entry] (2H DEN vs MIN),1000.0,NBA,2024-05-17 01:30:00+00:00,100.0,11
+161648388,106808,12.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (2H DEN vs MIN),155.0,NBA,2024-05-17 01:30:00+00:00,12.0,15
+161648389,106808,0.0,False,False,True,False,True,NBA In-Game $125 Quarter Jukebox [Just $0.25!] (2H DEN vs MIN),125.0,NBA,2024-05-17 01:30:00+00:00,0.25,594
+161648390,106808,5.0,False,False,True,False,True,NBA In-Game $200 High Five [Single Entry] (2H DEN vs MIN),200.0,NBA,2024-05-17 01:30:00+00:00,5.0,47
+161648391,106809,5.0,False,False,True,False,True,NBA In-Game $100 High Five [Single Entry] (4Q DEN vs MIN),100.0,NBA,2024-05-17 01:50:00+00:00,5.0,23
+161648392,106809,10.0,False,False,True,False,True,NBA In-Game $200 Pull Up Jumper [$100 to 1st] (4Q DEN vs MIN),200.0,NBA,2024-05-17 01:50:00+00:00,10.0,23
+161648393,106809,0.0,False,False,True,False,True,NBA In-Game $20 Quarter Jukebox [Just $0.25!] (4Q DEN vs MIN),20.0,NBA,2024-05-17 01:50:00+00:00,0.25,95
+161648394,106809,1.0,False,False,True,False,True,NBA In-Game $50 And-One (4Q DEN vs MIN),50.0,NBA,2024-05-17 01:50:00+00:00,1.0,59
+161648607,106806,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161648608,106806,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (DEN vs MIN),54.0,NBA,2024-05-17 00:30:00+00:00,20.0,3
+161648609,106806,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (DEN vs MIN),300.0,NBA,2024-05-17 00:30:00+00:00,109.0,3
+161648610,106806,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (DEN vs MIN),1500.0,NBA,2024-05-17 00:30:00+00:00,530.0,3
+161648612,106806,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,5.0,4
+161648614,106806,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (DEN vs MIN),72.0,NBA,2024-05-17 00:30:00+00:00,20.0,4
+161648615,106806,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (DEN vs MIN),180.0,NBA,2024-05-17 00:30:00+00:00,50.0,4
+161648616,106806,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (DEN vs MIN),400.0,NBA,2024-05-17 00:30:00+00:00,109.0,4
+161648617,106806,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,530.0,4
+161648618,106806,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (DEN vs MIN),135.0,NBA,2024-05-17 00:30:00+00:00,50.0,3
+161648619,106806,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (DEN vs MIN)",3000.0,NBA,2024-05-17 00:30:00+00:00,1060.0,3
+161648620,106806,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (DEN vs MIN)",6000.0,NBA,2024-05-17 00:30:00+00:00,2120.0,3
+161648640,106807,1.0,False,False,True,False,True,NBA Single Stat $1K Winner Take All [Single Entry] (Points),1000.0,NBA,2024-05-17 00:30:00+00:00,1.0,1189
+161648682,106805,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (DEN vs MIN),500.0,NBA,2024-05-17 00:30:00+00:00,50.0,11
+161648683,106805,1.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648684,106805,3.0,True,False,True,False,False,Beginner NBA Showdown $3 Double Up (DEN vs MIN),60.0,NBA,2024-05-17 00:30:00+00:00,3.0,23
+161648685,106805,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $20] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,2.0,59
+161648686,106805,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $50] (DEN vs MIN),150.0,NBA,2024-05-17 00:30:00+00:00,5.0,35
+161648687,106805,50.0,False,False,True,False,False,NBA Showdown $50 Triple Up [Top 3 Win $150] (DEN vs MIN),450.0,NBA,2024-05-17 00:30:00+00:00,50.0,10
+161648688,106805,10.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (DEN vs MIN),300.0,NBA,2024-05-17 00:30:00+00:00,10.0,35
+161648689,106805,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648691,106805,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,10.0,11
+161648692,106805,3.0,True,False,True,False,False,Casual NBA Showdown $3 Double Up (DEN vs MIN),60.0,NBA,2024-05-17 00:30:00+00:00,3.0,23
+161648693,106805,1.0,True,False,True,False,False,Casual NBA Showdown $1 Double Up (DEN vs MIN),34.0,NBA,2024-05-17 00:30:00+00:00,1.0,39
+161648694,106805,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,1.0,31
+161648695,106805,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (DEN vs MIN),135.0,NBA,2024-05-17 00:30:00+00:00,5.0,31
+161648696,106805,10.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 9 Win $30] (DEN vs MIN),270.0,NBA,2024-05-17 00:30:00+00:00,10.0,31
+161648697,106805,25.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 9 Win $75] (DEN vs MIN),675.0,NBA,2024-05-17 00:30:00+00:00,25.0,31
+161648698,106805,26200.0,False,False,False,False,True,NBA Showdown $100K Heavy Hitter [Must Fill] (DEN vs MIN),100000.0,NBA,2024-05-17 00:30:00+00:00,26200.0,4
+161648699,106805,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648701,106805,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,5.0,23
+161648702,106805,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (DEN vs MIN),250.0,NBA,2024-05-17 00:30:00+00:00,25.0,11
+161648703,106805,250.0,True,False,True,False,False,NBA Showdown $250 Double Up (DEN vs MIN),2500.0,NBA,2024-05-17 00:30:00+00:00,250.0,11
+161648704,106805,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648705,106805,100.0,True,False,True,False,False,NBA Showdown $100 Double Up (DEN vs MIN),1000.0,NBA,2024-05-17 00:30:00+00:00,100.0,11
+161648706,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.1,297
+161648707,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.1,297
+161648708,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.1,297
+161648709,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.25,118
+161648710,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.25,118
+161648711,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.25,118
+161648712,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.5,59
+161648713,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.5,59
+161648714,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,1.0,29
+161648715,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,1.0,29
+161648716,106805,2.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,2.0,14
+161648717,106805,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.25,237
+161648718,106805,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.25,237
+161648719,106805,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.25,237
+161648720,106805,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.5,118
+161648721,106805,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.5,118
+161648722,106805,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.5,118
+161648723,106805,1.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,1.0,59
+161648724,106805,1.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,1.0,59
+161648725,106805,1.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,1.0,59
+161648726,106805,2.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,2.0,29
+161648727,106805,2.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,2.0,29
+161648728,106805,2.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,2.0,29
+161648729,106805,1.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,1.0,118
+161648730,106805,1.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,1.0,118
+161648731,106805,3.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,3.0,39
+161648732,106805,3.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,3.0,39
+161648733,106805,5.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,5.0,23
+161648734,106805,4.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [10x] (DEN vs MIN),250.0,NBA,2024-05-17 00:30:00+00:00,4.0,74
+161648735,106805,26200.0,False,False,False,False,True,NBA Showdown $75K Heavy Hitter [Must Fill] (DEN vs MIN),75000.0,NBA,2024-05-17 00:30:00+00:00,26200.0,3
+161648736,106805,0.0,False,False,True,False,True,NBA Showdown SUPERSat to TEN $20 French Slam (French) [2x] (DEN vs MIN),40.0,NBA,2024-05-17 00:30:00+00:00,0.5,95
+161648737,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (French) (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648738,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (French) (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.25,95
+161648739,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (French) (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.1,237
+161648740,106805,75.0,False,False,True,False,True,NBA Showdown Satellite to TEN $333 Clay Smash (French) (DEN vs MIN),333.0,NBA,2024-05-17 00:30:00+00:00,75.0,5
+161648741,106805,9.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (DEN vs MIN),555.0,NBA,2024-05-17 00:30:00+00:00,9.0,72
+161648742,106805,34.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (DEN vs MIN),555.0,NBA,2024-05-17 00:30:00+00:00,34.0,19
+161648743,106805,90.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (DEN vs MIN),555.0,NBA,2024-05-17 00:30:00+00:00,90.0,7
+161648744,106805,0.0,False,False,True,False,False,NBA Showdown Satellite to CFL $15 Kickoff Special (6-6-2024) (DEN vs MIN),15.0,NBA,2024-05-17 00:30:00+00:00,0.5,35
+161648745,106805,0.0,False,False,True,False,False,NBA Showdown Satellite to CFL $15 Kickoff Special (6-6-2024) (DEN vs MIN),15.0,NBA,2024-05-17 00:30:00+00:00,0.1,178
+161648746,106805,37.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $350 Qualifier (DEN vs MIN),350.0,NBA,2024-05-17 00:30:00+00:00,37.0,11
+161648747,106805,17.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $160 Qualifier (DEN vs MIN),160.0,NBA,2024-05-17 00:30:00+00:00,17.0,11
+161648748,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $60 Qualifier (DEN vs MIN),60.0,NBA,2024-05-17 00:30:00+00:00,0.5,142
+161648749,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $60 Qualifier (DEN vs MIN),60.0,NBA,2024-05-17 00:30:00+00:00,1.0,71
+161648750,106805,2.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $60 Qualifier (DEN vs MIN),60.0,NBA,2024-05-17 00:30:00+00:00,2.0,35
+161648751,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $37 Qualifier (DEN vs MIN),37.0,NBA,2024-05-17 00:30:00+00:00,0.1,439
+161648752,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $37 Qualifier (DEN vs MIN),37.0,NBA,2024-05-17 00:30:00+00:00,0.25,175
+161648753,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to NHL $24 Finals Face-Off (Game 1 Finals) (DEN vs MIN),24.0,NBA,2024-05-17 00:30:00+00:00,0.25,114
+161648754,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to NHL $24 Finals Face-Off (Game 1 Finals) (DEN vs MIN),24.0,NBA,2024-05-17 00:30:00+00:00,1.0,28
+161648755,106805,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [5x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.1,1189
+161648756,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.1,237
+161648757,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.1,237
+161648758,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.1,237
+161648759,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.1,237
+161648760,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.25,95
+161648761,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.25,95
+161648762,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.25,95
+161648763,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.25,95
+161648764,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648765,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648766,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648767,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648768,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648769,106805,9.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $4M Monster Millionaire (DEN vs MIN),555.0,NBA,2024-05-17 00:30:00+00:00,9.0,72
+161648770,106805,90.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $4M Monster Millionaire (DEN vs MIN),555.0,NBA,2024-05-17 00:30:00+00:00,90.0,7
+161648771,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.25,237
+161648772,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.25,237
+161648773,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.25,237
+161648774,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.25,237
+161648775,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.25,237
+161648776,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.25,237
+161648777,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.25,475
+161648778,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.25,475
+161648779,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.25,475
+161648780,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.25,475
+161648781,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.25,475
+161648782,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.25,475
+161648783,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.1,594
+161648784,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.1,594
+161648785,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.1,594
+161648786,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.1,594
+161648787,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.1,594
+161648788,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,0.1,594
+161648789,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.1,1189
+161648790,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.1,1189
+161648791,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.1,1189
+161648792,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.1,1189
+161648793,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.1,1189
+161648794,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,0.1,1189
+161648795,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-16 UFL $20 Championship Special (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.1,237
+161648796,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-16 UFL $20 Championship Special (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,0.25,95
+161648797,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to 6-16 UFL $20 Championship Special (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,1.0,23
+161648798,106805,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to 6-16 UFL $20 Championship Special [2x] (DEN vs MIN),40.0,NBA,2024-05-17 00:30:00+00:00,0.5,95
+161648799,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.1,297
+161648800,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.1,297
+161648801,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.1,297
+161648802,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.25,118
+161648803,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.25,118
+161648804,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.25,118
+161648805,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.5,59
+161648806,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.5,59
+161648807,106805,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,0.5,59
+161648808,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,1.0,29
+161648809,106805,1.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,1.0,29
+161648810,106805,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to 6-1 $25 UFC 302 Special [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,1.0,59
+161648811,106805,3.0,False,False,True,False,True,NBA Showdown SUPERSatellite to 6-1 $25 UFC 302 Special [2x] (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,3.0,19
+161648812,106805,90.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $555 UFC 302 Knockout Special (DEN vs MIN),555.0,NBA,2024-05-17 00:30:00+00:00,90.0,7
+161648813,106805,0.0,False,False,True,False,False,NBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (DEN vs MIN),15.0,NBA,2024-05-17 00:30:00+00:00,0.1,178
+161648814,106805,0.0,False,False,True,False,False,NBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (DEN vs MIN),15.0,NBA,2024-05-17 00:30:00+00:00,0.25,71
+161648815,106805,1.0,False,False,True,False,False,NBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (DEN vs MIN),15.0,NBA,2024-05-17 00:30:00+00:00,1.0,17
+161648817,106808,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H DEN vs MIN),5.4,NBA,2024-05-17 01:30:00+00:00,2.0,3
+161648818,106808,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H DEN vs MIN),27.0,NBA,2024-05-17 01:30:00+00:00,10.0,3
+161648819,106808,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H DEN vs MIN),13.5,NBA,2024-05-17 01:30:00+00:00,5.0,3
+161648820,106808,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H DEN vs MIN),2.7,NBA,2024-05-17 01:30:00+00:00,1.0,3
+161648821,106808,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H DEN vs MIN),9.0,NBA,2024-05-17 01:30:00+00:00,1.0,10
+161648822,106808,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H DEN vs MIN),4.5,NBA,2024-05-17 01:30:00+00:00,1.0,5
+161648823,106808,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H DEN vs MIN),2.7,NBA,2024-05-17 01:30:00+00:00,1.0,3
+161648824,106808,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H DEN vs MIN),2.7,NBA,2024-05-17 01:30:00+00:00,1.0,3
+161648825,106808,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H DEN vs MIN),180.0,NBA,2024-05-17 01:30:00+00:00,20.0,10
+161648826,106808,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H DEN vs MIN),90.0,NBA,2024-05-17 01:30:00+00:00,10.0,10
+161648827,106808,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H DEN vs MIN),45.0,NBA,2024-05-17 01:30:00+00:00,5.0,10
+161648828,106808,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H DEN vs MIN),27.0,NBA,2024-05-17 01:30:00+00:00,3.0,10
+161648829,106808,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H DEN vs MIN),9.0,NBA,2024-05-17 01:30:00+00:00,1.0,10
+161648830,106808,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H DEN vs MIN),13.5,NBA,2024-05-17 01:30:00+00:00,5.0,3
+161648831,106808,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H DEN vs MIN),5.4,NBA,2024-05-17 01:30:00+00:00,2.0,3
+161648832,106808,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H DEN vs MIN),5.4,NBA,2024-05-17 01:30:00+00:00,2.0,3
+161648833,106808,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H DEN vs MIN),5.4,NBA,2024-05-17 01:30:00+00:00,2.0,3
+161648834,106808,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H DEN vs MIN),9.0,NBA,2024-05-17 01:30:00+00:00,2.0,5
+161648835,106808,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H DEN vs MIN),18.0,NBA,2024-05-17 01:30:00+00:00,2.0,10
+161648836,106808,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H DEN vs MIN),13.5,NBA,2024-05-17 01:30:00+00:00,5.0,3
+161648837,106808,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H DEN vs MIN),22.5,NBA,2024-05-17 01:30:00+00:00,5.0,5
+161648838,106808,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H DEN vs MIN),45.0,NBA,2024-05-17 01:30:00+00:00,5.0,10
+161648839,106808,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H DEN vs MIN),45.0,NBA,2024-05-17 01:30:00+00:00,10.0,5
+161648840,106808,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H DEN vs MIN),27.0,NBA,2024-05-17 01:30:00+00:00,10.0,3
+161648841,106808,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H DEN vs MIN),54.0,NBA,2024-05-17 01:30:00+00:00,20.0,3
+161648842,106808,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H DEN vs MIN),225.0,NBA,2024-05-17 01:30:00+00:00,50.0,5
+161648843,106808,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H DEN vs MIN),135.0,NBA,2024-05-17 01:30:00+00:00,50.0,3
+161648844,106808,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H DEN vs MIN),300.0,NBA,2024-05-17 01:30:00+00:00,109.0,3
+161648845,106808,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H DEN vs MIN),450.0,NBA,2024-05-17 01:30:00+00:00,162.0,3
+161648846,106808,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H DEN vs MIN),1500.0,NBA,2024-05-17 01:30:00+00:00,530.0,3
+161648847,106808,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H DEN vs MIN)",3000.0,NBA,2024-05-17 01:30:00+00:00,1060.0,3
+161648848,106808,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H DEN vs MIN)",15000.0,NBA,2024-05-17 01:30:00+00:00,5300.0,3
+161648849,106808,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H DEN vs MIN)",30000.0,NBA,2024-05-17 01:30:00+00:00,10600.0,3
+161648850,106808,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H DEN vs MIN),72.0,NBA,2024-05-17 01:30:00+00:00,20.0,4
+161648851,106808,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H DEN vs MIN),90.0,NBA,2024-05-17 01:30:00+00:00,10.0,10
+161648852,106808,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H DEN vs MIN),9.0,NBA,2024-05-17 01:30:00+00:00,1.0,10
+161648853,106808,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H DEN vs MIN),27.0,NBA,2024-05-17 01:30:00+00:00,3.0,10
+161648854,106808,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H DEN vs MIN),45.0,NBA,2024-05-17 01:30:00+00:00,5.0,10
+161648855,106808,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H DEN vs MIN)",20000.0,NBA,2024-05-17 01:30:00+00:00,5300.0,4
+161648856,106808,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H DEN vs MIN)",4000.0,NBA,2024-05-17 01:30:00+00:00,1060.0,4
+161648857,106808,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H DEN vs MIN),2000.0,NBA,2024-05-17 01:30:00+00:00,530.0,4
+161648858,106808,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H DEN vs MIN),400.0,NBA,2024-05-17 01:30:00+00:00,109.0,4
+161648859,106808,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H DEN vs MIN),180.0,NBA,2024-05-17 01:30:00+00:00,50.0,4
+161648860,106808,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H DEN vs MIN),72.0,NBA,2024-05-17 01:30:00+00:00,20.0,4
+161648861,106808,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H DEN vs MIN),36.0,NBA,2024-05-17 01:30:00+00:00,10.0,4
+161648862,106808,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H DEN vs MIN),450.0,NBA,2024-05-17 01:30:00+00:00,50.0,10
+161648863,106808,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H DEN vs MIN),9.0,NBA,2024-05-17 01:30:00+00:00,1.0,10
+161648864,106808,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H DEN vs MIN),45.0,NBA,2024-05-17 01:30:00+00:00,5.0,10
+161648865,106808,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H DEN vs MIN),600.0,NBA,2024-05-17 01:30:00+00:00,109.0,6
+161648866,106808,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H DEN vs MIN),18.0,NBA,2024-05-17 01:30:00+00:00,2.0,10
+161648867,106808,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H DEN vs MIN),180.0,NBA,2024-05-17 01:30:00+00:00,20.0,10
+161648868,106808,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H DEN vs MIN),90.0,NBA,2024-05-17 01:30:00+00:00,10.0,10
+161648869,106808,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H DEN vs MIN),90.0,NBA,2024-05-17 01:30:00+00:00,5.0,20
+161648870,106808,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H DEN vs MIN),180.0,NBA,2024-05-17 01:30:00+00:00,10.0,20
+161648871,106808,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H DEN vs MIN),360.0,NBA,2024-05-17 01:30:00+00:00,20.0,20
+161648872,106808,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H DEN vs MIN),36.0,NBA,2024-05-17 01:30:00+00:00,2.0,20
+161648873,106808,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H DEN vs MIN),18.0,NBA,2024-05-17 01:30:00+00:00,1.0,20
+161648874,106808,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H DEN vs MIN),4000.0,NBA,2024-05-17 01:30:00+00:00,1060.0,4
+161648875,106808,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H DEN vs MIN),1000.0,NBA,2024-05-17 01:30:00+00:00,267.0,4
+161648876,106808,100.0,False,False,False,False,True,NBA In-Game $100 Winner Take All [$460 to 1st] (Must Fill) (2H DEN vs MIN),460.0,NBA,2024-05-17 01:30:00+00:00,100.0,5
+161648877,106808,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (2H DEN vs MIN),25.0,NBA,2024-05-17 01:30:00+00:00,9.25,3
+161648878,106808,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (2H DEN vs MIN),25.0,NBA,2024-05-17 01:30:00+00:00,9.25,3
+161648879,106808,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (2H DEN vs MIN),25.0,NBA,2024-05-17 01:30:00+00:00,9.25,3
+161648880,106808,7.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (2H DEN vs MIN),20.0,NBA,2024-05-17 01:30:00+00:00,7.0,3
+161648881,106808,7.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (2H DEN vs MIN),20.0,NBA,2024-05-17 01:30:00+00:00,7.0,3
+161648882,106808,36.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (2H DEN vs MIN),98.0,NBA,2024-05-17 01:30:00+00:00,36.0,3
+161648883,106808,36.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (2H DEN vs MIN),98.0,NBA,2024-05-17 01:30:00+00:00,36.0,3
+161648884,106808,164.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (2H DEN vs MIN),164.0,NBA,2024-05-17 01:30:00+00:00,60.0,3
+161648885,106808,164.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (2H DEN vs MIN),164.0,NBA,2024-05-17 01:30:00+00:00,60.0,3
+161648886,106809,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (4Q DEN vs MIN),5.4,NBA,2024-05-17 01:50:00+00:00,2.0,3
+161648887,106809,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (4Q DEN vs MIN),27.0,NBA,2024-05-17 01:50:00+00:00,10.0,3
+161648888,106809,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (4Q DEN vs MIN),13.5,NBA,2024-05-17 01:50:00+00:00,5.0,3
+161648889,106809,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (4Q DEN vs MIN),2.7,NBA,2024-05-17 01:50:00+00:00,1.0,3
+161648890,106809,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (4Q DEN vs MIN),9.0,NBA,2024-05-17 01:50:00+00:00,1.0,10
+161648891,106809,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (4Q DEN vs MIN),4.5,NBA,2024-05-17 01:50:00+00:00,1.0,5
+161648892,106809,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (4Q DEN vs MIN),2.7,NBA,2024-05-17 01:50:00+00:00,1.0,3
+161648893,106809,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (4Q DEN vs MIN),2.7,NBA,2024-05-17 01:50:00+00:00,1.0,3
+161648894,106809,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (4Q DEN vs MIN),180.0,NBA,2024-05-17 01:50:00+00:00,20.0,10
+161648895,106809,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (4Q DEN vs MIN),90.0,NBA,2024-05-17 01:50:00+00:00,10.0,10
+161648896,106809,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (4Q DEN vs MIN),45.0,NBA,2024-05-17 01:50:00+00:00,5.0,10
+161648897,106809,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (4Q DEN vs MIN),27.0,NBA,2024-05-17 01:50:00+00:00,3.0,10
+161648898,106809,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (4Q DEN vs MIN),9.0,NBA,2024-05-17 01:50:00+00:00,1.0,10
+161648899,106809,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (4Q DEN vs MIN),13.5,NBA,2024-05-17 01:50:00+00:00,5.0,3
+161648900,106809,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (4Q DEN vs MIN),5.4,NBA,2024-05-17 01:50:00+00:00,2.0,3
+161648901,106809,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (4Q DEN vs MIN),5.4,NBA,2024-05-17 01:50:00+00:00,2.0,3
+161648902,106809,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (4Q DEN vs MIN),5.4,NBA,2024-05-17 01:50:00+00:00,2.0,3
+161648903,106809,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (4Q DEN vs MIN),9.0,NBA,2024-05-17 01:50:00+00:00,2.0,5
+161648904,106809,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (4Q DEN vs MIN),18.0,NBA,2024-05-17 01:50:00+00:00,2.0,10
+161648905,106809,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (4Q DEN vs MIN),13.5,NBA,2024-05-17 01:50:00+00:00,5.0,3
+161648906,106809,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (4Q DEN vs MIN),22.5,NBA,2024-05-17 01:50:00+00:00,5.0,5
+161648907,106809,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (4Q DEN vs MIN),45.0,NBA,2024-05-17 01:50:00+00:00,5.0,10
+161648908,106809,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (4Q DEN vs MIN),45.0,NBA,2024-05-17 01:50:00+00:00,10.0,5
+161648909,106809,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (4Q DEN vs MIN),27.0,NBA,2024-05-17 01:50:00+00:00,10.0,3
+161648910,106809,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (4Q DEN vs MIN),54.0,NBA,2024-05-17 01:50:00+00:00,20.0,3
+161648911,106809,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (4Q DEN vs MIN),225.0,NBA,2024-05-17 01:50:00+00:00,50.0,5
+161648912,106809,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (4Q DEN vs MIN),135.0,NBA,2024-05-17 01:50:00+00:00,50.0,3
+161648913,106809,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (4Q DEN vs MIN),300.0,NBA,2024-05-17 01:50:00+00:00,109.0,3
+161648914,106809,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (4Q DEN vs MIN),450.0,NBA,2024-05-17 01:50:00+00:00,162.0,3
+161648915,106809,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (4Q DEN vs MIN),1500.0,NBA,2024-05-17 01:50:00+00:00,530.0,3
+161648916,106809,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (4Q DEN vs MIN)",3000.0,NBA,2024-05-17 01:50:00+00:00,1060.0,3
+161648917,106809,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (4Q DEN vs MIN)",15000.0,NBA,2024-05-17 01:50:00+00:00,5300.0,3
+161648918,106809,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (4Q DEN vs MIN)",30000.0,NBA,2024-05-17 01:50:00+00:00,10600.0,3
+161648919,106809,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (4Q DEN vs MIN),72.0,NBA,2024-05-17 01:50:00+00:00,20.0,4
+161648920,106809,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (4Q DEN vs MIN),90.0,NBA,2024-05-17 01:50:00+00:00,10.0,10
+161648921,106809,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (4Q DEN vs MIN),9.0,NBA,2024-05-17 01:50:00+00:00,1.0,10
+161648922,106809,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (4Q DEN vs MIN),27.0,NBA,2024-05-17 01:50:00+00:00,3.0,10
+161648923,106809,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (4Q DEN vs MIN),45.0,NBA,2024-05-17 01:50:00+00:00,5.0,10
+161648924,106809,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (4Q DEN vs MIN)",20000.0,NBA,2024-05-17 01:50:00+00:00,5300.0,4
+161648925,106809,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (4Q DEN vs MIN)",4000.0,NBA,2024-05-17 01:50:00+00:00,1060.0,4
+161648926,106809,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (4Q DEN vs MIN),2000.0,NBA,2024-05-17 01:50:00+00:00,530.0,4
+161648927,106809,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (4Q DEN vs MIN),400.0,NBA,2024-05-17 01:50:00+00:00,109.0,4
+161648928,106809,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (4Q DEN vs MIN),180.0,NBA,2024-05-17 01:50:00+00:00,50.0,4
+161648929,106809,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q DEN vs MIN),72.0,NBA,2024-05-17 01:50:00+00:00,20.0,4
+161648930,106809,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q DEN vs MIN),36.0,NBA,2024-05-17 01:50:00+00:00,10.0,4
+161648931,106809,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (4Q DEN vs MIN),450.0,NBA,2024-05-17 01:50:00+00:00,50.0,10
+161648932,106809,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (4Q DEN vs MIN),9.0,NBA,2024-05-17 01:50:00+00:00,1.0,10
+161648933,106809,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (4Q DEN vs MIN),45.0,NBA,2024-05-17 01:50:00+00:00,5.0,10
+161648934,106809,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (4Q DEN vs MIN),600.0,NBA,2024-05-17 01:50:00+00:00,109.0,6
+161648935,106809,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (4Q DEN vs MIN),18.0,NBA,2024-05-17 01:50:00+00:00,2.0,10
+161648936,106809,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q DEN vs MIN),180.0,NBA,2024-05-17 01:50:00+00:00,20.0,10
+161648937,106809,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q DEN vs MIN),90.0,NBA,2024-05-17 01:50:00+00:00,10.0,10
+161648938,106809,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (4Q DEN vs MIN),90.0,NBA,2024-05-17 01:50:00+00:00,5.0,20
+161648939,106809,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q DEN vs MIN),180.0,NBA,2024-05-17 01:50:00+00:00,10.0,20
+161648940,106809,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q DEN vs MIN),360.0,NBA,2024-05-17 01:50:00+00:00,20.0,20
+161648941,106809,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (4Q DEN vs MIN),36.0,NBA,2024-05-17 01:50:00+00:00,2.0,20
+161648942,106809,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (4Q DEN vs MIN),18.0,NBA,2024-05-17 01:50:00+00:00,1.0,20
+161648943,106809,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (4Q DEN vs MIN),4000.0,NBA,2024-05-17 01:50:00+00:00,1060.0,4
+161648944,106809,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (4Q DEN vs MIN),1000.0,NBA,2024-05-17 01:50:00+00:00,267.0,4
+161648945,106809,100.0,False,False,False,False,True,NBA In-Game $100 Winner Take All [$460 to 1st] (Must Fill) (4Q DEN vs MIN),460.0,NBA,2024-05-17 01:50:00+00:00,100.0,5
+161648946,106809,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (4Q DEN vs MIN),25.0,NBA,2024-05-17 01:50:00+00:00,9.25,3
+161648947,106809,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (4Q DEN vs MIN),25.0,NBA,2024-05-17 01:50:00+00:00,9.25,3
+161648948,106809,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (4Q DEN vs MIN),25.0,NBA,2024-05-17 01:50:00+00:00,9.25,3
+161648949,106809,7.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (4Q DEN vs MIN),20.0,NBA,2024-05-17 01:50:00+00:00,7.0,3
+161648950,106809,7.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (4Q DEN vs MIN),20.0,NBA,2024-05-17 01:50:00+00:00,7.0,3
+161648951,106809,36.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (4Q DEN vs MIN),98.0,NBA,2024-05-17 01:50:00+00:00,36.0,3
+161648952,106809,36.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (4Q DEN vs MIN),98.0,NBA,2024-05-17 01:50:00+00:00,36.0,3
+161648953,106809,164.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (4Q DEN vs MIN),164.0,NBA,2024-05-17 01:50:00+00:00,60.0,3
+161648954,106809,164.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (4Q DEN vs MIN),164.0,NBA,2024-05-17 01:50:00+00:00,60.0,3
+161648956,106805,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (DEN vs MIN),54.0,NBA,2024-05-17 00:30:00+00:00,20.0,3
+161648957,106805,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (DEN vs MIN),135.0,NBA,2024-05-17 00:30:00+00:00,50.0,3
+161648958,106805,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161648959,106805,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (DEN vs MIN),13.5,NBA,2024-05-17 00:30:00+00:00,5.0,3
+161648960,106805,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (DEN vs MIN),2.7,NBA,2024-05-17 00:30:00+00:00,1.0,3
+161648961,106805,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (DEN vs MIN)",20000.0,NBA,2024-05-17 00:30:00+00:00,5300.0,4
+161648962,106805,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (DEN vs MIN)",4000.0,NBA,2024-05-17 00:30:00+00:00,1060.0,4
+161648963,106805,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,530.0,4
+161648964,106805,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (DEN vs MIN),600.0,NBA,2024-05-17 00:30:00+00:00,162.0,4
+161648965,106805,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (DEN vs MIN),400.0,NBA,2024-05-17 00:30:00+00:00,109.0,4
+161648966,106805,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (DEN vs MIN),180.0,NBA,2024-05-17 00:30:00+00:00,50.0,4
+161648967,106805,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (DEN vs MIN),360.0,NBA,2024-05-17 00:30:00+00:00,20.0,20
+161648968,106805,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (DEN vs MIN),180.0,NBA,2024-05-17 00:30:00+00:00,20.0,10
+161648969,106805,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (DEN vs MIN),72.0,NBA,2024-05-17 00:30:00+00:00,20.0,4
+161648970,106805,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (DEN vs MIN),72.0,NBA,2024-05-17 00:30:00+00:00,20.0,4
+161648971,106805,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs MIN),180.0,NBA,2024-05-17 00:30:00+00:00,10.0,20
+161648972,106805,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs MIN),90.0,NBA,2024-05-17 00:30:00+00:00,10.0,10
+161648973,106805,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs MIN),90.0,NBA,2024-05-17 00:30:00+00:00,10.0,10
+161648974,106805,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,10.0,4
+161648975,106805,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,10.0,4
+161648976,106805,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,10.0,4
+161648977,106805,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (DEN vs MIN),90.0,NBA,2024-05-17 00:30:00+00:00,5.0,20
+161648978,106805,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (DEN vs MIN),90.0,NBA,2024-05-17 00:30:00+00:00,5.0,20
+161648979,106805,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,5.0,10
+161648980,106805,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,5.0,10
+161648981,106805,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,5.0,10
+161648982,106805,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,2.0,20
+161648983,106805,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,2.0,20
+161648984,106805,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,2.0,10
+161648985,106805,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,2.0,10
+161648986,106805,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,2.0,10
+161648987,106805,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,1.0,20
+161648988,106805,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,1.0,20
+161648989,106805,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,1.0,10
+161648990,106805,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,1.0,10
+161648991,106805,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,1.0,10
+161648992,106805,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (DEN vs MIN),180.0,NBA,2024-05-17 00:30:00+00:00,50.0,4
+161648993,106805,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (DEN vs MIN),72.0,NBA,2024-05-17 00:30:00+00:00,20.0,4
+161648994,106805,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (DEN vs MIN),90.0,NBA,2024-05-17 00:30:00+00:00,10.0,10
+161648995,106805,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,5.0,10
+161648996,106805,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,3.0,10
+161648997,106805,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,1.0,10
+161648998,106805,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,10.0,5
+161648999,106805,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (DEN vs MIN),22.5,NBA,2024-05-17 00:30:00+00:00,5.0,5
+161649000,106805,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (DEN vs MIN),13.5,NBA,2024-05-17 00:30:00+00:00,5.0,3
+161649001,106805,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,2.0,5
+161649002,106805,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (DEN vs MIN),5.4,NBA,2024-05-17 00:30:00+00:00,2.0,3
+161649003,106805,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (DEN vs MIN),4.5,NBA,2024-05-17 00:30:00+00:00,1.0,5
+161649004,106805,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (DEN vs MIN)",30000.0,NBA,2024-05-17 00:30:00+00:00,10600.0,3
+161649005,106805,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (DEN vs MIN)",15000.0,NBA,2024-05-17 00:30:00+00:00,5300.0,3
+161649006,106805,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (DEN vs MIN)",3000.0,NBA,2024-05-17 00:30:00+00:00,1060.0,3
+161649007,106805,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (DEN vs MIN),1500.0,NBA,2024-05-17 00:30:00+00:00,530.0,3
+161649009,106805,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (DEN vs MIN),300.0,NBA,2024-05-17 00:30:00+00:00,109.0,3
+161649010,106805,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (DEN vs MIN),300.0,NBA,2024-05-17 00:30:00+00:00,109.0,3
+161649011,106805,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (DEN vs MIN),225.0,NBA,2024-05-17 00:30:00+00:00,50.0,5
+161649012,106805,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (DEN vs MIN),135.0,NBA,2024-05-17 00:30:00+00:00,50.0,3
+161649013,106805,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (DEN vs MIN),90.0,NBA,2024-05-17 00:30:00+00:00,20.0,5
+161649014,106805,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (DEN vs MIN),90.0,NBA,2024-05-17 00:30:00+00:00,20.0,5
+161649015,106805,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (DEN vs MIN),54.0,NBA,2024-05-17 00:30:00+00:00,20.0,3
+161649016,106805,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (DEN vs MIN),54.0,NBA,2024-05-17 00:30:00+00:00,20.0,3
+161649017,106805,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (DEN vs MIN),54.0,NBA,2024-05-17 00:30:00+00:00,20.0,3
+161649018,106805,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (DEN vs MIN),90.0,NBA,2024-05-17 00:30:00+00:00,10.0,10
+161649019,106805,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,10.0,5
+161649020,106805,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,10.0,5
+161649021,106805,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161649022,106805,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161649023,106805,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161649024,106805,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,5.0,10
+161649025,106805,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,5.0,10
+161649026,106805,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (DEN vs MIN),22.5,NBA,2024-05-17 00:30:00+00:00,5.0,5
+161649027,106805,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (DEN vs MIN),22.5,NBA,2024-05-17 00:30:00+00:00,5.0,5
+161649028,106805,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (DEN vs MIN),22.5,NBA,2024-05-17 00:30:00+00:00,5.0,5
+161649029,106805,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (DEN vs MIN),13.5,NBA,2024-05-17 00:30:00+00:00,5.0,3
+161649030,106805,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (DEN vs MIN),13.5,NBA,2024-05-17 00:30:00+00:00,5.0,3
+161649031,106805,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (DEN vs MIN),13.5,NBA,2024-05-17 00:30:00+00:00,5.0,3
+161649032,106805,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,2.0,20
+161649033,106805,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,2.0,20
+161649034,106805,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,2.0,10
+161649035,106805,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,2.0,10
+161649036,106805,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,2.0,10
+161649037,106805,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,2.0,5
+161649038,106805,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,2.0,5
+161649039,106805,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,2.0,5
+161649040,106805,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (DEN vs MIN),5.4,NBA,2024-05-17 00:30:00+00:00,2.0,3
+161649041,106805,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (DEN vs MIN),5.4,NBA,2024-05-17 00:30:00+00:00,2.0,3
+161649042,106805,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (DEN vs MIN),5.4,NBA,2024-05-17 00:30:00+00:00,2.0,3
+161649043,106805,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,1.0,10
+161649044,106805,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (DEN vs MIN),4.5,NBA,2024-05-17 00:30:00+00:00,1.0,5
+161649045,106805,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (DEN vs MIN),2.7,NBA,2024-05-17 00:30:00+00:00,1.0,3
+161649046,106805,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (DEN vs MIN),2.7,NBA,2024-05-17 00:30:00+00:00,1.0,3
+161649047,106805,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (DEN vs MIN),600.0,NBA,2024-05-17 00:30:00+00:00,109.0,6
+161649048,106805,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (DEN vs MIN)",40000.0,NBA,2024-05-17 00:30:00+00:00,10600.0,4
+161649049,106805,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (DEN vs MIN)",40000.0,NBA,2024-05-17 00:30:00+00:00,10600.0,4
+161649050,106805,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (DEN vs MIN)",40000.0,NBA,2024-05-17 00:30:00+00:00,10600.0,4
+161649051,106805,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (DEN vs MIN),180.0,NBA,2024-05-17 00:30:00+00:00,50.0,4
+161649052,106805,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (DEN vs MIN),72.0,NBA,2024-05-17 00:30:00+00:00,20.0,4
+161649053,106805,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (DEN vs MIN),90.0,NBA,2024-05-17 00:30:00+00:00,10.0,10
+161649054,106805,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,5.0,10
+161649055,106805,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,3.0,10
+161649056,106805,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (DEN vs MIN),10.8,NBA,2024-05-17 00:30:00+00:00,3.0,4
+161649057,106805,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,1.0,10
+161649058,106805,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (DEN vs MIN),135.0,NBA,2024-05-17 00:30:00+00:00,50.0,3
+161649059,106805,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (DEN vs MIN),54.0,NBA,2024-05-17 00:30:00+00:00,20.0,3
+161649060,106805,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (DEN vs MIN),45.0,NBA,2024-05-17 00:30:00+00:00,10.0,5
+161649061,106805,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161649062,106805,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,2.0,5
+161649063,106805,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (DEN vs MIN),5.4,NBA,2024-05-17 00:30:00+00:00,2.0,3
+161649064,106805,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (DEN vs MIN),500.0,NBA,2024-05-17 00:30:00+00:00,109.0,5
+161649065,106805,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (DEN vs MIN),100.0,NBA,2024-05-17 00:30:00+00:00,10.0,11
+161649066,106805,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (DEN vs MIN),250.0,NBA,2024-05-17 00:30:00+00:00,25.0,11
+161649067,106805,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (DEN vs MIN),500.0,NBA,2024-05-17 00:30:00+00:00,50.0,11
+161649068,106805,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (DEN vs MIN),50.0,NBA,2024-05-17 00:30:00+00:00,5.0,11
+161649069,106805,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (DEN vs MIN),30.0,NBA,2024-05-17 00:30:00+00:00,3.0,11
+161649070,106805,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (DEN vs MIN),10.0,NBA,2024-05-17 00:30:00+00:00,1.0,11
+161649071,106805,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (DEN vs MIN),500.0,NBA,2024-05-17 00:30:00+00:00,25.0,22
+161649072,106805,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (DEN vs MIN),1000.0,NBA,2024-05-17 00:30:00+00:00,50.0,22
+161649073,106805,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (DEN vs MIN),4000.0,NBA,2024-05-17 00:30:00+00:00,1060.0,4
+161649074,106805,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (DEN vs MIN),1000.0,NBA,2024-05-17 00:30:00+00:00,267.0,4
+161649075,106805,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (DEN vs MIN)",1500.0,NBA,2024-05-17 00:30:00+00:00,408.0,4
+161649076,106805,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (DEN vs MIN),10.99,NBA,2024-05-17 00:30:00+00:00,4.0,3
+161649077,106805,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (DEN vs MIN),10.99,NBA,2024-05-17 00:30:00+00:00,4.0,3
+161649078,106805,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (DEN vs MIN),10.99,NBA,2024-05-17 00:30:00+00:00,4.0,3
+161649079,106805,201.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $4M Monster Millionaire [Must Fill] (DEN vs MIN),555.0,NBA,2024-05-17 00:30:00+00:00,201.0,3
+161649080,106805,10.0,False,False,False,False,True,NBA Showdown Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,9.25,3
+161649081,106805,10.0,False,False,False,False,True,NBA Showdown Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,9.25,3
+161649082,106805,8.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire [Must Fill] (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,7.4,3
+161649083,106805,8.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire [Must Fill] (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,7.4,3
+161649084,106805,7.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,7.0,3
+161649085,106805,7.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (DEN vs MIN),20.0,NBA,2024-05-17 00:30:00+00:00,7.0,3
+161649086,106805,36.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (DEN vs MIN),98.0,NBA,2024-05-17 00:30:00+00:00,36.0,3
+161649087,106805,36.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (DEN vs MIN),98.0,NBA,2024-05-17 00:30:00+00:00,36.0,3
+161649088,106805,164.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (DEN vs MIN),164.0,NBA,2024-05-17 00:30:00+00:00,60.0,3
+161649089,106805,164.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (DEN vs MIN),164.0,NBA,2024-05-17 00:30:00+00:00,60.0,3
+161649090,106805,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,9.25,3
+161649091,106805,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,9.25,3
+161649092,106805,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,9.25,3
+161649093,106805,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,9.25,3
+161649097,106808,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H DEN vs MIN),20.0,NBA,2024-05-17 01:30:00+00:00,1.0,23
+161649098,106808,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H DEN vs MIN),20.0,NBA,2024-05-17 01:30:00+00:00,1.0,23
+161649099,106808,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H DEN vs MIN),20.0,NBA,2024-05-17 01:30:00+00:00,1.0,23
+161649100,106808,85.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H DEN vs MIN),300.0,NBA,2024-05-17 01:30:00+00:00,85.0,4
+161649101,106808,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H DEN vs MIN),110.0,NBA,2024-05-17 01:30:00+00:00,25.0,5
+161649102,106808,25.0,True,False,True,False,False,NBA In-Game $25 Double Up (2H DEN vs MIN),250.0,NBA,2024-05-17 01:30:00+00:00,25.0,11
+161649103,106808,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,10.0,11
+161649104,106808,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,5.0,23
+161649105,106808,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,5.0,23
+161649106,106808,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (2H DEN vs MIN),60.0,NBA,2024-05-17 01:30:00+00:00,3.0,23
+161649107,106808,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (2H DEN vs MIN),60.0,NBA,2024-05-17 01:30:00+00:00,3.0,23
+161649108,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire (2H DEN vs MIN),25.0,NBA,2024-05-17 01:30:00+00:00,0.1,297
+161649109,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire (2H DEN vs MIN),25.0,NBA,2024-05-17 01:30:00+00:00,0.25,118
+161649110,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.25,475
+161649111,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.25,475
+161649112,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.25,475
+161649113,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.25,475
+161649114,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.25,475
+161649115,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.25,475
+161649116,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.1,1189
+161649117,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.1,1189
+161649118,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.1,1189
+161649119,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.1,1189
+161649120,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.1,1189
+161649121,106808,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (2H DEN vs MIN),100.0,NBA,2024-05-17 01:30:00+00:00,0.1,1189
+161649135,106809,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (4Q DEN vs MIN),100.0,NBA,2024-05-17 01:50:00+00:00,5.0,23
+161649136,106809,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (4Q DEN vs MIN),200.0,NBA,2024-05-17 01:50:00+00:00,10.0,23
+161649137,106809,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (4Q DEN vs MIN),110.0,NBA,2024-05-17 01:50:00+00:00,25.0,5
+161649138,106809,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (4Q DEN vs MIN),20.0,NBA,2024-05-17 01:50:00+00:00,1.0,23
+161649139,106809,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (4Q DEN vs MIN),60.0,NBA,2024-05-17 01:50:00+00:00,3.0,23
+161649140,106809,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire (4Q DEN vs MIN),25.0,NBA,2024-05-17 01:50:00+00:00,0.1,297
+161649141,106809,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire (4Q DEN vs MIN),25.0,NBA,2024-05-17 01:50:00+00:00,0.25,118
+161649263,106805,0.0,False,False,True,False,False,NBA Showdown FREE 200-Player (DEN vs MIN),0.0,NBA,2024-05-17 00:30:00+00:00,0.0,200
+161650850,106805,3.0,False,False,False,False,False,NBA Showdown $3 200-Player (Top 20 Win) (DEN vs MIN),540.0,NBA,2024-05-17 00:30:00+00:00,3.0,200
+161652482,106805,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (DEN vs MIN),30.0,NBA,2024-05-17 00:30:00+00:00,3.0,11
+161659146,106736,0.0,False,False,True,False,True,WNBA Showdown $100 Quarter Jukebox [Just $0.25!] (IND vs NYL),100.0,NBA,2024-05-16 23:00:00+00:00,0.25,475
+161659147,106736,100.0,False,False,True,False,True,WNBA Showdown $1K Showtime [Single Entry] (IND vs NYL),1000.0,NBA,2024-05-16 23:00:00+00:00,100.0,11
+161659148,106736,1.0,False,False,True,False,True,WNBA Showdown $1K And-One [20 Entry Max] (IND vs NYL),1000.0,NBA,2024-05-16 23:00:00+00:00,1.0,1189
+161659149,106736,4.0,False,False,True,False,True,WNBA Showdown $300 Four Point Play (IND vs NYL),300.0,NBA,2024-05-16 23:00:00+00:00,4.0,89
+161659150,106736,33.0,False,False,True,False,True,WNBA Showdown $400 Triple Threat [Single Entry] (IND vs NYL),400.0,NBA,2024-05-16 23:00:00+00:00,33.0,14
+161659151,106736,5.0,True,False,True,False,True,WNBA Showdown Single Entry $5 Double Up (IND vs NYL),150.0,NBA,2024-05-16 23:00:00+00:00,5.0,34
+161659152,106736,333.0,False,False,True,False,True,WNBA Showdown $1.5K Money Ball [Single Entry] (IND vs NYL),1500.0,NBA,2024-05-16 23:00:00+00:00,333.0,5
+161659153,106736,15.0,False,False,True,False,True,WNBA Showdown $30K Fadeaway [$10K to 1st] (IND vs NYL),30000.0,NBA,2024-05-16 23:00:00+00:00,15.0,2352
+161659221,106736,1.0,True,False,True,False,False,WNBA Showdown $1 Double Up (IND vs NYL),20.0,NBA,2024-05-16 23:00:00+00:00,1.0,23
+161659222,106736,3.0,True,False,True,False,False,WNBA Showdown $3 Double Up (IND vs NYL),60.0,NBA,2024-05-16 23:00:00+00:00,3.0,23
+161659223,106736,5.0,True,False,True,False,False,WNBA Showdown $5 Double Up (IND vs NYL),100.0,NBA,2024-05-16 23:00:00+00:00,5.0,23
+161659224,106736,10.0,True,False,True,False,False,WNBA Showdown $10 Double Up (IND vs NYL),100.0,NBA,2024-05-16 23:00:00+00:00,10.0,11
+161659225,106736,25.0,True,False,True,False,False,WNBA Showdown $25 Double Up (IND vs NYL),250.0,NBA,2024-05-16 23:00:00+00:00,25.0,11
+161659226,106736,25.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (IND vs NYL),110.0,NBA,2024-05-16 23:00:00+00:00,25.0,5
+161659227,106736,1.0,False,False,True,False,True,WNBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs NYL),25.0,NBA,2024-05-16 23:00:00+00:00,1.0,29
+161659228,106736,2.0,False,False,True,False,True,WNBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs NYL),25.0,NBA,2024-05-16 23:00:00+00:00,2.0,14
+161659229,106736,1.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $20 Queen of the Court Qualifier (IND vs NYL),20.0,NBA,2024-05-16 23:00:00+00:00,1.0,23
+161659230,106736,1.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $98 Queen of the Court Qualifier (IND vs NYL),98.0,NBA,2024-05-16 23:00:00+00:00,1.0,116
+161659231,106736,4.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $98 Queen of the Court Qualifier (IND vs NYL),98.0,NBA,2024-05-16 23:00:00+00:00,4.0,29
+161659232,106736,1.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier (IND vs NYL),164.0,NBA,2024-05-16 23:00:00+00:00,1.0,195
+161659233,106736,5.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier (IND vs NYL),164.0,NBA,2024-05-16 23:00:00+00:00,5.0,39
+161659234,106736,0.0,False,False,True,False,False,WNBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (IND vs NYL),15.0,NBA,2024-05-16 23:00:00+00:00,0.1,178
+161659235,106736,0.0,False,False,True,False,False,WNBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (IND vs NYL),15.0,NBA,2024-05-16 23:00:00+00:00,0.25,71
+161659236,106736,1.0,False,False,True,False,False,WNBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (IND vs NYL),15.0,NBA,2024-05-16 23:00:00+00:00,1.0,17
+161659237,106736,4.0,False,False,True,False,False,WNBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (IND vs NYL),15.0,NBA,2024-05-16 23:00:00+00:00,4.0,4
+161659238,106736,4.0,False,False,True,False,False,WNBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (IND vs NYL),15.0,NBA,2024-05-16 23:00:00+00:00,4.0,4
+161659239,106736,1.0,False,False,True,False,False,WNBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) [3x] (IND vs NYL),45.0,NBA,2024-05-16 23:00:00+00:00,1.0,53
+161659249,106736,2.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (IND vs NYL),5.4,NBA,2024-05-16 23:00:00+00:00,2.0,3
+161659250,106736,10.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (IND vs NYL),27.0,NBA,2024-05-16 23:00:00+00:00,10.0,3
+161659251,106736,5.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (IND vs NYL),13.5,NBA,2024-05-16 23:00:00+00:00,5.0,3
+161659252,106736,1.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (IND vs NYL),2.7,NBA,2024-05-16 23:00:00+00:00,1.0,3
+161659253,106736,1.0,False,False,False,False,False,WNBA Showdown $1 10-Player (IND vs NYL),9.0,NBA,2024-05-16 23:00:00+00:00,1.0,10
+161659254,106736,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (IND vs NYL),4.5,NBA,2024-05-16 23:00:00+00:00,1.0,5
+161659255,106736,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (IND vs NYL),2.7,NBA,2024-05-16 23:00:00+00:00,1.0,3
+161659256,106736,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (IND vs NYL),2.7,NBA,2024-05-16 23:00:00+00:00,1.0,3
+161659257,106736,20.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (IND vs NYL),180.0,NBA,2024-05-16 23:00:00+00:00,20.0,10
+161659258,106736,10.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (IND vs NYL),90.0,NBA,2024-05-16 23:00:00+00:00,10.0,10
+161659259,106736,5.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (IND vs NYL),45.0,NBA,2024-05-16 23:00:00+00:00,5.0,10
+161659260,106736,3.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (IND vs NYL),27.0,NBA,2024-05-16 23:00:00+00:00,3.0,10
+161659261,106736,1.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (IND vs NYL),9.0,NBA,2024-05-16 23:00:00+00:00,1.0,10
+161659262,106736,5.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (IND vs NYL),13.5,NBA,2024-05-16 23:00:00+00:00,5.0,3
+161659263,106736,2.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (IND vs NYL),5.4,NBA,2024-05-16 23:00:00+00:00,2.0,3
+161659264,106736,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (IND vs NYL),5.4,NBA,2024-05-16 23:00:00+00:00,2.0,3
+161659265,106736,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (IND vs NYL),5.4,NBA,2024-05-16 23:00:00+00:00,2.0,3
+161659266,106736,2.0,False,False,False,False,False,WNBA Showdown $2 5-Player (IND vs NYL),9.0,NBA,2024-05-16 23:00:00+00:00,2.0,5
+161659267,106736,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (IND vs NYL),18.0,NBA,2024-05-16 23:00:00+00:00,2.0,10
+161659268,106736,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (IND vs NYL),13.5,NBA,2024-05-16 23:00:00+00:00,5.0,3
+161659269,106736,5.0,False,False,False,False,False,WNBA Showdown $5 5-Player (IND vs NYL),22.5,NBA,2024-05-16 23:00:00+00:00,5.0,5
+161659270,106736,5.0,False,False,False,False,False,WNBA Showdown $5 10-Player (IND vs NYL),45.0,NBA,2024-05-16 23:00:00+00:00,5.0,10
+161659271,106736,10.0,False,False,False,False,False,WNBA Showdown $10 5-Player (IND vs NYL),45.0,NBA,2024-05-16 23:00:00+00:00,10.0,5
+161659272,106736,10.0,False,False,False,False,False,WNBA Showdown $10 3-Player (IND vs NYL),27.0,NBA,2024-05-16 23:00:00+00:00,10.0,3
+161659273,106736,20.0,False,False,False,False,False,WNBA Showdown $20 3-Player (IND vs NYL),54.0,NBA,2024-05-16 23:00:00+00:00,20.0,3
+161659274,106736,50.0,False,False,False,False,False,WNBA Showdown $50 5-Player (IND vs NYL),225.0,NBA,2024-05-16 23:00:00+00:00,50.0,5
+161659275,106736,50.0,False,False,False,False,False,WNBA Showdown $50 3-Player (IND vs NYL),135.0,NBA,2024-05-16 23:00:00+00:00,50.0,3
+161659276,106736,109.0,False,False,False,False,False,WNBA Showdown $109 3-Player (IND vs NYL),300.0,NBA,2024-05-16 23:00:00+00:00,109.0,3
+161659277,106736,162.0,False,False,False,False,False,WNBA Showdown $162 3-Player (IND vs NYL),450.0,NBA,2024-05-16 23:00:00+00:00,162.0,3
+161659278,106736,530.0,False,False,False,False,False,WNBA Showdown $530 3-Player (IND vs NYL),1500.0,NBA,2024-05-16 23:00:00+00:00,530.0,3
+161659279,106736,1060.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (IND vs NYL)",3000.0,NBA,2024-05-16 23:00:00+00:00,1060.0,3
+161659280,106736,5300.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (IND vs NYL)",15000.0,NBA,2024-05-16 23:00:00+00:00,5300.0,3
+161659281,106736,10600.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (IND vs NYL)",30000.0,NBA,2024-05-16 23:00:00+00:00,10600.0,3
+161659282,106736,20.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (IND vs NYL),72.0,NBA,2024-05-16 23:00:00+00:00,20.0,4
+161659283,106736,10.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (IND vs NYL),90.0,NBA,2024-05-16 23:00:00+00:00,10.0,10
+161659284,106736,1.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (IND vs NYL),9.0,NBA,2024-05-16 23:00:00+00:00,1.0,10
+161659285,106736,3.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (IND vs NYL),27.0,NBA,2024-05-16 23:00:00+00:00,3.0,10
+161659286,106736,5.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (IND vs NYL),45.0,NBA,2024-05-16 23:00:00+00:00,5.0,10
+161659287,106736,5300.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (IND vs NYL)",20000.0,NBA,2024-05-16 23:00:00+00:00,5300.0,4
+161659288,106736,1060.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (IND vs NYL)",4000.0,NBA,2024-05-16 23:00:00+00:00,1060.0,4
+161659289,106736,530.0,True,False,False,False,False,WNBA Showdown $530 50-50 (IND vs NYL),2000.0,NBA,2024-05-16 23:00:00+00:00,530.0,4
+161659290,106736,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (IND vs NYL),400.0,NBA,2024-05-16 23:00:00+00:00,109.0,4
+161659291,106736,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (IND vs NYL),180.0,NBA,2024-05-16 23:00:00+00:00,50.0,4
+161659292,106736,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND vs NYL),72.0,NBA,2024-05-16 23:00:00+00:00,20.0,4
+161659293,106736,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND vs NYL),36.0,NBA,2024-05-16 23:00:00+00:00,10.0,4
+161659294,106736,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (IND vs NYL),450.0,NBA,2024-05-16 23:00:00+00:00,50.0,10
+161659295,106736,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (IND vs NYL),9.0,NBA,2024-05-16 23:00:00+00:00,1.0,10
+161659296,106736,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (IND vs NYL),45.0,NBA,2024-05-16 23:00:00+00:00,5.0,10
+161659297,106736,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (IND vs NYL),600.0,NBA,2024-05-16 23:00:00+00:00,109.0,6
+161659298,106736,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (IND vs NYL),18.0,NBA,2024-05-16 23:00:00+00:00,2.0,10
+161659299,106736,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND vs NYL),180.0,NBA,2024-05-16 23:00:00+00:00,20.0,10
+161659300,106736,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND vs NYL),90.0,NBA,2024-05-16 23:00:00+00:00,10.0,10
+161659301,106736,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (IND vs NYL),90.0,NBA,2024-05-16 23:00:00+00:00,5.0,20
+161659302,106736,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND vs NYL),180.0,NBA,2024-05-16 23:00:00+00:00,10.0,20
+161659303,106736,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND vs NYL),360.0,NBA,2024-05-16 23:00:00+00:00,20.0,20
+161659304,106736,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (IND vs NYL),36.0,NBA,2024-05-16 23:00:00+00:00,2.0,20
+161659305,106736,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (IND vs NYL),18.0,NBA,2024-05-16 23:00:00+00:00,1.0,20
+161659306,106736,1060.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (IND vs NYL),4000.0,NBA,2024-05-16 23:00:00+00:00,1060.0,4
+161659307,106736,267.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (IND vs NYL),1000.0,NBA,2024-05-16 23:00:00+00:00,267.0,4
+161659308,106736,100.0,False,False,False,False,True,WNBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (IND vs NYL),460.0,NBA,2024-05-16 23:00:00+00:00,100.0,5
+161659309,106736,10.0,False,False,False,False,True,WNBA Showdown Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (IND vs NYL),25.0,NBA,2024-05-16 23:00:00+00:00,9.25,3
+161659310,106736,10.0,False,False,False,False,True,WNBA Showdown Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (IND vs NYL),25.0,NBA,2024-05-16 23:00:00+00:00,9.25,3
+161659311,106736,10.0,False,False,False,False,True,WNBA Showdown Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (IND vs NYL),25.0,NBA,2024-05-16 23:00:00+00:00,9.25,3
+161659312,106736,8.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $15M Millionaire [Must Fill] (IND vs NYL),20.0,NBA,2024-05-16 23:00:00+00:00,7.4,3
+161659313,106736,7.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (IND vs NYL),20.0,NBA,2024-05-16 23:00:00+00:00,7.0,3
+161659314,106736,7.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (IND vs NYL),20.0,NBA,2024-05-16 23:00:00+00:00,7.0,3
+161659315,106736,36.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (IND vs NYL),98.0,NBA,2024-05-16 23:00:00+00:00,36.0,3
+161659316,106736,36.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (IND vs NYL),98.0,NBA,2024-05-16 23:00:00+00:00,36.0,3
+161659317,106736,164.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (IND vs NYL),164.0,NBA,2024-05-16 23:00:00+00:00,60.0,3
+161659318,106736,164.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (IND vs NYL),164.0,NBA,2024-05-16 23:00:00+00:00,60.0,3
+161659319,106736,5.0,False,False,False,False,False,WNBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) [Must Fill] (IND vs NYL),15.0,NBA,2024-05-16 23:00:00+00:00,5.55,3
+161662484,106805,5.0,False,False,False,False,False,NBA Showdown $5 200-Player (Top 10 Win) (DEN vs MIN),900.0,NBA,2024-05-17 00:30:00+00:00,5.0,200
+161662489,106808,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H DEN vs MIN),9.0,NBA,2024-05-17 01:30:00+00:00,1.0,10
+161662939,106805,1.0,False,False,True,False,True,NBA Showdown $35K And-One [20 Entry Max] (DEN vs MIN),35000.0,NBA,2024-05-17 00:30:00+00:00,1.0,41617
+161662940,106805,5300.0,False,False,False,False,True,NBA Showdown $30K Thunderdome [Must Fill] (DEN vs MIN),30000.0,NBA,2024-05-17 00:30:00+00:00,5300.0,6
+161662941,106805,200.0,False,False,True,False,True,NBA Showdown $20K Splash [3 Entry Max] (DEN vs MIN),20000.0,NBA,2024-05-17 00:30:00+00:00,200.0,111
+161662942,106805,4.0,False,False,True,False,True,NBA Showdown $80K Four Point Play [20 Entry Max] (DEN vs MIN),80000.0,NBA,2024-05-17 00:30:00+00:00,4.0,23781
+161662943,106805,2120.0,False,False,True,False,True,NBA Showdown $20K Hall of Famer [$10K to 1st] (DEN vs MIN),20000.0,NBA,2024-05-17 00:30:00+00:00,2120.0,10
+161662944,106805,555.0,False,False,True,False,True,NBA Showdown $100K Alley-Oop [$20K to 1st] (DEN vs MIN),100000.0,NBA,2024-05-17 00:30:00+00:00,555.0,200
+161662945,106805,5.0,False,False,True,False,True,NBA Showdown $22K Zone [$5K to 1st] (DEN vs MIN),22000.0,NBA,2024-05-17 00:30:00+00:00,5.0,5231
+161662946,106805,8.0,False,False,True,False,True,NBA Showdown $30K Excellent 8's [$10K to 1st] (DEN vs MIN),30000.0,NBA,2024-05-17 00:30:00+00:00,8.0,4411
+161662947,106805,6.0,False,False,True,False,True,NBA Showdown $26K Jab Step [$5K to 1st] (DEN vs MIN),26000.0,NBA,2024-05-17 00:30:00+00:00,6.0,5098
+161662948,106805,88.0,False,False,True,False,True,"NBA Showdown $8K Box Out [3 Entry Max, $2K to 1st] (DEN vs MIN)",8000.0,NBA,2024-05-17 00:30:00+00:00,88.0,103
+161662949,106805,20.0,False,False,True,False,True,NBA Showdown $400K Shootaround [$100K to 1st] (DEN vs MIN),400000.0,NBA,2024-05-17 00:30:00+00:00,20.0,23529
+161663031,106736,98.0,False,False,True,False,True,WNBA Showdown $50K Queen of the Court Qualifier #2 (IND vs NYL),1250.0,NBA,2024-05-16 23:00:00+00:00,98.0,15
+161667031,106805,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (Winner Takes All) (DEN vs MIN),2.7,NBA,2024-05-17 00:30:00+00:00,1.0,3
+161667882,106805,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (Top 2 Win) (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,2.0,10
+161668029,106805,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (DEN vs MIN),10.0,NBA,2024-05-17 00:30:00+00:00,1.0,11
+161668203,106736,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (IND vs NYL),18.0,NBA,2024-05-16 23:00:00+00:00,1.0,20
+161668222,106736,3.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (IND vs NYL),27.0,NBA,2024-05-16 23:00:00+00:00,3.0,10
+161668493,106805,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,1.0,10
+161670019,106806,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161670050,106805,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,2.0,20
+161670058,106807,2.0,False,False,False,False,False,NBA Single Stat $2 200-Player (Winner Takes All) (Points),360.0,NBA,2024-05-17 00:30:00+00:00,2.0,200
+161670107,106807,1.0,False,False,False,False,False,NBA Single Stat $1 100-Player (Top 10 Win) (Points),90.0,NBA,2024-05-17 00:30:00+00:00,1.0,100
+161670129,106806,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,10.0,4
+161670291,106805,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (DEN vs MIN),18.0,NBA,2024-05-17 00:30:00+00:00,1.0,20
+161670386,106807,1.0,False,False,False,False,False,NBA Single Stat $1 50-Player (Top 5 Win) (Points),45.0,NBA,2024-05-17 00:30:00+00:00,1.0,50
+161670504,106805,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (DEN vs MIN),60.0,NBA,2024-05-17 00:30:00+00:00,3.0,23
+161671258,106805,1.0,False,False,False,False,False,NBA Showdown $1 35-Player (Winner Takes All) (DEN vs MIN),31.5,NBA,2024-05-17 00:30:00+00:00,1.0,35
+161671371,106806,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (DEN vs MIN),2.7,NBA,2024-05-17 00:30:00+00:00,1.0,3
+161671372,106805,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,1.0,31
+161671374,106805,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (DEN vs MIN),60.0,NBA,2024-05-17 00:30:00+00:00,3.0,23
+161671451,106805,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (DEN vs MIN),450.0,NBA,2024-05-17 00:30:00+00:00,162.0,3
+161671484,106806,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161671523,106805,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,1.0,10
+161671593,106806,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (DEN vs MIN),2.7,NBA,2024-05-17 00:30:00+00:00,1.0,3
+161671694,106807,10.0,False,False,False,False,False,NBA Single Stat $10 10-Player (Top 2 Win) (Points),90.0,NBA,2024-05-17 00:30:00+00:00,10.0,10
+161671750,106807,10.0,False,False,False,False,False,NBA Single Stat $10 100-Player (Winner Takes All) (Points),900.0,NBA,2024-05-17 00:30:00+00:00,10.0,100
+161671770,106806,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (DEN vs MIN),3.6,NBA,2024-05-17 00:30:00+00:00,1.0,4
+161671798,106805,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (DEN vs MIN),5.4,NBA,2024-05-17 00:30:00+00:00,2.0,3
+161671799,106805,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (DEN vs MIN),5.4,NBA,2024-05-17 00:30:00+00:00,2.0,3
+161671800,106805,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (DEN vs MIN),5.4,NBA,2024-05-17 00:30:00+00:00,2.0,3
+161671801,106805,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (DEN vs MIN),2.7,NBA,2024-05-17 00:30:00+00:00,1.0,3
+161671802,106805,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (DEN vs MIN),2.7,NBA,2024-05-17 00:30:00+00:00,1.0,3
+161671824,106806,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (DEN vs MIN),13.5,NBA,2024-05-17 00:30:00+00:00,5.0,3
+161671862,106805,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (DEN vs MIN),60.0,NBA,2024-05-17 00:30:00+00:00,3.0,23
+161672245,106806,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (DEN vs MIN),2.7,NBA,2024-05-17 00:30:00+00:00,1.0,3
+161672508,106805,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (DEN vs MIN)",30000.0,NBA,2024-05-17 00:30:00+00:00,10600.0,3
+161672509,106805,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (DEN vs MIN)",15000.0,NBA,2024-05-17 00:30:00+00:00,5300.0,3
+161672510,106805,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (DEN vs MIN)",3000.0,NBA,2024-05-17 00:30:00+00:00,1060.0,3
+161672511,106805,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (DEN vs MIN),1500.0,NBA,2024-05-17 00:30:00+00:00,530.0,3
+161672512,106805,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (DEN vs MIN),450.0,NBA,2024-05-17 00:30:00+00:00,162.0,3
+161672513,106805,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (DEN vs MIN),300.0,NBA,2024-05-17 00:30:00+00:00,109.0,3
+161672514,106805,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (DEN vs MIN),300.0,NBA,2024-05-17 00:30:00+00:00,109.0,3
+161672515,106805,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (DEN vs MIN),135.0,NBA,2024-05-17 00:30:00+00:00,50.0,3
+161672516,106805,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (DEN vs MIN),54.0,NBA,2024-05-17 00:30:00+00:00,20.0,3
+161672517,106805,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (DEN vs MIN),54.0,NBA,2024-05-17 00:30:00+00:00,20.0,3
+161672518,106805,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (DEN vs MIN),54.0,NBA,2024-05-17 00:30:00+00:00,20.0,3
+161672519,106805,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161672520,106805,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161672521,106805,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (DEN vs MIN),27.0,NBA,2024-05-17 00:30:00+00:00,10.0,3
+161672522,106805,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (DEN vs MIN),13.5,NBA,2024-05-17 00:30:00+00:00,5.0,3
+161672523,106805,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (DEN vs MIN),13.5,NBA,2024-05-17 00:30:00+00:00,5.0,3
+161672524,106805,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (DEN vs MIN),13.5,NBA,2024-05-17 00:30:00+00:00,5.0,3
+161672525,106805,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (DEN vs MIN)",20000.0,NBA,2024-05-17 00:30:00+00:00,5300.0,4
+161672526,106805,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (DEN vs MIN)",4000.0,NBA,2024-05-17 00:30:00+00:00,1060.0,4
+161672527,106805,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (DEN vs MIN),2000.0,NBA,2024-05-17 00:30:00+00:00,530.0,4
+161672528,106805,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (DEN vs MIN),600.0,NBA,2024-05-17 00:30:00+00:00,162.0,4
+161672529,106805,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (DEN vs MIN),400.0,NBA,2024-05-17 00:30:00+00:00,109.0,4
+161672530,106805,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (DEN vs MIN),180.0,NBA,2024-05-17 00:30:00+00:00,50.0,4
+161672531,106805,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (DEN vs MIN),72.0,NBA,2024-05-17 00:30:00+00:00,20.0,4
+161672532,106805,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (DEN vs MIN),72.0,NBA,2024-05-17 00:30:00+00:00,20.0,4
+161672533,106805,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,10.0,4
+161672534,106805,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (DEN vs MIN),36.0,NBA,2024-05-17 00:30:00+00:00,10.0,4
+161672535,106805,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (DEN vs MIN),600.0,NBA,2024-05-17 00:30:00+00:00,109.0,6
+161672765,106809,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (4Q DEN vs MIN),9.0,NBA,2024-05-17 01:50:00+00:00,1.0,10
+161672791,106805,0.0,False,False,True,False,False,NBA Showdown FREE 11-Player (DEN vs MIN),0.0,NBA,2024-05-17 00:30:00+00:00,0.0,11
+161672947,106805,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,9.25,3
+161672948,106805,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,9.25,3
+161672949,106805,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,9.25,3
+161672950,106805,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (DEN vs MIN),25.0,NBA,2024-05-17 00:30:00+00:00,9.25,3
+161672952,106806,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (DEN vs MIN),13.5,NBA,2024-05-17 00:30:00+00:00,5.0,3
+161672953,106805,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (DEN vs MIN),250.0,NBA,2024-05-17 00:30:00+00:00,25.0,11
+161673128,106809,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (4Q DEN vs MIN),9.0,NBA,2024-05-17 01:50:00+00:00,1.0,10
+161673224,106805,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,2.0,5
+161673495,106805,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (DEN vs MIN),60.0,NBA,2024-05-17 00:30:00+00:00,3.0,23
+161673525,106805,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (DEN vs MIN),9.0,NBA,2024-05-17 00:30:00+00:00,2.0,5

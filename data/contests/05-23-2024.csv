@@ -1,0 +1,1217 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+161883280,107102,1.0,False,False,True,False,True,WNBA $100 Daily Dollar [Single Entry],100.0,NBA,2024-05-23 23:00:00+00:00,1.0,118
+161883281,107102,0.0,False,False,True,False,True,WNBA $300 Quarter Jukebox [Just $0.25!] ,300.0,NBA,2024-05-23 23:00:00+00:00,0.25,1426
+161883282,107102,100.0,False,False,True,False,True,WNBA $1K Showtime [Single Entry],1000.0,NBA,2024-05-23 23:00:00+00:00,100.0,11
+161883283,107102,1.0,False,False,True,False,True,WNBA $500 And-One,500.0,NBA,2024-05-23 23:00:00+00:00,1.0,594
+161883284,107102,1.0,False,False,True,False,True,WNBA $2K And-One,2000.0,NBA,2024-05-23 23:00:00+00:00,1.0,2378
+161883285,107102,5.0,False,False,True,False,True,WNBA $2K Zone,2000.0,NBA,2024-05-23 23:00:00+00:00,5.0,475
+161883286,107102,4.0,False,False,True,False,True,WNBA $500 Four Point Play,500.0,NBA,2024-05-23 23:00:00+00:00,4.0,148
+161883287,107102,50.0,False,False,True,False,True,WNBA $500 Ankle Breaker [Single Entry],500.0,NBA,2024-05-23 23:00:00+00:00,50.0,11
+161883288,107102,3.0,False,False,True,False,True,WNBA $300 Hot Shot [3 Entry Max],300.0,NBA,2024-05-23 23:00:00+00:00,3.0,118
+161883289,107102,12.0,False,False,True,False,True,WNBA $300 Pick and Roll [Single Entry],300.0,NBA,2024-05-23 23:00:00+00:00,12.0,29
+161883290,107102,33.0,False,False,True,False,True,WNBA $750 Triple Threat [Single Entry],750.0,NBA,2024-05-23 23:00:00+00:00,33.0,26
+161883291,107102,5.0,False,False,True,False,True,WNBA $400 High Five [Single Entry],400.0,NBA,2024-05-23 23:00:00+00:00,5.0,95
+161883292,107102,5.0,True,False,True,False,True, WNBA Single Entry $5 Double Up,250.0,NBA,2024-05-23 23:00:00+00:00,5.0,57
+161883293,107102,15.0,False,False,True,False,True,WNBA $30K Fadeaway [$10K to 1st],30000.0,NBA,2024-05-23 23:00:00+00:00,15.0,2352
+161883294,107102,180.0,False,False,True,False,True,WNBA $2.6K Windmill [$1K to 1st],2600.0,NBA,2024-05-23 23:00:00+00:00,180.0,16
+161883295,107102,0.0,False,False,True,False,True,WNBA $150 Dime Package [Just $0.10!],150.0,NBA,2024-05-23 23:00:00+00:00,0.1,1783
+161883296,107102,25.0,True,False,True,False,True,WNBA Single Entry $25 Double Up,400.0,NBA,2024-05-23 23:00:00+00:00,25.0,18
+161883297,107102,98.0,False,False,True,False,True,WNBA $50K Queen of the Court Qualifier #7,1250.0,NBA,2024-05-23 23:00:00+00:00,98.0,15
+161883379,107103,1.0,False,False,True,False,True,WNBA Showdown $100 Daily Dollar [Single Entry] (PHO vs WAS),100.0,NBA,2024-05-24 02:00:00+00:00,1.0,118
+161883380,107103,0.0,False,False,True,False,True,WNBA Showdown $200 Quarter Jukebox (PHO vs WAS),200.0,NBA,2024-05-24 02:00:00+00:00,0.25,951
+161883381,107103,1.0,False,False,True,False,True,WNBA Showdown $300 And-One (PHO vs WAS),300.0,NBA,2024-05-24 02:00:00+00:00,1.0,356
+161883382,107103,33.0,False,False,True,False,True,WNBA Showdown $285 Triple Threat [Single Entry] (PHO vs WAS),285.0,NBA,2024-05-24 02:00:00+00:00,33.0,10
+161883383,107103,5.0,False,False,True,False,True,WNBA Showdown $100 High Five [Single Entry] (PHO vs WAS),100.0,NBA,2024-05-24 02:00:00+00:00,5.0,23
+161883384,107103,15.0,False,False,True,False,True,WNBA Showdown $6K Fadeaway [$2K to 1st] (PHO vs WAS),6000.0,NBA,2024-05-24 02:00:00+00:00,15.0,470
+161884251,107230,50.0,False,False,True,False,True,NBA Showdown $3K Ankle Breaker [2 Entry Max] (IND vs BOS),3000.0,NBA,2024-05-24 00:00:00+00:00,50.0,68
+161884252,107230,40.0,False,False,True,False,True,NBA Showdown $10K Mid Range Jumper [Single Entry] (IND vs BOS),10000.0,NBA,2024-05-24 00:00:00+00:00,40.0,291
+161884253,107230,100.0,True,False,True,False,True,NBA Showdown Single Entry $100 Double Up (IND vs BOS),3000.0,NBA,2024-05-24 00:00:00+00:00,100.0,33
+161884254,107230,100.0,False,False,True,False,True,NBA Showdown $5K Showtime [Single Entry] (IND vs BOS),5000.0,NBA,2024-05-24 00:00:00+00:00,100.0,55
+161884255,107230,2.0,False,False,True,False,True,NBA Showdown $2K Elbow Shot [Single Entry] (IND vs BOS),2000.0,NBA,2024-05-24 00:00:00+00:00,2.0,1189
+161884256,107230,10.0,True,False,True,False,True,NBA Showdown $10 Double Up (IND vs BOS),2000.0,NBA,2024-05-24 00:00:00+00:00,10.0,229
+161884257,107230,5.0,True,False,True,False,True,NBA Showdown $5 Double Up (IND vs BOS),2000.0,NBA,2024-05-24 00:00:00+00:00,5.0,459
+161884258,107230,2.0,True,False,True,False,True,NBA Showdown $2 Double Up (IND vs BOS),2000.0,NBA,2024-05-24 00:00:00+00:00,2.0,1149
+161884259,107230,3.0,False,False,True,False,True,NBA Showdown $6K Hot Shot [3 Entry Max] (IND vs BOS),6000.0,NBA,2024-05-24 00:00:00+00:00,3.0,2378
+161884260,107230,0.0,False,False,True,False,True,NBA Showdown $5K Quarter Jukebox [Just $0.25!] (IND vs BOS),5000.0,NBA,2024-05-24 00:00:00+00:00,0.25,23781
+161884261,107230,0.0,False,False,True,False,True,NBA Showdown $7.5K mini-MAX [150 Entry Max] (IND vs BOS),7500.0,NBA,2024-05-24 00:00:00+00:00,0.5,17835
+161884262,107230,100.0,False,False,True,False,True,NBA Showdown $20K Showtime [Single Entry] (IND vs BOS),20000.0,NBA,2024-05-24 00:00:00+00:00,100.0,222
+161884263,107230,27.0,False,False,True,False,True,NBA Showdown $4K Fast Break [Single Entry] (IND vs BOS),4000.0,NBA,2024-05-24 00:00:00+00:00,27.0,172
+161884264,107230,12.0,False,False,True,False,True,NBA Showdown $8K Pick and Roll [Single Entry] (IND vs BOS),8000.0,NBA,2024-05-24 00:00:00+00:00,12.0,784
+161884265,107230,12.0,False,False,True,False,True,NBA Showdown $2K Pick and Roll [Single Entry] (IND vs BOS),2000.0,NBA,2024-05-24 00:00:00+00:00,12.0,196
+161884266,107230,5.0,False,False,True,False,True,NBA Showdown $8K High Five [Single Entry] (IND vs BOS),8000.0,NBA,2024-05-24 00:00:00+00:00,5.0,1902
+161884267,107230,5.0,False,False,True,False,True,NBA Showdown $2K High Five [Single Entry]  (IND vs BOS),2000.0,NBA,2024-05-24 00:00:00+00:00,5.0,475
+161884268,107230,1.0,False,False,True,False,True,NBA Showdown $2K Daily Dollar [Single Entry]  (IND vs BOS),2000.0,NBA,2024-05-24 00:00:00+00:00,1.0,2378
+161884269,107230,250.0,True,False,True,False,True,NBA Showdown $250 Double Up (IND vs BOS),2500.0,NBA,2024-05-24 00:00:00+00:00,250.0,11
+161884270,107230,50.0,True,False,True,False,True,NBA Showdown Single Entry $50 Double Up (IND vs BOS),2000.0,NBA,2024-05-24 00:00:00+00:00,50.0,45
+161884271,107230,10.0,True,False,True,False,True,NBA Showdown Single Entry $10 Double Up (IND vs BOS),1000.0,NBA,2024-05-24 00:00:00+00:00,10.0,114
+161884272,107230,5.0,True,False,True,False,True,NBA Showdown Single Entry $5 Double Up (IND vs BOS),1000.0,NBA,2024-05-24 00:00:00+00:00,5.0,229
+161884273,107232,50.0,False,False,True,False,True,NBA $1K Ankle Breaker [Single Entry] (Thu-Fri),1000.0,NBA,2024-05-24 00:00:00+00:00,50.0,22
+161884274,107232,0.0,False,False,True,False,True,NBA $2K Quarter Jukebox [Just $0.25!] (Thu-Fri),2000.0,NBA,2024-05-24 00:00:00+00:00,0.25,9512
+161884275,107232,5.0,False,False,True,False,True,NBA $4K High Five [Single Entry] (Thu-Fri),4000.0,NBA,2024-05-24 00:00:00+00:00,5.0,951
+161884276,107232,33.0,False,False,True,False,True,NBA $1K Triple Threat (Thu-Fri),1000.0,NBA,2024-05-24 00:00:00+00:00,33.0,35
+161884277,107232,300.0,False,False,True,False,True,NBA $1.35K 3-Ball [Single Entry] (Thu-Fri),1350.0,NBA,2024-05-24 00:00:00+00:00,300.0,5
+161884278,107232,1.0,False,False,True,False,True,NBA $8K And-One (Thu-Fri),8000.0,NBA,2024-05-24 00:00:00+00:00,1.0,9512
+161884279,107232,12.0,False,False,True,False,True,NBA $1K Pick and Roll [Single Entry] (Thu-Fri),1000.0,NBA,2024-05-24 00:00:00+00:00,12.0,98
+161884280,107232,100.0,False,False,True,False,True,NBA $1.35K Showtime [Single Entry] (Thu-Fri),1350.0,NBA,2024-05-24 00:00:00+00:00,100.0,15
+161884281,107232,180.0,False,False,True,False,True,NBA $5.2K Windmill [$2K to 1st] (Thu-Fri),5200.0,NBA,2024-05-24 00:00:00+00:00,180.0,32
+161884282,107232,3.0,False,False,True,False,True,NBA $4K Sharpshooter (Thu-Fri),4000.0,NBA,2024-05-24 00:00:00+00:00,3.0,1585
+161884283,107233,0.0,False,False,True,False,True,NBA Tiers $500 Quarter Jukebox [Just $0.25!] (Thu-Fri),500.0,NBA,2024-05-24 00:00:00+00:00,0.25,2378
+161884284,107233,1.0,False,False,True,False,True,NBA Tiers $1K And-One (Thu-Fri),1000.0,NBA,2024-05-24 00:00:00+00:00,1.0,1189
+161884285,107233,12.0,False,False,True,False,True,NBA Tiers $200 Pick and Roll [Single Entry] (Thu-Fri),200.0,NBA,2024-05-24 00:00:00+00:00,12.0,19
+161884286,107233,3.0,False,False,True,False,True,NBA Tiers $100 Sharpshooter (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,3.0,39
+161884287,107233,50.0,False,False,True,False,True,NBA Tiers $265 Ankle Breaker [Single Entry] (Thu-Fri),265.0,NBA,2024-05-24 00:00:00+00:00,50.0,6
+161884288,107233,5.0,False,False,True,False,True,NBA Tiers $3K Zone [$1K to 1st] (Thu-Fri),3000.0,NBA,2024-05-24 00:00:00+00:00,5.0,713
+161884289,107233,100.0,False,False,True,False,True,"NBA Tiers $540 Showtime [Single Entry, Top 2 Win] (Thu-Fri)",540.0,NBA,2024-05-24 00:00:00+00:00,100.0,6
+161884290,107235,10.0,False,False,True,False,True,NBA In-Game $8K Pull Up Jumper [$2K to 1st] (2H IND vs BOS),8000.0,NBA,2024-05-24 01:00:00+00:00,10.0,941
+161884291,107235,27.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (2H IND vs BOS),240.0,NBA,2024-05-24 01:00:00+00:00,27.0,10
+161884292,107235,50.0,False,False,True,False,True,NBA In-Game $400 Ankle Breaker [Single Entry] (2H IND vs BOS),400.0,NBA,2024-05-24 01:00:00+00:00,50.0,9
+161884293,107235,3.0,False,False,True,False,True,NBA In-Game $100 Sharpshooter (2H IND vs BOS),100.0,NBA,2024-05-24 01:00:00+00:00,3.0,39
+161884294,107235,1.0,False,False,True,False,True,NBA In-Game $300 And-One (2H IND vs BOS),300.0,NBA,2024-05-24 01:00:00+00:00,1.0,356
+161884295,107235,300.0,False,False,True,False,True,NBA In-Game $1.35K 3-Ball [Single Entry] (2H IND vs BOS),1350.0,NBA,2024-05-24 01:00:00+00:00,300.0,5
+161884296,107235,100.0,False,False,True,False,True,NBA In-Game $1K Showtime [Single Entry] (2H IND vs BOS),1000.0,NBA,2024-05-24 01:00:00+00:00,100.0,11
+161884297,107235,12.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (2H IND vs BOS),155.0,NBA,2024-05-24 01:00:00+00:00,12.0,15
+161884298,107235,0.0,False,False,True,False,True,NBA In-Game $125 Quarter Jukebox [Just $0.25!] (2H IND vs BOS),125.0,NBA,2024-05-24 01:00:00+00:00,0.25,594
+161884299,107235,5.0,False,False,True,False,True,NBA In-Game $200 High Five [Single Entry] (2H IND vs BOS),200.0,NBA,2024-05-24 01:00:00+00:00,5.0,47
+161884300,107236,5.0,False,False,True,False,True,NBA In-Game $100 High Five [Single Entry] (4Q IND vs BOS),100.0,NBA,2024-05-24 01:20:00+00:00,5.0,23
+161884301,107236,10.0,False,False,True,False,True,NBA In-Game $200 Pull Up Jumper [$100 to 1st] (4Q IND vs BOS),200.0,NBA,2024-05-24 01:20:00+00:00,10.0,23
+161884302,107236,0.0,False,False,True,False,True,NBA In-Game $20 Quarter Jukebox [Just $0.25!] (4Q IND vs BOS),20.0,NBA,2024-05-24 01:20:00+00:00,0.25,95
+161884303,107236,1.0,False,False,True,False,True,NBA In-Game $50 And-One (4Q IND vs BOS),50.0,NBA,2024-05-24 01:20:00+00:00,1.0,59
+161884431,107234,1.0,False,False,True,False,True,NBA Single Stat $1K Winner Take All [Single Entry] (Points),1000.0,NBA,2024-05-24 00:00:00+00:00,1.0,1189
+161884432,107230,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (IND vs BOS),500.0,NBA,2024-05-24 00:00:00+00:00,50.0,11
+161884433,107230,1.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161884434,107230,3.0,True,False,True,False,False,Beginner NBA Showdown $3 Double Up (IND vs BOS),60.0,NBA,2024-05-24 00:00:00+00:00,3.0,23
+161884435,107230,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $20] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,2.0,59
+161884436,107230,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $50] (IND vs BOS),150.0,NBA,2024-05-24 00:00:00+00:00,5.0,35
+161884437,107230,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (IND vs BOS),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884438,107230,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (IND vs BOS),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161884439,107230,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884440,107230,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (IND vs BOS),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884441,107230,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (IND vs BOS),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161884442,107230,50.0,False,False,True,False,False,NBA Showdown $50 Triple Up [Top 3 Win $150] (IND vs BOS),450.0,NBA,2024-05-24 00:00:00+00:00,50.0,10
+161884443,107230,10.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (IND vs BOS),300.0,NBA,2024-05-24 00:00:00+00:00,10.0,35
+161884444,107230,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (IND vs BOS)",20000.0,NBA,2024-05-24 00:00:00+00:00,5300.0,4
+161884445,107230,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (IND vs BOS)",4000.0,NBA,2024-05-24 00:00:00+00:00,1060.0,4
+161884447,107230,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (IND vs BOS),600.0,NBA,2024-05-24 00:00:00+00:00,162.0,4
+161884448,107230,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (IND vs BOS),400.0,NBA,2024-05-24 00:00:00+00:00,109.0,4
+161884449,107230,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (IND vs BOS),180.0,NBA,2024-05-24 00:00:00+00:00,50.0,4
+161884450,107230,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (IND vs BOS),360.0,NBA,2024-05-24 00:00:00+00:00,20.0,20
+161884451,107230,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (IND vs BOS),180.0,NBA,2024-05-24 00:00:00+00:00,20.0,10
+161884452,107230,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (IND vs BOS),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884453,107230,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (IND vs BOS),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884454,107230,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (IND vs BOS),180.0,NBA,2024-05-24 00:00:00+00:00,10.0,20
+161884455,107230,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884456,107230,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884457,107230,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,10.0,4
+161884458,107230,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,10.0,4
+161884459,107230,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,10.0,4
+161884460,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161884461,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161884462,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884463,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884464,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884465,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884466,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884467,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884468,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884469,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884470,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161884471,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161884472,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884473,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884474,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884475,107230,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (IND vs BOS),180.0,NBA,2024-05-24 00:00:00+00:00,50.0,4
+161884476,107230,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (IND vs BOS),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884477,107230,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884478,107230,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884479,107230,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,3.0,10
+161884480,107230,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884481,107230,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884482,107230,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (IND vs BOS),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884483,107230,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (IND vs BOS),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884484,107230,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884485,107230,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (IND vs BOS),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884486,107230,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (IND vs BOS),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161884487,107230,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (IND vs BOS)",30000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,3
+161884488,107230,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (IND vs BOS)",15000.0,NBA,2024-05-24 00:00:00+00:00,5300.0,3
+161884489,107230,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (IND vs BOS)",3000.0,NBA,2024-05-24 00:00:00+00:00,1060.0,3
+161884490,107230,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (IND vs BOS),1500.0,NBA,2024-05-24 00:00:00+00:00,530.0,3
+161884491,107230,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (IND vs BOS),450.0,NBA,2024-05-24 00:00:00+00:00,162.0,3
+161884492,107230,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (IND vs BOS),300.0,NBA,2024-05-24 00:00:00+00:00,109.0,3
+161884493,107230,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (IND vs BOS),300.0,NBA,2024-05-24 00:00:00+00:00,109.0,3
+161884494,107230,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (IND vs BOS),225.0,NBA,2024-05-24 00:00:00+00:00,50.0,5
+161884495,107230,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (IND vs BOS),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161884496,107230,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,20.0,5
+161884497,107230,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,20.0,5
+161884498,107230,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (IND vs BOS),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884499,107230,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (IND vs BOS),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884500,107230,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (IND vs BOS),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884501,107230,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884502,107230,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884503,107230,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884504,107230,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884505,107230,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884506,107230,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884507,107230,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884508,107230,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884509,107230,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (IND vs BOS),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884510,107230,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (IND vs BOS),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884511,107230,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (IND vs BOS),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884512,107230,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (IND vs BOS),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884513,107230,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (IND vs BOS),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884514,107230,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (IND vs BOS),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884515,107230,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884516,107230,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884517,107230,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884518,107230,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884519,107230,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884520,107230,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884521,107230,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884522,107230,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884523,107230,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (IND vs BOS),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884524,107230,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (IND vs BOS),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884525,107230,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (IND vs BOS),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884526,107230,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884527,107230,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (IND vs BOS),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161884530,107230,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161884532,107230,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,10.0,11
+161884533,107230,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (IND vs BOS),600.0,NBA,2024-05-24 00:00:00+00:00,109.0,6
+161884534,107230,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (IND vs BOS)",40000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,4
+161884535,107230,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (IND vs BOS)",40000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,4
+161884536,107230,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (IND vs BOS)",40000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,4
+161884537,107230,3.0,True,False,True,False,False,Casual NBA Showdown $3 Double Up (IND vs BOS),60.0,NBA,2024-05-24 00:00:00+00:00,3.0,23
+161884538,107230,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (IND vs BOS),180.0,NBA,2024-05-24 00:00:00+00:00,50.0,4
+161884539,107230,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (IND vs BOS),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884540,107230,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884541,107230,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884542,107230,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,3.0,10
+161884543,107230,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (IND vs BOS),10.8,NBA,2024-05-24 00:00:00+00:00,3.0,4
+161884544,107230,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884545,107230,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (IND vs BOS),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161884546,107230,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (IND vs BOS),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884547,107230,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884548,107230,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884549,107230,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884550,107230,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (IND vs BOS),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884551,107230,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (IND vs BOS),500.0,NBA,2024-05-24 00:00:00+00:00,109.0,5
+161884552,107230,1.0,True,False,True,False,False,Casual NBA Showdown $1 Double Up (IND vs BOS),34.0,NBA,2024-05-24 00:00:00+00:00,1.0,39
+161884553,107230,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,10.0,11
+161884554,107230,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (IND vs BOS),250.0,NBA,2024-05-24 00:00:00+00:00,25.0,11
+161884555,107230,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (IND vs BOS),500.0,NBA,2024-05-24 00:00:00+00:00,50.0,11
+161884556,107230,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,5.0,11
+161884557,107230,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (IND vs BOS),30.0,NBA,2024-05-24 00:00:00+00:00,3.0,11
+161884558,107230,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (IND vs BOS),10.0,NBA,2024-05-24 00:00:00+00:00,1.0,11
+161884559,107230,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (IND vs BOS),500.0,NBA,2024-05-24 00:00:00+00:00,25.0,22
+161884560,107230,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (IND vs BOS),1000.0,NBA,2024-05-24 00:00:00+00:00,50.0,22
+161884561,107230,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,1.0,31
+161884562,107230,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (IND vs BOS),135.0,NBA,2024-05-24 00:00:00+00:00,5.0,31
+161884564,107230,10.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 9 Win $30] (IND vs BOS),270.0,NBA,2024-05-24 00:00:00+00:00,10.0,31
+161884565,107230,25.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 9 Win $75] (IND vs BOS),675.0,NBA,2024-05-24 00:00:00+00:00,25.0,31
+161884566,107230,26200.0,False,False,False,False,True,NBA Showdown $100K Heavy Hitter [Must Fill] (IND vs BOS),100000.0,NBA,2024-05-24 00:00:00+00:00,26200.0,4
+161884567,107230,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (IND vs BOS),4000.0,NBA,2024-05-24 00:00:00+00:00,1060.0,4
+161884568,107230,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161884570,107230,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,5.0,23
+161884571,107230,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (IND vs BOS),250.0,NBA,2024-05-24 00:00:00+00:00,25.0,11
+161884572,107230,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (IND vs BOS),1000.0,NBA,2024-05-24 00:00:00+00:00,267.0,4
+161884573,107230,250.0,True,False,True,False,False,NBA Showdown $250 Double Up (IND vs BOS),2500.0,NBA,2024-05-24 00:00:00+00:00,250.0,11
+161884575,107230,100.0,True,False,True,False,False,NBA Showdown $100 Double Up (IND vs BOS),1000.0,NBA,2024-05-24 00:00:00+00:00,100.0,11
+161884576,107230,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (IND vs BOS)",1500.0,NBA,2024-05-24 00:00:00+00:00,408.0,4
+161884577,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.1,297
+161884578,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.1,297
+161884579,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.1,297
+161884580,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.1,297
+161884581,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.1,297
+161884582,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.25,118
+161884583,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.25,118
+161884584,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.25,118
+161884585,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.25,118
+161884586,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.25,118
+161884587,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.5,59
+161884588,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.5,59
+161884589,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,1.0,29
+161884590,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,1.0,29
+161884591,107230,2.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,2.0,14
+161884592,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161884593,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161884594,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161884595,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161884596,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.5,118
+161884597,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.5,118
+161884598,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.5,118
+161884599,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.5,118
+161884600,107230,1.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,1.0,59
+161884601,107230,1.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,1.0,59
+161884602,107230,1.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,1.0,59
+161884603,107230,2.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,2.0,29
+161884604,107230,2.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,2.0,29
+161884605,107230,2.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,2.0,29
+161884606,107230,1.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,1.0,118
+161884607,107230,1.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,1.0,118
+161884608,107230,3.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,3.0,39
+161884609,107230,3.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,3.0,39
+161884610,107230,5.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,5.0,23
+161884611,107230,4.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [10x] (IND vs BOS),250.0,NBA,2024-05-24 00:00:00+00:00,4.0,74
+161884612,107230,4.0,False,False,True,False,True,NBA Showdown SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [10x] (IND vs BOS),250.0,NBA,2024-05-24 00:00:00+00:00,4.0,74
+161884613,107230,26200.0,False,False,False,False,True,NBA Showdown $75K Heavy Hitter [Must Fill] (IND vs BOS),75000.0,NBA,2024-05-24 00:00:00+00:00,26200.0,3
+161884614,107230,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (IND vs BOS),10.99,NBA,2024-05-24 00:00:00+00:00,4.0,3
+161884615,107230,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (IND vs BOS),10.99,NBA,2024-05-24 00:00:00+00:00,4.0,3
+161884616,107230,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (IND vs BOS),10.99,NBA,2024-05-24 00:00:00+00:00,4.0,3
+161884617,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSat to TEN $20 French Slam (French) [2x] (IND vs BOS),40.0,NBA,2024-05-24 00:00:00+00:00,0.5,95
+161884618,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (French) (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161884619,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (French) (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.25,95
+161884620,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (French) (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.1,237
+161884621,107230,75.0,False,False,True,False,True,NBA Showdown Satellite to TEN $333 Clay Smash (French) (IND vs BOS),333.0,NBA,2024-05-24 00:00:00+00:00,75.0,5
+161884622,107230,9.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (IND vs BOS),555.0,NBA,2024-05-24 00:00:00+00:00,9.0,72
+161884623,107230,34.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (IND vs BOS),555.0,NBA,2024-05-24 00:00:00+00:00,34.0,19
+161884624,107230,90.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop Ticket (IND vs BOS),555.0,NBA,2024-05-24 00:00:00+00:00,90.0,7
+161884625,107230,0.0,False,False,True,False,False,NBA Showdown Satellite to CFL $15 Kickoff Special (6-6-2024) (IND vs BOS),15.0,NBA,2024-05-24 00:00:00+00:00,0.5,35
+161884626,107230,0.0,False,False,True,False,False,NBA Showdown Satellite to CFL $15 Kickoff Special (6-6-2024) (IND vs BOS),15.0,NBA,2024-05-24 00:00:00+00:00,0.1,178
+161884627,107230,37.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $350 Qualifier (IND vs BOS),350.0,NBA,2024-05-24 00:00:00+00:00,37.0,11
+161884628,107230,17.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $160 Qualifier (IND vs BOS),160.0,NBA,2024-05-24 00:00:00+00:00,17.0,11
+161884629,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $60 Qualifier (IND vs BOS),60.0,NBA,2024-05-24 00:00:00+00:00,0.5,142
+161884630,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $60 Qualifier (IND vs BOS),60.0,NBA,2024-05-24 00:00:00+00:00,1.0,71
+161884631,107230,2.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $60 Qualifier (IND vs BOS),60.0,NBA,2024-05-24 00:00:00+00:00,2.0,35
+161884632,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $37 Qualifier (IND vs BOS),37.0,NBA,2024-05-24 00:00:00+00:00,0.1,439
+161884633,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to $300K Basketball Showdown Showcase $37 Qualifier (IND vs BOS),37.0,NBA,2024-05-24 00:00:00+00:00,0.25,175
+161884634,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NHL $24 Finals Face-Off (Game 1 Finals) (IND vs BOS),24.0,NBA,2024-05-24 00:00:00+00:00,0.25,114
+161884635,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NHL $24 Finals Face-Off (Game 1 Finals) (IND vs BOS),24.0,NBA,2024-05-24 00:00:00+00:00,0.25,114
+161884636,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NHL $24 Finals Face-Off (Game 1 Finals) (IND vs BOS),24.0,NBA,2024-05-24 00:00:00+00:00,0.25,114
+161884637,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to NHL $24 Finals Face-Off (Game 1 Finals) (IND vs BOS),24.0,NBA,2024-05-24 00:00:00+00:00,1.0,28
+161884638,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to NHL $24 Finals Face-Off (Game 1 Finals) (IND vs BOS),24.0,NBA,2024-05-24 00:00:00+00:00,1.0,28
+161884639,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to NHL $24 Finals Face-Off (Game 1 Finals) (IND vs BOS),24.0,NBA,2024-05-24 00:00:00+00:00,1.0,28
+161884640,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [5x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.1,1189
+161884641,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.1,237
+161884642,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.1,237
+161884643,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.1,237
+161884644,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.1,237
+161884645,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.25,95
+161884646,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.25,95
+161884647,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.25,95
+161884648,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.25,95
+161884649,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161884650,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161884651,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161884652,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161884653,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161884654,107230,201.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $4M Monster Millionaire [Must Fill] (IND vs BOS),555.0,NBA,2024-05-24 00:00:00+00:00,201.0,3
+161884655,107230,10.0,False,False,False,False,True,NBA Showdown Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884656,107230,10.0,False,False,False,False,True,NBA Showdown Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884657,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161884658,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161884659,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161884660,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161884661,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161884662,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161884663,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.25,475
+161884664,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.25,475
+161884665,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.25,475
+161884666,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.25,475
+161884667,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.25,475
+161884668,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.25,475
+161884669,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.1,594
+161884670,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.1,594
+161884671,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.1,594
+161884672,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.1,594
+161884673,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.1,594
+161884674,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,0.1,594
+161884675,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.1,1189
+161884676,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.1,1189
+161884677,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.1,1189
+161884678,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.1,1189
+161884679,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.1,1189
+161884680,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (IND vs BOS),100.0,NBA,2024-05-24 00:00:00+00:00,0.1,1189
+161884681,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-16 UFL $20 Championship Special (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.1,237
+161884682,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-16 UFL $20 Championship Special (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,0.25,95
+161884683,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to 6-16 UFL $20 Championship Special (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161884684,107230,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to 6-16 UFL $20 Championship Special [2x] (IND vs BOS),40.0,NBA,2024-05-24 00:00:00+00:00,0.5,95
+161884685,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.1,297
+161884686,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.1,297
+161884687,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.1,297
+161884688,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.1,297
+161884689,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.25,118
+161884690,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.25,118
+161884691,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.25,118
+161884692,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.25,118
+161884693,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.5,59
+161884694,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.5,59
+161884695,107230,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,0.5,59
+161884696,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,1.0,29
+161884697,107230,1.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $25 UFC 302 Special (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,1.0,29
+161884698,107230,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to 6-1 $25 UFC 302 Special [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,1.0,59
+161884699,107230,3.0,False,False,True,False,True,NBA Showdown SUPERSatellite to 6-1 $25 UFC 302 Special [2x] (IND vs BOS),50.0,NBA,2024-05-24 00:00:00+00:00,3.0,19
+161884700,107230,90.0,False,False,True,False,True,NBA Showdown Satellite to 6-1 $555 UFC 302 Knockout Special (IND vs BOS),555.0,NBA,2024-05-24 00:00:00+00:00,90.0,7
+161884701,107230,8.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire [Must Fill] (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,7.4,3
+161884702,107230,8.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire [Must Fill] (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,7.4,3
+161884703,107230,7.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,7.0,3
+161884704,107230,7.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,7.0,3
+161884705,107230,36.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (IND vs BOS),98.0,NBA,2024-05-24 00:00:00+00:00,36.0,3
+161884706,107230,36.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (IND vs BOS),98.0,NBA,2024-05-24 00:00:00+00:00,36.0,3
+161884707,107230,164.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (IND vs BOS),164.0,NBA,2024-05-24 00:00:00+00:00,60.0,3
+161884708,107230,164.0,False,False,False,False,True,NBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (IND vs BOS),164.0,NBA,2024-05-24 00:00:00+00:00,60.0,3
+161884709,107230,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884710,107230,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884711,107230,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884712,107230,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884713,107230,0.0,False,False,True,False,False,NBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (IND vs BOS),15.0,NBA,2024-05-24 00:00:00+00:00,0.1,178
+161884714,107230,0.0,False,False,True,False,False,NBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (IND vs BOS),15.0,NBA,2024-05-24 00:00:00+00:00,0.25,71
+161884715,107230,1.0,False,False,True,False,False,NBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (IND vs BOS),15.0,NBA,2024-05-24 00:00:00+00:00,1.0,17
+161884716,107232,20.0,False,False,False,False,False,Beginner NBA $20 3-Player (Thu-Fri),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884717,107232,50.0,False,False,False,False,False,Beginner NBA $50 3-Player (Thu-Fri),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161884718,107232,10.0,False,False,False,False,False,Beginner NBA $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884719,107232,5.0,False,False,False,False,False,Beginner NBA $5 3-Player (Thu-Fri),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884720,107232,1.0,False,False,False,False,False,Beginner NBA $1 3-Player (Thu-Fri),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161884721,107232,5300.0,True,False,False,False,False,"NBA $5,300 50-50 (Thu-Fri)",20000.0,NBA,2024-05-24 00:00:00+00:00,5300.0,4
+161884722,107232,1060.0,True,False,False,False,False,"NBA $1,060 50-50 (Thu-Fri)",4000.0,NBA,2024-05-24 00:00:00+00:00,1060.0,4
+161884723,107232,530.0,True,False,False,False,False,NBA $530 50-50 (Thu-Fri),2000.0,NBA,2024-05-24 00:00:00+00:00,530.0,4
+161884724,107232,162.0,True,False,False,False,False,NBA $162 50-50 (Thu-Fri),600.0,NBA,2024-05-24 00:00:00+00:00,162.0,4
+161884725,107232,109.0,True,False,False,False,False,NBA $109 50-50 (Thu-Fri),400.0,NBA,2024-05-24 00:00:00+00:00,109.0,4
+161884726,107232,50.0,True,False,False,False,False,NBA $50 50-50 (Thu-Fri),180.0,NBA,2024-05-24 00:00:00+00:00,50.0,4
+161884727,107232,20.0,True,False,False,False,False,NBA $20 50-50 (Thu-Fri),360.0,NBA,2024-05-24 00:00:00+00:00,20.0,20
+161884728,107232,20.0,True,False,False,False,False,NBA $20 50-50 (Thu-Fri),180.0,NBA,2024-05-24 00:00:00+00:00,20.0,10
+161884729,107232,20.0,True,False,False,False,False,NBA $20 50-50 (Thu-Fri),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884730,107232,20.0,True,False,False,False,False,NBA $20 50-50 (Thu-Fri),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884731,107232,10.0,True,False,False,False,False,NBA $10 50-50 (Thu-Fri),180.0,NBA,2024-05-24 00:00:00+00:00,10.0,20
+161884732,107232,10.0,True,False,False,False,False,NBA $10 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884733,107232,10.0,True,False,False,False,False,NBA $10 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884734,107232,10.0,True,False,False,False,False,NBA $10 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,10.0,4
+161884735,107232,10.0,True,False,False,False,False,NBA $10 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,10.0,4
+161884736,107232,10.0,True,False,False,False,False,NBA $10 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,10.0,4
+161884737,107232,5.0,True,False,False,False,False,NBA $5 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161884738,107232,5.0,True,False,False,False,False,NBA $5 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161884739,107232,5.0,True,False,False,False,False,NBA $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884740,107232,5.0,True,False,False,False,False,NBA $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884741,107232,5.0,True,False,False,False,False,NBA $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884742,107232,2.0,True,False,False,False,False,NBA $2 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884743,107232,2.0,True,False,False,False,False,NBA $2 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884744,107232,2.0,True,False,False,False,False,NBA $2 50-50 (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884745,107232,2.0,True,False,False,False,False,NBA $2 50-50 (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884746,107232,2.0,True,False,False,False,False,NBA $2 50-50 (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884747,107232,1.0,True,False,False,False,False,NBA $1 50-50 (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161884748,107232,1.0,True,False,False,False,False,NBA $1 50-50 (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161884749,107232,1.0,True,False,False,False,False,NBA $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884750,107232,1.0,True,False,False,False,False,NBA $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884751,107232,1.0,True,False,False,False,False,NBA $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884752,107232,50.0,True,False,False,False,False,Beginner NBA $50 50-50 (Thu-Fri),180.0,NBA,2024-05-24 00:00:00+00:00,50.0,4
+161884753,107232,20.0,True,False,False,False,False,Beginner NBA $20 50-50 (Thu-Fri),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884754,107232,10.0,True,False,False,False,False,Beginner NBA $10 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884755,107232,5.0,True,False,False,False,False,Beginner NBA $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884756,107232,3.0,True,False,False,False,False,Beginner NBA $3 50-50 (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,3.0,10
+161884757,107232,1.0,True,False,False,False,False,Beginner NBA $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884758,107232,10.0,False,False,False,False,False,Beginner NBA $10 5-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884759,107232,5.0,False,False,False,False,False,Beginner NBA $5 5-Player (Thu-Fri),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884760,107232,5.0,False,False,False,False,False,Beginner NBA $5 3-Player (Thu-Fri),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884761,107232,2.0,False,False,False,False,False,Beginner NBA $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884762,107232,2.0,False,False,False,False,False,Beginner NBA $2 3-Player (Thu-Fri),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884763,107232,1.0,False,False,False,False,False,Beginner NBA $1 5-Player (Thu-Fri),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161884764,107232,10600.0,False,False,False,False,False,"NBA $10,600 3-Player (Thu-Fri)",30000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,3
+161884765,107232,5300.0,False,False,False,False,False,"NBA $5,300 3-Player (Thu-Fri)",15000.0,NBA,2024-05-24 00:00:00+00:00,5300.0,3
+161884766,107232,1060.0,False,False,False,False,False,"NBA $1,060 3-Player (Thu-Fri)",3000.0,NBA,2024-05-24 00:00:00+00:00,1060.0,3
+161884767,107232,530.0,False,False,False,False,False,NBA $530 3-Player (Thu-Fri),1500.0,NBA,2024-05-24 00:00:00+00:00,530.0,3
+161884768,107232,162.0,False,False,False,False,False,NBA $162 3-Player (Thu-Fri),450.0,NBA,2024-05-24 00:00:00+00:00,162.0,3
+161884769,107232,109.0,False,False,False,False,False,NBA $109 3-Player (Thu-Fri),300.0,NBA,2024-05-24 00:00:00+00:00,109.0,3
+161884770,107232,109.0,False,False,False,False,False,NBA $109 3-Player (Thu-Fri),300.0,NBA,2024-05-24 00:00:00+00:00,109.0,3
+161884771,107232,50.0,False,False,False,False,False,NBA $50 5-Player (Thu-Fri),225.0,NBA,2024-05-24 00:00:00+00:00,50.0,5
+161884772,107232,50.0,False,False,False,False,False,NBA $50 3-Player (Thu-Fri),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161884773,107232,20.0,False,False,False,False,False,NBA $20 5-Player (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,20.0,5
+161884774,107232,20.0,False,False,False,False,False,NBA $20 5-Player (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,20.0,5
+161884775,107232,20.0,False,False,False,False,False,NBA $20 3-Player (Thu-Fri),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884776,107232,20.0,False,False,False,False,False,NBA $20 3-Player (Thu-Fri),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884777,107232,20.0,False,False,False,False,False,NBA $20 3-Player (Thu-Fri),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884778,107232,10.0,False,False,False,False,False,NBA $10 10-Player (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884779,107232,10.0,False,False,False,False,False,NBA $10 5-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884780,107232,10.0,False,False,False,False,False,NBA $10 5-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884781,107232,10.0,False,False,False,False,False,NBA $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884782,107232,10.0,False,False,False,False,False,NBA $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884783,107232,10.0,False,False,False,False,False,NBA $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884784,107232,5.0,False,False,False,False,False,NBA $5 10-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884785,107232,5.0,False,False,False,False,False,NBA $5 10-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884786,107232,5.0,False,False,False,False,False,NBA $5 5-Player (Thu-Fri),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884787,107232,5.0,False,False,False,False,False,NBA $5 5-Player (Thu-Fri),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884788,107232,5.0,False,False,False,False,False,NBA $5 5-Player (Thu-Fri),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884790,107232,5.0,False,False,False,False,False,NBA $5 3-Player (Thu-Fri),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884791,107232,5.0,False,False,False,False,False,NBA $5 3-Player (Thu-Fri),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884792,107232,2.0,False,False,False,False,False,NBA $2 20-Player (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884793,107232,2.0,False,False,False,False,False,NBA $2 20-Player (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884794,107232,2.0,False,False,False,False,False,NBA $2 10-Player (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884795,107232,2.0,False,False,False,False,False,NBA $2 10-Player (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884796,107232,2.0,False,False,False,False,False,NBA $2 10-Player (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884797,107232,2.0,False,False,False,False,False,NBA $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884798,107232,2.0,False,False,False,False,False,NBA $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884799,107232,2.0,False,False,False,False,False,NBA $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884800,107232,2.0,False,False,False,False,False,NBA $2 3-Player (Thu-Fri),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884801,107232,2.0,False,False,False,False,False,NBA $2 3-Player (Thu-Fri),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884802,107232,2.0,False,False,False,False,False,NBA $2 3-Player (Thu-Fri),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884803,107232,1.0,False,False,False,False,False,NBA $1 10-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884804,107232,1.0,False,False,False,False,False,NBA $1 5-Player (Thu-Fri),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161884805,107232,1.0,False,False,False,False,False,NBA $1 3-Player (Thu-Fri),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161884806,107232,1.0,False,False,False,False,False,NBA $1 3-Player (Thu-Fri),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161884807,107232,109.0,True,False,False,False,False,NBA $109 50-50 (Thu-Fri),600.0,NBA,2024-05-24 00:00:00+00:00,109.0,6
+161884808,107232,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Thu-Fri)",40000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,4
+161884809,107232,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Thu-Fri)",40000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,4
+161884810,107232,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Thu-Fri)",40000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,4
+161884811,107232,50.0,True,False,False,False,False,Casual NBA $50 50-50 (Thu-Fri),180.0,NBA,2024-05-24 00:00:00+00:00,50.0,4
+161884812,107232,20.0,True,False,False,False,False,Casual NBA $20 50-50 (Thu-Fri),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884813,107232,10.0,True,False,False,False,False,Casual NBA $10 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884814,107232,5.0,True,False,False,False,False,Casual NBA $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884815,107232,3.0,True,False,False,False,False,Casual NBA $3 50-50 (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,3.0,10
+161884816,107232,3.0,True,False,False,False,False,Casual NBA $3 50-50 (Thu-Fri),10.8,NBA,2024-05-24 00:00:00+00:00,3.0,4
+161884817,107232,1.0,True,False,False,False,False,Casual NBA $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884818,107232,50.0,False,False,False,False,False,Casual NBA $50 3-Player (Thu-Fri),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161884819,107232,20.0,False,False,False,False,False,Casual NBA $20 3-Player (Thu-Fri),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884820,107232,10.0,False,False,False,False,False,Casual NBA $10 5-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884821,107232,10.0,False,False,False,False,False,Casual NBA $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884822,107232,2.0,False,False,False,False,False,Casual NBA $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884823,107232,2.0,False,False,False,False,False,Casual NBA $2 3-Player (Thu-Fri),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884824,107232,109.0,False,False,False,False,False,Casual NBA $109 5-Player (Thu-Fri),500.0,NBA,2024-05-24 00:00:00+00:00,109.0,5
+161884825,107232,10.0,True,False,False,False,False,NBA $10 Double Up (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,10.0,11
+161884826,107232,25.0,True,False,False,False,False,NBA $25 Double Up (Thu-Fri),250.0,NBA,2024-05-24 00:00:00+00:00,25.0,11
+161884827,107232,50.0,True,False,False,False,False,NBA $50 Double Up (Thu-Fri),500.0,NBA,2024-05-24 00:00:00+00:00,50.0,11
+161884828,107232,5.0,True,False,False,False,False,NBA $5 Double Up (Thu-Fri),50.0,NBA,2024-05-24 00:00:00+00:00,5.0,11
+161884829,107232,3.0,True,False,False,False,False,NBA $3 Double Up (Thu-Fri),30.0,NBA,2024-05-24 00:00:00+00:00,3.0,11
+161884830,107232,1.0,True,False,False,False,False,NBA $1 Double Up (Thu-Fri),10.0,NBA,2024-05-24 00:00:00+00:00,1.0,11
+161884831,107232,25.0,True,False,False,False,False,NBA $25 Double Up (Thu-Fri),500.0,NBA,2024-05-24 00:00:00+00:00,25.0,22
+161884832,107232,50.0,True,False,False,False,False,NBA $50 Double Up (Thu-Fri),1000.0,NBA,2024-05-24 00:00:00+00:00,50.0,22
+161884833,107232,1060.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill) (Thu-Fri),4000.0,NBA,2024-05-24 00:00:00+00:00,1060.0,4
+161884834,107232,267.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill) (Thu-Fri),1000.0,NBA,2024-05-24 00:00:00+00:00,267.0,4
+161884835,107232,408.0,False,False,False,False,True,"NBA $408 Winner Take All [$1.5K to 1st, Must Fill] (Thu-Fri)",1500.0,NBA,2024-05-24 00:00:00+00:00,408.0,4
+161884836,107232,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (Thu-Fri),10.99,NBA,2024-05-24 00:00:00+00:00,4.0,3
+161884837,107232,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (Thu-Fri),10.99,NBA,2024-05-24 00:00:00+00:00,4.0,3
+161884838,107232,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (Thu-Fri),10.99,NBA,2024-05-24 00:00:00+00:00,4.0,3
+161884839,107232,201.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $4M Monster Millionaire [Must Fill] (Thu-Fri),555.0,NBA,2024-05-24 00:00:00+00:00,201.0,3
+161884840,107232,10.0,False,False,False,False,True,NBA Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884841,107232,10.0,False,False,False,False,True,NBA Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884842,107232,8.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $15M Millionaire [Must Fill] (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,7.4,3
+161884843,107232,8.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $15M Millionaire [Must Fill] (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,7.4,3
+161884844,107232,7.0,False,False,False,False,True,NBA Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,7.0,3
+161884845,107232,7.0,False,False,False,False,True,NBA Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,7.0,3
+161884846,107232,36.0,False,False,False,False,True,NBA Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (Thu-Fri),98.0,NBA,2024-05-24 00:00:00+00:00,36.0,3
+161884847,107232,36.0,False,False,False,False,True,NBA Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (Thu-Fri),98.0,NBA,2024-05-24 00:00:00+00:00,36.0,3
+161884848,107232,164.0,False,False,False,False,True,NBA Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (Thu-Fri),164.0,NBA,2024-05-24 00:00:00+00:00,60.0,3
+161884849,107232,164.0,False,False,False,False,True,NBA Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (Thu-Fri),164.0,NBA,2024-05-24 00:00:00+00:00,60.0,3
+161884850,107232,10.0,False,False,False,False,True,NBA  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884851,107232,10.0,False,False,False,False,True,NBA  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884852,107232,10.0,False,False,False,False,True,NBA  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884853,107232,10.0,False,False,False,False,True,NBA  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884854,107233,20.0,False,False,False,False,False,Beginner NBA Tiers $20 3-Player (Thu-Fri),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884855,107233,50.0,False,False,False,False,False,Beginner NBA Tiers $50 3-Player (Thu-Fri),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161884856,107233,10.0,False,False,False,False,False,Beginner NBA Tiers $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884857,107233,5.0,False,False,False,False,False,Beginner NBA Tiers $5 3-Player (Thu-Fri),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884858,107233,1.0,False,False,False,False,False,Beginner NBA Tiers $1 3-Player (Thu-Fri),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161884859,107233,5300.0,True,False,False,False,False,"NBA Tiers $5,300 50-50 (Thu-Fri)",20000.0,NBA,2024-05-24 00:00:00+00:00,5300.0,4
+161884860,107233,1060.0,True,False,False,False,False,"NBA Tiers $1,060 50-50 (Thu-Fri)",4000.0,NBA,2024-05-24 00:00:00+00:00,1060.0,4
+161884861,107233,530.0,True,False,False,False,False,NBA Tiers $530 50-50 (Thu-Fri),2000.0,NBA,2024-05-24 00:00:00+00:00,530.0,4
+161884862,107233,162.0,True,False,False,False,False,NBA Tiers $162 50-50 (Thu-Fri),600.0,NBA,2024-05-24 00:00:00+00:00,162.0,4
+161884863,107233,109.0,True,False,False,False,False,NBA Tiers $109 50-50 (Thu-Fri),400.0,NBA,2024-05-24 00:00:00+00:00,109.0,4
+161884864,107233,50.0,True,False,False,False,False,NBA Tiers $50 50-50 (Thu-Fri),180.0,NBA,2024-05-24 00:00:00+00:00,50.0,4
+161884865,107233,20.0,True,False,False,False,False,NBA Tiers $20 50-50 (Thu-Fri),360.0,NBA,2024-05-24 00:00:00+00:00,20.0,20
+161884866,107233,20.0,True,False,False,False,False,NBA Tiers $20 50-50 (Thu-Fri),180.0,NBA,2024-05-24 00:00:00+00:00,20.0,10
+161884867,107233,20.0,True,False,False,False,False,NBA Tiers $20 50-50 (Thu-Fri),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884868,107233,20.0,True,False,False,False,False,NBA Tiers $20 50-50 (Thu-Fri),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884869,107233,10.0,True,False,False,False,False,NBA Tiers $10 50-50 (Thu-Fri),180.0,NBA,2024-05-24 00:00:00+00:00,10.0,20
+161884870,107233,10.0,True,False,False,False,False,NBA Tiers $10 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884871,107233,10.0,True,False,False,False,False,NBA Tiers $10 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884872,107233,10.0,True,False,False,False,False,NBA Tiers $10 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,10.0,4
+161884873,107233,10.0,True,False,False,False,False,NBA Tiers $10 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,10.0,4
+161884874,107233,10.0,True,False,False,False,False,NBA Tiers $10 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,10.0,4
+161884875,107233,5.0,True,False,False,False,False,NBA Tiers $5 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161884876,107233,5.0,True,False,False,False,False,NBA Tiers $5 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161884877,107233,5.0,True,False,False,False,False,NBA Tiers $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884878,107233,5.0,True,False,False,False,False,NBA Tiers $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884879,107233,5.0,True,False,False,False,False,NBA Tiers $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884880,107233,2.0,True,False,False,False,False,NBA Tiers $2 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884881,107233,2.0,True,False,False,False,False,NBA Tiers $2 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884882,107233,2.0,True,False,False,False,False,NBA Tiers $2 50-50 (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884883,107233,2.0,True,False,False,False,False,NBA Tiers $2 50-50 (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884884,107233,2.0,True,False,False,False,False,NBA Tiers $2 50-50 (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884885,107233,1.0,True,False,False,False,False,NBA Tiers $1 50-50 (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161884886,107233,1.0,True,False,False,False,False,NBA Tiers $1 50-50 (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161884887,107233,1.0,True,False,False,False,False,NBA Tiers $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884888,107233,1.0,True,False,False,False,False,NBA Tiers $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884889,107233,1.0,True,False,False,False,False,NBA Tiers $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884890,107233,50.0,True,False,False,False,False,Beginner NBA Tiers $50 50-50 (Thu-Fri),180.0,NBA,2024-05-24 00:00:00+00:00,50.0,4
+161884891,107233,20.0,True,False,False,False,False,Beginner NBA Tiers $20 50-50 (Thu-Fri),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884892,107233,10.0,True,False,False,False,False,Beginner NBA Tiers $10 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884893,107233,5.0,True,False,False,False,False,Beginner NBA Tiers $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884894,107233,3.0,True,False,False,False,False,Beginner NBA Tiers $3 50-50 (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,3.0,10
+161884895,107233,1.0,True,False,False,False,False,Beginner NBA Tiers $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884896,107233,10.0,False,False,False,False,False,Beginner NBA Tiers $10 5-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884897,107233,5.0,False,False,False,False,False,Beginner NBA Tiers $5 5-Player (Thu-Fri),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884898,107233,5.0,False,False,False,False,False,Beginner NBA Tiers $5 3-Player (Thu-Fri),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884899,107233,2.0,False,False,False,False,False,Beginner NBA Tiers $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884900,107233,2.0,False,False,False,False,False,Beginner NBA Tiers $2 3-Player (Thu-Fri),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884901,107233,1.0,False,False,False,False,False,Beginner NBA Tiers $1 5-Player (Thu-Fri),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161884902,107233,10600.0,False,False,False,False,False,"NBA Tiers $10,600 3-Player (Thu-Fri)",30000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,3
+161884903,107233,5300.0,False,False,False,False,False,"NBA Tiers $5,300 3-Player (Thu-Fri)",15000.0,NBA,2024-05-24 00:00:00+00:00,5300.0,3
+161884904,107233,1060.0,False,False,False,False,False,"NBA Tiers $1,060 3-Player (Thu-Fri)",3000.0,NBA,2024-05-24 00:00:00+00:00,1060.0,3
+161884905,107233,530.0,False,False,False,False,False,NBA Tiers $530 3-Player (Thu-Fri),1500.0,NBA,2024-05-24 00:00:00+00:00,530.0,3
+161884906,107233,162.0,False,False,False,False,False,NBA Tiers $162 3-Player (Thu-Fri),450.0,NBA,2024-05-24 00:00:00+00:00,162.0,3
+161884907,107233,109.0,False,False,False,False,False,NBA Tiers $109 3-Player (Thu-Fri),300.0,NBA,2024-05-24 00:00:00+00:00,109.0,3
+161884908,107233,109.0,False,False,False,False,False,NBA Tiers $109 3-Player (Thu-Fri),300.0,NBA,2024-05-24 00:00:00+00:00,109.0,3
+161884909,107233,50.0,False,False,False,False,False,NBA Tiers $50 5-Player (Thu-Fri),225.0,NBA,2024-05-24 00:00:00+00:00,50.0,5
+161884910,107233,50.0,False,False,False,False,False,NBA Tiers $50 3-Player (Thu-Fri),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161884911,107233,20.0,False,False,False,False,False,NBA Tiers $20 5-Player (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,20.0,5
+161884912,107233,20.0,False,False,False,False,False,NBA Tiers $20 5-Player (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,20.0,5
+161884913,107233,20.0,False,False,False,False,False,NBA Tiers $20 3-Player (Thu-Fri),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884914,107233,20.0,False,False,False,False,False,NBA Tiers $20 3-Player (Thu-Fri),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884915,107233,20.0,False,False,False,False,False,NBA Tiers $20 3-Player (Thu-Fri),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884916,107233,10.0,False,False,False,False,False,NBA Tiers $10 10-Player (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884917,107233,10.0,False,False,False,False,False,NBA Tiers $10 5-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884918,107233,10.0,False,False,False,False,False,NBA Tiers $10 5-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884919,107233,10.0,False,False,False,False,False,NBA Tiers $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884920,107233,10.0,False,False,False,False,False,NBA Tiers $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884921,107233,10.0,False,False,False,False,False,NBA Tiers $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884922,107233,5.0,False,False,False,False,False,NBA Tiers $5 10-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884923,107233,5.0,False,False,False,False,False,NBA Tiers $5 10-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884924,107233,5.0,False,False,False,False,False,NBA Tiers $5 5-Player (Thu-Fri),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884925,107233,5.0,False,False,False,False,False,NBA Tiers $5 5-Player (Thu-Fri),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884926,107233,5.0,False,False,False,False,False,NBA Tiers $5 5-Player (Thu-Fri),22.5,NBA,2024-05-24 00:00:00+00:00,5.0,5
+161884927,107233,5.0,False,False,False,False,False,NBA Tiers $5 3-Player (Thu-Fri),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884928,107233,5.0,False,False,False,False,False,NBA Tiers $5 3-Player (Thu-Fri),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884929,107233,5.0,False,False,False,False,False,NBA Tiers $5 3-Player (Thu-Fri),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161884930,107233,2.0,False,False,False,False,False,NBA Tiers $2 20-Player (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884931,107233,2.0,False,False,False,False,False,NBA Tiers $2 20-Player (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161884932,107233,2.0,False,False,False,False,False,NBA Tiers $2 10-Player (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884933,107233,2.0,False,False,False,False,False,NBA Tiers $2 10-Player (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884934,107233,2.0,False,False,False,False,False,NBA Tiers $2 10-Player (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161884935,107233,2.0,False,False,False,False,False,NBA Tiers $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884936,107233,2.0,False,False,False,False,False,NBA Tiers $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884937,107233,2.0,False,False,False,False,False,NBA Tiers $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884938,107233,2.0,False,False,False,False,False,NBA Tiers $2 3-Player (Thu-Fri),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884939,107233,2.0,False,False,False,False,False,NBA Tiers $2 3-Player (Thu-Fri),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884940,107233,2.0,False,False,False,False,False,NBA Tiers $2 3-Player (Thu-Fri),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884941,107233,1.0,False,False,False,False,False,NBA Tiers $1 10-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884942,107233,1.0,False,False,False,False,False,NBA Tiers $1 5-Player (Thu-Fri),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161884943,107233,1.0,False,False,False,False,False,NBA Tiers $1 3-Player (Thu-Fri),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161884944,107233,1.0,False,False,False,False,False,NBA Tiers $1 3-Player (Thu-Fri),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161884945,107233,109.0,True,False,False,False,False,NBA Tiers $109 50-50 (Thu-Fri),600.0,NBA,2024-05-24 00:00:00+00:00,109.0,6
+161884946,107233,10600.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All) (Thu-Fri)",40000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,4
+161884947,107233,10600.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All) (Thu-Fri)",40000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,4
+161884948,107233,10600.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All) (Thu-Fri)",40000.0,NBA,2024-05-24 00:00:00+00:00,10600.0,4
+161884949,107233,50.0,True,False,False,False,False,Casual NBA Tiers $50 50-50 (Thu-Fri),180.0,NBA,2024-05-24 00:00:00+00:00,50.0,4
+161884950,107233,20.0,True,False,False,False,False,Casual NBA Tiers $20 50-50 (Thu-Fri),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161884951,107233,10.0,True,False,False,False,False,Casual NBA Tiers $10 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161884952,107233,5.0,True,False,False,False,False,Casual NBA Tiers $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161884953,107233,3.0,True,False,False,False,False,Casual NBA Tiers $3 50-50 (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,3.0,10
+161884954,107233,3.0,True,False,False,False,False,Casual NBA Tiers $3 50-50 (Thu-Fri),10.8,NBA,2024-05-24 00:00:00+00:00,3.0,4
+161884955,107233,1.0,True,False,False,False,False,Casual NBA Tiers $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161884956,107233,50.0,False,False,False,False,False,Casual NBA Tiers $50 3-Player (Thu-Fri),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161884957,107233,20.0,False,False,False,False,False,Casual NBA Tiers $20 3-Player (Thu-Fri),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161884958,107233,10.0,False,False,False,False,False,Casual NBA Tiers $10 5-Player (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,10.0,5
+161884959,107233,10.0,False,False,False,False,False,Casual NBA Tiers $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161884960,107233,2.0,False,False,False,False,False,Casual NBA Tiers $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161884961,107233,2.0,False,False,False,False,False,Casual NBA Tiers $2 3-Player (Thu-Fri),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161884962,107233,109.0,False,False,False,False,False,Casual NBA Tiers $109 5-Player (Thu-Fri),500.0,NBA,2024-05-24 00:00:00+00:00,109.0,5
+161884963,107233,10.0,True,False,False,False,False,NBA Tiers $10 Double Up (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,10.0,11
+161884964,107233,25.0,True,False,False,False,False,NBA Tiers $25 Double Up (Thu-Fri),250.0,NBA,2024-05-24 00:00:00+00:00,25.0,11
+161884965,107233,50.0,True,False,False,False,False,NBA Tiers $50 Double Up (Thu-Fri),500.0,NBA,2024-05-24 00:00:00+00:00,50.0,11
+161884966,107233,5.0,True,False,False,False,False,NBA Tiers $5 Double Up (Thu-Fri),50.0,NBA,2024-05-24 00:00:00+00:00,5.0,11
+161884967,107233,3.0,True,False,False,False,False,NBA Tiers $3 Double Up (Thu-Fri),30.0,NBA,2024-05-24 00:00:00+00:00,3.0,11
+161884968,107233,1.0,True,False,False,False,False,NBA Tiers $1 Double Up (Thu-Fri),10.0,NBA,2024-05-24 00:00:00+00:00,1.0,11
+161884969,107233,25.0,True,False,False,False,False,NBA Tiers $25 Double Up (Thu-Fri),500.0,NBA,2024-05-24 00:00:00+00:00,25.0,22
+161884970,107233,50.0,True,False,False,False,False,NBA Tiers $50 Double Up (Thu-Fri),1000.0,NBA,2024-05-24 00:00:00+00:00,50.0,22
+161884971,107233,1060.0,False,False,False,False,True,NBA Tiers $4K All Star [Single Entry] (Must Fill) (Thu-Fri),4000.0,NBA,2024-05-24 00:00:00+00:00,1060.0,4
+161884972,107233,267.0,False,False,False,False,True,NBA Tiers $267 Winner Take All [$1K to 1st] (Must Fill) (Thu-Fri),1000.0,NBA,2024-05-24 00:00:00+00:00,267.0,4
+161884973,107233,408.0,False,False,False,False,True,"NBA Tiers $408 Winner Take All [$1.5K to 1st, Must Fill] (Thu-Fri)",1500.0,NBA,2024-05-24 00:00:00+00:00,408.0,4
+161884974,107233,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (Thu-Fri),10.99,NBA,2024-05-24 00:00:00+00:00,4.0,3
+161884975,107233,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (Thu-Fri),10.99,NBA,2024-05-24 00:00:00+00:00,4.0,3
+161884976,107233,4.0,False,False,False,False,True,Reignmakers UFC 2024 Walkout Booster Pack Special [Must Fill] (Thu-Fri),10.99,NBA,2024-05-24 00:00:00+00:00,4.0,3
+161884977,107233,201.0,False,False,False,False,True,NBA Tiers Satellite to NFL Best Ball $4M Monster Millionaire [Must Fill] (Thu-Fri),555.0,NBA,2024-05-24 00:00:00+00:00,201.0,3
+161884978,107233,10.0,False,False,False,False,True,NBA Tiers Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884979,107233,10.0,False,False,False,False,True,NBA Tiers Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884980,107233,8.0,False,False,False,False,True,NBA Tiers Satellite to NFL Best Ball $15M Millionaire [Must Fill] (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,7.4,3
+161884981,107233,8.0,False,False,False,False,True,NBA Tiers Satellite to NFL Best Ball $15M Millionaire [Must Fill] (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,7.4,3
+161884982,107233,7.0,False,False,False,False,True,NBA Tiers Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,7.0,3
+161884983,107233,7.0,False,False,False,False,True,NBA Tiers Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,7.0,3
+161884984,107233,36.0,False,False,False,False,True,NBA Tiers Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (Thu-Fri),98.0,NBA,2024-05-24 00:00:00+00:00,36.0,3
+161884985,107233,36.0,False,False,False,False,True,NBA Tiers Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (Thu-Fri),98.0,NBA,2024-05-24 00:00:00+00:00,36.0,3
+161884986,107233,164.0,False,False,False,False,True,NBA Tiers Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (Thu-Fri),164.0,NBA,2024-05-24 00:00:00+00:00,60.0,3
+161884987,107233,164.0,False,False,False,False,True,NBA Tiers Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (Thu-Fri),164.0,NBA,2024-05-24 00:00:00+00:00,60.0,3
+161884988,107233,10.0,False,False,False,False,True,NBA Tiers  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884989,107233,10.0,False,False,False,False,True,NBA Tiers  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884990,107233,10.0,False,False,False,False,True,NBA Tiers  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161884991,107233,10.0,False,False,False,False,True,NBA Tiers  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161885019,107232,50.0,True,False,True,False,False,NBA $50 Double Up (Thu-Fri),500.0,NBA,2024-05-24 00:00:00+00:00,50.0,11
+161885020,107232,25.0,True,False,True,False,False,NBA $25 Double Up (Thu-Fri),250.0,NBA,2024-05-24 00:00:00+00:00,25.0,11
+161885021,107232,1.0,True,False,True,False,False,NBA $1 Double Up (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161885022,107232,10.0,True,False,True,False,False,NBA $10 Double Up (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,10.0,11
+161885023,107232,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3] (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,1.0,31
+161885024,107232,1.0,True,False,True,False,False,NBA $1 Double Up (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161885025,107232,3.0,True,False,True,False,False,NBA $3 Double Up (Thu-Fri),60.0,NBA,2024-05-24 00:00:00+00:00,3.0,23
+161885026,107232,5.0,True,False,True,False,False,NBA $5 Double Up (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,5.0,23
+161885027,107232,10.0,True,False,True,False,False,NBA $10 Double Up (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,10.0,11
+161885028,107232,85.0,False,False,True,False,True,NBA $85 Winner Take All [$300 to 1st] (Thu-Fri),300.0,NBA,2024-05-24 00:00:00+00:00,85.0,4
+161885029,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,0.1,297
+161885030,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,0.25,118
+161885031,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,0.5,59
+161885032,107232,1.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,1.0,29
+161885033,107232,1.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire (Thu-Fri),25.0,NBA,2024-05-24 00:00:00+00:00,1.0,29
+161885034,107232,0.0,False,False,True,False,True,NBA Satellite to TEN $20 French Slam (French) (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,0.25,95
+161885035,107232,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,0.1,237
+161885036,107232,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,0.1,237
+161885037,107232,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,0.25,95
+161885038,107232,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,0.25,95
+161885039,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (Thu-Fri),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161885040,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (Thu-Fri),50.0,NBA,2024-05-24 00:00:00+00:00,0.25,237
+161885041,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,0.25,475
+161885042,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,0.25,475
+161885043,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (Thu-Fri),50.0,NBA,2024-05-24 00:00:00+00:00,0.1,594
+161885044,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire [2x] (Thu-Fri),50.0,NBA,2024-05-24 00:00:00+00:00,0.1,594
+161885045,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,0.1,1189
+161885046,107232,0.0,False,False,True,False,True,NBA Satellite to 6-6 $25 Fantasy Basketball Millionaire [4x] (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,0.1,1189
+161885061,107233,5.0,False,False,True,False,False,NBA Tiers $5 Triple Up [Top 3 Win $15] (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161885062,107233,5.0,False,False,True,False,False,NBA Tiers $5 Triple Up [Top 3 Win $15] (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161885063,107233,1.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 6 Win $3] (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161885064,107233,1.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 6 Win $3] (Thu-Fri),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161885065,107233,10.0,False,False,True,False,False,NBA Tiers $10 Triple Up [Top 3 Win $30] (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161885066,107233,25.0,False,False,True,False,False,NBA Tiers $25 Triple Up [Top 3 Win $75] (Thu-Fri),225.0,NBA,2024-05-24 00:00:00+00:00,25.0,10
+161885067,107233,1.0,True,False,True,False,False,NBA Tiers $1 Double Up (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161885068,107233,1.0,True,False,True,False,False,NBA Tiers $1 Double Up (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161885069,107233,1.0,True,False,True,False,False,NBA Tiers $1 Double Up (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161885070,107233,1.0,True,False,True,False,False,NBA Tiers $1 Double Up (Thu-Fri),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161885071,107233,3.0,True,False,True,False,False,NBA Tiers $3 Double Up (Thu-Fri),60.0,NBA,2024-05-24 00:00:00+00:00,3.0,23
+161885072,107233,3.0,True,False,True,False,False,NBA Tiers $3 Double Up (Thu-Fri),60.0,NBA,2024-05-24 00:00:00+00:00,3.0,23
+161885073,107233,5.0,True,False,True,False,False,NBA Tiers $5 Double Up (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,5.0,23
+161885074,107233,5.0,True,False,True,False,False,NBA Tiers $5 Double Up (Thu-Fri),100.0,NBA,2024-05-24 00:00:00+00:00,5.0,23
+161885075,107233,10.0,True,False,True,False,False,NBA Tiers $10 Double Up (Thu-Fri),200.0,NBA,2024-05-24 00:00:00+00:00,10.0,23
+161885076,107233,25.0,True,False,True,False,False,NBA Tiers $25 Double Up (Thu-Fri),250.0,NBA,2024-05-24 00:00:00+00:00,25.0,11
+161885077,107233,50.0,True,False,True,False,False,NBA Tiers $50 Double Up (Thu-Fri),500.0,NBA,2024-05-24 00:00:00+00:00,50.0,11
+161885078,107235,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H IND vs BOS),5.4,NBA,2024-05-24 01:00:00+00:00,2.0,3
+161885079,107235,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H IND vs BOS),27.0,NBA,2024-05-24 01:00:00+00:00,10.0,3
+161885080,107235,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H IND vs BOS),13.5,NBA,2024-05-24 01:00:00+00:00,5.0,3
+161885081,107235,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H IND vs BOS),2.7,NBA,2024-05-24 01:00:00+00:00,1.0,3
+161885082,107235,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H IND vs BOS),9.0,NBA,2024-05-24 01:00:00+00:00,1.0,10
+161885083,107235,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H IND vs BOS),4.5,NBA,2024-05-24 01:00:00+00:00,1.0,5
+161885084,107235,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H IND vs BOS),2.7,NBA,2024-05-24 01:00:00+00:00,1.0,3
+161885085,107235,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H IND vs BOS),2.7,NBA,2024-05-24 01:00:00+00:00,1.0,3
+161885086,107235,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H IND vs BOS),180.0,NBA,2024-05-24 01:00:00+00:00,20.0,10
+161885087,107235,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H IND vs BOS),90.0,NBA,2024-05-24 01:00:00+00:00,10.0,10
+161885088,107235,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H IND vs BOS),45.0,NBA,2024-05-24 01:00:00+00:00,5.0,10
+161885089,107235,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H IND vs BOS),27.0,NBA,2024-05-24 01:00:00+00:00,3.0,10
+161885090,107235,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H IND vs BOS),9.0,NBA,2024-05-24 01:00:00+00:00,1.0,10
+161885091,107235,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H IND vs BOS),13.5,NBA,2024-05-24 01:00:00+00:00,5.0,3
+161885092,107235,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H IND vs BOS),5.4,NBA,2024-05-24 01:00:00+00:00,2.0,3
+161885093,107235,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H IND vs BOS),5.4,NBA,2024-05-24 01:00:00+00:00,2.0,3
+161885094,107235,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H IND vs BOS),5.4,NBA,2024-05-24 01:00:00+00:00,2.0,3
+161885095,107235,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H IND vs BOS),9.0,NBA,2024-05-24 01:00:00+00:00,2.0,5
+161885096,107235,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H IND vs BOS),18.0,NBA,2024-05-24 01:00:00+00:00,2.0,10
+161885097,107235,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H IND vs BOS),13.5,NBA,2024-05-24 01:00:00+00:00,5.0,3
+161885098,107235,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H IND vs BOS),22.5,NBA,2024-05-24 01:00:00+00:00,5.0,5
+161885099,107235,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H IND vs BOS),45.0,NBA,2024-05-24 01:00:00+00:00,5.0,10
+161885100,107235,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H IND vs BOS),45.0,NBA,2024-05-24 01:00:00+00:00,10.0,5
+161885101,107235,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H IND vs BOS),27.0,NBA,2024-05-24 01:00:00+00:00,10.0,3
+161885102,107235,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H IND vs BOS),54.0,NBA,2024-05-24 01:00:00+00:00,20.0,3
+161885103,107235,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H IND vs BOS),225.0,NBA,2024-05-24 01:00:00+00:00,50.0,5
+161885104,107235,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H IND vs BOS),135.0,NBA,2024-05-24 01:00:00+00:00,50.0,3
+161885105,107235,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H IND vs BOS),300.0,NBA,2024-05-24 01:00:00+00:00,109.0,3
+161885106,107235,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H IND vs BOS),450.0,NBA,2024-05-24 01:00:00+00:00,162.0,3
+161885107,107235,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H IND vs BOS),1500.0,NBA,2024-05-24 01:00:00+00:00,530.0,3
+161885108,107235,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H IND vs BOS)",3000.0,NBA,2024-05-24 01:00:00+00:00,1060.0,3
+161885109,107235,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H IND vs BOS)",15000.0,NBA,2024-05-24 01:00:00+00:00,5300.0,3
+161885110,107235,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H IND vs BOS)",30000.0,NBA,2024-05-24 01:00:00+00:00,10600.0,3
+161885111,107235,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H IND vs BOS),72.0,NBA,2024-05-24 01:00:00+00:00,20.0,4
+161885112,107235,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H IND vs BOS),90.0,NBA,2024-05-24 01:00:00+00:00,10.0,10
+161885113,107235,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H IND vs BOS),9.0,NBA,2024-05-24 01:00:00+00:00,1.0,10
+161885114,107235,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H IND vs BOS),27.0,NBA,2024-05-24 01:00:00+00:00,3.0,10
+161885115,107235,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H IND vs BOS),45.0,NBA,2024-05-24 01:00:00+00:00,5.0,10
+161885116,107235,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H IND vs BOS)",20000.0,NBA,2024-05-24 01:00:00+00:00,5300.0,4
+161885117,107235,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H IND vs BOS)",4000.0,NBA,2024-05-24 01:00:00+00:00,1060.0,4
+161885118,107235,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H IND vs BOS),2000.0,NBA,2024-05-24 01:00:00+00:00,530.0,4
+161885119,107235,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H IND vs BOS),400.0,NBA,2024-05-24 01:00:00+00:00,109.0,4
+161885120,107235,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H IND vs BOS),180.0,NBA,2024-05-24 01:00:00+00:00,50.0,4
+161885121,107235,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H IND vs BOS),72.0,NBA,2024-05-24 01:00:00+00:00,20.0,4
+161885122,107235,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H IND vs BOS),36.0,NBA,2024-05-24 01:00:00+00:00,10.0,4
+161885123,107235,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H IND vs BOS),450.0,NBA,2024-05-24 01:00:00+00:00,50.0,10
+161885124,107235,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H IND vs BOS),9.0,NBA,2024-05-24 01:00:00+00:00,1.0,10
+161885125,107235,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H IND vs BOS),45.0,NBA,2024-05-24 01:00:00+00:00,5.0,10
+161885126,107235,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H IND vs BOS),600.0,NBA,2024-05-24 01:00:00+00:00,109.0,6
+161885127,107235,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H IND vs BOS),18.0,NBA,2024-05-24 01:00:00+00:00,2.0,10
+161885128,107235,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H IND vs BOS),180.0,NBA,2024-05-24 01:00:00+00:00,20.0,10
+161885129,107235,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H IND vs BOS),90.0,NBA,2024-05-24 01:00:00+00:00,10.0,10
+161885130,107235,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H IND vs BOS),90.0,NBA,2024-05-24 01:00:00+00:00,5.0,20
+161885131,107235,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H IND vs BOS),180.0,NBA,2024-05-24 01:00:00+00:00,10.0,20
+161885132,107235,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H IND vs BOS),360.0,NBA,2024-05-24 01:00:00+00:00,20.0,20
+161885133,107235,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H IND vs BOS),36.0,NBA,2024-05-24 01:00:00+00:00,2.0,20
+161885134,107235,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H IND vs BOS),18.0,NBA,2024-05-24 01:00:00+00:00,1.0,20
+161885135,107235,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H IND vs BOS),4000.0,NBA,2024-05-24 01:00:00+00:00,1060.0,4
+161885136,107235,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H IND vs BOS),1000.0,NBA,2024-05-24 01:00:00+00:00,267.0,4
+161885137,107235,100.0,False,False,False,False,True,NBA In-Game $100 Winner Take All [$460 to 1st] (Must Fill) (2H IND vs BOS),460.0,NBA,2024-05-24 01:00:00+00:00,100.0,5
+161885138,107235,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (2H IND vs BOS),25.0,NBA,2024-05-24 01:00:00+00:00,9.25,3
+161885139,107235,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (2H IND vs BOS),25.0,NBA,2024-05-24 01:00:00+00:00,9.25,3
+161885140,107235,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (2H IND vs BOS),25.0,NBA,2024-05-24 01:00:00+00:00,9.25,3
+161885141,107235,7.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (2H IND vs BOS),20.0,NBA,2024-05-24 01:00:00+00:00,7.0,3
+161885142,107235,7.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (2H IND vs BOS),20.0,NBA,2024-05-24 01:00:00+00:00,7.0,3
+161885143,107235,36.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (2H IND vs BOS),98.0,NBA,2024-05-24 01:00:00+00:00,36.0,3
+161885144,107235,36.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (2H IND vs BOS),98.0,NBA,2024-05-24 01:00:00+00:00,36.0,3
+161885145,107235,164.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (2H IND vs BOS),164.0,NBA,2024-05-24 01:00:00+00:00,60.0,3
+161885146,107235,164.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (2H IND vs BOS),164.0,NBA,2024-05-24 01:00:00+00:00,60.0,3
+161885147,107236,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (4Q IND vs BOS),5.4,NBA,2024-05-24 01:20:00+00:00,2.0,3
+161885148,107236,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (4Q IND vs BOS),27.0,NBA,2024-05-24 01:20:00+00:00,10.0,3
+161885149,107236,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (4Q IND vs BOS),13.5,NBA,2024-05-24 01:20:00+00:00,5.0,3
+161885150,107236,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (4Q IND vs BOS),2.7,NBA,2024-05-24 01:20:00+00:00,1.0,3
+161885151,107236,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (4Q IND vs BOS),9.0,NBA,2024-05-24 01:20:00+00:00,1.0,10
+161885152,107236,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (4Q IND vs BOS),4.5,NBA,2024-05-24 01:20:00+00:00,1.0,5
+161885153,107236,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (4Q IND vs BOS),2.7,NBA,2024-05-24 01:20:00+00:00,1.0,3
+161885154,107236,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (4Q IND vs BOS),2.7,NBA,2024-05-24 01:20:00+00:00,1.0,3
+161885155,107236,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (4Q IND vs BOS),180.0,NBA,2024-05-24 01:20:00+00:00,20.0,10
+161885156,107236,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (4Q IND vs BOS),90.0,NBA,2024-05-24 01:20:00+00:00,10.0,10
+161885157,107236,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (4Q IND vs BOS),45.0,NBA,2024-05-24 01:20:00+00:00,5.0,10
+161885158,107236,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (4Q IND vs BOS),27.0,NBA,2024-05-24 01:20:00+00:00,3.0,10
+161885159,107236,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (4Q IND vs BOS),9.0,NBA,2024-05-24 01:20:00+00:00,1.0,10
+161885160,107236,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (4Q IND vs BOS),13.5,NBA,2024-05-24 01:20:00+00:00,5.0,3
+161885161,107236,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (4Q IND vs BOS),5.4,NBA,2024-05-24 01:20:00+00:00,2.0,3
+161885162,107236,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (4Q IND vs BOS),5.4,NBA,2024-05-24 01:20:00+00:00,2.0,3
+161885163,107236,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (4Q IND vs BOS),5.4,NBA,2024-05-24 01:20:00+00:00,2.0,3
+161885164,107236,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (4Q IND vs BOS),9.0,NBA,2024-05-24 01:20:00+00:00,2.0,5
+161885165,107236,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (4Q IND vs BOS),18.0,NBA,2024-05-24 01:20:00+00:00,2.0,10
+161885166,107236,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (4Q IND vs BOS),13.5,NBA,2024-05-24 01:20:00+00:00,5.0,3
+161885167,107236,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (4Q IND vs BOS),22.5,NBA,2024-05-24 01:20:00+00:00,5.0,5
+161885168,107236,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (4Q IND vs BOS),45.0,NBA,2024-05-24 01:20:00+00:00,5.0,10
+161885169,107236,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (4Q IND vs BOS),45.0,NBA,2024-05-24 01:20:00+00:00,10.0,5
+161885170,107236,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (4Q IND vs BOS),27.0,NBA,2024-05-24 01:20:00+00:00,10.0,3
+161885171,107236,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (4Q IND vs BOS),54.0,NBA,2024-05-24 01:20:00+00:00,20.0,3
+161885172,107236,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (4Q IND vs BOS),225.0,NBA,2024-05-24 01:20:00+00:00,50.0,5
+161885173,107236,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (4Q IND vs BOS),135.0,NBA,2024-05-24 01:20:00+00:00,50.0,3
+161885174,107236,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (4Q IND vs BOS),300.0,NBA,2024-05-24 01:20:00+00:00,109.0,3
+161885175,107236,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (4Q IND vs BOS),450.0,NBA,2024-05-24 01:20:00+00:00,162.0,3
+161885176,107236,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (4Q IND vs BOS),1500.0,NBA,2024-05-24 01:20:00+00:00,530.0,3
+161885177,107236,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (4Q IND vs BOS)",3000.0,NBA,2024-05-24 01:20:00+00:00,1060.0,3
+161885178,107236,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (4Q IND vs BOS)",15000.0,NBA,2024-05-24 01:20:00+00:00,5300.0,3
+161885179,107236,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (4Q IND vs BOS)",30000.0,NBA,2024-05-24 01:20:00+00:00,10600.0,3
+161885180,107236,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (4Q IND vs BOS),72.0,NBA,2024-05-24 01:20:00+00:00,20.0,4
+161885181,107236,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (4Q IND vs BOS),90.0,NBA,2024-05-24 01:20:00+00:00,10.0,10
+161885182,107236,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (4Q IND vs BOS),9.0,NBA,2024-05-24 01:20:00+00:00,1.0,10
+161885183,107236,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (4Q IND vs BOS),27.0,NBA,2024-05-24 01:20:00+00:00,3.0,10
+161885184,107236,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (4Q IND vs BOS),45.0,NBA,2024-05-24 01:20:00+00:00,5.0,10
+161885185,107236,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (4Q IND vs BOS)",20000.0,NBA,2024-05-24 01:20:00+00:00,5300.0,4
+161885186,107236,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (4Q IND vs BOS)",4000.0,NBA,2024-05-24 01:20:00+00:00,1060.0,4
+161885187,107236,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (4Q IND vs BOS),2000.0,NBA,2024-05-24 01:20:00+00:00,530.0,4
+161885188,107236,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (4Q IND vs BOS),400.0,NBA,2024-05-24 01:20:00+00:00,109.0,4
+161885189,107236,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (4Q IND vs BOS),180.0,NBA,2024-05-24 01:20:00+00:00,50.0,4
+161885190,107236,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q IND vs BOS),72.0,NBA,2024-05-24 01:20:00+00:00,20.0,4
+161885191,107236,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q IND vs BOS),36.0,NBA,2024-05-24 01:20:00+00:00,10.0,4
+161885192,107236,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (4Q IND vs BOS),450.0,NBA,2024-05-24 01:20:00+00:00,50.0,10
+161885193,107236,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (4Q IND vs BOS),9.0,NBA,2024-05-24 01:20:00+00:00,1.0,10
+161885194,107236,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (4Q IND vs BOS),45.0,NBA,2024-05-24 01:20:00+00:00,5.0,10
+161885195,107236,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (4Q IND vs BOS),600.0,NBA,2024-05-24 01:20:00+00:00,109.0,6
+161885196,107236,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (4Q IND vs BOS),18.0,NBA,2024-05-24 01:20:00+00:00,2.0,10
+161885197,107236,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q IND vs BOS),180.0,NBA,2024-05-24 01:20:00+00:00,20.0,10
+161885198,107236,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q IND vs BOS),90.0,NBA,2024-05-24 01:20:00+00:00,10.0,10
+161885199,107236,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (4Q IND vs BOS),90.0,NBA,2024-05-24 01:20:00+00:00,5.0,20
+161885200,107236,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (4Q IND vs BOS),180.0,NBA,2024-05-24 01:20:00+00:00,10.0,20
+161885201,107236,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (4Q IND vs BOS),360.0,NBA,2024-05-24 01:20:00+00:00,20.0,20
+161885202,107236,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (4Q IND vs BOS),36.0,NBA,2024-05-24 01:20:00+00:00,2.0,20
+161885203,107236,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (4Q IND vs BOS),18.0,NBA,2024-05-24 01:20:00+00:00,1.0,20
+161885204,107236,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (4Q IND vs BOS),4000.0,NBA,2024-05-24 01:20:00+00:00,1060.0,4
+161885205,107236,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (4Q IND vs BOS),1000.0,NBA,2024-05-24 01:20:00+00:00,267.0,4
+161885206,107236,100.0,False,False,False,False,True,NBA In-Game $100 Winner Take All [$460 to 1st] (Must Fill) (4Q IND vs BOS),460.0,NBA,2024-05-24 01:20:00+00:00,100.0,5
+161885207,107236,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (4Q IND vs BOS),25.0,NBA,2024-05-24 01:20:00+00:00,9.25,3
+161885208,107236,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (4Q IND vs BOS),25.0,NBA,2024-05-24 01:20:00+00:00,9.25,3
+161885209,107236,10.0,False,False,False,False,True,NBA In-Game Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (4Q IND vs BOS),25.0,NBA,2024-05-24 01:20:00+00:00,9.25,3
+161885210,107236,7.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (4Q IND vs BOS),20.0,NBA,2024-05-24 01:20:00+00:00,7.0,3
+161885211,107236,7.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (4Q IND vs BOS),20.0,NBA,2024-05-24 01:20:00+00:00,7.0,3
+161885212,107236,36.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (4Q IND vs BOS),98.0,NBA,2024-05-24 01:20:00+00:00,36.0,3
+161885213,107236,36.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (4Q IND vs BOS),98.0,NBA,2024-05-24 01:20:00+00:00,36.0,3
+161885214,107236,164.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (4Q IND vs BOS),164.0,NBA,2024-05-24 01:20:00+00:00,60.0,3
+161885215,107236,164.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (4Q IND vs BOS),164.0,NBA,2024-05-24 01:20:00+00:00,60.0,3
+161885221,107232,26200.0,False,False,False,False,True,NBA $100K Heavy Hitter [Must Fill] (Thu-Fri),100000.0,NBA,2024-05-24 00:00:00+00:00,26200.0,4
+161885222,107232,26200.0,False,False,False,False,True,NBA $75K Heavy Hitter [Must Fill] (Thu-Fri),75000.0,NBA,2024-05-24 00:00:00+00:00,26200.0,3
+161885224,107235,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H IND vs BOS),20.0,NBA,2024-05-24 01:00:00+00:00,1.0,23
+161885225,107235,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H IND vs BOS),20.0,NBA,2024-05-24 01:00:00+00:00,1.0,23
+161885226,107235,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H IND vs BOS),20.0,NBA,2024-05-24 01:00:00+00:00,1.0,23
+161885227,107235,85.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H IND vs BOS),300.0,NBA,2024-05-24 01:00:00+00:00,85.0,4
+161885228,107235,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H IND vs BOS),110.0,NBA,2024-05-24 01:00:00+00:00,25.0,5
+161885229,107235,25.0,True,False,True,False,False,NBA In-Game $25 Double Up (2H IND vs BOS),250.0,NBA,2024-05-24 01:00:00+00:00,25.0,11
+161885230,107235,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H IND vs BOS),100.0,NBA,2024-05-24 01:00:00+00:00,10.0,11
+161885231,107235,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H IND vs BOS),100.0,NBA,2024-05-24 01:00:00+00:00,5.0,23
+161885232,107235,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H IND vs BOS),100.0,NBA,2024-05-24 01:00:00+00:00,5.0,23
+161885233,107235,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (2H IND vs BOS),60.0,NBA,2024-05-24 01:00:00+00:00,3.0,23
+161885234,107235,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (2H IND vs BOS),60.0,NBA,2024-05-24 01:00:00+00:00,3.0,23
+161885235,107235,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire (2H IND vs BOS),25.0,NBA,2024-05-24 01:00:00+00:00,0.1,297
+161885236,107235,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire (2H IND vs BOS),25.0,NBA,2024-05-24 01:00:00+00:00,0.25,118
+161885242,107234,1.0,False,False,True,False,True,NBA Single Stat $5K Winner Take All [Single Entry] (Points),5000.0,NBA,2024-05-24 00:00:00+00:00,1.0,5945
+161885243,107236,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (4Q IND vs BOS),100.0,NBA,2024-05-24 01:20:00+00:00,5.0,23
+161885244,107236,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (4Q IND vs BOS),200.0,NBA,2024-05-24 01:20:00+00:00,10.0,23
+161885245,107236,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (4Q IND vs BOS),110.0,NBA,2024-05-24 01:20:00+00:00,25.0,5
+161885246,107236,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (4Q IND vs BOS),20.0,NBA,2024-05-24 01:20:00+00:00,1.0,23
+161885247,107236,3.0,True,False,True,False,False,NBA In-Game $3 Double Up (4Q IND vs BOS),60.0,NBA,2024-05-24 01:20:00+00:00,3.0,23
+161885248,107236,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire (4Q IND vs BOS),25.0,NBA,2024-05-24 01:20:00+00:00,0.1,297
+161885249,107236,0.0,False,False,True,False,True,NBA In-Game Satellite to 6-6 $25 Fantasy Basketball Millionaire (4Q IND vs BOS),25.0,NBA,2024-05-24 01:20:00+00:00,0.25,118
+161885267,107231,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161885268,107231,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (IND vs BOS),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161885270,107231,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (IND vs BOS),1500.0,NBA,2024-05-24 00:00:00+00:00,530.0,3
+161885272,107231,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,5.0,4
+161885273,107231,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,10.0,4
+161885274,107231,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (IND vs BOS),72.0,NBA,2024-05-24 00:00:00+00:00,20.0,4
+161885275,107231,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (IND vs BOS),180.0,NBA,2024-05-24 00:00:00+00:00,50.0,4
+161885276,107231,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (IND vs BOS),400.0,NBA,2024-05-24 00:00:00+00:00,109.0,4
+161885277,107231,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (IND vs BOS),2000.0,NBA,2024-05-24 00:00:00+00:00,530.0,4
+161885279,107231,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (IND vs BOS)",3000.0,NBA,2024-05-24 00:00:00+00:00,1060.0,3
+161885280,107231,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (IND vs BOS)",6000.0,NBA,2024-05-24 00:00:00+00:00,2120.0,3
+161885383,107234,20.0,False,False,True,False,True,NBA Single Stat $3K Winner Take All [Single Entry] (Points),3000.0,NBA,2024-05-24 00:00:00+00:00,20.0,176
+161885808,107230,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (IND vs BOS),30.0,NBA,2024-05-24 00:00:00+00:00,3.0,11
+161886660,107234,0.0,False,False,True,False,False,NBA Single Stat FREE 200-Player (Points),0.0,NBA,2024-05-24 00:00:00+00:00,0.0,200
+161892092,107230,350.0,False,False,True,False,True,NBA Showdown $300K Showdown Showcase Qualifier #79 (IND vs BOS),3350.0,NBA,2024-05-24 00:00:00+00:00,350.0,11
+161892093,107230,160.0,False,False,True,False,True,NBA Showdown $300K Showdown Showcase Qualifier #80 (IND vs BOS),3205.0,NBA,2024-05-24 00:00:00+00:00,160.0,23
+161892094,107230,60.0,False,False,True,False,True,NBA Showdown $300K Showdown Showcase Qualifier #81 (IND vs BOS),3420.0,NBA,2024-05-24 00:00:00+00:00,60.0,67
+161892095,107230,37.0,False,False,True,False,True,NBA Showdown $300K Showdown Showcase Qualifier #82 (IND vs BOS),3150.0,NBA,2024-05-24 00:00:00+00:00,37.0,100
+161896153,107230,1.0,False,False,False,False,False,NBA Showdown $1 35-Player (Winner Takes All) (IND vs BOS),31.5,NBA,2024-05-24 00:00:00+00:00,1.0,35
+161896304,107233,1.0,False,False,False,False,False,NBA Tiers $1 16-Player (Top 5 Win) (Thu-Fri),14.4,NBA,2024-05-24 00:00:00+00:00,1.0,16
+161896359,107232,1.0,False,False,False,False,False,NBA $1 14-Player (Top 5 Win) (Thu-Fri),12.6,NBA,2024-05-24 00:00:00+00:00,1.0,14
+161896656,107232,2.0,False,False,False,False,False,NBA $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161896732,107232,5.0,False,False,False,False,False,NBA $5 3-Player (Thu-Fri),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161898121,107103,1.0,False,False,False,False,False,WNBA Showdown $1 15-Player (Winner Takes All) (PHO vs WAS),13.5,NBA,2024-05-24 02:00:00+00:00,1.0,15
+161898548,107232,5.0,True,False,False,False,False,NBA $5 Double Up (Thu-Fri),50.0,NBA,2024-05-24 00:00:00+00:00,5.0,11
+161898722,107234,1.0,False,False,False,False,False,NBA Single Stat $1 50-Player (Top 5 Win) (Points),45.0,NBA,2024-05-24 00:00:00+00:00,1.0,50
+161899385,107232,1.0,True,False,False,False,False,NBA $1 50-50 (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161899625,107230,5300.0,False,False,False,False,True,NBA Showdown $30K Thunderdome [Must Fill] (IND vs BOS),30000.0,NBA,2024-05-24 00:00:00+00:00,5300.0,6
+161899631,107230,2120.0,False,False,True,False,True,NBA Showdown $20K Hall of Famer [$10K to 1st] (IND vs BOS),20000.0,NBA,2024-05-24 00:00:00+00:00,2120.0,10
+161899648,107230,555.0,False,False,True,False,True,NBA Showdown $150K Alley Oop [$50K to 1st] (IND vs BOS),150000.0,NBA,2024-05-24 00:00:00+00:00,555.0,300
+161899669,107230,20.0,False,False,True,False,True,NBA Showdown $500K Shootaround [$100K to 1st] (IND vs BOS),500000.0,NBA,2024-05-24 00:00:00+00:00,20.0,29411
+161899671,107230,4.0,False,False,True,False,True,NBA Showdown $100K Four Point Play [20 Entry Max] (IND vs BOS),100000.0,NBA,2024-05-24 00:00:00+00:00,4.0,29726
+161899673,107230,1.0,False,False,True,False,True,NBA Showdown $40K And-One [20 Entry Max] (IND vs BOS),40000.0,NBA,2024-05-24 00:00:00+00:00,1.0,47562
+161899678,107230,88.0,False,False,True,False,True,"NBA Showdown $8K Box Out [3 Entry Max, $2K to 1st] (IND vs BOS)",8000.0,NBA,2024-05-24 00:00:00+00:00,88.0,103
+161899680,107230,200.0,False,False,True,False,True,NBA Showdown $20K Splash [3 Entry Max] (IND vs BOS),20000.0,NBA,2024-05-24 00:00:00+00:00,200.0,111
+161899753,107230,5.0,False,False,True,False,True,NBA Showdown $25K Zone [$5K to 1st] (IND vs BOS),25000.0,NBA,2024-05-24 00:00:00+00:00,5.0,5945
+161899768,107232,15.0,False,False,True,False,True,NBA $30K Fadeaway [$10K to 1st] (Thu-Fri),30000.0,NBA,2024-05-24 00:00:00+00:00,15.0,2352
+161900157,107230,8.0,False,False,True,False,True,NBA Showdown $30K Excellent 8's [$10K to 1st] (IND vs BOS),30000.0,NBA,2024-05-24 00:00:00+00:00,8.0,4411
+161900172,107230,6.0,False,False,True,False,True,NBA Showdown $30K Jab Step [$5K to 1st] (IND vs BOS),30000.0,NBA,2024-05-24 00:00:00+00:00,6.0,5882
+161900265,107230,0.0,False,False,True,False,False,NBA Showdown FREE 200-Player (IND vs BOS),0.0,NBA,2024-05-24 00:00:00+00:00,0.0,200
+161900271,107231,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161900565,107233,2.0,True,False,False,False,False,NBA Tiers $2 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161900918,107232,2.0,False,False,False,False,False,Casual NBA $2 5-Player (Thu-Fri),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161900934,107232,2.0,True,False,False,False,False,NBA $2 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161901019,107232,2.0,True,False,False,False,False,NBA $2 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161902319,107104,1.0,False,False,True,False,True,WNBA Single Stat $1 Winner Take All [$100 to 1st] (Points),100.0,NBA,2024-05-23 23:00:00+00:00,1.0,118
+161902368,107102,3.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2024-05-23 23:00:00+00:00,3.0,23
+161902369,107102,1.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2024-05-23 23:00:00+00:00,1.0,31
+161902370,107102,5.0,False,False,True,False,False,WNBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2024-05-23 23:00:00+00:00,5.0,31
+161902371,107102,50.0,True,False,True,False,False,WNBA $50 Double Up,500.0,NBA,2024-05-23 23:00:00+00:00,50.0,11
+161902372,107102,25.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2024-05-23 23:00:00+00:00,25.0,11
+161902373,107102,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2024-05-23 23:00:00+00:00,10.0,11
+161902374,107102,5.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2024-05-23 23:00:00+00:00,5.0,34
+161902375,107102,5.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2024-05-23 23:00:00+00:00,5.0,23
+161902376,107102,3.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2024-05-23 23:00:00+00:00,3.0,34
+161902377,107102,1.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2024-05-23 23:00:00+00:00,1.0,34
+161902378,107102,1.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2024-05-23 23:00:00+00:00,1.0,23
+161902379,107102,1.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2024-05-23 23:00:00+00:00,1.0,23
+161902380,107102,3.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2024-05-23 23:00:00+00:00,3.0,23
+161902381,107102,5.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2024-05-23 23:00:00+00:00,5.0,23
+161902382,107102,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2024-05-23 23:00:00+00:00,10.0,11
+161902383,107102,0.0,False,False,True,False,True,WNBA Satellite to 6-6 $25 Fantasy Basketball Millionaire,25.0,NBA,2024-05-23 23:00:00+00:00,0.5,59
+161902384,107102,1.0,False,False,True,False,True,WNBA Satellite to 6-6 $25 Fantasy Basketball Millionaire,25.0,NBA,2024-05-23 23:00:00+00:00,1.0,29
+161902385,107102,2.0,False,False,True,False,True,WNBA Satellite to 6-6 $25 Fantasy Basketball Millionaire,25.0,NBA,2024-05-23 23:00:00+00:00,2.0,14
+161902386,107102,1.0,False,False,True,False,True,WNBA SUPERSat to 6-6 $25 Fantasy Basketball Millionaire [2x],50.0,NBA,2024-05-23 23:00:00+00:00,1.0,59
+161902387,107102,4.0,False,False,True,False,True,WNBA Satellite to NHL $24 Finals Face-Off (Game 1 Finals),24.0,NBA,2024-05-23 23:00:00+00:00,4.0,7
+161902388,107102,4.0,False,False,True,False,True,WNBA Satellite to SOC 6-15 EUROS Kickoff Special,24.0,NBA,2024-05-23 23:00:00+00:00,4.0,7
+161902389,107102,1.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2024-05-23 23:00:00+00:00,1.0,23
+161902390,107102,1.0,False,False,True,False,True,WNBA Satellite to 6-16 UFL $20 Championship Special,20.0,NBA,2024-05-23 23:00:00+00:00,1.0,23
+161902391,107102,1.0,False,False,True,False,True,WNBA Satellite to 6-1 $25 UFC 302 Special,25.0,NBA,2024-05-23 23:00:00+00:00,1.0,29
+161902392,107102,1.0,False,False,True,False,True,WNBA Satellite to 6-29 $25 UFC 303 Special,25.0,NBA,2024-05-23 23:00:00+00:00,1.0,29
+161902393,107102,0.0,False,False,True,False,True,WNBA Satellite to WNBA $20 Queen of the Court Qualifier,20.0,NBA,2024-05-23 23:00:00+00:00,0.1,237
+161902394,107102,0.0,False,False,True,False,True,WNBA Satellite to WNBA $20 Queen of the Court Qualifier,20.0,NBA,2024-05-23 23:00:00+00:00,0.5,47
+161902395,107102,1.0,False,False,True,False,True,WNBA Satellite to WNBA $20 Queen of the Court Qualifier,20.0,NBA,2024-05-23 23:00:00+00:00,1.0,23
+161902396,107102,1.0,False,False,True,False,True,WNBA Satellite to WNBA $98 Queen of the Court Qualifier,98.0,NBA,2024-05-23 23:00:00+00:00,1.0,116
+161902397,107102,4.0,False,False,True,False,True,WNBA Satellite to WNBA $98 Queen of the Court Qualifier,98.0,NBA,2024-05-23 23:00:00+00:00,4.0,29
+161902398,107102,5.0,False,False,True,False,True,WNBA Satellite to WNBA $164 Queen of the Court Qualifier,164.0,NBA,2024-05-23 23:00:00+00:00,5.0,39
+161902399,107102,0.0,False,False,True,False,False,WNBA Satellite to $15 WNBA Friday Fadeaway (6-7),15.0,NBA,2024-05-23 23:00:00+00:00,0.1,178
+161902400,107102,0.0,False,False,True,False,False,WNBA Satellite to $15 WNBA Friday Fadeaway (6-7),15.0,NBA,2024-05-23 23:00:00+00:00,0.25,71
+161902401,107102,1.0,False,False,True,False,False,WNBA Satellite to $15 WNBA Friday Fadeaway (6-7),15.0,NBA,2024-05-23 23:00:00+00:00,1.0,17
+161902402,107102,1.0,False,False,True,False,False,WNBA Satellite to $15 WNBA Friday Fadeaway (6-7),15.0,NBA,2024-05-23 23:00:00+00:00,1.0,17
+161902403,107102,4.0,False,False,True,False,False,WNBA Satellite to $15 WNBA Friday Fadeaway (6-7),15.0,NBA,2024-05-23 23:00:00+00:00,4.0,4
+161902404,107102,4.0,False,False,True,False,False,WNBA Satellite to $15 WNBA Friday Fadeaway (6-7),15.0,NBA,2024-05-23 23:00:00+00:00,4.0,4
+161902405,107102,1.0,False,False,True,False,False,WNBA Satellite to $15 WNBA Friday Fadeaway (6-7) [3x],45.0,NBA,2024-05-23 23:00:00+00:00,1.0,53
+161902476,107103,1.0,True,False,True,False,False,WNBA Showdown $1 Double Up (PHO vs WAS),20.0,NBA,2024-05-24 02:00:00+00:00,1.0,23
+161902477,107103,3.0,True,False,True,False,False,WNBA Showdown $3 Double Up (PHO vs WAS),60.0,NBA,2024-05-24 02:00:00+00:00,3.0,23
+161902478,107103,5.0,True,False,True,False,False,WNBA Showdown $5 Double Up (PHO vs WAS),100.0,NBA,2024-05-24 02:00:00+00:00,5.0,23
+161902479,107103,10.0,True,False,True,False,False,WNBA Showdown $10 Double Up (PHO vs WAS),100.0,NBA,2024-05-24 02:00:00+00:00,10.0,11
+161902480,107103,25.0,True,False,True,False,False,WNBA Showdown $25 Double Up (PHO vs WAS),250.0,NBA,2024-05-24 02:00:00+00:00,25.0,11
+161902481,107103,25.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (PHO vs WAS),110.0,NBA,2024-05-24 02:00:00+00:00,25.0,5
+161902482,107103,2.0,False,False,True,False,True,WNBA Showdown Satellite to 6-6 $25 Fantasy Basketball Millionaire (PHO vs WAS),25.0,NBA,2024-05-24 02:00:00+00:00,2.0,14
+161902483,107103,1.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $20 Queen of the Court Qualifier (PHO vs WAS),20.0,NBA,2024-05-24 02:00:00+00:00,1.0,23
+161902484,107103,4.0,False,False,True,False,False,WNBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) (PHO vs WAS),15.0,NBA,2024-05-24 02:00:00+00:00,4.0,4
+161902489,107102,2.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2024-05-23 23:00:00+00:00,2.0,3
+161902490,107102,10.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2024-05-23 23:00:00+00:00,10.0,3
+161902491,107102,5.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2024-05-23 23:00:00+00:00,5.0,3
+161902492,107102,1.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2024-05-23 23:00:00+00:00,1.0,3
+161902493,107102,1.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2024-05-23 23:00:00+00:00,1.0,10
+161902494,107102,1.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2024-05-23 23:00:00+00:00,1.0,5
+161902495,107102,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2024-05-23 23:00:00+00:00,1.0,3
+161902496,107102,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2024-05-23 23:00:00+00:00,1.0,3
+161902497,107102,20.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2024-05-23 23:00:00+00:00,20.0,10
+161902498,107102,10.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2024-05-23 23:00:00+00:00,10.0,10
+161902499,107102,5.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2024-05-23 23:00:00+00:00,5.0,10
+161902500,107102,3.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2024-05-23 23:00:00+00:00,3.0,10
+161902501,107102,1.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2024-05-23 23:00:00+00:00,1.0,10
+161902502,107102,5.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2024-05-23 23:00:00+00:00,5.0,3
+161902503,107102,2.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2024-05-23 23:00:00+00:00,2.0,3
+161902504,107102,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2024-05-23 23:00:00+00:00,2.0,3
+161902505,107102,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2024-05-23 23:00:00+00:00,2.0,3
+161902506,107102,2.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2024-05-23 23:00:00+00:00,2.0,5
+161902507,107102,2.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2024-05-23 23:00:00+00:00,2.0,10
+161902508,107102,5.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2024-05-23 23:00:00+00:00,5.0,3
+161902509,107102,5.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2024-05-23 23:00:00+00:00,5.0,5
+161902510,107102,5.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2024-05-23 23:00:00+00:00,5.0,10
+161902511,107102,10.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2024-05-23 23:00:00+00:00,10.0,5
+161902512,107102,10.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2024-05-23 23:00:00+00:00,10.0,3
+161902513,107102,20.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2024-05-23 23:00:00+00:00,20.0,3
+161902514,107102,50.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2024-05-23 23:00:00+00:00,50.0,5
+161902515,107102,50.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2024-05-23 23:00:00+00:00,50.0,3
+161902516,107102,109.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2024-05-23 23:00:00+00:00,109.0,3
+161902517,107102,162.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2024-05-23 23:00:00+00:00,162.0,3
+161902518,107102,530.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2024-05-23 23:00:00+00:00,530.0,3
+161902519,107102,1060.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2024-05-23 23:00:00+00:00,1060.0,3
+161902520,107102,5300.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2024-05-23 23:00:00+00:00,5300.0,3
+161902521,107102,10600.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2024-05-23 23:00:00+00:00,10600.0,3
+161902522,107102,20.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2024-05-23 23:00:00+00:00,20.0,4
+161902523,107102,10.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2024-05-23 23:00:00+00:00,10.0,10
+161902524,107102,1.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2024-05-23 23:00:00+00:00,1.0,10
+161902525,107102,3.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2024-05-23 23:00:00+00:00,3.0,10
+161902526,107102,5.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2024-05-23 23:00:00+00:00,5.0,10
+161902527,107102,5300.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2024-05-23 23:00:00+00:00,5300.0,4
+161902528,107102,1060.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2024-05-23 23:00:00+00:00,1060.0,4
+161902529,107102,530.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2024-05-23 23:00:00+00:00,530.0,4
+161902530,107102,109.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2024-05-23 23:00:00+00:00,109.0,4
+161902531,107102,50.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2024-05-23 23:00:00+00:00,50.0,4
+161902532,107102,20.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2024-05-23 23:00:00+00:00,20.0,4
+161902533,107102,10.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2024-05-23 23:00:00+00:00,10.0,4
+161902534,107102,50.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2024-05-23 23:00:00+00:00,50.0,10
+161902535,107102,1.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2024-05-23 23:00:00+00:00,1.0,10
+161902536,107102,5.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2024-05-23 23:00:00+00:00,5.0,10
+161902537,107102,109.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2024-05-23 23:00:00+00:00,109.0,6
+161902538,107102,2.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2024-05-23 23:00:00+00:00,2.0,10
+161902539,107102,20.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2024-05-23 23:00:00+00:00,20.0,10
+161902540,107102,10.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2024-05-23 23:00:00+00:00,10.0,10
+161902541,107102,5.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2024-05-23 23:00:00+00:00,5.0,20
+161902542,107102,10.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2024-05-23 23:00:00+00:00,10.0,20
+161902543,107102,20.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2024-05-23 23:00:00+00:00,20.0,20
+161902544,107102,2.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2024-05-23 23:00:00+00:00,2.0,20
+161902545,107102,1.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2024-05-23 23:00:00+00:00,1.0,20
+161902546,107102,1060.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2024-05-23 23:00:00+00:00,1060.0,4
+161902547,107102,267.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2024-05-23 23:00:00+00:00,267.0,4
+161902548,107102,100.0,False,False,False,False,True,WNBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2024-05-23 23:00:00+00:00,100.0,5
+161902549,107102,10.0,False,False,False,False,True,WNBA Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill],25.0,NBA,2024-05-23 23:00:00+00:00,9.25,3
+161902550,107102,10.0,False,False,False,False,True,WNBA Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill],25.0,NBA,2024-05-23 23:00:00+00:00,9.25,3
+161902551,107102,10.0,False,False,False,False,True,WNBA Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill],25.0,NBA,2024-05-23 23:00:00+00:00,9.25,3
+161902552,107102,7.0,False,False,False,False,True,WNBA Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill],20.0,NBA,2024-05-23 23:00:00+00:00,7.0,3
+161902553,107102,7.0,False,False,False,False,True,WNBA Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill],20.0,NBA,2024-05-23 23:00:00+00:00,7.0,3
+161902554,107102,36.0,False,False,False,False,True,WNBA Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill],98.0,NBA,2024-05-23 23:00:00+00:00,36.0,3
+161902555,107102,36.0,False,False,False,False,True,WNBA Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill],98.0,NBA,2024-05-23 23:00:00+00:00,36.0,3
+161902556,107102,164.0,False,False,False,False,True,WNBA Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill],164.0,NBA,2024-05-23 23:00:00+00:00,60.0,3
+161902557,107102,164.0,False,False,False,False,True,WNBA Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill],164.0,NBA,2024-05-23 23:00:00+00:00,60.0,3
+161902558,107102,5.0,False,False,False,False,False,WNBA Satellite to $15 WNBA Friday Fadeaway (6-7) [Must Fill],15.0,NBA,2024-05-23 23:00:00+00:00,5.55,3
+161902559,107103,2.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (PHO vs WAS),5.4,NBA,2024-05-24 02:00:00+00:00,2.0,3
+161902560,107103,10.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (PHO vs WAS),27.0,NBA,2024-05-24 02:00:00+00:00,10.0,3
+161902561,107103,5.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (PHO vs WAS),13.5,NBA,2024-05-24 02:00:00+00:00,5.0,3
+161902562,107103,1.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (PHO vs WAS),2.7,NBA,2024-05-24 02:00:00+00:00,1.0,3
+161902563,107103,1.0,False,False,False,False,False,WNBA Showdown $1 10-Player (PHO vs WAS),9.0,NBA,2024-05-24 02:00:00+00:00,1.0,10
+161902564,107103,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (PHO vs WAS),4.5,NBA,2024-05-24 02:00:00+00:00,1.0,5
+161902565,107103,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (PHO vs WAS),2.7,NBA,2024-05-24 02:00:00+00:00,1.0,3
+161902566,107103,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (PHO vs WAS),2.7,NBA,2024-05-24 02:00:00+00:00,1.0,3
+161902567,107103,20.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (PHO vs WAS),180.0,NBA,2024-05-24 02:00:00+00:00,20.0,10
+161902568,107103,10.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (PHO vs WAS),90.0,NBA,2024-05-24 02:00:00+00:00,10.0,10
+161902569,107103,5.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (PHO vs WAS),45.0,NBA,2024-05-24 02:00:00+00:00,5.0,10
+161902570,107103,3.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (PHO vs WAS),27.0,NBA,2024-05-24 02:00:00+00:00,3.0,10
+161902571,107103,1.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (PHO vs WAS),9.0,NBA,2024-05-24 02:00:00+00:00,1.0,10
+161902572,107103,5.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (PHO vs WAS),13.5,NBA,2024-05-24 02:00:00+00:00,5.0,3
+161902573,107103,2.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (PHO vs WAS),5.4,NBA,2024-05-24 02:00:00+00:00,2.0,3
+161902574,107103,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (PHO vs WAS),5.4,NBA,2024-05-24 02:00:00+00:00,2.0,3
+161902575,107103,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (PHO vs WAS),5.4,NBA,2024-05-24 02:00:00+00:00,2.0,3
+161902576,107103,2.0,False,False,False,False,False,WNBA Showdown $2 5-Player (PHO vs WAS),9.0,NBA,2024-05-24 02:00:00+00:00,2.0,5
+161902577,107103,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (PHO vs WAS),18.0,NBA,2024-05-24 02:00:00+00:00,2.0,10
+161902578,107103,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (PHO vs WAS),13.5,NBA,2024-05-24 02:00:00+00:00,5.0,3
+161902579,107103,5.0,False,False,False,False,False,WNBA Showdown $5 5-Player (PHO vs WAS),22.5,NBA,2024-05-24 02:00:00+00:00,5.0,5
+161902580,107103,5.0,False,False,False,False,False,WNBA Showdown $5 10-Player (PHO vs WAS),45.0,NBA,2024-05-24 02:00:00+00:00,5.0,10
+161902581,107103,10.0,False,False,False,False,False,WNBA Showdown $10 5-Player (PHO vs WAS),45.0,NBA,2024-05-24 02:00:00+00:00,10.0,5
+161902582,107103,10.0,False,False,False,False,False,WNBA Showdown $10 3-Player (PHO vs WAS),27.0,NBA,2024-05-24 02:00:00+00:00,10.0,3
+161902583,107103,20.0,False,False,False,False,False,WNBA Showdown $20 3-Player (PHO vs WAS),54.0,NBA,2024-05-24 02:00:00+00:00,20.0,3
+161902584,107103,50.0,False,False,False,False,False,WNBA Showdown $50 5-Player (PHO vs WAS),225.0,NBA,2024-05-24 02:00:00+00:00,50.0,5
+161902585,107103,50.0,False,False,False,False,False,WNBA Showdown $50 3-Player (PHO vs WAS),135.0,NBA,2024-05-24 02:00:00+00:00,50.0,3
+161902586,107103,109.0,False,False,False,False,False,WNBA Showdown $109 3-Player (PHO vs WAS),300.0,NBA,2024-05-24 02:00:00+00:00,109.0,3
+161902587,107103,162.0,False,False,False,False,False,WNBA Showdown $162 3-Player (PHO vs WAS),450.0,NBA,2024-05-24 02:00:00+00:00,162.0,3
+161902588,107103,530.0,False,False,False,False,False,WNBA Showdown $530 3-Player (PHO vs WAS),1500.0,NBA,2024-05-24 02:00:00+00:00,530.0,3
+161902589,107103,1060.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (PHO vs WAS)",3000.0,NBA,2024-05-24 02:00:00+00:00,1060.0,3
+161902590,107103,5300.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (PHO vs WAS)",15000.0,NBA,2024-05-24 02:00:00+00:00,5300.0,3
+161902591,107103,10600.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (PHO vs WAS)",30000.0,NBA,2024-05-24 02:00:00+00:00,10600.0,3
+161902592,107103,20.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (PHO vs WAS),72.0,NBA,2024-05-24 02:00:00+00:00,20.0,4
+161902593,107103,10.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (PHO vs WAS),90.0,NBA,2024-05-24 02:00:00+00:00,10.0,10
+161902594,107103,1.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (PHO vs WAS),9.0,NBA,2024-05-24 02:00:00+00:00,1.0,10
+161902595,107103,3.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (PHO vs WAS),27.0,NBA,2024-05-24 02:00:00+00:00,3.0,10
+161902596,107103,5.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (PHO vs WAS),45.0,NBA,2024-05-24 02:00:00+00:00,5.0,10
+161902597,107103,5300.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (PHO vs WAS)",20000.0,NBA,2024-05-24 02:00:00+00:00,5300.0,4
+161902598,107103,1060.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (PHO vs WAS)",4000.0,NBA,2024-05-24 02:00:00+00:00,1060.0,4
+161902599,107103,530.0,True,False,False,False,False,WNBA Showdown $530 50-50 (PHO vs WAS),2000.0,NBA,2024-05-24 02:00:00+00:00,530.0,4
+161902600,107103,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (PHO vs WAS),400.0,NBA,2024-05-24 02:00:00+00:00,109.0,4
+161902601,107103,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (PHO vs WAS),180.0,NBA,2024-05-24 02:00:00+00:00,50.0,4
+161902602,107103,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (PHO vs WAS),72.0,NBA,2024-05-24 02:00:00+00:00,20.0,4
+161902603,107103,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (PHO vs WAS),36.0,NBA,2024-05-24 02:00:00+00:00,10.0,4
+161902604,107103,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (PHO vs WAS),450.0,NBA,2024-05-24 02:00:00+00:00,50.0,10
+161902605,107103,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (PHO vs WAS),9.0,NBA,2024-05-24 02:00:00+00:00,1.0,10
+161902606,107103,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (PHO vs WAS),45.0,NBA,2024-05-24 02:00:00+00:00,5.0,10
+161902607,107103,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (PHO vs WAS),600.0,NBA,2024-05-24 02:00:00+00:00,109.0,6
+161902608,107103,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (PHO vs WAS),18.0,NBA,2024-05-24 02:00:00+00:00,2.0,10
+161902609,107103,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (PHO vs WAS),180.0,NBA,2024-05-24 02:00:00+00:00,20.0,10
+161902610,107103,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (PHO vs WAS),90.0,NBA,2024-05-24 02:00:00+00:00,10.0,10
+161902611,107103,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (PHO vs WAS),90.0,NBA,2024-05-24 02:00:00+00:00,5.0,20
+161902612,107103,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (PHO vs WAS),180.0,NBA,2024-05-24 02:00:00+00:00,10.0,20
+161902613,107103,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (PHO vs WAS),360.0,NBA,2024-05-24 02:00:00+00:00,20.0,20
+161902614,107103,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (PHO vs WAS),36.0,NBA,2024-05-24 02:00:00+00:00,2.0,20
+161902615,107103,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (PHO vs WAS),18.0,NBA,2024-05-24 02:00:00+00:00,1.0,20
+161902616,107103,1060.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (PHO vs WAS),4000.0,NBA,2024-05-24 02:00:00+00:00,1060.0,4
+161902617,107103,267.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (PHO vs WAS),1000.0,NBA,2024-05-24 02:00:00+00:00,267.0,4
+161902618,107103,100.0,False,False,False,False,True,WNBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (PHO vs WAS),460.0,NBA,2024-05-24 02:00:00+00:00,100.0,5
+161902619,107103,10.0,False,False,False,False,True,WNBA Showdown Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (PHO vs WAS),25.0,NBA,2024-05-24 02:00:00+00:00,9.25,3
+161902620,107103,10.0,False,False,False,False,True,WNBA Showdown Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (PHO vs WAS),25.0,NBA,2024-05-24 02:00:00+00:00,9.25,3
+161902621,107103,10.0,False,False,False,False,True,WNBA Showdown Satellite to SOC 6-15 EUROS Kickoff Special [Must Fill] (PHO vs WAS),25.0,NBA,2024-05-24 02:00:00+00:00,9.25,3
+161902622,107103,7.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (PHO vs WAS),20.0,NBA,2024-05-24 02:00:00+00:00,7.0,3
+161902623,107103,7.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $20 Queen of the Court Qualifier [Must Fill] (PHO vs WAS),20.0,NBA,2024-05-24 02:00:00+00:00,7.0,3
+161902624,107103,36.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (PHO vs WAS),98.0,NBA,2024-05-24 02:00:00+00:00,36.0,3
+161902625,107103,36.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $98 Queen of the Court Qualifier [Must Fill] (PHO vs WAS),98.0,NBA,2024-05-24 02:00:00+00:00,36.0,3
+161902626,107103,164.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (PHO vs WAS),164.0,NBA,2024-05-24 02:00:00+00:00,60.0,3
+161902627,107103,164.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (PHO vs WAS),164.0,NBA,2024-05-24 02:00:00+00:00,60.0,3
+161902628,107103,5.0,False,False,False,False,False,WNBA Showdown Satellite to $15 WNBA Friday Fadeaway (6-7) [Must Fill] (PHO vs WAS),15.0,NBA,2024-05-24 02:00:00+00:00,5.55,3
+161902850,107230,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (IND vs BOS),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161902922,107233,1.0,False,False,False,False,False,NBA Tiers $1 5-Player (Thu-Fri),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161902985,107232,1.0,False,False,False,False,False,NBA $1 5-Player (Thu-Fri),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161902990,107231,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (IND vs BOS),3.6,NBA,2024-05-24 00:00:00+00:00,1.0,4
+161903509,107230,1.0,False,False,False,False,False,NBA Showdown $1 30-Player (Winner Takes All) (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,1.0,30
+161903771,107232,1.0,False,False,False,False,False,NBA $1 30-Player (Winner Takes All) (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,1.0,30
+161904043,107232,2.0,True,False,False,False,False,NBA $2 50-50 (Thu-Fri),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161904613,107230,0.0,False,False,True,False,False,NBA Showdown FREE 50-Player (IND vs BOS),0.0,NBA,2024-05-24 00:00:00+00:00,0.0,50
+161904614,107230,0.0,False,False,True,False,False,NBA Showdown FREE 10-Player (IND vs BOS),0.0,NBA,2024-05-24 00:00:00+00:00,0.0,10
+161904616,107230,0.0,False,False,True,False,False,NBA Showdown FREE 20-Player (IND vs BOS),0.0,NBA,2024-05-24 00:00:00+00:00,0.0,20
+161904618,107230,0.0,False,False,True,False,False,NBA Showdown FREE 8-Player (IND vs BOS),0.0,NBA,2024-05-24 00:00:00+00:00,0.0,8
+161904619,107230,0.0,False,False,True,False,False,NBA Showdown FREE 17-Player (IND vs BOS),0.0,NBA,2024-05-24 00:00:00+00:00,0.0,17
+161904620,107230,3.0,False,False,False,False,False,NBA Showdown $3 6-Player (Winner Takes All) (IND vs BOS),16.2,NBA,2024-05-24 00:00:00+00:00,3.0,6
+161904622,107230,0.0,False,False,True,False,False,NBA Showdown FREE 35-Player (IND vs BOS),0.0,NBA,2024-05-24 00:00:00+00:00,0.0,35
+161904720,107230,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (IND vs BOS),10.0,NBA,2024-05-24 00:00:00+00:00,1.0,11
+161904722,107230,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (IND vs BOS),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161904756,107230,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161904759,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161904784,107231,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161904946,107234,10.0,False,False,False,False,False,NBA Single Stat $10 200-Player (Top 3 Win) (Points),1800.0,NBA,2024-05-24 00:00:00+00:00,10.0,200
+161904962,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161905021,107230,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161905049,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161905050,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161905051,107230,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (IND vs BOS),10.0,NBA,2024-05-24 00:00:00+00:00,1.0,11
+161905052,107230,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (IND vs BOS),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161905053,107230,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (IND vs BOS),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161905054,107230,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (IND vs BOS),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161905069,107230,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161905070,107230,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161905071,107230,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161905072,107230,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (IND vs BOS),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161905096,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161905097,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161905099,107230,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (IND vs BOS),4.5,NBA,2024-05-24 00:00:00+00:00,1.0,5
+161905100,107230,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (IND vs BOS),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161905105,107230,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161905106,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161905107,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161905336,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161905337,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161905338,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161905339,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161905340,107230,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (IND vs BOS),1000.0,NBA,2024-05-24 00:00:00+00:00,50.0,22
+161905905,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161905906,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161906001,107230,10.0,False,False,False,False,True,NBA Showdown  Satellite to 6-6 $25 Fantasy Basketball Millionaire [Must Fill] (IND vs BOS),25.0,NBA,2024-05-24 00:00:00+00:00,9.25,3
+161906020,107232,10.0,False,False,False,False,False,NBA $10 3-Player (Thu-Fri),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161906022,107232,5.0,True,False,False,False,False,NBA $5 50-50 (Thu-Fri),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161906024,107232,5.0,True,False,False,False,False,NBA $5 50-50 (Thu-Fri),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161906651,107230,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (IND vs BOS),60.0,NBA,2024-05-24 00:00:00+00:00,3.0,23
+161906673,107230,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (IND vs BOS),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161906802,107230,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (IND vs BOS),180.0,NBA,2024-05-24 00:00:00+00:00,20.0,10
+161906981,107231,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (IND vs BOS),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161906983,107230,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161907000,107234,10.0,False,False,False,False,False,NBA Single Stat $10 40-Player (Top 3 Win) (Points),360.0,NBA,2024-05-24 00:00:00+00:00,10.0,40
+161907097,107230,2.0,False,False,False,False,False,NBA Showdown $2 17-Player (Winner Takes All) (IND vs BOS),30.6,NBA,2024-05-24 00:00:00+00:00,2.0,17
+161907119,107230,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (IND vs BOS),2000.0,NBA,2024-05-24 00:00:00+00:00,530.0,4
+161907194,107233,1.0,False,False,False,False,False,NBA Tiers $1 3-Player (Thu-Fri),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161907290,107230,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161907981,107230,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (IND vs BOS),5.4,NBA,2024-05-24 00:00:00+00:00,2.0,3
+161907982,107230,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,10.0,3
+161907983,107230,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (IND vs BOS),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161907984,107230,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (IND vs BOS),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161907985,107230,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (IND vs BOS),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161907986,107230,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (IND vs BOS),54.0,NBA,2024-05-24 00:00:00+00:00,20.0,3
+161907988,107102,50.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2024-05-23 23:00:00+00:00,50.0,10
+161907989,107102,1.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2024-05-23 23:00:00+00:00,1.0,10
+161907990,107102,5.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2024-05-23 23:00:00+00:00,5.0,10
+161907991,107102,2.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2024-05-23 23:00:00+00:00,2.0,10
+161907992,107102,20.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2024-05-23 23:00:00+00:00,20.0,10
+161907993,107102,10.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2024-05-23 23:00:00+00:00,10.0,10
+161907994,107102,5.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2024-05-23 23:00:00+00:00,5.0,20
+161907995,107102,10.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2024-05-23 23:00:00+00:00,10.0,20
+161907996,107102,20.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2024-05-23 23:00:00+00:00,20.0,20
+161907997,107102,2.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2024-05-23 23:00:00+00:00,2.0,20
+161907998,107102,1.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2024-05-23 23:00:00+00:00,1.0,20
+161907999,107232,1.0,False,False,False,False,False,NBA $1 3-Player (Thu-Fri),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161908002,107231,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (IND vs BOS),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161908003,107230,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (IND vs BOS),60.0,NBA,2024-05-24 00:00:00+00:00,3.0,23
+161908004,107230,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (IND vs BOS),27.0,NBA,2024-05-24 00:00:00+00:00,1.0,31
+161908005,107230,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161908007,107230,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (IND vs BOS),360.0,NBA,2024-05-24 00:00:00+00:00,20.0,20
+161908008,107230,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (IND vs BOS),180.0,NBA,2024-05-24 00:00:00+00:00,20.0,10
+161908009,107230,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (IND vs BOS),180.0,NBA,2024-05-24 00:00:00+00:00,10.0,20
+161908010,107230,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161908011,107230,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,10.0,10
+161908012,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161908013,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),90.0,NBA,2024-05-24 00:00:00+00:00,5.0,20
+161908014,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161908015,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161908016,107230,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (IND vs BOS),45.0,NBA,2024-05-24 00:00:00+00:00,5.0,10
+161908017,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161908018,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),36.0,NBA,2024-05-24 00:00:00+00:00,2.0,20
+161908019,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161908020,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161908021,107230,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,2.0,10
+161908022,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161908023,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),18.0,NBA,2024-05-24 00:00:00+00:00,1.0,20
+161908024,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161908025,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161908026,107230,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,1.0,10
+161908027,107230,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (IND vs BOS),30.0,NBA,2024-05-24 00:00:00+00:00,3.0,11
+161908028,107230,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (IND vs BOS),10.0,NBA,2024-05-24 00:00:00+00:00,1.0,11
+161908029,107230,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (IND vs BOS),500.0,NBA,2024-05-24 00:00:00+00:00,25.0,22
+161908030,107230,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (IND vs BOS),1000.0,NBA,2024-05-24 00:00:00+00:00,50.0,22
+161908045,107103,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (PHO vs WAS),450.0,NBA,2024-05-24 02:00:00+00:00,50.0,10
+161908046,107103,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (PHO vs WAS),9.0,NBA,2024-05-24 02:00:00+00:00,1.0,10
+161908047,107103,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (PHO vs WAS),45.0,NBA,2024-05-24 02:00:00+00:00,5.0,10
+161908048,107103,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (PHO vs WAS),18.0,NBA,2024-05-24 02:00:00+00:00,2.0,10
+161908049,107103,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (PHO vs WAS),180.0,NBA,2024-05-24 02:00:00+00:00,20.0,10
+161908050,107103,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (PHO vs WAS),90.0,NBA,2024-05-24 02:00:00+00:00,10.0,10
+161908051,107103,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (PHO vs WAS),90.0,NBA,2024-05-24 02:00:00+00:00,5.0,20
+161908052,107103,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (PHO vs WAS),180.0,NBA,2024-05-24 02:00:00+00:00,10.0,20
+161908053,107103,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (PHO vs WAS),360.0,NBA,2024-05-24 02:00:00+00:00,20.0,20
+161908054,107103,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (PHO vs WAS),36.0,NBA,2024-05-24 02:00:00+00:00,2.0,20
+161908055,107103,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (PHO vs WAS),18.0,NBA,2024-05-24 02:00:00+00:00,1.0,20
+161908060,107103,1.0,False,False,False,False,False,WNBA Showdown $1 10-Player (PHO vs WAS),9.0,NBA,2024-05-24 02:00:00+00:00,1.0,10
+161908061,107103,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (PHO vs WAS),4.5,NBA,2024-05-24 02:00:00+00:00,1.0,5
+161908062,107103,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (PHO vs WAS),2.7,NBA,2024-05-24 02:00:00+00:00,1.0,3
+161908063,107103,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (PHO vs WAS),2.7,NBA,2024-05-24 02:00:00+00:00,1.0,3
+161908064,107103,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (PHO vs WAS),5.4,NBA,2024-05-24 02:00:00+00:00,2.0,3
+161908065,107103,2.0,False,False,False,False,False,WNBA Showdown $2 5-Player (PHO vs WAS),9.0,NBA,2024-05-24 02:00:00+00:00,2.0,5
+161908066,107103,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (PHO vs WAS),18.0,NBA,2024-05-24 02:00:00+00:00,2.0,10
+161908067,107103,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (PHO vs WAS),13.5,NBA,2024-05-24 02:00:00+00:00,5.0,3
+161908068,107103,5.0,False,False,False,False,False,WNBA Showdown $5 5-Player (PHO vs WAS),22.5,NBA,2024-05-24 02:00:00+00:00,5.0,5
+161908069,107103,5.0,False,False,False,False,False,WNBA Showdown $5 10-Player (PHO vs WAS),45.0,NBA,2024-05-24 02:00:00+00:00,5.0,10
+161908070,107103,10.0,False,False,False,False,False,WNBA Showdown $10 5-Player (PHO vs WAS),45.0,NBA,2024-05-24 02:00:00+00:00,10.0,5
+161908071,107103,10.0,False,False,False,False,False,WNBA Showdown $10 3-Player (PHO vs WAS),27.0,NBA,2024-05-24 02:00:00+00:00,10.0,3
+161908073,107232,1.0,False,False,False,False,False,NBA $1 150-Player (Winner Takes All) (Thu-Fri),135.0,NBA,2024-05-24 00:00:00+00:00,1.0,150
+161908075,107230,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (IND vs BOS),60.0,NBA,2024-05-24 00:00:00+00:00,3.0,23
+161908199,107230,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (IND vs BOS),9.0,NBA,2024-05-24 00:00:00+00:00,2.0,5
+161908266,107232,20.0,True,False,False,False,False,NBA $20 50-50 (Thu-Fri),360.0,NBA,2024-05-24 00:00:00+00:00,20.0,20
+161908434,107230,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161908698,107230,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (IND vs BOS),250.0,NBA,2024-05-24 00:00:00+00:00,25.0,11
+161908712,107231,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (IND vs BOS),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161908713,107231,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (IND vs BOS),135.0,NBA,2024-05-24 00:00:00+00:00,50.0,3
+161908745,107231,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (IND vs BOS),13.5,NBA,2024-05-24 00:00:00+00:00,5.0,3
+161908921,107102,0.0,False,False,True,False,False,WNBA FREE 200-Player,0.0,NBA,2024-05-23 23:00:00+00:00,0.0,200
+161909197,107230,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (IND vs BOS),250.0,NBA,2024-05-24 00:00:00+00:00,25.0,11
+161909202,107102,1.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2024-05-23 23:00:00+00:00,1.0,5
+161909228,107231,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (IND vs BOS),300.0,NBA,2024-05-24 00:00:00+00:00,109.0,3
+161909897,107232,3.0,False,False,False,False,False,NBA $3 15-Player (Winner Takes All) (Thu-Fri),40.5,NBA,2024-05-24 00:00:00+00:00,3.0,15
+161909971,107231,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (IND vs BOS),2.7,NBA,2024-05-24 00:00:00+00:00,1.0,3
+161909982,107230,3.0,False,False,False,False,False,NBA Showdown $3 19-Player (Winner Takes All) (IND vs BOS),51.3,NBA,2024-05-24 00:00:00+00:00,3.0,19
+161910180,107230,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (IND vs BOS),20.0,NBA,2024-05-24 00:00:00+00:00,1.0,23
+161910196,107232,3.0,False,False,False,False,False,NBA $3 3-Player (Winner Takes All) (Thu-Fri),8.1,NBA,2024-05-24 00:00:00+00:00,3.0,3
