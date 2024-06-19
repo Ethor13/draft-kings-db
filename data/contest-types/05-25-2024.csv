@@ -1,9 +1,0 @@
-game_type_id,allow_late_swaps,description,enforce_selecting_unique_players,draft_type_name,name,has_salary_cap,salary_max,salary_min
-37,True,"Our women's basketball game - create a 6-player lineup while staying under the $50,000 salary cap",True,SalaryCap,WNBA,True,50000.0,0.0
-70,True,"Create an 8-player lineup while staying under the $50,000 salary cap. Includes Late Swap.",True,SalaryCap,Classic,True,50000.0,0.0
-73,True,Our no-salary format gets you in the game quicker - select one player from each tier,True,Tiered,Tiers,False,,
-81,False,"Create your team from 1 game, while staying under the $50,000 salary cap",True,SalaryCap,Showdown Captain Mode,True,50000.0,0.0
-112,False,"Draft your team for the second half of a game while staying under the $50,000 salary cap.",True,SalaryCap,In-Game Showdown (H2),True,50000.0,0.0
-113,False,"Draft your team for the fourth quarter of a game while staying under the $50,000 salary cap.",True,SalaryCap,In-Game Showdown (Q4),True,50000.0,0.0
-193,False,Snake draft a 4-player lineup,True,SnakeDraft,Snake Showdown,False,,
-335,False,Create a 3-player lineup of players you think will score the most points,True,SalaryCap,Single Stat - Points,True,50000.0,0.0

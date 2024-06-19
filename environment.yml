@@ -1,0 +1,6 @@
+name: draft-kings-db
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - pandas==1.5.2
