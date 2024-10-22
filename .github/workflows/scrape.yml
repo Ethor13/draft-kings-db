@@ -36,4 +36,4 @@ jobs:
             - name: Scrape Payouts
               run: if python scripts/python/get_payouts_urls.py; then ./scripts/shell/download_payouts.sh && python scripts/python/parse_payouts_json.py; else echo "No contests to scrape today"; fi
 
-            - uses: EndBug/add-and-commit@v8
+            - uses: EndBug/add-and-commit@v9
