@@ -1,16 +1,24 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "name": "Scrape Cookies",
-            "type": "debugpy",
-            "request": "launch",
-            "program": "scripts/python/playwright_scraper.py",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole"
-        }
-    ]
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Scrape Contests",
+			"type": "debugpy",
+			"request": "launch",
+			"program": "scripts/python/scrape_contests.py",
+			"cwd": "${workspaceFolder}",
+			"console": "internalConsole"
+		},
+		{
+			"name": "Scrape Cookies",
+			"type": "debugpy",
+			"request": "launch",
+			"program": "scripts/python/playwright_scraper.py",
+			"cwd": "${workspaceFolder}",
+			"console": "internalConsole"
+		}
+	]
 }

@@ -2,6 +2,7 @@ from draft_kings import Client
 from draft_kings import Sport
 import pandas as pd
 import datetime
+import warnings
 
 
 def obj_to_list(obj):
@@ -109,7 +110,10 @@ def get_draftables(clt, draft_group_ids):
             players_lst.append(player_df)
 
     if len(players_lst):
-        players_df = pd.concat(players_lst)
+        with warnings.catch_warnings():
+            warnings.simplefilter(action="ignore", category=FutureWarning)
+            players_df = pd.concat(players_lst)
+
         players_df.loc[:, "competition_id"] = players_df.competition_details.apply(
             lambda comp: comp.competition_id
         )
@@ -181,7 +185,7 @@ def get_contest_info(clt, contest_type_ids):
             map(lambda slot: slot.roster_slot_details.roster_slot_id, lineup_template)
         )
         lineup_df = pd.DataFrame(
-            pd.value_counts(slots).items(), columns=["roster_slot_id", "count"]
+            pd.Series(slots).value_counts().items(), columns=["roster_slot_id", "count"]
         )
         lineup_df.loc[:, "contest_type_id"] = contest_type_id
         lineups_lst.append(lineup_df)
