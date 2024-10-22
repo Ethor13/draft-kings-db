@@ -1,0 +1,602 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+167782337,114109,0.0,False,False,True,False,True,NBA Showdown $400 Quarter Jukebox [Just $0.25!] (BOS vs DEN),400.0,NBA,2024-10-04 16:00:00+00:00,0.25,1902
+167782338,114109,5.0,False,False,True,False,True,NBA Showdown $300 High Five [Single Entry] (BOS vs DEN),300.0,NBA,2024-10-04 16:00:00+00:00,5.0,71
+167782339,114109,50.0,False,False,True,False,True,NBA Showdown $750 Ankle Breaker [Single Entry] (BOS vs DEN),750.0,NBA,2024-10-04 16:00:00+00:00,50.0,17
+167782340,114109,1.0,False,False,True,False,True,NBA Showdown $1K And-One (BOS vs DEN),1000.0,NBA,2024-10-04 16:00:00+00:00,1.0,1189
+167782341,114109,3.0,False,False,True,False,True,NBA Showdown $750 Sharpshooter (BOS vs DEN),750.0,NBA,2024-10-04 16:00:00+00:00,3.0,297
+167782342,114109,12.0,False,False,True,False,True,NBA Showdown $300 Pick and Roll [Single Entry] (BOS vs DEN),300.0,NBA,2024-10-04 16:00:00+00:00,12.0,29
+167782343,114109,10.0,False,False,True,False,True,NBA Showdown $10K Pull Up Jumper [$2K to 1st] (BOS vs DEN),10000.0,NBA,2024-10-04 16:00:00+00:00,10.0,1176
+167782344,114109,100.0,False,False,True,False,True,NBA Showdown $1.53K Showtime [Single Entry] (BOS vs DEN),1530.0,NBA,2024-10-04 16:00:00+00:00,100.0,17
+167782345,114109,33.0,False,False,True,False,True,NBA Showdown $510 Triple Threat (BOS vs DEN),510.0,NBA,2024-10-04 16:00:00+00:00,33.0,18
+167782394,114111,0.0,False,False,True,False,True,NBA Showdown $300 Quarter Jukebox [Just $0.25!]  (MIN vs LAL),300.0,NBA,2024-10-05 02:30:00+00:00,0.25,1426
+167782395,114111,5.0,False,False,True,False,True,NBA Showdown $300 High Five [Single Entry] (MIN vs LAL),300.0,NBA,2024-10-05 02:30:00+00:00,5.0,71
+167782396,114111,3.0,False,False,True,False,True,NBA Showdown $500 Sharpshooter (MIN vs LAL),500.0,NBA,2024-10-05 02:30:00+00:00,3.0,198
+167782397,114111,1.0,False,False,True,False,True,NBA Showdown $750 And-One [20 Entry Max] (MIN vs LAL),750.0,NBA,2024-10-05 02:30:00+00:00,1.0,891
+167782398,114111,12.0,False,False,True,False,True,NBA Showdown $155 Pick and Roll [Single Entry] (MIN vs LAL),155.0,NBA,2024-10-05 02:30:00+00:00,12.0,15
+167782399,114111,50.0,False,False,True,False,True,NBA Showdown $500 Ankle Breaker [Single Entry] (MIN vs LAL),500.0,NBA,2024-10-05 02:30:00+00:00,50.0,11
+167782400,114111,100.0,False,False,True,False,True,"NBA Showdown $720 Showtime [Single Entry, Top 2 Win] (MIN vs LAL)",720.0,NBA,2024-10-05 02:30:00+00:00,100.0,8
+167782401,114111,10.0,False,False,True,False,True,NBA Showdown $8K Pull Up Jumper [$2K to 1st] (MIN vs LAL),8000.0,NBA,2024-10-05 02:30:00+00:00,10.0,941
+167782402,114111,27.0,False,False,True,False,True,NBA Showdown $240 Fast Break [Single Entry] (MIN vs LAL),240.0,NBA,2024-10-05 02:30:00+00:00,27.0,10
+167782426,114109,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (BOS vs DEN),54.0,NBA,2024-10-04 16:00:00+00:00,20.0,3
+167782427,114109,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (BOS vs DEN),135.0,NBA,2024-10-04 16:00:00+00:00,50.0,3
+167782428,114109,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,10.0,3
+167782429,114109,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (BOS vs DEN),13.5,NBA,2024-10-04 16:00:00+00:00,5.0,3
+167782430,114109,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (BOS vs DEN),2.7,NBA,2024-10-04 16:00:00+00:00,1.0,3
+167782431,114109,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (BOS vs DEN)",20000.0,NBA,2024-10-04 16:00:00+00:00,5300.0,4
+167782432,114109,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (BOS vs DEN)",4000.0,NBA,2024-10-04 16:00:00+00:00,1060.0,4
+167782433,114109,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (BOS vs DEN),2000.0,NBA,2024-10-04 16:00:00+00:00,530.0,4
+167782434,114109,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (BOS vs DEN),600.0,NBA,2024-10-04 16:00:00+00:00,162.0,4
+167782435,114109,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (BOS vs DEN),400.0,NBA,2024-10-04 16:00:00+00:00,109.0,4
+167782436,114109,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (BOS vs DEN),180.0,NBA,2024-10-04 16:00:00+00:00,50.0,4
+167782437,114109,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS vs DEN),360.0,NBA,2024-10-04 16:00:00+00:00,20.0,20
+167782438,114109,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS vs DEN),180.0,NBA,2024-10-04 16:00:00+00:00,20.0,10
+167782439,114109,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS vs DEN),72.0,NBA,2024-10-04 16:00:00+00:00,20.0,4
+167782440,114109,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS vs DEN),72.0,NBA,2024-10-04 16:00:00+00:00,20.0,4
+167782441,114109,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs DEN),180.0,NBA,2024-10-04 16:00:00+00:00,10.0,20
+167782442,114109,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs DEN),90.0,NBA,2024-10-04 16:00:00+00:00,10.0,10
+167782443,114109,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs DEN),90.0,NBA,2024-10-04 16:00:00+00:00,10.0,10
+167782444,114109,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs DEN),36.0,NBA,2024-10-04 16:00:00+00:00,10.0,4
+167782445,114109,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs DEN),36.0,NBA,2024-10-04 16:00:00+00:00,10.0,4
+167782446,114109,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS vs DEN),36.0,NBA,2024-10-04 16:00:00+00:00,10.0,4
+167782447,114109,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs DEN),90.0,NBA,2024-10-04 16:00:00+00:00,5.0,20
+167782448,114109,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs DEN),90.0,NBA,2024-10-04 16:00:00+00:00,5.0,20
+167782449,114109,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,5.0,10
+167782450,114109,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,5.0,10
+167782451,114109,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,5.0,10
+167782452,114109,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs DEN),36.0,NBA,2024-10-04 16:00:00+00:00,2.0,20
+167782453,114109,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs DEN),36.0,NBA,2024-10-04 16:00:00+00:00,2.0,20
+167782454,114109,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs DEN),18.0,NBA,2024-10-04 16:00:00+00:00,2.0,10
+167782455,114109,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs DEN),18.0,NBA,2024-10-04 16:00:00+00:00,2.0,10
+167782456,114109,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS vs DEN),18.0,NBA,2024-10-04 16:00:00+00:00,2.0,10
+167782457,114109,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs DEN),18.0,NBA,2024-10-04 16:00:00+00:00,1.0,20
+167782458,114109,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs DEN),18.0,NBA,2024-10-04 16:00:00+00:00,1.0,20
+167782459,114109,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,1.0,10
+167782460,114109,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,1.0,10
+167782461,114109,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,1.0,10
+167782462,114109,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (BOS vs DEN),180.0,NBA,2024-10-04 16:00:00+00:00,50.0,4
+167782463,114109,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (BOS vs DEN),72.0,NBA,2024-10-04 16:00:00+00:00,20.0,4
+167782464,114109,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (BOS vs DEN),90.0,NBA,2024-10-04 16:00:00+00:00,10.0,10
+167782465,114109,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,5.0,10
+167782466,114109,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,3.0,10
+167782467,114109,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,1.0,10
+167782468,114109,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,10.0,5
+167782469,114109,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (BOS vs DEN),22.5,NBA,2024-10-04 16:00:00+00:00,5.0,5
+167782470,114109,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (BOS vs DEN),13.5,NBA,2024-10-04 16:00:00+00:00,5.0,3
+167782471,114109,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,2.0,5
+167782472,114109,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (BOS vs DEN),5.4,NBA,2024-10-04 16:00:00+00:00,2.0,3
+167782473,114109,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (BOS vs DEN),4.5,NBA,2024-10-04 16:00:00+00:00,1.0,5
+167782474,114109,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS vs DEN)",30000.0,NBA,2024-10-04 16:00:00+00:00,10600.0,3
+167782475,114109,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (BOS vs DEN)",15000.0,NBA,2024-10-04 16:00:00+00:00,5300.0,3
+167782476,114109,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (BOS vs DEN)",3000.0,NBA,2024-10-04 16:00:00+00:00,1060.0,3
+167782477,114109,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (BOS vs DEN),1500.0,NBA,2024-10-04 16:00:00+00:00,530.0,3
+167782478,114109,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS vs DEN),450.0,NBA,2024-10-04 16:00:00+00:00,162.0,3
+167782479,114109,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs DEN),300.0,NBA,2024-10-04 16:00:00+00:00,109.0,3
+167782480,114109,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs DEN),300.0,NBA,2024-10-04 16:00:00+00:00,109.0,3
+167782481,114109,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (BOS vs DEN),225.0,NBA,2024-10-04 16:00:00+00:00,50.0,5
+167782482,114109,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS vs DEN),135.0,NBA,2024-10-04 16:00:00+00:00,50.0,3
+167782483,114109,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (BOS vs DEN),90.0,NBA,2024-10-04 16:00:00+00:00,20.0,5
+167782484,114109,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (BOS vs DEN),90.0,NBA,2024-10-04 16:00:00+00:00,20.0,5
+167782485,114109,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs DEN),54.0,NBA,2024-10-04 16:00:00+00:00,20.0,3
+167782486,114109,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs DEN),54.0,NBA,2024-10-04 16:00:00+00:00,20.0,3
+167782487,114109,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs DEN),54.0,NBA,2024-10-04 16:00:00+00:00,20.0,3
+167782488,114109,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (BOS vs DEN),90.0,NBA,2024-10-04 16:00:00+00:00,10.0,10
+167782489,114109,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,10.0,5
+167782490,114109,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,10.0,5
+167782491,114109,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,10.0,3
+167782492,114109,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,10.0,3
+167782493,114109,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,10.0,3
+167782494,114109,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,5.0,10
+167782495,114109,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,5.0,10
+167782496,114109,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (BOS vs DEN),22.5,NBA,2024-10-04 16:00:00+00:00,5.0,5
+167782497,114109,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (BOS vs DEN),22.5,NBA,2024-10-04 16:00:00+00:00,5.0,5
+167782498,114109,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (BOS vs DEN),22.5,NBA,2024-10-04 16:00:00+00:00,5.0,5
+167782499,114109,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs DEN),13.5,NBA,2024-10-04 16:00:00+00:00,5.0,3
+167782500,114109,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs DEN),13.5,NBA,2024-10-04 16:00:00+00:00,5.0,3
+167782501,114109,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs DEN),13.5,NBA,2024-10-04 16:00:00+00:00,5.0,3
+167782502,114109,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (BOS vs DEN),36.0,NBA,2024-10-04 16:00:00+00:00,2.0,20
+167782503,114109,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (BOS vs DEN),36.0,NBA,2024-10-04 16:00:00+00:00,2.0,20
+167782504,114109,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS vs DEN),18.0,NBA,2024-10-04 16:00:00+00:00,2.0,10
+167782505,114109,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS vs DEN),18.0,NBA,2024-10-04 16:00:00+00:00,2.0,10
+167782506,114109,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS vs DEN),18.0,NBA,2024-10-04 16:00:00+00:00,2.0,10
+167782507,114109,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,2.0,5
+167782508,114109,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,2.0,5
+167782509,114109,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,2.0,5
+167782510,114109,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS vs DEN),5.4,NBA,2024-10-04 16:00:00+00:00,2.0,3
+167782511,114109,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS vs DEN),5.4,NBA,2024-10-04 16:00:00+00:00,2.0,3
+167782512,114109,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS vs DEN),5.4,NBA,2024-10-04 16:00:00+00:00,2.0,3
+167782513,114109,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,1.0,10
+167782514,114109,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (BOS vs DEN),4.5,NBA,2024-10-04 16:00:00+00:00,1.0,5
+167782515,114109,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS vs DEN),2.7,NBA,2024-10-04 16:00:00+00:00,1.0,3
+167782516,114109,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS vs DEN),2.7,NBA,2024-10-04 16:00:00+00:00,1.0,3
+167782517,114109,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (BOS vs DEN),600.0,NBA,2024-10-04 16:00:00+00:00,109.0,6
+167782518,114109,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (BOS vs DEN)",40000.0,NBA,2024-10-04 16:00:00+00:00,10600.0,4
+167782519,114109,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (BOS vs DEN)",40000.0,NBA,2024-10-04 16:00:00+00:00,10600.0,4
+167782520,114109,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (BOS vs DEN)",40000.0,NBA,2024-10-04 16:00:00+00:00,10600.0,4
+167782521,114109,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (BOS vs DEN),180.0,NBA,2024-10-04 16:00:00+00:00,50.0,4
+167782522,114109,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (BOS vs DEN),72.0,NBA,2024-10-04 16:00:00+00:00,20.0,4
+167782523,114109,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (BOS vs DEN),90.0,NBA,2024-10-04 16:00:00+00:00,10.0,10
+167782524,114109,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,5.0,10
+167782525,114109,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,3.0,10
+167782526,114109,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (BOS vs DEN),10.8,NBA,2024-10-04 16:00:00+00:00,3.0,4
+167782527,114109,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,1.0,10
+167782528,114109,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (BOS vs DEN),135.0,NBA,2024-10-04 16:00:00+00:00,50.0,3
+167782529,114109,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (BOS vs DEN),54.0,NBA,2024-10-04 16:00:00+00:00,20.0,3
+167782530,114109,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,10.0,5
+167782531,114109,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,10.0,3
+167782532,114109,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,2.0,5
+167782533,114109,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (BOS vs DEN),5.4,NBA,2024-10-04 16:00:00+00:00,2.0,3
+167782534,114109,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (BOS vs DEN),500.0,NBA,2024-10-04 16:00:00+00:00,109.0,5
+167782535,114109,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (BOS vs DEN),100.0,NBA,2024-10-04 16:00:00+00:00,10.0,11
+167782536,114109,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (BOS vs DEN),250.0,NBA,2024-10-04 16:00:00+00:00,25.0,11
+167782537,114109,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (BOS vs DEN),500.0,NBA,2024-10-04 16:00:00+00:00,50.0,11
+167782538,114109,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (BOS vs DEN),50.0,NBA,2024-10-04 16:00:00+00:00,5.0,11
+167782539,114109,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (BOS vs DEN),30.0,NBA,2024-10-04 16:00:00+00:00,3.0,11
+167782540,114109,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (BOS vs DEN),10.0,NBA,2024-10-04 16:00:00+00:00,1.0,11
+167782541,114109,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (BOS vs DEN),500.0,NBA,2024-10-04 16:00:00+00:00,25.0,22
+167782542,114109,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (BOS vs DEN),1000.0,NBA,2024-10-04 16:00:00+00:00,50.0,22
+167782543,114109,26200.0,False,False,False,False,True,NBA Showdown $100K Heavy Hitter [Must Fill] (BOS vs DEN),100000.0,NBA,2024-10-04 16:00:00+00:00,26200.0,4
+167782544,114109,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (BOS vs DEN),4000.0,NBA,2024-10-04 16:00:00+00:00,1060.0,4
+167782545,114109,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (BOS vs DEN),1000.0,NBA,2024-10-04 16:00:00+00:00,267.0,4
+167782546,114109,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (BOS vs DEN)",1500.0,NBA,2024-10-04 16:00:00+00:00,408.0,4
+167782547,114109,26200.0,False,False,False,False,True,NBA Showdown $75K Heavy Hitter [Must Fill] (BOS vs DEN),75000.0,NBA,2024-10-04 16:00:00+00:00,26200.0,3
+167782548,114111,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (MIN vs LAL),54.0,NBA,2024-10-05 02:30:00+00:00,20.0,3
+167782549,114111,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (MIN vs LAL),135.0,NBA,2024-10-05 02:30:00+00:00,50.0,3
+167782550,114111,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,10.0,3
+167782551,114111,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIN vs LAL),13.5,NBA,2024-10-05 02:30:00+00:00,5.0,3
+167782552,114111,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (MIN vs LAL),2.7,NBA,2024-10-05 02:30:00+00:00,1.0,3
+167782553,114111,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (MIN vs LAL)",20000.0,NBA,2024-10-05 02:30:00+00:00,5300.0,4
+167782554,114111,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (MIN vs LAL)",4000.0,NBA,2024-10-05 02:30:00+00:00,1060.0,4
+167782555,114111,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (MIN vs LAL),2000.0,NBA,2024-10-05 02:30:00+00:00,530.0,4
+167782556,114111,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (MIN vs LAL),600.0,NBA,2024-10-05 02:30:00+00:00,162.0,4
+167782557,114111,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIN vs LAL),400.0,NBA,2024-10-05 02:30:00+00:00,109.0,4
+167782558,114111,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (MIN vs LAL),180.0,NBA,2024-10-05 02:30:00+00:00,50.0,4
+167782559,114111,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN vs LAL),360.0,NBA,2024-10-05 02:30:00+00:00,20.0,20
+167782560,114111,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN vs LAL),180.0,NBA,2024-10-05 02:30:00+00:00,20.0,10
+167782561,114111,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN vs LAL),72.0,NBA,2024-10-05 02:30:00+00:00,20.0,4
+167782562,114111,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN vs LAL),72.0,NBA,2024-10-05 02:30:00+00:00,20.0,4
+167782563,114111,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN vs LAL),180.0,NBA,2024-10-05 02:30:00+00:00,10.0,20
+167782564,114111,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN vs LAL),90.0,NBA,2024-10-05 02:30:00+00:00,10.0,10
+167782565,114111,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN vs LAL),90.0,NBA,2024-10-05 02:30:00+00:00,10.0,10
+167782566,114111,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN vs LAL),36.0,NBA,2024-10-05 02:30:00+00:00,10.0,4
+167782567,114111,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN vs LAL),36.0,NBA,2024-10-05 02:30:00+00:00,10.0,4
+167782568,114111,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN vs LAL),36.0,NBA,2024-10-05 02:30:00+00:00,10.0,4
+167782569,114111,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN vs LAL),90.0,NBA,2024-10-05 02:30:00+00:00,5.0,20
+167782570,114111,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN vs LAL),90.0,NBA,2024-10-05 02:30:00+00:00,5.0,20
+167782571,114111,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,5.0,10
+167782572,114111,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,5.0,10
+167782573,114111,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,5.0,10
+167782574,114111,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN vs LAL),36.0,NBA,2024-10-05 02:30:00+00:00,2.0,20
+167782575,114111,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN vs LAL),36.0,NBA,2024-10-05 02:30:00+00:00,2.0,20
+167782576,114111,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN vs LAL),18.0,NBA,2024-10-05 02:30:00+00:00,2.0,10
+167782577,114111,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN vs LAL),18.0,NBA,2024-10-05 02:30:00+00:00,2.0,10
+167782578,114111,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN vs LAL),18.0,NBA,2024-10-05 02:30:00+00:00,2.0,10
+167782579,114111,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN vs LAL),18.0,NBA,2024-10-05 02:30:00+00:00,1.0,20
+167782580,114111,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN vs LAL),18.0,NBA,2024-10-05 02:30:00+00:00,1.0,20
+167782581,114111,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,1.0,10
+167782582,114111,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,1.0,10
+167782583,114111,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,1.0,10
+167782584,114111,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (MIN vs LAL),180.0,NBA,2024-10-05 02:30:00+00:00,50.0,4
+167782585,114111,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (MIN vs LAL),72.0,NBA,2024-10-05 02:30:00+00:00,20.0,4
+167782586,114111,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (MIN vs LAL),90.0,NBA,2024-10-05 02:30:00+00:00,10.0,10
+167782587,114111,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,5.0,10
+167782588,114111,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,3.0,10
+167782589,114111,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,1.0,10
+167782590,114111,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,10.0,5
+167782591,114111,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (MIN vs LAL),22.5,NBA,2024-10-05 02:30:00+00:00,5.0,5
+167782592,114111,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIN vs LAL),13.5,NBA,2024-10-05 02:30:00+00:00,5.0,3
+167782593,114111,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,2.0,5
+167782594,114111,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (MIN vs LAL),5.4,NBA,2024-10-05 02:30:00+00:00,2.0,3
+167782595,114111,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (MIN vs LAL),4.5,NBA,2024-10-05 02:30:00+00:00,1.0,5
+167782596,114111,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (MIN vs LAL)",30000.0,NBA,2024-10-05 02:30:00+00:00,10600.0,3
+167782597,114111,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MIN vs LAL)",15000.0,NBA,2024-10-05 02:30:00+00:00,5300.0,3
+167782598,114111,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MIN vs LAL)",3000.0,NBA,2024-10-05 02:30:00+00:00,1060.0,3
+167782599,114111,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (MIN vs LAL),1500.0,NBA,2024-10-05 02:30:00+00:00,530.0,3
+167782600,114111,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIN vs LAL),450.0,NBA,2024-10-05 02:30:00+00:00,162.0,3
+167782601,114111,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN vs LAL),300.0,NBA,2024-10-05 02:30:00+00:00,109.0,3
+167782602,114111,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN vs LAL),300.0,NBA,2024-10-05 02:30:00+00:00,109.0,3
+167782603,114111,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (MIN vs LAL),225.0,NBA,2024-10-05 02:30:00+00:00,50.0,5
+167782604,114111,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIN vs LAL),135.0,NBA,2024-10-05 02:30:00+00:00,50.0,3
+167782605,114111,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIN vs LAL),90.0,NBA,2024-10-05 02:30:00+00:00,20.0,5
+167782606,114111,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIN vs LAL),90.0,NBA,2024-10-05 02:30:00+00:00,20.0,5
+167782607,114111,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN vs LAL),54.0,NBA,2024-10-05 02:30:00+00:00,20.0,3
+167782608,114111,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN vs LAL),54.0,NBA,2024-10-05 02:30:00+00:00,20.0,3
+167782609,114111,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN vs LAL),54.0,NBA,2024-10-05 02:30:00+00:00,20.0,3
+167782610,114111,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (MIN vs LAL),90.0,NBA,2024-10-05 02:30:00+00:00,10.0,10
+167782611,114111,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,10.0,5
+167782612,114111,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,10.0,5
+167782613,114111,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,10.0,3
+167782614,114111,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,10.0,3
+167782615,114111,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,10.0,3
+167782616,114111,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,5.0,10
+167782617,114111,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,5.0,10
+167782618,114111,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN vs LAL),22.5,NBA,2024-10-05 02:30:00+00:00,5.0,5
+167782619,114111,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN vs LAL),22.5,NBA,2024-10-05 02:30:00+00:00,5.0,5
+167782620,114111,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN vs LAL),22.5,NBA,2024-10-05 02:30:00+00:00,5.0,5
+167782621,114111,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN vs LAL),13.5,NBA,2024-10-05 02:30:00+00:00,5.0,3
+167782622,114111,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN vs LAL),13.5,NBA,2024-10-05 02:30:00+00:00,5.0,3
+167782623,114111,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN vs LAL),13.5,NBA,2024-10-05 02:30:00+00:00,5.0,3
+167782624,114111,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (MIN vs LAL),36.0,NBA,2024-10-05 02:30:00+00:00,2.0,20
+167782625,114111,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (MIN vs LAL),36.0,NBA,2024-10-05 02:30:00+00:00,2.0,20
+167782626,114111,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN vs LAL),18.0,NBA,2024-10-05 02:30:00+00:00,2.0,10
+167782627,114111,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN vs LAL),18.0,NBA,2024-10-05 02:30:00+00:00,2.0,10
+167782628,114111,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN vs LAL),18.0,NBA,2024-10-05 02:30:00+00:00,2.0,10
+167782629,114111,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,2.0,5
+167782630,114111,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,2.0,5
+167782631,114111,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,2.0,5
+167782632,114111,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN vs LAL),5.4,NBA,2024-10-05 02:30:00+00:00,2.0,3
+167782633,114111,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN vs LAL),5.4,NBA,2024-10-05 02:30:00+00:00,2.0,3
+167782634,114111,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN vs LAL),5.4,NBA,2024-10-05 02:30:00+00:00,2.0,3
+167782635,114111,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,1.0,10
+167782636,114111,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (MIN vs LAL),4.5,NBA,2024-10-05 02:30:00+00:00,1.0,5
+167782637,114111,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN vs LAL),2.7,NBA,2024-10-05 02:30:00+00:00,1.0,3
+167782638,114111,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN vs LAL),2.7,NBA,2024-10-05 02:30:00+00:00,1.0,3
+167782639,114111,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIN vs LAL),600.0,NBA,2024-10-05 02:30:00+00:00,109.0,6
+167782640,114111,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN vs LAL)",40000.0,NBA,2024-10-05 02:30:00+00:00,10600.0,4
+167782641,114111,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN vs LAL)",40000.0,NBA,2024-10-05 02:30:00+00:00,10600.0,4
+167782642,114111,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN vs LAL)",40000.0,NBA,2024-10-05 02:30:00+00:00,10600.0,4
+167782643,114111,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (MIN vs LAL),180.0,NBA,2024-10-05 02:30:00+00:00,50.0,4
+167782644,114111,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (MIN vs LAL),72.0,NBA,2024-10-05 02:30:00+00:00,20.0,4
+167782645,114111,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (MIN vs LAL),90.0,NBA,2024-10-05 02:30:00+00:00,10.0,10
+167782646,114111,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,5.0,10
+167782647,114111,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,3.0,10
+167782648,114111,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIN vs LAL),10.8,NBA,2024-10-05 02:30:00+00:00,3.0,4
+167782649,114111,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,1.0,10
+167782650,114111,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (MIN vs LAL),135.0,NBA,2024-10-05 02:30:00+00:00,50.0,3
+167782651,114111,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (MIN vs LAL),54.0,NBA,2024-10-05 02:30:00+00:00,20.0,3
+167782652,114111,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (MIN vs LAL),45.0,NBA,2024-10-05 02:30:00+00:00,10.0,5
+167782653,114111,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,10.0,3
+167782654,114111,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (MIN vs LAL),9.0,NBA,2024-10-05 02:30:00+00:00,2.0,5
+167782655,114111,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (MIN vs LAL),5.4,NBA,2024-10-05 02:30:00+00:00,2.0,3
+167782656,114111,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (MIN vs LAL),500.0,NBA,2024-10-05 02:30:00+00:00,109.0,5
+167782657,114111,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (MIN vs LAL),100.0,NBA,2024-10-05 02:30:00+00:00,10.0,11
+167782658,114111,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN vs LAL),250.0,NBA,2024-10-05 02:30:00+00:00,25.0,11
+167782659,114111,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIN vs LAL),500.0,NBA,2024-10-05 02:30:00+00:00,50.0,11
+167782660,114111,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (MIN vs LAL),50.0,NBA,2024-10-05 02:30:00+00:00,5.0,11
+167782661,114111,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (MIN vs LAL),30.0,NBA,2024-10-05 02:30:00+00:00,3.0,11
+167782662,114111,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (MIN vs LAL),10.0,NBA,2024-10-05 02:30:00+00:00,1.0,11
+167782663,114111,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN vs LAL),500.0,NBA,2024-10-05 02:30:00+00:00,25.0,22
+167782664,114111,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIN vs LAL),1000.0,NBA,2024-10-05 02:30:00+00:00,50.0,22
+167782665,114111,26200.0,False,False,False,False,True,NBA Showdown $100K Heavy Hitter [Must Fill] (MIN vs LAL),100000.0,NBA,2024-10-05 02:30:00+00:00,26200.0,4
+167782666,114111,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (MIN vs LAL),4000.0,NBA,2024-10-05 02:30:00+00:00,1060.0,4
+167782667,114111,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (MIN vs LAL),1000.0,NBA,2024-10-05 02:30:00+00:00,267.0,4
+167782668,114111,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (MIN vs LAL)",1500.0,NBA,2024-10-05 02:30:00+00:00,408.0,4
+167782669,114111,26200.0,False,False,False,False,True,NBA Showdown $75K Heavy Hitter [Must Fill] (MIN vs LAL),75000.0,NBA,2024-10-05 02:30:00+00:00,26200.0,3
+167782685,114109,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS vs DEN),250.0,NBA,2024-10-04 16:00:00+00:00,25.0,11
+167782686,114109,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs DEN),20.0,NBA,2024-10-04 16:00:00+00:00,1.0,23
+167782687,114109,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (BOS vs DEN),100.0,NBA,2024-10-04 16:00:00+00:00,10.0,11
+167782688,114109,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,1.0,31
+167782689,114109,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS vs DEN),20.0,NBA,2024-10-04 16:00:00+00:00,1.0,23
+167782690,114109,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS vs DEN),60.0,NBA,2024-10-04 16:00:00+00:00,3.0,23
+167782691,114109,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS vs DEN),100.0,NBA,2024-10-04 16:00:00+00:00,5.0,23
+167782692,114109,85.0,False,False,True,False,True,NBA Showdown $85 Winner Take All [$300 to 1st] (BOS vs DEN),300.0,NBA,2024-10-04 16:00:00+00:00,85.0,4
+167782693,114109,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA 2024 Best Ball $400K Fadeaway (BOS vs DEN),15.0,NBA,2024-10-04 16:00:00+00:00,0.1,178
+167782694,114109,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA 2024 Best Ball $400K Fadeaway (BOS vs DEN),15.0,NBA,2024-10-04 16:00:00+00:00,0.25,71
+167782695,114109,1.0,False,False,True,False,True,NBA Showdown Satellite to NBA 2024 Best Ball $400K Fadeaway (BOS vs DEN),15.0,NBA,2024-10-04 16:00:00+00:00,1.0,17
+167782697,114109,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $15 Opening Tip Off (10-22) (BOS vs DEN),15.0,NBA,2024-10-04 16:00:00+00:00,0.1,178
+167782698,114109,1.0,False,False,True,False,True,NBA Showdown Satellite to NBA $15 Opening Tip Off (10-22) (BOS vs DEN),15.0,NBA,2024-10-04 16:00:00+00:00,1.0,17
+167782699,114109,0.0,False,False,True,False,True,NBA Showdown SUPER Satellite to NBA $15 Opening Tip Off (10-22) [2x] (BOS vs DEN),30.0,NBA,2024-10-04 16:00:00+00:00,0.25,142
+167782700,114109,1.0,False,False,True,False,True,NBA Showdown Satellite to $20 NFL Fantasy Football Millionaire (BOS vs DEN),20.0,NBA,2024-10-04 16:00:00+00:00,1.0,23
+167782701,114109,0.0,False,False,True,False,True,NBA Showdown Satellite to $20 NFL Fantasy Football Millionaire (BOS vs DEN),20.0,NBA,2024-10-04 16:00:00+00:00,0.25,95
+167782702,114109,242.0,False,False,False,False,True,NBA Showdown Satellite to NBA $1M MEGA 8's Premiere [Must Fill] (10-23) (BOS vs DEN),888.0,NBA,2024-10-04 16:00:00+00:00,242.0,4
+167782703,114109,1177.0,False,False,False,False,True,NBA Showdown Satellite to NFL $10M Ultimate Main Event (12-29) [Must Fill] (BOS vs DEN),3333.0,NBA,2024-10-04 16:00:00+00:00,1177.0,3
+167782704,114111,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN vs LAL),250.0,NBA,2024-10-05 02:30:00+00:00,25.0,11
+167782705,114111,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN vs LAL),20.0,NBA,2024-10-05 02:30:00+00:00,1.0,23
+167782706,114111,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIN vs LAL),100.0,NBA,2024-10-05 02:30:00+00:00,10.0,11
+167782707,114111,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,1.0,31
+167782708,114111,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN vs LAL),20.0,NBA,2024-10-05 02:30:00+00:00,1.0,23
+167782709,114111,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN vs LAL),60.0,NBA,2024-10-05 02:30:00+00:00,3.0,23
+167782710,114111,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN vs LAL),100.0,NBA,2024-10-05 02:30:00+00:00,5.0,23
+167782711,114111,85.0,False,False,True,False,True,NBA Showdown $85 Winner Take All [$300 to 1st] (MIN vs LAL),300.0,NBA,2024-10-05 02:30:00+00:00,85.0,4
+167782712,114111,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA 2024 Best Ball $400K Fadeaway (MIN vs LAL),15.0,NBA,2024-10-05 02:30:00+00:00,0.1,178
+167782713,114111,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA 2024 Best Ball $400K Fadeaway (MIN vs LAL),15.0,NBA,2024-10-05 02:30:00+00:00,0.25,71
+167782714,114111,1.0,False,False,True,False,True,NBA Showdown Satellite to NBA 2024 Best Ball $400K Fadeaway (MIN vs LAL),15.0,NBA,2024-10-05 02:30:00+00:00,1.0,17
+167782715,114111,6.0,False,False,False,False,True,NBA Showdown Satellite to NBA $15 Opening Tip Off	[Must Fill] (10-22) (MIN vs LAL),15.0,NBA,2024-10-05 02:30:00+00:00,5.55,3
+167782716,114111,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $15 Opening Tip Off (10-22) (MIN vs LAL),15.0,NBA,2024-10-05 02:30:00+00:00,0.1,178
+167782717,114111,1.0,False,False,True,False,True,NBA Showdown Satellite to NBA $15 Opening Tip Off (10-22) (MIN vs LAL),15.0,NBA,2024-10-05 02:30:00+00:00,1.0,17
+167782718,114111,0.0,False,False,True,False,True,NBA Showdown SUPER Satellite to NBA $15 Opening Tip Off (10-22) [2x] (MIN vs LAL),30.0,NBA,2024-10-05 02:30:00+00:00,0.25,142
+167782719,114111,1.0,False,False,True,False,True,NBA Showdown Satellite to $20 NFL Fantasy Football Millionaire (MIN vs LAL),20.0,NBA,2024-10-05 02:30:00+00:00,1.0,23
+167782720,114111,0.0,False,False,True,False,True,NBA Showdown Satellite to $20 NFL Fantasy Football Millionaire (MIN vs LAL),20.0,NBA,2024-10-05 02:30:00+00:00,0.25,95
+167782721,114111,242.0,False,False,False,False,True,NBA Showdown Satellite to NBA $1M MEGA 8's Premiere [Must Fill] (10-23) (MIN vs LAL),888.0,NBA,2024-10-05 02:30:00+00:00,242.0,4
+167782722,114111,1177.0,False,False,False,False,True,NBA Showdown Satellite to NFL $10M Ultimate Main Event (12-29) [Must Fill] (MIN vs LAL),3333.0,NBA,2024-10-05 02:30:00+00:00,1177.0,3
+167782737,114110,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (BOS vs DEN),13.5,NBA,2024-10-04 16:00:00+00:00,5.0,3
+167782738,114110,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (BOS vs DEN),13.5,NBA,2024-10-04 16:00:00+00:00,5.0,3
+167782739,114110,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,10.0,3
+167782740,114110,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,10.0,3
+167782741,114110,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,10.0,3
+167782742,114110,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (BOS vs DEN),54.0,NBA,2024-10-04 16:00:00+00:00,20.0,3
+167782743,114110,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (BOS vs DEN),300.0,NBA,2024-10-04 16:00:00+00:00,109.0,3
+167782744,114110,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (BOS vs DEN),1500.0,NBA,2024-10-04 16:00:00+00:00,530.0,3
+167782745,114110,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (BOS vs DEN),3.6,NBA,2024-10-04 16:00:00+00:00,1.0,4
+167782746,114110,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (BOS vs DEN),18.0,NBA,2024-10-04 16:00:00+00:00,5.0,4
+167782747,114110,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (BOS vs DEN),36.0,NBA,2024-10-04 16:00:00+00:00,10.0,4
+167782748,114110,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (BOS vs DEN),72.0,NBA,2024-10-04 16:00:00+00:00,20.0,4
+167782749,114110,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (BOS vs DEN),180.0,NBA,2024-10-04 16:00:00+00:00,50.0,4
+167782750,114110,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (BOS vs DEN),400.0,NBA,2024-10-04 16:00:00+00:00,109.0,4
+167782751,114110,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (BOS vs DEN),2000.0,NBA,2024-10-04 16:00:00+00:00,530.0,4
+167782752,114110,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (BOS vs DEN),135.0,NBA,2024-10-04 16:00:00+00:00,50.0,3
+167782753,114110,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (BOS vs DEN)",3000.0,NBA,2024-10-04 16:00:00+00:00,1060.0,3
+167782754,114110,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (BOS vs DEN)",6000.0,NBA,2024-10-04 16:00:00+00:00,2120.0,3
+167782755,114112,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIN vs LAL),2.7,NBA,2024-10-05 02:30:00+00:00,1.0,3
+167782756,114112,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIN vs LAL),2.7,NBA,2024-10-05 02:30:00+00:00,1.0,3
+167782758,114112,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (MIN vs LAL),13.5,NBA,2024-10-05 02:30:00+00:00,5.0,3
+167782759,114112,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (MIN vs LAL),13.5,NBA,2024-10-05 02:30:00+00:00,5.0,3
+167782760,114112,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,10.0,3
+167782761,114112,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,10.0,3
+167782762,114112,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,10.0,3
+167782763,114112,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (MIN vs LAL),54.0,NBA,2024-10-05 02:30:00+00:00,20.0,3
+167782764,114112,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (MIN vs LAL),300.0,NBA,2024-10-05 02:30:00+00:00,109.0,3
+167782765,114112,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (MIN vs LAL),1500.0,NBA,2024-10-05 02:30:00+00:00,530.0,3
+167782767,114112,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (MIN vs LAL),18.0,NBA,2024-10-05 02:30:00+00:00,5.0,4
+167782768,114112,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (MIN vs LAL),36.0,NBA,2024-10-05 02:30:00+00:00,10.0,4
+167782769,114112,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (MIN vs LAL),72.0,NBA,2024-10-05 02:30:00+00:00,20.0,4
+167782770,114112,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (MIN vs LAL),180.0,NBA,2024-10-05 02:30:00+00:00,50.0,4
+167782771,114112,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (MIN vs LAL),400.0,NBA,2024-10-05 02:30:00+00:00,109.0,4
+167782772,114112,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (MIN vs LAL),2000.0,NBA,2024-10-05 02:30:00+00:00,530.0,4
+167782773,114112,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (MIN vs LAL),135.0,NBA,2024-10-05 02:30:00+00:00,50.0,3
+167782774,114112,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (MIN vs LAL)",3000.0,NBA,2024-10-05 02:30:00+00:00,1060.0,3
+167782775,114112,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (MIN vs LAL)",6000.0,NBA,2024-10-05 02:30:00+00:00,2120.0,3
+167806632,114109,0.0,False,False,True,False,False,NBA Showdown FREE 200-Player (BOS vs DEN) x2,0.0,NBA,2024-10-04 16:00:00+00:00,0.0,200
+167924720,114109,0.0,False,False,True,False,False,NBA Showdown FREE 200-Player (BOS vs DEN),0.0,NBA,2024-10-04 16:00:00+00:00,0.0,200
+167948925,114109,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (BOS vs DEN),90.0,NBA,2024-10-04 16:00:00+00:00,20.0,5
+167948938,114111,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIN vs LAL),90.0,NBA,2024-10-05 02:30:00+00:00,20.0,5
+167954653,114109,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (BOS vs DEN),45.0,NBA,2024-10-04 16:00:00+00:00,5.0,10
+168001542,114111,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN vs LAL),36.0,NBA,2024-10-05 02:30:00+00:00,2.0,20
+168020678,114457,100.0,False,False,True,False,True,WNBA $1.35K Showtime [Single Entry],1350.0,NBA,2024-10-04 23:30:00+00:00,100.0,15
+168020679,114457,1.0,False,False,True,False,True,WNBA $1.5K And-One [20 Entry Max],1500.0,NBA,2024-10-04 23:30:00+00:00,1.0,1783
+168020680,114457,12.0,False,False,True,False,True,WNBA $300 Pick and Roll [Single Entry],300.0,NBA,2024-10-04 23:30:00+00:00,12.0,29
+168020681,114457,1.0,False,False,True,False,True,WNBA $100 Daily Dollar [Single Entry],100.0,NBA,2024-10-04 23:30:00+00:00,1.0,118
+168020682,114457,25.0,True,False,True,False,True,WNBA Single Entry $25 Double Up,400.0,NBA,2024-10-04 23:30:00+00:00,25.0,18
+168020683,114457,15.0,False,False,True,False,True,WNBA $30K Fadeaway [$10K to 1st],30000.0,NBA,2024-10-04 23:30:00+00:00,15.0,2352
+168020684,114457,0.0,False,False,True,False,True,WNBA $400 Quarter Jukebox [Just $0.25!],400.0,NBA,2024-10-04 23:30:00+00:00,0.25,1902
+168020685,114457,5.0,True,False,True,False,True,WNBA Single Entry $5 Double Up,150.0,NBA,2024-10-04 23:30:00+00:00,5.0,34
+168020686,114457,5.0,False,False,True,False,True,WNBA $5K Zone [$1K to 1st],5000.0,NBA,2024-10-04 23:30:00+00:00,5.0,1189
+168020687,114457,0.0,False,False,True,False,True,WNBA $150 Dime TIme [Just $0.10!],150.0,NBA,2024-10-04 23:30:00+00:00,0.1,1783
+168020688,114457,1.0,False,False,True,False,True,WNBA $250 And-One,250.0,NBA,2024-10-04 23:30:00+00:00,1.0,297
+168020689,114457,5.0,False,False,True,False,True,WNBA $500 High Five [Single Entry],500.0,NBA,2024-10-04 23:30:00+00:00,5.0,118
+168020690,114457,33.0,False,False,True,False,True,WNBA $600 Triple Threat,600.0,NBA,2024-10-04 23:30:00+00:00,33.0,21
+168020691,114457,9.0,False,False,True,False,True,WNBA $205 Sky Hook [Single Entry],205.0,NBA,2024-10-04 23:30:00+00:00,9.0,26
+168020692,114457,0.0,False,False,True,False,True,WNBA $2.1K mini-MAX [150 Entry Max],2150.0,NBA,2024-10-04 23:30:00+00:00,0.5,5112
+168020693,114457,333.0,False,False,True,False,True,WNBA $4.8K Money Ball [Single Entry],4800.0,NBA,2024-10-04 23:30:00+00:00,333.0,16
+168020694,114457,50.0,False,False,True,False,True,WNBA $660 Ankle Breaker [Single Entry],660.0,NBA,2024-10-04 23:30:00+00:00,50.0,15
+168020695,114458,5.0,False,False,True,False,True,WNBA Showdown $1K Zone (NYL @ LAV),1000.0,NBA,2024-10-05 01:30:00+00:00,5.0,237
+168020696,114458,0.0,False,False,True,False,True,WNBA Showdown $300 Quarter Jukebox [Just $0.25!]  (NYL @ LAV),300.0,NBA,2024-10-05 01:30:00+00:00,0.25,1426
+168020697,114458,1.0,False,False,True,False,True,WNBA Showdown $1K And-One (NYL @ LAV),1000.0,NBA,2024-10-05 01:30:00+00:00,1.0,1189
+168020698,114458,12.0,False,False,True,False,True,WNBA Showdown $155 Pick and Roll [Single Entry] (NYL @ LAV),155.0,NBA,2024-10-05 01:30:00+00:00,12.0,15
+168020699,114458,100.0,False,False,True,False,True,"WNBA Showdown $540 Showtime [Single Entry, Top 2 Win] (NYL @ LAV)",540.0,NBA,2024-10-05 01:30:00+00:00,100.0,6
+168020700,114458,15.0,False,False,True,False,True,WNBA Showdown $15K Fadeaway [$5K to 1st] (NYL @ LAV),15000.0,NBA,2024-10-05 01:30:00+00:00,15.0,1176
+168020701,114458,333.0,False,False,True,False,True,WNBA Showdown $1.5K Money Ball [Single Entry] (NYL @ LAV),1500.0,NBA,2024-10-05 01:30:00+00:00,333.0,5
+168020702,114458,33.0,False,False,True,False,True,WNBA Showdown $340 Triple Threat [Single Entry] (NYL @ LAV),340.0,NBA,2024-10-05 01:30:00+00:00,33.0,12
+168020761,114459,1.0,False,False,True,False,True,WNBA Single Stat $1K Winner Take All [3 Entry Max] (Points),1000.0,NBA,2024-10-04 23:30:00+00:00,1.0,1189
+168020784,114457,3.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2024-10-04 23:30:00+00:00,3.0,23
+168020785,114457,1.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2024-10-04 23:30:00+00:00,1.0,31
+168020786,114457,5.0,False,False,True,False,False,WNBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2024-10-04 23:30:00+00:00,5.0,31
+168020787,114457,50.0,True,False,True,False,False,WNBA $50 Double Up,500.0,NBA,2024-10-04 23:30:00+00:00,50.0,11
+168020788,114457,25.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2024-10-04 23:30:00+00:00,25.0,11
+168020789,114457,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2024-10-04 23:30:00+00:00,10.0,11
+168020790,114457,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2024-10-04 23:30:00+00:00,10.0,11
+168020791,114457,5.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2024-10-04 23:30:00+00:00,5.0,34
+168020792,114457,5.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2024-10-04 23:30:00+00:00,5.0,23
+168020793,114457,3.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2024-10-04 23:30:00+00:00,3.0,34
+168020794,114457,1.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2024-10-04 23:30:00+00:00,1.0,34
+168020795,114457,1.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2024-10-04 23:30:00+00:00,1.0,23
+168020796,114457,1.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2024-10-04 23:30:00+00:00,1.0,23
+168020797,114457,3.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2024-10-04 23:30:00+00:00,3.0,23
+168020798,114457,5.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2024-10-04 23:30:00+00:00,5.0,23
+168020799,114457,10.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2024-10-04 23:30:00+00:00,10.0,11
+168020800,114457,1.0,False,False,True,False,True,WNBA Satellite to NHL $5 Opening Night Puck Drop (10-8),6.0,NBA,2024-10-04 23:30:00+00:00,1.0,7
+168020801,114457,1.0,False,False,True,False,True,WNBA Satellite to NBA $15 Opening Tip Off (10-22),15.0,NBA,2024-10-04 23:30:00+00:00,1.0,17
+168020802,114457,1.0,False,False,True,False,True,WNBA Satellite to $20 NFL Fantasy Football Millionaire,20.0,NBA,2024-10-04 23:30:00+00:00,1.0,23
+168020805,114458,1.0,True,False,True,False,False,WNBA Showdown $1 Double Up (NYL @ LAV),20.0,NBA,2024-10-05 01:30:00+00:00,1.0,23
+168020806,114458,3.0,True,False,True,False,False,WNBA Showdown $3 Double Up (NYL @ LAV),60.0,NBA,2024-10-05 01:30:00+00:00,3.0,23
+168020807,114458,5.0,True,False,True,False,False,WNBA Showdown $5 Double Up (NYL @ LAV),100.0,NBA,2024-10-05 01:30:00+00:00,5.0,23
+168020808,114458,10.0,True,False,True,False,False,WNBA Showdown $10 Double Up (NYL @ LAV),100.0,NBA,2024-10-05 01:30:00+00:00,10.0,11
+168020809,114458,25.0,True,False,True,False,False,WNBA Showdown $25 Double Up (NYL @ LAV),250.0,NBA,2024-10-05 01:30:00+00:00,25.0,11
+168020811,114458,1.0,False,False,True,False,True,WNBA Showdown Satellite to NHL $5 Opening Night Puck Drop (10-8) (NYL @ LAV),6.0,NBA,2024-10-05 01:30:00+00:00,1.0,7
+168020812,114458,1.0,False,False,True,False,True,WNBA Showdown Satellite to NBA $15 Opening Tip Off (10-22) (NYL @ LAV),15.0,NBA,2024-10-05 01:30:00+00:00,1.0,17
+168020813,114458,2.0,False,False,True,False,True,WNBA Showdown Satellite to $20 NFL Fantasy Football Millionaire (NYL @ LAV),20.0,NBA,2024-10-05 01:30:00+00:00,2.0,11
+168020816,114457,2.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2024-10-04 23:30:00+00:00,2.0,3
+168020817,114457,10.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2024-10-04 23:30:00+00:00,10.0,3
+168020818,114457,5.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2024-10-04 23:30:00+00:00,5.0,3
+168020819,114457,1.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2024-10-04 23:30:00+00:00,1.0,3
+168020820,114457,1.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2024-10-04 23:30:00+00:00,1.0,10
+168020821,114457,1.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2024-10-04 23:30:00+00:00,1.0,5
+168020823,114457,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2024-10-04 23:30:00+00:00,1.0,3
+168020824,114457,20.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2024-10-04 23:30:00+00:00,20.0,10
+168020825,114457,10.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2024-10-04 23:30:00+00:00,10.0,10
+168020826,114457,5.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2024-10-04 23:30:00+00:00,5.0,10
+168020827,114457,3.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2024-10-04 23:30:00+00:00,3.0,10
+168020828,114457,1.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2024-10-04 23:30:00+00:00,1.0,10
+168020829,114457,5.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2024-10-04 23:30:00+00:00,5.0,3
+168020830,114457,2.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2024-10-04 23:30:00+00:00,2.0,3
+168020831,114457,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2024-10-04 23:30:00+00:00,2.0,3
+168020832,114457,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2024-10-04 23:30:00+00:00,2.0,3
+168020833,114457,2.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2024-10-04 23:30:00+00:00,2.0,5
+168020834,114457,2.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2024-10-04 23:30:00+00:00,2.0,10
+168020835,114457,5.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2024-10-04 23:30:00+00:00,5.0,3
+168020836,114457,5.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2024-10-04 23:30:00+00:00,5.0,5
+168020837,114457,5.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2024-10-04 23:30:00+00:00,5.0,10
+168020838,114457,10.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2024-10-04 23:30:00+00:00,10.0,5
+168020839,114457,10.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2024-10-04 23:30:00+00:00,10.0,3
+168020840,114457,20.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2024-10-04 23:30:00+00:00,20.0,3
+168020841,114457,50.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2024-10-04 23:30:00+00:00,50.0,5
+168020842,114457,50.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2024-10-04 23:30:00+00:00,50.0,3
+168020843,114457,109.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2024-10-04 23:30:00+00:00,109.0,3
+168020844,114457,162.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2024-10-04 23:30:00+00:00,162.0,3
+168020845,114457,530.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2024-10-04 23:30:00+00:00,530.0,3
+168020846,114457,1060.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2024-10-04 23:30:00+00:00,1060.0,3
+168020847,114457,5300.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2024-10-04 23:30:00+00:00,5300.0,3
+168020848,114457,10600.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2024-10-04 23:30:00+00:00,10600.0,3
+168020849,114457,20.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2024-10-04 23:30:00+00:00,20.0,4
+168020850,114457,10.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2024-10-04 23:30:00+00:00,10.0,10
+168020851,114457,1.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2024-10-04 23:30:00+00:00,1.0,10
+168020852,114457,3.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2024-10-04 23:30:00+00:00,3.0,10
+168020853,114457,5.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2024-10-04 23:30:00+00:00,5.0,10
+168020854,114457,5300.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2024-10-04 23:30:00+00:00,5300.0,4
+168020855,114457,1060.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2024-10-04 23:30:00+00:00,1060.0,4
+168020856,114457,530.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2024-10-04 23:30:00+00:00,530.0,4
+168020857,114457,109.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2024-10-04 23:30:00+00:00,109.0,4
+168020858,114457,50.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2024-10-04 23:30:00+00:00,50.0,4
+168020859,114457,20.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2024-10-04 23:30:00+00:00,20.0,4
+168020860,114457,10.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2024-10-04 23:30:00+00:00,10.0,4
+168020861,114457,50.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2024-10-04 23:30:00+00:00,50.0,10
+168020862,114457,1.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2024-10-04 23:30:00+00:00,1.0,10
+168020863,114457,5.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2024-10-04 23:30:00+00:00,5.0,10
+168020864,114457,109.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2024-10-04 23:30:00+00:00,109.0,6
+168020865,114457,2.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2024-10-04 23:30:00+00:00,2.0,10
+168020866,114457,20.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2024-10-04 23:30:00+00:00,20.0,10
+168020867,114457,10.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2024-10-04 23:30:00+00:00,10.0,10
+168020868,114457,5.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2024-10-04 23:30:00+00:00,5.0,20
+168020869,114457,10.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2024-10-04 23:30:00+00:00,10.0,20
+168020870,114457,20.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2024-10-04 23:30:00+00:00,20.0,20
+168020871,114457,2.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2024-10-04 23:30:00+00:00,2.0,20
+168020872,114457,1.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2024-10-04 23:30:00+00:00,1.0,20
+168020873,114457,1060.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2024-10-04 23:30:00+00:00,1060.0,4
+168020874,114457,267.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2024-10-04 23:30:00+00:00,267.0,4
+168020875,114457,100.0,False,False,False,False,True,WNBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2024-10-04 23:30:00+00:00,100.0,5
+168020876,114457,9.0,False,False,False,False,True,WNBA Satellite to NAS 2-16 America's Race [Must Fill],25.0,NBA,2024-10-04 23:30:00+00:00,9.0,3
+168020877,114457,201.0,False,False,False,False,True,WNBA Satellite to 11-5 NHL $555 Barn Bash,555.0,NBA,2024-10-04 23:30:00+00:00,201.0,3
+168020878,114457,130.0,False,False,False,False,True,WNBA Satellite to 10-15 NHL $360 Spin-O-Rama,360.0,NBA,2024-10-04 23:30:00+00:00,130.0,3
+168020879,114457,6.0,False,False,False,False,True,WNBA Satellite to NBA $15 Opening Tip Off	[Must Fill] (10-22),15.0,NBA,2024-10-04 23:30:00+00:00,5.55,3
+168020881,114457,6.0,False,False,False,False,True,WNBA Satellite to NBA 2024 Best Ball $400K Fadeaway [Must Fill],15.0,NBA,2024-10-04 23:30:00+00:00,5.55,3
+168020882,114457,6.0,False,False,False,False,True,WNBA Satellite to NBA 2024 Best Ball $400K Fadeaway [Must Fill],15.0,NBA,2024-10-04 23:30:00+00:00,5.55,3
+168020883,114457,1570.0,False,False,False,False,True,"WNBA Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill]",4444.0,NBA,2024-10-04 23:30:00+00:00,1570.0,3
+168020884,114458,2.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (NYL @ LAV),5.4,NBA,2024-10-05 01:30:00+00:00,2.0,3
+168020885,114458,10.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (NYL @ LAV),27.0,NBA,2024-10-05 01:30:00+00:00,10.0,3
+168020886,114458,5.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (NYL @ LAV),13.5,NBA,2024-10-05 01:30:00+00:00,5.0,3
+168020887,114458,1.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (NYL @ LAV),2.7,NBA,2024-10-05 01:30:00+00:00,1.0,3
+168020888,114458,1.0,False,False,False,False,False,WNBA Showdown $1 10-Player (NYL @ LAV),9.0,NBA,2024-10-05 01:30:00+00:00,1.0,10
+168020889,114458,1.0,False,False,False,False,False,WNBA Showdown $1 5-Player (NYL @ LAV),4.5,NBA,2024-10-05 01:30:00+00:00,1.0,5
+168020890,114458,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (NYL @ LAV),2.7,NBA,2024-10-05 01:30:00+00:00,1.0,3
+168020891,114458,1.0,False,False,False,False,False,WNBA Showdown $1 3-Player (NYL @ LAV),2.7,NBA,2024-10-05 01:30:00+00:00,1.0,3
+168020892,114458,20.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (NYL @ LAV),180.0,NBA,2024-10-05 01:30:00+00:00,20.0,10
+168020893,114458,10.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (NYL @ LAV),90.0,NBA,2024-10-05 01:30:00+00:00,10.0,10
+168020894,114458,5.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (NYL @ LAV),45.0,NBA,2024-10-05 01:30:00+00:00,5.0,10
+168020895,114458,3.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (NYL @ LAV),27.0,NBA,2024-10-05 01:30:00+00:00,3.0,10
+168020896,114458,1.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (NYL @ LAV),9.0,NBA,2024-10-05 01:30:00+00:00,1.0,10
+168020897,114458,5.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (NYL @ LAV),13.5,NBA,2024-10-05 01:30:00+00:00,5.0,3
+168020898,114458,2.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (NYL @ LAV),5.4,NBA,2024-10-05 01:30:00+00:00,2.0,3
+168020899,114458,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (NYL @ LAV),5.4,NBA,2024-10-05 01:30:00+00:00,2.0,3
+168020900,114458,2.0,False,False,False,False,False,WNBA Showdown $2 3-Player (NYL @ LAV),5.4,NBA,2024-10-05 01:30:00+00:00,2.0,3
+168020901,114458,2.0,False,False,False,False,False,WNBA Showdown $2 5-Player (NYL @ LAV),9.0,NBA,2024-10-05 01:30:00+00:00,2.0,5
+168020902,114458,2.0,False,False,False,False,False,WNBA Showdown $2 10-Player (NYL @ LAV),18.0,NBA,2024-10-05 01:30:00+00:00,2.0,10
+168020903,114458,5.0,False,False,False,False,False,WNBA Showdown $5 3-Player (NYL @ LAV),13.5,NBA,2024-10-05 01:30:00+00:00,5.0,3
+168020904,114458,5.0,False,False,False,False,False,WNBA Showdown $5 5-Player (NYL @ LAV),22.5,NBA,2024-10-05 01:30:00+00:00,5.0,5
+168020905,114458,5.0,False,False,False,False,False,WNBA Showdown $5 10-Player (NYL @ LAV),45.0,NBA,2024-10-05 01:30:00+00:00,5.0,10
+168020906,114458,10.0,False,False,False,False,False,WNBA Showdown $10 5-Player (NYL @ LAV),45.0,NBA,2024-10-05 01:30:00+00:00,10.0,5
+168020907,114458,10.0,False,False,False,False,False,WNBA Showdown $10 3-Player (NYL @ LAV),27.0,NBA,2024-10-05 01:30:00+00:00,10.0,3
+168020908,114458,20.0,False,False,False,False,False,WNBA Showdown $20 3-Player (NYL @ LAV),54.0,NBA,2024-10-05 01:30:00+00:00,20.0,3
+168020909,114458,50.0,False,False,False,False,False,WNBA Showdown $50 5-Player (NYL @ LAV),225.0,NBA,2024-10-05 01:30:00+00:00,50.0,5
+168020910,114458,50.0,False,False,False,False,False,WNBA Showdown $50 3-Player (NYL @ LAV),135.0,NBA,2024-10-05 01:30:00+00:00,50.0,3
+168020911,114458,109.0,False,False,False,False,False,WNBA Showdown $109 3-Player (NYL @ LAV),300.0,NBA,2024-10-05 01:30:00+00:00,109.0,3
+168020912,114458,162.0,False,False,False,False,False,WNBA Showdown $162 3-Player (NYL @ LAV),450.0,NBA,2024-10-05 01:30:00+00:00,162.0,3
+168020913,114458,530.0,False,False,False,False,False,WNBA Showdown $530 3-Player (NYL @ LAV),1500.0,NBA,2024-10-05 01:30:00+00:00,530.0,3
+168020914,114458,1060.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (NYL @ LAV)",3000.0,NBA,2024-10-05 01:30:00+00:00,1060.0,3
+168020915,114458,5300.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (NYL @ LAV)",15000.0,NBA,2024-10-05 01:30:00+00:00,5300.0,3
+168020916,114458,10600.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (NYL @ LAV)",30000.0,NBA,2024-10-05 01:30:00+00:00,10600.0,3
+168020917,114458,20.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (NYL @ LAV),72.0,NBA,2024-10-05 01:30:00+00:00,20.0,4
+168020918,114458,10.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (NYL @ LAV),90.0,NBA,2024-10-05 01:30:00+00:00,10.0,10
+168020919,114458,1.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (NYL @ LAV),9.0,NBA,2024-10-05 01:30:00+00:00,1.0,10
+168020920,114458,3.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (NYL @ LAV),27.0,NBA,2024-10-05 01:30:00+00:00,3.0,10
+168020921,114458,5.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (NYL @ LAV),45.0,NBA,2024-10-05 01:30:00+00:00,5.0,10
+168020922,114458,5300.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (NYL @ LAV)",20000.0,NBA,2024-10-05 01:30:00+00:00,5300.0,4
+168020923,114458,1060.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (NYL @ LAV)",4000.0,NBA,2024-10-05 01:30:00+00:00,1060.0,4
+168020924,114458,530.0,True,False,False,False,False,WNBA Showdown $530 50-50 (NYL @ LAV),2000.0,NBA,2024-10-05 01:30:00+00:00,530.0,4
+168020925,114458,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (NYL @ LAV),400.0,NBA,2024-10-05 01:30:00+00:00,109.0,4
+168020926,114458,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (NYL @ LAV),180.0,NBA,2024-10-05 01:30:00+00:00,50.0,4
+168020927,114458,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (NYL @ LAV),72.0,NBA,2024-10-05 01:30:00+00:00,20.0,4
+168020928,114458,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (NYL @ LAV),36.0,NBA,2024-10-05 01:30:00+00:00,10.0,4
+168020929,114458,50.0,True,False,False,False,False,WNBA Showdown $50 50-50 (NYL @ LAV),450.0,NBA,2024-10-05 01:30:00+00:00,50.0,10
+168020930,114458,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (NYL @ LAV),9.0,NBA,2024-10-05 01:30:00+00:00,1.0,10
+168020931,114458,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (NYL @ LAV),45.0,NBA,2024-10-05 01:30:00+00:00,5.0,10
+168020932,114458,109.0,True,False,False,False,False,WNBA Showdown $109 50-50 (NYL @ LAV),600.0,NBA,2024-10-05 01:30:00+00:00,109.0,6
+168020933,114458,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (NYL @ LAV),18.0,NBA,2024-10-05 01:30:00+00:00,2.0,10
+168020934,114458,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (NYL @ LAV),180.0,NBA,2024-10-05 01:30:00+00:00,20.0,10
+168020935,114458,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (NYL @ LAV),90.0,NBA,2024-10-05 01:30:00+00:00,10.0,10
+168020936,114458,5.0,True,False,False,False,False,WNBA Showdown $5 50-50 (NYL @ LAV),90.0,NBA,2024-10-05 01:30:00+00:00,5.0,20
+168020937,114458,10.0,True,False,False,False,False,WNBA Showdown $10 50-50 (NYL @ LAV),180.0,NBA,2024-10-05 01:30:00+00:00,10.0,20
+168020938,114458,20.0,True,False,False,False,False,WNBA Showdown $20 50-50 (NYL @ LAV),360.0,NBA,2024-10-05 01:30:00+00:00,20.0,20
+168020939,114458,2.0,True,False,False,False,False,WNBA Showdown $2 50-50 (NYL @ LAV),36.0,NBA,2024-10-05 01:30:00+00:00,2.0,20
+168020940,114458,1.0,True,False,False,False,False,WNBA Showdown $1 50-50 (NYL @ LAV),18.0,NBA,2024-10-05 01:30:00+00:00,1.0,20
+168020941,114458,1060.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (NYL @ LAV),4000.0,NBA,2024-10-05 01:30:00+00:00,1060.0,4
+168020942,114458,267.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (NYL @ LAV),1000.0,NBA,2024-10-05 01:30:00+00:00,267.0,4
+168020943,114458,100.0,False,False,False,False,True,WNBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (NYL @ LAV),460.0,NBA,2024-10-05 01:30:00+00:00,100.0,5
+168020944,114458,9.0,False,False,False,False,True,WNBA Showdown Satellite to NAS 2-16 America's Race [Must Fill] (NYL @ LAV),25.0,NBA,2024-10-05 01:30:00+00:00,9.0,3
+168020945,114458,201.0,False,False,False,False,True,WNBA Showdown Satellite to 11-5 NHL $555 Barn Bash (NYL @ LAV),555.0,NBA,2024-10-05 01:30:00+00:00,201.0,3
+168020946,114458,130.0,False,False,False,False,True,WNBA Showdown Satellite to 10-15 NHL $360 Spin-O-Rama (NYL @ LAV),360.0,NBA,2024-10-05 01:30:00+00:00,130.0,3
+168020947,114458,6.0,False,False,False,False,True,WNBA Showdown Satellite to NBA $15 Opening Tip Off	[Must Fill] (10-22) (NYL @ LAV),15.0,NBA,2024-10-05 01:30:00+00:00,5.55,3
+168020948,114458,6.0,False,False,False,False,True,WNBA Showdown Satellite to NBA $15 Opening Tip Off	[Must Fill] (10-22) (NYL @ LAV),15.0,NBA,2024-10-05 01:30:00+00:00,5.55,3
+168020949,114458,6.0,False,False,False,False,True,WNBA Showdown Satellite to NBA 2024 Best Ball $400K Fadeaway [Must Fill] (NYL @ LAV),15.0,NBA,2024-10-05 01:30:00+00:00,5.55,3
+168020950,114458,6.0,False,False,False,False,True,WNBA Showdown Satellite to NBA 2024 Best Ball $400K Fadeaway [Must Fill] (NYL @ LAV),15.0,NBA,2024-10-05 01:30:00+00:00,5.55,3
+168020951,114458,1570.0,False,False,False,False,True,"WNBA Showdown Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill] (NYL @ LAV)",4444.0,NBA,2024-10-05 01:30:00+00:00,1570.0,3
+168020957,114459,1.0,False,False,True,False,True,WNBA Single Stat $1 Winner Take All [$100 to 1st] (Points),100.0,NBA,2024-10-04 23:30:00+00:00,1.0,118
+168021110,114111,0.0,False,False,True,False,False,NBA Showdown FREE 200-Player (MIN vs LAL),0.0,NBA,2024-10-05 02:30:00+00:00,0.0,200
+168032034,114111,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIN vs LAL),13.5,NBA,2024-10-05 02:30:00+00:00,5.0,3
+168034311,114112,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIN vs LAL),2.7,NBA,2024-10-05 02:30:00+00:00,1.0,3
+168034519,114457,0.0,False,False,True,False,False,WNBA FREE 200-Player,0.0,NBA,2024-10-04 23:30:00+00:00,0.0,200
+168038047,114458,0.0,False,False,True,False,False,WNBA Showdown FREE 200-Player (NYL @ LAV),0.0,NBA,2024-10-05 01:30:00+00:00,0.0,200
+168039197,114457,6.0,False,False,False,False,True,WNBA Satellite to NBA $15 Opening Tip Off	[Must Fill] (10-22),15.0,NBA,2024-10-04 23:30:00+00:00,5.55,3
+168040174,114457,2.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2024-10-04 23:30:00+00:00,2.0,10
+168074285,114457,1.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2024-10-04 23:30:00+00:00,1.0,10
+168074286,114457,1.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2024-10-04 23:30:00+00:00,1.0,5
+168074287,114457,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2024-10-04 23:30:00+00:00,1.0,3
+168074288,114457,1.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2024-10-04 23:30:00+00:00,1.0,3
+168074289,114457,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2024-10-04 23:30:00+00:00,2.0,3
+168074290,114457,2.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2024-10-04 23:30:00+00:00,2.0,3
+168074291,114457,2.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2024-10-04 23:30:00+00:00,2.0,5
+168074292,114457,2.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2024-10-04 23:30:00+00:00,2.0,10
+168074293,114457,5.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2024-10-04 23:30:00+00:00,5.0,3
+168074294,114457,5.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2024-10-04 23:30:00+00:00,5.0,5
+168074295,114457,5.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2024-10-04 23:30:00+00:00,5.0,10
+168074296,114457,10.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2024-10-04 23:30:00+00:00,10.0,5
+168074297,114457,10.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2024-10-04 23:30:00+00:00,10.0,3
+168074298,114457,20.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2024-10-04 23:30:00+00:00,20.0,3
+168074299,114457,50.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2024-10-04 23:30:00+00:00,50.0,5
+168074300,114457,50.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2024-10-04 23:30:00+00:00,50.0,3
+168074301,114457,50.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2024-10-04 23:30:00+00:00,50.0,4
+168074302,114457,20.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2024-10-04 23:30:00+00:00,20.0,4
+168074303,114457,10.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2024-10-04 23:30:00+00:00,10.0,4
+168074304,114457,50.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2024-10-04 23:30:00+00:00,50.0,10
+168074305,114457,1.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2024-10-04 23:30:00+00:00,1.0,10
+168074306,114457,5.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2024-10-04 23:30:00+00:00,5.0,10
+168074307,114457,2.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2024-10-04 23:30:00+00:00,2.0,10
+168074308,114457,20.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2024-10-04 23:30:00+00:00,20.0,10
+168074309,114457,10.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2024-10-04 23:30:00+00:00,10.0,10
+168074310,114457,5.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2024-10-04 23:30:00+00:00,5.0,20
+168074311,114457,10.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2024-10-04 23:30:00+00:00,10.0,20
+168074312,114457,20.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2024-10-04 23:30:00+00:00,20.0,20
+168074313,114457,2.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2024-10-04 23:30:00+00:00,2.0,20
+168074314,114457,1.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2024-10-04 23:30:00+00:00,1.0,20
+168079938,114110,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (BOS vs DEN),2.7,NBA,2024-10-04 16:00:00+00:00,1.0,3
+168088587,114110,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (BOS vs DEN),2.7,NBA,2024-10-04 16:00:00+00:00,1.0,3
+168101561,114457,5.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2024-10-04 23:30:00+00:00,5.0,20
+168101671,114457,2.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2024-10-04 23:30:00+00:00,2.0,20
+168110867,114110,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (BOS vs DEN),2.7,NBA,2024-10-04 16:00:00+00:00,1.0,3
+168111256,114109,0.0,False,False,True,False,False,NBA Showdown FREE 50-Player (BOS vs DEN) x2,0.0,NBA,2024-10-04 16:00:00+00:00,0.0,50
+168111260,114109,0.0,False,False,True,False,False,NBA Showdown FREE 100-Player (BOS vs DEN) x2,0.0,NBA,2024-10-04 16:00:00+00:00,0.0,100
+168111337,114457,0.0,False,False,True,False,False,WNBA FREE 50-Player,0.0,NBA,2024-10-04 23:30:00+00:00,0.0,50
+168125009,114109,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,1.0,10
+168125010,114109,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (BOS vs DEN),4.5,NBA,2024-10-04 16:00:00+00:00,1.0,5
+168125014,114109,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,1.0,10
+168125599,114457,5.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2024-10-04 23:30:00+00:00,5.0,3
+168125614,114457,5.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2024-10-04 23:30:00+00:00,5.0,5
+168126694,114109,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,2.0,5
+168129053,114109,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs DEN),13.5,NBA,2024-10-04 16:00:00+00:00,5.0,3
+168129054,114109,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS vs DEN),300.0,NBA,2024-10-04 16:00:00+00:00,109.0,3
+168129055,114109,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS vs DEN),135.0,NBA,2024-10-04 16:00:00+00:00,50.0,3
+168129056,114109,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS vs DEN),54.0,NBA,2024-10-04 16:00:00+00:00,20.0,3
+168129057,114109,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,10.0,3
+168129058,114109,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS vs DEN),27.0,NBA,2024-10-04 16:00:00+00:00,10.0,3
+168129059,114109,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS vs DEN),13.5,NBA,2024-10-04 16:00:00+00:00,5.0,3
+168129060,114109,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS vs DEN),450.0,NBA,2024-10-04 16:00:00+00:00,162.0,3
+168129073,114109,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (BOS vs DEN),1500.0,NBA,2024-10-04 16:00:00+00:00,530.0,3
+168129074,114111,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (MIN vs LAL),1500.0,NBA,2024-10-05 02:30:00+00:00,530.0,3
+168129075,114111,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIN vs LAL),450.0,NBA,2024-10-05 02:30:00+00:00,162.0,3
+168129076,114111,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN vs LAL),300.0,NBA,2024-10-05 02:30:00+00:00,109.0,3
+168129077,114111,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIN vs LAL),135.0,NBA,2024-10-05 02:30:00+00:00,50.0,3
+168129078,114111,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN vs LAL),54.0,NBA,2024-10-05 02:30:00+00:00,20.0,3
+168129079,114111,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN vs LAL),27.0,NBA,2024-10-05 02:30:00+00:00,10.0,3
+168129080,114111,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN vs LAL),13.5,NBA,2024-10-05 02:30:00+00:00,5.0,3
+168132989,114109,6.0,False,False,False,False,True,NBA Showdown Satellite to NBA 10-22 $15 Opening Tip Off	[Must Fill] (BOS vs DEN),15.0,NBA,2024-10-04 16:00:00+00:00,5.55,3
+168133669,114109,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (BOS vs DEN),9.0,NBA,2024-10-04 16:00:00+00:00,1.0,10
+168133880,114458,25.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (NYL @ LAV),110.0,NBA,2024-10-05 01:30:00+00:00,25.0,5
+168133901,114112,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (MIN vs LAL),3.6,NBA,2024-10-05 02:30:00+00:00,1.0,4

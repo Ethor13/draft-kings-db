@@ -1,0 +1,482 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+168676960,115188,0.0,False,False,True,False,True,NBA $300 Quarter Jukebox [Just $0.25!] ,300.0,NBA,2024-10-15 23:00:00+00:00,0.25,1426
+168676961,115188,5.0,False,False,True,False,True,NBA $750 High Five [Single Entry],750.0,NBA,2024-10-15 23:00:00+00:00,5.0,178
+168676962,115188,3.0,False,False,True,False,True,NBA $200 Sharpshooter [2 Entry Max],200.0,NBA,2024-10-15 23:00:00+00:00,3.0,79
+168676963,115188,150.0,False,False,True,False,True,NBA $3K Posterizer [Single Entry],3000.0,NBA,2024-10-15 23:00:00+00:00,150.0,22
+168676964,115188,1.0,False,False,True,False,True,NBA $1K And-One,1000.0,NBA,2024-10-15 23:00:00+00:00,1.0,1189
+168676965,115188,12.0,False,False,True,False,True,NBA $300 Pick and Roll [Single Entry],300.0,NBA,2024-10-15 23:00:00+00:00,12.0,29
+168676966,115188,33.0,False,False,True,False,True,NBA $400 Triple Threat [Single Entry],400.0,NBA,2024-10-15 23:00:00+00:00,33.0,14
+168676967,115188,15.0,False,False,True,False,True,NBA $15K Fadeaway [$5K to 1st],15000.0,NBA,2024-10-15 23:00:00+00:00,15.0,1176
+168676968,115188,50.0,False,False,True,False,True,NBA $310 Ankle Breaker [Single Entry],310.0,NBA,2024-10-15 23:00:00+00:00,50.0,7
+168677132,115200,0.0,False,False,True,False,True,NBA $100 Quarter Jukebox [Just $0.25!] (Night),100.0,NBA,2024-10-16 01:00:00+00:00,0.25,475
+168677133,115200,3.0,False,False,True,False,True,NBA $100 Sharpshooter (Night),100.0,NBA,2024-10-16 01:00:00+00:00,3.0,39
+168677134,115200,1.0,False,False,True,False,True,NBA $400 And-One (Night),400.0,NBA,2024-10-16 01:00:00+00:00,1.0,475
+168677135,115200,15.0,False,False,True,False,True,NBA $3K Fadeaway [$1K to 1st] (Night),3000.0,NBA,2024-10-16 01:00:00+00:00,15.0,235
+168677136,115200,5.0,False,False,True,False,True,NBA $150 High Five [Single Entry] (Night),150.0,NBA,2024-10-16 01:00:00+00:00,5.0,35
+168677137,115200,50.0,False,False,True,False,True,NBA $50 Winner Take All [$220 to 1st] (Night),220.0,NBA,2024-10-16 01:00:00+00:00,50.0,5
+168677203,115201,0.0,False,False,True,False,True,NBA Showdown $100 Quarter Jukebox [Just $0.25!] (GSW @ LAL),100.0,NBA,2024-10-16 02:00:00+00:00,0.25,475
+168677204,115201,1.0,False,False,True,False,True,NBA Showdown $250 And-One (GSW @ LAL),250.0,NBA,2024-10-16 02:00:00+00:00,1.0,297
+168677205,115201,5.0,False,False,True,False,True,NBA Showdown $100 High Five [Single Entry] (GSW @ LAL),100.0,NBA,2024-10-16 02:00:00+00:00,5.0,23
+168677206,115201,10.0,False,False,True,False,True,NBA Showdown $3K Pull Up Jumper [$1K to 1st] (GSW @ LAL),3000.0,NBA,2024-10-16 02:00:00+00:00,10.0,352
+168677207,115201,27.0,False,False,True,False,True,NBA Showdown $240 Fast Break [Single Entry] (GSW @ LAL),240.0,NBA,2024-10-16 02:00:00+00:00,27.0,10
+168677346,115188,20.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2024-10-15 23:00:00+00:00,20.0,3
+168677347,115188,50.0,False,False,False,False,False,Beginner NBA $50 3-Player,135.0,NBA,2024-10-15 23:00:00+00:00,50.0,3
+168677348,115188,10.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2024-10-15 23:00:00+00:00,10.0,3
+168677349,115188,5.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2024-10-15 23:00:00+00:00,5.0,3
+168677350,115188,1.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2024-10-15 23:00:00+00:00,1.0,3
+168677351,115188,5300.0,True,False,False,False,False,"NBA $5,300 50-50",20000.0,NBA,2024-10-15 23:00:00+00:00,5300.0,4
+168677352,115188,1060.0,True,False,False,False,False,"NBA $1,060 50-50",4000.0,NBA,2024-10-15 23:00:00+00:00,1060.0,4
+168677353,115188,530.0,True,False,False,False,False,NBA $530 50-50,2000.0,NBA,2024-10-15 23:00:00+00:00,530.0,4
+168677354,115188,162.0,True,False,False,False,False,NBA $162 50-50,600.0,NBA,2024-10-15 23:00:00+00:00,162.0,4
+168677355,115188,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2024-10-15 23:00:00+00:00,109.0,4
+168677356,115188,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2024-10-15 23:00:00+00:00,50.0,4
+168677357,115188,20.0,True,False,False,False,False,NBA $20 50-50,360.0,NBA,2024-10-15 23:00:00+00:00,20.0,20
+168677358,115188,20.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2024-10-15 23:00:00+00:00,20.0,10
+168677359,115188,20.0,True,False,False,False,False,NBA $20 50-50,72.0,NBA,2024-10-15 23:00:00+00:00,20.0,4
+168677360,115188,20.0,True,False,False,False,False,NBA $20 50-50,72.0,NBA,2024-10-15 23:00:00+00:00,20.0,4
+168677361,115188,10.0,True,False,False,False,False,NBA $10 50-50,180.0,NBA,2024-10-15 23:00:00+00:00,10.0,20
+168677362,115188,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2024-10-15 23:00:00+00:00,10.0,10
+168677363,115188,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2024-10-15 23:00:00+00:00,10.0,10
+168677364,115188,10.0,True,False,False,False,False,NBA $10 50-50,36.0,NBA,2024-10-15 23:00:00+00:00,10.0,4
+168677365,115188,10.0,True,False,False,False,False,NBA $10 50-50,36.0,NBA,2024-10-15 23:00:00+00:00,10.0,4
+168677366,115188,10.0,True,False,False,False,False,NBA $10 50-50,36.0,NBA,2024-10-15 23:00:00+00:00,10.0,4
+168677367,115188,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2024-10-15 23:00:00+00:00,5.0,20
+168677368,115188,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2024-10-15 23:00:00+00:00,5.0,20
+168677369,115188,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2024-10-15 23:00:00+00:00,5.0,10
+168677370,115188,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2024-10-15 23:00:00+00:00,5.0,10
+168677371,115188,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2024-10-15 23:00:00+00:00,5.0,10
+168677372,115188,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2024-10-15 23:00:00+00:00,2.0,20
+168677373,115188,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2024-10-15 23:00:00+00:00,2.0,20
+168677374,115188,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2024-10-15 23:00:00+00:00,2.0,10
+168677375,115188,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2024-10-15 23:00:00+00:00,2.0,10
+168677376,115188,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2024-10-15 23:00:00+00:00,2.0,10
+168677377,115188,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2024-10-15 23:00:00+00:00,1.0,20
+168677378,115188,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2024-10-15 23:00:00+00:00,1.0,20
+168677379,115188,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2024-10-15 23:00:00+00:00,1.0,10
+168677380,115188,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2024-10-15 23:00:00+00:00,1.0,10
+168677381,115188,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2024-10-15 23:00:00+00:00,1.0,10
+168677382,115188,50.0,True,False,False,False,False,Beginner NBA $50 50-50,180.0,NBA,2024-10-15 23:00:00+00:00,50.0,4
+168677383,115188,20.0,True,False,False,False,False,Beginner NBA $20 50-50,72.0,NBA,2024-10-15 23:00:00+00:00,20.0,4
+168677384,115188,10.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2024-10-15 23:00:00+00:00,10.0,10
+168677385,115188,5.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2024-10-15 23:00:00+00:00,5.0,10
+168677386,115188,3.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2024-10-15 23:00:00+00:00,3.0,10
+168677387,115188,1.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2024-10-15 23:00:00+00:00,1.0,10
+168677388,115188,10.0,False,False,False,False,False,Beginner NBA $10 5-Player,45.0,NBA,2024-10-15 23:00:00+00:00,10.0,5
+168677389,115188,5.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2024-10-15 23:00:00+00:00,5.0,5
+168677390,115188,5.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2024-10-15 23:00:00+00:00,5.0,3
+168677391,115188,2.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2024-10-15 23:00:00+00:00,2.0,5
+168677392,115188,2.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2024-10-15 23:00:00+00:00,2.0,3
+168677393,115188,1.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2024-10-15 23:00:00+00:00,1.0,5
+168677394,115188,10600.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2024-10-15 23:00:00+00:00,10600.0,3
+168677395,115188,5300.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2024-10-15 23:00:00+00:00,5300.0,3
+168677396,115188,1060.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2024-10-15 23:00:00+00:00,1060.0,3
+168677397,115188,530.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2024-10-15 23:00:00+00:00,530.0,3
+168677398,115188,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2024-10-15 23:00:00+00:00,162.0,3
+168677399,115188,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-10-15 23:00:00+00:00,109.0,3
+168677400,115188,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-10-15 23:00:00+00:00,109.0,3
+168677401,115188,50.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2024-10-15 23:00:00+00:00,50.0,5
+168677402,115188,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2024-10-15 23:00:00+00:00,50.0,3
+168677403,115188,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2024-10-15 23:00:00+00:00,20.0,5
+168677404,115188,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2024-10-15 23:00:00+00:00,20.0,5
+168677405,115188,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-10-15 23:00:00+00:00,20.0,3
+168677406,115188,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-10-15 23:00:00+00:00,20.0,3
+168677407,115188,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-10-15 23:00:00+00:00,20.0,3
+168677408,115188,10.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2024-10-15 23:00:00+00:00,10.0,10
+168677409,115188,10.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2024-10-15 23:00:00+00:00,10.0,5
+168677410,115188,10.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2024-10-15 23:00:00+00:00,10.0,5
+168677411,115188,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-10-15 23:00:00+00:00,10.0,3
+168677412,115188,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-10-15 23:00:00+00:00,10.0,3
+168677413,115188,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-10-15 23:00:00+00:00,10.0,3
+168677414,115188,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2024-10-15 23:00:00+00:00,5.0,10
+168677415,115188,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2024-10-15 23:00:00+00:00,5.0,10
+168677416,115188,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2024-10-15 23:00:00+00:00,5.0,5
+168677417,115188,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2024-10-15 23:00:00+00:00,5.0,5
+168677418,115188,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2024-10-15 23:00:00+00:00,5.0,5
+168677419,115188,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-10-15 23:00:00+00:00,5.0,3
+168677420,115188,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-10-15 23:00:00+00:00,5.0,3
+168677421,115188,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-10-15 23:00:00+00:00,5.0,3
+168677422,115188,2.0,False,False,False,False,False,NBA $2 20-Player,36.0,NBA,2024-10-15 23:00:00+00:00,2.0,20
+168677423,115188,2.0,False,False,False,False,False,NBA $2 20-Player,36.0,NBA,2024-10-15 23:00:00+00:00,2.0,20
+168677424,115188,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2024-10-15 23:00:00+00:00,2.0,10
+168677425,115188,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2024-10-15 23:00:00+00:00,2.0,10
+168677426,115188,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2024-10-15 23:00:00+00:00,2.0,10
+168677427,115188,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2024-10-15 23:00:00+00:00,2.0,5
+168677428,115188,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2024-10-15 23:00:00+00:00,2.0,5
+168677429,115188,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2024-10-15 23:00:00+00:00,2.0,5
+168677430,115188,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2024-10-15 23:00:00+00:00,2.0,3
+168677431,115188,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2024-10-15 23:00:00+00:00,2.0,3
+168677432,115188,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2024-10-15 23:00:00+00:00,2.0,3
+168677433,115188,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2024-10-15 23:00:00+00:00,1.0,10
+168677434,115188,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2024-10-15 23:00:00+00:00,1.0,5
+168677435,115188,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-10-15 23:00:00+00:00,1.0,3
+168677436,115188,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-10-15 23:00:00+00:00,1.0,3
+168677437,115188,109.0,True,False,False,False,False,NBA $109 50-50,600.0,NBA,2024-10-15 23:00:00+00:00,109.0,6
+168677438,115188,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2024-10-15 23:00:00+00:00,10600.0,4
+168677439,115188,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2024-10-15 23:00:00+00:00,10600.0,4
+168677440,115188,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2024-10-15 23:00:00+00:00,10600.0,4
+168677441,115188,50.0,True,False,False,False,False,Casual NBA $50 50-50,180.0,NBA,2024-10-15 23:00:00+00:00,50.0,4
+168677442,115188,20.0,True,False,False,False,False,Casual NBA $20 50-50,72.0,NBA,2024-10-15 23:00:00+00:00,20.0,4
+168677443,115188,10.0,True,False,False,False,False,Casual NBA $10 50-50,90.0,NBA,2024-10-15 23:00:00+00:00,10.0,10
+168677444,115188,5.0,True,False,False,False,False,Casual NBA $5 50-50,45.0,NBA,2024-10-15 23:00:00+00:00,5.0,10
+168677445,115188,3.0,True,False,False,False,False,Casual NBA $3 50-50,27.0,NBA,2024-10-15 23:00:00+00:00,3.0,10
+168677446,115188,3.0,True,False,False,False,False,Casual NBA $3 50-50,10.8,NBA,2024-10-15 23:00:00+00:00,3.0,4
+168677447,115188,1.0,True,False,False,False,False,Casual NBA $1 50-50,9.0,NBA,2024-10-15 23:00:00+00:00,1.0,10
+168677448,115188,50.0,False,False,False,False,False,Casual NBA $50 3-Player,135.0,NBA,2024-10-15 23:00:00+00:00,50.0,3
+168677449,115188,20.0,False,False,False,False,False,Casual NBA $20 3-Player,54.0,NBA,2024-10-15 23:00:00+00:00,20.0,3
+168677450,115188,10.0,False,False,False,False,False,Casual NBA $10 5-Player,45.0,NBA,2024-10-15 23:00:00+00:00,10.0,5
+168677451,115188,10.0,False,False,False,False,False,Casual NBA $10 3-Player,27.0,NBA,2024-10-15 23:00:00+00:00,10.0,3
+168677452,115188,2.0,False,False,False,False,False,Casual NBA $2 5-Player,9.0,NBA,2024-10-15 23:00:00+00:00,2.0,5
+168677453,115188,2.0,False,False,False,False,False,Casual NBA $2 3-Player,5.4,NBA,2024-10-15 23:00:00+00:00,2.0,3
+168677454,115188,109.0,False,False,False,False,False,Casual NBA $109 5-Player,500.0,NBA,2024-10-15 23:00:00+00:00,109.0,5
+168677455,115188,10.0,True,False,False,False,False,NBA $10 Double Up,100.0,NBA,2024-10-15 23:00:00+00:00,10.0,11
+168677456,115188,25.0,True,False,False,False,False,NBA $25 Double Up,250.0,NBA,2024-10-15 23:00:00+00:00,25.0,11
+168677457,115188,50.0,True,False,False,False,False,NBA $50 Double Up,500.0,NBA,2024-10-15 23:00:00+00:00,50.0,11
+168677458,115188,5.0,True,False,False,False,False,NBA $5 Double Up,50.0,NBA,2024-10-15 23:00:00+00:00,5.0,11
+168677459,115188,3.0,True,False,False,False,False,NBA $3 Double Up,30.0,NBA,2024-10-15 23:00:00+00:00,3.0,11
+168677460,115188,1.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2024-10-15 23:00:00+00:00,1.0,11
+168677461,115188,25.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2024-10-15 23:00:00+00:00,25.0,22
+168677462,115188,50.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2024-10-15 23:00:00+00:00,50.0,22
+168677463,115188,1060.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2024-10-15 23:00:00+00:00,1060.0,4
+168677464,115188,267.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2024-10-15 23:00:00+00:00,267.0,4
+168677465,115188,408.0,False,False,False,False,True,"NBA $408 Winner Take All [$1.5K to 1st, Must Fill]",1500.0,NBA,2024-10-15 23:00:00+00:00,408.0,4
+168677466,115188,242.0,False,False,False,False,True,NBA Satellite to NBA 10-23 $1M MEGA 8's Premiere [Must Fill],888.0,NBA,2024-10-15 23:00:00+00:00,242.0,4
+168677467,115188,242.0,False,False,False,False,True,NBA Satellite to NBA 10-23 $1M MEGA 8's Premiere [Must Fill],888.0,NBA,2024-10-15 23:00:00+00:00,242.0,4
+168677468,115188,1177.0,False,False,False,False,True,NBA Satellite to NFL $10M Ultimate Main Event (12-29) [Must Fill],3333.0,NBA,2024-10-15 23:00:00+00:00,1177.0,3
+168677469,115188,2.0,False,False,False,False,True,NBA Satellite to MLB 10-25 $5 Fall Five [Must Fill],5.0,NBA,2024-10-15 23:00:00+00:00,1.85,3
+168677470,115188,41.0,False,False,False,False,True,NBA Satellite to SOC 12-26 EPL MEGA Boxing Day Special [Must Fill],111.0,NBA,2024-10-15 23:00:00+00:00,41.0,3
+168677471,115200,20.0,False,False,False,False,False,Beginner NBA $20 3-Player (Night),54.0,NBA,2024-10-16 01:00:00+00:00,20.0,3
+168677472,115200,50.0,False,False,False,False,False,Beginner NBA $50 3-Player (Night),135.0,NBA,2024-10-16 01:00:00+00:00,50.0,3
+168677473,115200,10.0,False,False,False,False,False,Beginner NBA $10 3-Player (Night),27.0,NBA,2024-10-16 01:00:00+00:00,10.0,3
+168677474,115200,5.0,False,False,False,False,False,Beginner NBA $5 3-Player (Night),13.5,NBA,2024-10-16 01:00:00+00:00,5.0,3
+168677475,115200,1.0,False,False,False,False,False,Beginner NBA $1 3-Player (Night),2.7,NBA,2024-10-16 01:00:00+00:00,1.0,3
+168677476,115200,5300.0,True,False,False,False,False,"NBA $5,300 50-50 (Night)",20000.0,NBA,2024-10-16 01:00:00+00:00,5300.0,4
+168677477,115200,1060.0,True,False,False,False,False,"NBA $1,060 50-50 (Night)",4000.0,NBA,2024-10-16 01:00:00+00:00,1060.0,4
+168677478,115200,530.0,True,False,False,False,False,NBA $530 50-50 (Night),2000.0,NBA,2024-10-16 01:00:00+00:00,530.0,4
+168677479,115200,162.0,True,False,False,False,False,NBA $162 50-50 (Night),600.0,NBA,2024-10-16 01:00:00+00:00,162.0,4
+168677480,115200,109.0,True,False,False,False,False,NBA $109 50-50 (Night),400.0,NBA,2024-10-16 01:00:00+00:00,109.0,4
+168677481,115200,50.0,True,False,False,False,False,NBA $50 50-50 (Night),180.0,NBA,2024-10-16 01:00:00+00:00,50.0,4
+168677482,115200,20.0,True,False,False,False,False,NBA $20 50-50 (Night),360.0,NBA,2024-10-16 01:00:00+00:00,20.0,20
+168677483,115200,20.0,True,False,False,False,False,NBA $20 50-50 (Night),180.0,NBA,2024-10-16 01:00:00+00:00,20.0,10
+168677484,115200,20.0,True,False,False,False,False,NBA $20 50-50 (Night),72.0,NBA,2024-10-16 01:00:00+00:00,20.0,4
+168677485,115200,20.0,True,False,False,False,False,NBA $20 50-50 (Night),72.0,NBA,2024-10-16 01:00:00+00:00,20.0,4
+168677486,115200,10.0,True,False,False,False,False,NBA $10 50-50 (Night),180.0,NBA,2024-10-16 01:00:00+00:00,10.0,20
+168677487,115200,10.0,True,False,False,False,False,NBA $10 50-50 (Night),90.0,NBA,2024-10-16 01:00:00+00:00,10.0,10
+168677488,115200,10.0,True,False,False,False,False,NBA $10 50-50 (Night),90.0,NBA,2024-10-16 01:00:00+00:00,10.0,10
+168677489,115200,10.0,True,False,False,False,False,NBA $10 50-50 (Night),36.0,NBA,2024-10-16 01:00:00+00:00,10.0,4
+168677490,115200,10.0,True,False,False,False,False,NBA $10 50-50 (Night),36.0,NBA,2024-10-16 01:00:00+00:00,10.0,4
+168677491,115200,10.0,True,False,False,False,False,NBA $10 50-50 (Night),36.0,NBA,2024-10-16 01:00:00+00:00,10.0,4
+168677492,115200,5.0,True,False,False,False,False,NBA $5 50-50 (Night),90.0,NBA,2024-10-16 01:00:00+00:00,5.0,20
+168677493,115200,5.0,True,False,False,False,False,NBA $5 50-50 (Night),90.0,NBA,2024-10-16 01:00:00+00:00,5.0,20
+168677494,115200,5.0,True,False,False,False,False,NBA $5 50-50 (Night),45.0,NBA,2024-10-16 01:00:00+00:00,5.0,10
+168677495,115200,5.0,True,False,False,False,False,NBA $5 50-50 (Night),45.0,NBA,2024-10-16 01:00:00+00:00,5.0,10
+168677496,115200,5.0,True,False,False,False,False,NBA $5 50-50 (Night),45.0,NBA,2024-10-16 01:00:00+00:00,5.0,10
+168677497,115200,2.0,True,False,False,False,False,NBA $2 50-50 (Night),36.0,NBA,2024-10-16 01:00:00+00:00,2.0,20
+168677498,115200,2.0,True,False,False,False,False,NBA $2 50-50 (Night),36.0,NBA,2024-10-16 01:00:00+00:00,2.0,20
+168677499,115200,2.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2024-10-16 01:00:00+00:00,2.0,10
+168677500,115200,2.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2024-10-16 01:00:00+00:00,2.0,10
+168677501,115200,2.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2024-10-16 01:00:00+00:00,2.0,10
+168677502,115200,1.0,True,False,False,False,False,NBA $1 50-50 (Night),18.0,NBA,2024-10-16 01:00:00+00:00,1.0,20
+168677503,115200,1.0,True,False,False,False,False,NBA $1 50-50 (Night),18.0,NBA,2024-10-16 01:00:00+00:00,1.0,20
+168677504,115200,1.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2024-10-16 01:00:00+00:00,1.0,10
+168677505,115200,1.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2024-10-16 01:00:00+00:00,1.0,10
+168677506,115200,1.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2024-10-16 01:00:00+00:00,1.0,10
+168677507,115200,50.0,True,False,False,False,False,Beginner NBA $50 50-50 (Night),180.0,NBA,2024-10-16 01:00:00+00:00,50.0,4
+168677508,115200,20.0,True,False,False,False,False,Beginner NBA $20 50-50 (Night),72.0,NBA,2024-10-16 01:00:00+00:00,20.0,4
+168677509,115200,10.0,True,False,False,False,False,Beginner NBA $10 50-50 (Night),90.0,NBA,2024-10-16 01:00:00+00:00,10.0,10
+168677510,115200,5.0,True,False,False,False,False,Beginner NBA $5 50-50 (Night),45.0,NBA,2024-10-16 01:00:00+00:00,5.0,10
+168677511,115200,3.0,True,False,False,False,False,Beginner NBA $3 50-50 (Night),27.0,NBA,2024-10-16 01:00:00+00:00,3.0,10
+168677512,115200,1.0,True,False,False,False,False,Beginner NBA $1 50-50 (Night),9.0,NBA,2024-10-16 01:00:00+00:00,1.0,10
+168677513,115200,10.0,False,False,False,False,False,Beginner NBA $10 5-Player (Night),45.0,NBA,2024-10-16 01:00:00+00:00,10.0,5
+168677514,115200,5.0,False,False,False,False,False,Beginner NBA $5 5-Player (Night),22.5,NBA,2024-10-16 01:00:00+00:00,5.0,5
+168677515,115200,5.0,False,False,False,False,False,Beginner NBA $5 3-Player (Night),13.5,NBA,2024-10-16 01:00:00+00:00,5.0,3
+168677516,115200,2.0,False,False,False,False,False,Beginner NBA $2 5-Player (Night),9.0,NBA,2024-10-16 01:00:00+00:00,2.0,5
+168677517,115200,2.0,False,False,False,False,False,Beginner NBA $2 3-Player (Night),5.4,NBA,2024-10-16 01:00:00+00:00,2.0,3
+168677518,115200,1.0,False,False,False,False,False,Beginner NBA $1 5-Player (Night),4.5,NBA,2024-10-16 01:00:00+00:00,1.0,5
+168677519,115200,10600.0,False,False,False,False,False,"NBA $10,600 3-Player (Night)",30000.0,NBA,2024-10-16 01:00:00+00:00,10600.0,3
+168677520,115200,5300.0,False,False,False,False,False,"NBA $5,300 3-Player (Night)",15000.0,NBA,2024-10-16 01:00:00+00:00,5300.0,3
+168677521,115200,1060.0,False,False,False,False,False,"NBA $1,060 3-Player (Night)",3000.0,NBA,2024-10-16 01:00:00+00:00,1060.0,3
+168677522,115200,530.0,False,False,False,False,False,NBA $530 3-Player (Night),1500.0,NBA,2024-10-16 01:00:00+00:00,530.0,3
+168677523,115200,162.0,False,False,False,False,False,NBA $162 3-Player (Night),450.0,NBA,2024-10-16 01:00:00+00:00,162.0,3
+168677524,115200,109.0,False,False,False,False,False,NBA $109 3-Player (Night),300.0,NBA,2024-10-16 01:00:00+00:00,109.0,3
+168677525,115200,109.0,False,False,False,False,False,NBA $109 3-Player (Night),300.0,NBA,2024-10-16 01:00:00+00:00,109.0,3
+168677526,115200,50.0,False,False,False,False,False,NBA $50 5-Player (Night),225.0,NBA,2024-10-16 01:00:00+00:00,50.0,5
+168677527,115200,50.0,False,False,False,False,False,NBA $50 3-Player (Night),135.0,NBA,2024-10-16 01:00:00+00:00,50.0,3
+168677528,115200,20.0,False,False,False,False,False,NBA $20 5-Player (Night),90.0,NBA,2024-10-16 01:00:00+00:00,20.0,5
+168677529,115200,20.0,False,False,False,False,False,NBA $20 5-Player (Night),90.0,NBA,2024-10-16 01:00:00+00:00,20.0,5
+168677530,115200,20.0,False,False,False,False,False,NBA $20 3-Player (Night),54.0,NBA,2024-10-16 01:00:00+00:00,20.0,3
+168677531,115200,20.0,False,False,False,False,False,NBA $20 3-Player (Night),54.0,NBA,2024-10-16 01:00:00+00:00,20.0,3
+168677532,115200,20.0,False,False,False,False,False,NBA $20 3-Player (Night),54.0,NBA,2024-10-16 01:00:00+00:00,20.0,3
+168677533,115200,10.0,False,False,False,False,False,NBA $10 10-Player (Night),90.0,NBA,2024-10-16 01:00:00+00:00,10.0,10
+168677534,115200,10.0,False,False,False,False,False,NBA $10 5-Player (Night),45.0,NBA,2024-10-16 01:00:00+00:00,10.0,5
+168677535,115200,10.0,False,False,False,False,False,NBA $10 5-Player (Night),45.0,NBA,2024-10-16 01:00:00+00:00,10.0,5
+168677536,115200,10.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2024-10-16 01:00:00+00:00,10.0,3
+168677537,115200,10.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2024-10-16 01:00:00+00:00,10.0,3
+168677538,115200,10.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2024-10-16 01:00:00+00:00,10.0,3
+168677539,115200,5.0,False,False,False,False,False,NBA $5 10-Player (Night),45.0,NBA,2024-10-16 01:00:00+00:00,5.0,10
+168677540,115200,5.0,False,False,False,False,False,NBA $5 10-Player (Night),45.0,NBA,2024-10-16 01:00:00+00:00,5.0,10
+168677541,115200,5.0,False,False,False,False,False,NBA $5 5-Player (Night),22.5,NBA,2024-10-16 01:00:00+00:00,5.0,5
+168677542,115200,5.0,False,False,False,False,False,NBA $5 5-Player (Night),22.5,NBA,2024-10-16 01:00:00+00:00,5.0,5
+168677543,115200,5.0,False,False,False,False,False,NBA $5 5-Player (Night),22.5,NBA,2024-10-16 01:00:00+00:00,5.0,5
+168677544,115200,5.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2024-10-16 01:00:00+00:00,5.0,3
+168677545,115200,5.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2024-10-16 01:00:00+00:00,5.0,3
+168677546,115200,5.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2024-10-16 01:00:00+00:00,5.0,3
+168677547,115200,2.0,False,False,False,False,False,NBA $2 20-Player (Night),36.0,NBA,2024-10-16 01:00:00+00:00,2.0,20
+168677548,115200,2.0,False,False,False,False,False,NBA $2 20-Player (Night),36.0,NBA,2024-10-16 01:00:00+00:00,2.0,20
+168677549,115200,2.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2024-10-16 01:00:00+00:00,2.0,10
+168677550,115200,2.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2024-10-16 01:00:00+00:00,2.0,10
+168677551,115200,2.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2024-10-16 01:00:00+00:00,2.0,10
+168677552,115200,2.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2024-10-16 01:00:00+00:00,2.0,5
+168677553,115200,2.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2024-10-16 01:00:00+00:00,2.0,5
+168677554,115200,2.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2024-10-16 01:00:00+00:00,2.0,5
+168677555,115200,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2024-10-16 01:00:00+00:00,2.0,3
+168677556,115200,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2024-10-16 01:00:00+00:00,2.0,3
+168677557,115200,2.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2024-10-16 01:00:00+00:00,2.0,3
+168677558,115200,1.0,False,False,False,False,False,NBA $1 10-Player (Night),9.0,NBA,2024-10-16 01:00:00+00:00,1.0,10
+168677559,115200,1.0,False,False,False,False,False,NBA $1 5-Player (Night),4.5,NBA,2024-10-16 01:00:00+00:00,1.0,5
+168677560,115200,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2024-10-16 01:00:00+00:00,1.0,3
+168677561,115200,1.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2024-10-16 01:00:00+00:00,1.0,3
+168677562,115200,109.0,True,False,False,False,False,NBA $109 50-50 (Night),600.0,NBA,2024-10-16 01:00:00+00:00,109.0,6
+168677563,115200,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2024-10-16 01:00:00+00:00,10600.0,4
+168677564,115200,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2024-10-16 01:00:00+00:00,10600.0,4
+168677565,115200,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2024-10-16 01:00:00+00:00,10600.0,4
+168677566,115200,50.0,True,False,False,False,False,Casual NBA $50 50-50 (Night),180.0,NBA,2024-10-16 01:00:00+00:00,50.0,4
+168677567,115200,20.0,True,False,False,False,False,Casual NBA $20 50-50 (Night),72.0,NBA,2024-10-16 01:00:00+00:00,20.0,4
+168677568,115200,10.0,True,False,False,False,False,Casual NBA $10 50-50 (Night),90.0,NBA,2024-10-16 01:00:00+00:00,10.0,10
+168677569,115200,5.0,True,False,False,False,False,Casual NBA $5 50-50 (Night),45.0,NBA,2024-10-16 01:00:00+00:00,5.0,10
+168677570,115200,3.0,True,False,False,False,False,Casual NBA $3 50-50 (Night),27.0,NBA,2024-10-16 01:00:00+00:00,3.0,10
+168677571,115200,3.0,True,False,False,False,False,Casual NBA $3 50-50 (Night),10.8,NBA,2024-10-16 01:00:00+00:00,3.0,4
+168677572,115200,1.0,True,False,False,False,False,Casual NBA $1 50-50 (Night),9.0,NBA,2024-10-16 01:00:00+00:00,1.0,10
+168677573,115200,50.0,False,False,False,False,False,Casual NBA $50 3-Player (Night),135.0,NBA,2024-10-16 01:00:00+00:00,50.0,3
+168677574,115200,20.0,False,False,False,False,False,Casual NBA $20 3-Player (Night),54.0,NBA,2024-10-16 01:00:00+00:00,20.0,3
+168677575,115200,10.0,False,False,False,False,False,Casual NBA $10 5-Player (Night),45.0,NBA,2024-10-16 01:00:00+00:00,10.0,5
+168677576,115200,10.0,False,False,False,False,False,Casual NBA $10 3-Player (Night),27.0,NBA,2024-10-16 01:00:00+00:00,10.0,3
+168677577,115200,2.0,False,False,False,False,False,Casual NBA $2 5-Player (Night),9.0,NBA,2024-10-16 01:00:00+00:00,2.0,5
+168677578,115200,2.0,False,False,False,False,False,Casual NBA $2 3-Player (Night),5.4,NBA,2024-10-16 01:00:00+00:00,2.0,3
+168677579,115200,109.0,False,False,False,False,False,Casual NBA $109 5-Player (Night),500.0,NBA,2024-10-16 01:00:00+00:00,109.0,5
+168677580,115200,10.0,True,False,False,False,False,NBA $10 Double Up (Night),100.0,NBA,2024-10-16 01:00:00+00:00,10.0,11
+168677581,115200,25.0,True,False,False,False,False,NBA $25 Double Up (Night),250.0,NBA,2024-10-16 01:00:00+00:00,25.0,11
+168677582,115200,50.0,True,False,False,False,False,NBA $50 Double Up (Night),500.0,NBA,2024-10-16 01:00:00+00:00,50.0,11
+168677583,115200,5.0,True,False,False,False,False,NBA $5 Double Up (Night),50.0,NBA,2024-10-16 01:00:00+00:00,5.0,11
+168677584,115200,3.0,True,False,False,False,False,NBA $3 Double Up (Night),30.0,NBA,2024-10-16 01:00:00+00:00,3.0,11
+168677585,115200,1.0,True,False,False,False,False,NBA $1 Double Up (Night),10.0,NBA,2024-10-16 01:00:00+00:00,1.0,11
+168677586,115200,25.0,True,False,False,False,False,NBA $25 Double Up (Night),500.0,NBA,2024-10-16 01:00:00+00:00,25.0,22
+168677587,115200,50.0,True,False,False,False,False,NBA $50 Double Up (Night),1000.0,NBA,2024-10-16 01:00:00+00:00,50.0,22
+168677588,115200,1060.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill) (Night),4000.0,NBA,2024-10-16 01:00:00+00:00,1060.0,4
+168677589,115200,267.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill) (Night),1000.0,NBA,2024-10-16 01:00:00+00:00,267.0,4
+168677590,115200,408.0,False,False,False,False,True,"NBA $408 Winner Take All [$1.5K to 1st, Must Fill] (Night)",1500.0,NBA,2024-10-16 01:00:00+00:00,408.0,4
+168677591,115200,242.0,False,False,False,False,True,NBA Satellite to NBA 10-23 $1M MEGA 8's Premiere [Must Fill] (Night),888.0,NBA,2024-10-16 01:00:00+00:00,242.0,4
+168677592,115200,242.0,False,False,False,False,True,NBA Satellite to NBA 10-23 $1M MEGA 8's Premiere [Must Fill] (Night),888.0,NBA,2024-10-16 01:00:00+00:00,242.0,4
+168677593,115200,1177.0,False,False,False,False,True,NBA Satellite to NFL $10M Ultimate Main Event (12-29) [Must Fill] (Night),3333.0,NBA,2024-10-16 01:00:00+00:00,1177.0,3
+168677594,115200,2.0,False,False,False,False,True,NBA Satellite to MLB 10-25 $5 Fall Five [Must Fill] (Night),5.0,NBA,2024-10-16 01:00:00+00:00,1.85,3
+168677595,115200,41.0,False,False,False,False,True,NBA Satellite to SOC 12-26 EPL MEGA Boxing Day Special [Must Fill] (Night),111.0,NBA,2024-10-16 01:00:00+00:00,41.0,3
+168677596,115201,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (GSW @ LAL),54.0,NBA,2024-10-16 02:00:00+00:00,20.0,3
+168677597,115201,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (GSW @ LAL),135.0,NBA,2024-10-16 02:00:00+00:00,50.0,3
+168677598,115201,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (GSW @ LAL),27.0,NBA,2024-10-16 02:00:00+00:00,10.0,3
+168677599,115201,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (GSW @ LAL),13.5,NBA,2024-10-16 02:00:00+00:00,5.0,3
+168677600,115201,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (GSW @ LAL),2.7,NBA,2024-10-16 02:00:00+00:00,1.0,3
+168677601,115201,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (GSW @ LAL)",20000.0,NBA,2024-10-16 02:00:00+00:00,5300.0,4
+168677602,115201,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (GSW @ LAL)",4000.0,NBA,2024-10-16 02:00:00+00:00,1060.0,4
+168677603,115201,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (GSW @ LAL),2000.0,NBA,2024-10-16 02:00:00+00:00,530.0,4
+168677604,115201,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (GSW @ LAL),600.0,NBA,2024-10-16 02:00:00+00:00,162.0,4
+168677605,115201,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (GSW @ LAL),400.0,NBA,2024-10-16 02:00:00+00:00,109.0,4
+168677606,115201,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (GSW @ LAL),180.0,NBA,2024-10-16 02:00:00+00:00,50.0,4
+168677607,115201,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (GSW @ LAL),360.0,NBA,2024-10-16 02:00:00+00:00,20.0,20
+168677608,115201,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (GSW @ LAL),180.0,NBA,2024-10-16 02:00:00+00:00,20.0,10
+168677609,115201,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (GSW @ LAL),72.0,NBA,2024-10-16 02:00:00+00:00,20.0,4
+168677610,115201,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (GSW @ LAL),72.0,NBA,2024-10-16 02:00:00+00:00,20.0,4
+168677611,115201,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (GSW @ LAL),180.0,NBA,2024-10-16 02:00:00+00:00,10.0,20
+168677612,115201,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (GSW @ LAL),90.0,NBA,2024-10-16 02:00:00+00:00,10.0,10
+168677613,115201,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (GSW @ LAL),90.0,NBA,2024-10-16 02:00:00+00:00,10.0,10
+168677614,115201,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (GSW @ LAL),36.0,NBA,2024-10-16 02:00:00+00:00,10.0,4
+168677615,115201,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (GSW @ LAL),36.0,NBA,2024-10-16 02:00:00+00:00,10.0,4
+168677616,115201,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (GSW @ LAL),36.0,NBA,2024-10-16 02:00:00+00:00,10.0,4
+168677617,115201,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (GSW @ LAL),90.0,NBA,2024-10-16 02:00:00+00:00,5.0,20
+168677618,115201,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (GSW @ LAL),90.0,NBA,2024-10-16 02:00:00+00:00,5.0,20
+168677619,115201,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,5.0,10
+168677620,115201,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,5.0,10
+168677621,115201,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,5.0,10
+168677622,115201,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (GSW @ LAL),36.0,NBA,2024-10-16 02:00:00+00:00,2.0,20
+168677623,115201,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (GSW @ LAL),36.0,NBA,2024-10-16 02:00:00+00:00,2.0,20
+168677624,115201,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (GSW @ LAL),18.0,NBA,2024-10-16 02:00:00+00:00,2.0,10
+168677625,115201,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (GSW @ LAL),18.0,NBA,2024-10-16 02:00:00+00:00,2.0,10
+168677626,115201,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (GSW @ LAL),18.0,NBA,2024-10-16 02:00:00+00:00,2.0,10
+168677627,115201,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (GSW @ LAL),18.0,NBA,2024-10-16 02:00:00+00:00,1.0,20
+168677628,115201,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (GSW @ LAL),18.0,NBA,2024-10-16 02:00:00+00:00,1.0,20
+168677629,115201,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,1.0,10
+168677630,115201,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,1.0,10
+168677631,115201,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,1.0,10
+168677632,115201,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (GSW @ LAL),180.0,NBA,2024-10-16 02:00:00+00:00,50.0,4
+168677633,115201,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (GSW @ LAL),72.0,NBA,2024-10-16 02:00:00+00:00,20.0,4
+168677634,115201,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (GSW @ LAL),90.0,NBA,2024-10-16 02:00:00+00:00,10.0,10
+168677635,115201,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,5.0,10
+168677636,115201,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (GSW @ LAL),27.0,NBA,2024-10-16 02:00:00+00:00,3.0,10
+168677637,115201,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,1.0,10
+168677638,115201,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,10.0,5
+168677639,115201,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (GSW @ LAL),22.5,NBA,2024-10-16 02:00:00+00:00,5.0,5
+168677640,115201,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (GSW @ LAL),13.5,NBA,2024-10-16 02:00:00+00:00,5.0,3
+168677641,115201,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,2.0,5
+168677642,115201,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (GSW @ LAL),5.4,NBA,2024-10-16 02:00:00+00:00,2.0,3
+168677643,115201,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (GSW @ LAL),4.5,NBA,2024-10-16 02:00:00+00:00,1.0,5
+168677644,115201,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (GSW @ LAL)",30000.0,NBA,2024-10-16 02:00:00+00:00,10600.0,3
+168677645,115201,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (GSW @ LAL)",15000.0,NBA,2024-10-16 02:00:00+00:00,5300.0,3
+168677646,115201,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (GSW @ LAL)",3000.0,NBA,2024-10-16 02:00:00+00:00,1060.0,3
+168677647,115201,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (GSW @ LAL),1500.0,NBA,2024-10-16 02:00:00+00:00,530.0,3
+168677648,115201,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (GSW @ LAL),450.0,NBA,2024-10-16 02:00:00+00:00,162.0,3
+168677649,115201,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (GSW @ LAL),300.0,NBA,2024-10-16 02:00:00+00:00,109.0,3
+168677650,115201,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (GSW @ LAL),300.0,NBA,2024-10-16 02:00:00+00:00,109.0,3
+168677651,115201,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (GSW @ LAL),225.0,NBA,2024-10-16 02:00:00+00:00,50.0,5
+168677652,115201,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (GSW @ LAL),135.0,NBA,2024-10-16 02:00:00+00:00,50.0,3
+168677653,115201,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (GSW @ LAL),90.0,NBA,2024-10-16 02:00:00+00:00,20.0,5
+168677654,115201,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (GSW @ LAL),90.0,NBA,2024-10-16 02:00:00+00:00,20.0,5
+168677655,115201,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (GSW @ LAL),54.0,NBA,2024-10-16 02:00:00+00:00,20.0,3
+168677656,115201,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (GSW @ LAL),54.0,NBA,2024-10-16 02:00:00+00:00,20.0,3
+168677657,115201,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (GSW @ LAL),54.0,NBA,2024-10-16 02:00:00+00:00,20.0,3
+168677658,115201,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (GSW @ LAL),90.0,NBA,2024-10-16 02:00:00+00:00,10.0,10
+168677659,115201,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,10.0,5
+168677660,115201,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,10.0,5
+168677661,115201,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (GSW @ LAL),27.0,NBA,2024-10-16 02:00:00+00:00,10.0,3
+168677662,115201,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (GSW @ LAL),27.0,NBA,2024-10-16 02:00:00+00:00,10.0,3
+168677663,115201,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (GSW @ LAL),27.0,NBA,2024-10-16 02:00:00+00:00,10.0,3
+168677664,115201,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,5.0,10
+168677665,115201,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,5.0,10
+168677666,115201,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (GSW @ LAL),22.5,NBA,2024-10-16 02:00:00+00:00,5.0,5
+168677667,115201,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (GSW @ LAL),22.5,NBA,2024-10-16 02:00:00+00:00,5.0,5
+168677668,115201,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (GSW @ LAL),22.5,NBA,2024-10-16 02:00:00+00:00,5.0,5
+168677669,115201,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (GSW @ LAL),13.5,NBA,2024-10-16 02:00:00+00:00,5.0,3
+168677670,115201,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (GSW @ LAL),13.5,NBA,2024-10-16 02:00:00+00:00,5.0,3
+168677671,115201,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (GSW @ LAL),13.5,NBA,2024-10-16 02:00:00+00:00,5.0,3
+168677672,115201,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (GSW @ LAL),36.0,NBA,2024-10-16 02:00:00+00:00,2.0,20
+168677673,115201,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (GSW @ LAL),36.0,NBA,2024-10-16 02:00:00+00:00,2.0,20
+168677674,115201,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (GSW @ LAL),18.0,NBA,2024-10-16 02:00:00+00:00,2.0,10
+168677675,115201,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (GSW @ LAL),18.0,NBA,2024-10-16 02:00:00+00:00,2.0,10
+168677676,115201,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (GSW @ LAL),18.0,NBA,2024-10-16 02:00:00+00:00,2.0,10
+168677677,115201,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,2.0,5
+168677678,115201,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,2.0,5
+168677679,115201,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,2.0,5
+168677680,115201,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (GSW @ LAL),5.4,NBA,2024-10-16 02:00:00+00:00,2.0,3
+168677681,115201,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (GSW @ LAL),5.4,NBA,2024-10-16 02:00:00+00:00,2.0,3
+168677682,115201,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (GSW @ LAL),5.4,NBA,2024-10-16 02:00:00+00:00,2.0,3
+168677683,115201,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,1.0,10
+168677684,115201,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (GSW @ LAL),4.5,NBA,2024-10-16 02:00:00+00:00,1.0,5
+168677685,115201,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (GSW @ LAL),2.7,NBA,2024-10-16 02:00:00+00:00,1.0,3
+168677686,115201,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (GSW @ LAL),2.7,NBA,2024-10-16 02:00:00+00:00,1.0,3
+168677687,115201,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (GSW @ LAL),600.0,NBA,2024-10-16 02:00:00+00:00,109.0,6
+168677688,115201,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (GSW @ LAL)",40000.0,NBA,2024-10-16 02:00:00+00:00,10600.0,4
+168677689,115201,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (GSW @ LAL)",40000.0,NBA,2024-10-16 02:00:00+00:00,10600.0,4
+168677690,115201,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (GSW @ LAL)",40000.0,NBA,2024-10-16 02:00:00+00:00,10600.0,4
+168677691,115201,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (GSW @ LAL),180.0,NBA,2024-10-16 02:00:00+00:00,50.0,4
+168677692,115201,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (GSW @ LAL),72.0,NBA,2024-10-16 02:00:00+00:00,20.0,4
+168677693,115201,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (GSW @ LAL),90.0,NBA,2024-10-16 02:00:00+00:00,10.0,10
+168677694,115201,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,5.0,10
+168677695,115201,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (GSW @ LAL),27.0,NBA,2024-10-16 02:00:00+00:00,3.0,10
+168677696,115201,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (GSW @ LAL),10.8,NBA,2024-10-16 02:00:00+00:00,3.0,4
+168677697,115201,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,1.0,10
+168677698,115201,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (GSW @ LAL),135.0,NBA,2024-10-16 02:00:00+00:00,50.0,3
+168677699,115201,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (GSW @ LAL),54.0,NBA,2024-10-16 02:00:00+00:00,20.0,3
+168677700,115201,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (GSW @ LAL),45.0,NBA,2024-10-16 02:00:00+00:00,10.0,5
+168677701,115201,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (GSW @ LAL),27.0,NBA,2024-10-16 02:00:00+00:00,10.0,3
+168677702,115201,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,2.0,5
+168677703,115201,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (GSW @ LAL),5.4,NBA,2024-10-16 02:00:00+00:00,2.0,3
+168677704,115201,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (GSW @ LAL),500.0,NBA,2024-10-16 02:00:00+00:00,109.0,5
+168677705,115201,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (GSW @ LAL),100.0,NBA,2024-10-16 02:00:00+00:00,10.0,11
+168677706,115201,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (GSW @ LAL),250.0,NBA,2024-10-16 02:00:00+00:00,25.0,11
+168677707,115201,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (GSW @ LAL),500.0,NBA,2024-10-16 02:00:00+00:00,50.0,11
+168677708,115201,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (GSW @ LAL),50.0,NBA,2024-10-16 02:00:00+00:00,5.0,11
+168677709,115201,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (GSW @ LAL),30.0,NBA,2024-10-16 02:00:00+00:00,3.0,11
+168677710,115201,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (GSW @ LAL),10.0,NBA,2024-10-16 02:00:00+00:00,1.0,11
+168677711,115201,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (GSW @ LAL),500.0,NBA,2024-10-16 02:00:00+00:00,25.0,22
+168677712,115201,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (GSW @ LAL),1000.0,NBA,2024-10-16 02:00:00+00:00,50.0,22
+168677713,115201,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (GSW @ LAL),4000.0,NBA,2024-10-16 02:00:00+00:00,1060.0,4
+168677714,115201,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (GSW @ LAL),1000.0,NBA,2024-10-16 02:00:00+00:00,267.0,4
+168677715,115201,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (GSW @ LAL)",1500.0,NBA,2024-10-16 02:00:00+00:00,408.0,4
+168677716,115201,242.0,False,False,False,False,True,NBA Showdown Satellite to NBA 10-23 $1M MEGA 8's Premiere [Must Fill] (GSW @ LAL),888.0,NBA,2024-10-16 02:00:00+00:00,242.0,4
+168677717,115201,242.0,False,False,False,False,True,NBA Showdown Satellite to NBA 10-23 $1M MEGA 8's Premiere [Must Fill] (GSW @ LAL),888.0,NBA,2024-10-16 02:00:00+00:00,242.0,4
+168677718,115201,1177.0,False,False,False,False,True,NBA Showdown Satellite to NFL $10M Ultimate Main Event (12-29) [Must Fill] (GSW @ LAL),3333.0,NBA,2024-10-16 02:00:00+00:00,1177.0,3
+168677719,115201,2.0,False,False,False,False,True,NBA Showdown Satellite to MLB 10-25 $5 Fall Five [Must Fill] (GSW @ LAL),5.0,NBA,2024-10-16 02:00:00+00:00,1.85,3
+168677720,115201,41.0,False,False,False,False,True,NBA Showdown Satellite to SOC 12-26 EPL MEGA Boxing Day Special [Must Fill] (GSW @ LAL),111.0,NBA,2024-10-16 02:00:00+00:00,41.0,3
+168677731,115200,5.0,True,False,True,False,False,NBA $5 Double Up (Night),100.0,NBA,2024-10-16 01:00:00+00:00,5.0,23
+168677732,115200,25.0,False,False,True,False,True,NBA $25 Winner Take All [$110 to 1st] (Night),110.0,NBA,2024-10-16 01:00:00+00:00,25.0,5
+168677733,115200,1.0,True,False,True,False,False,NBA $1 Double Up (Night),20.0,NBA,2024-10-16 01:00:00+00:00,1.0,23
+168677734,115201,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (GSW @ LAL),100.0,NBA,2024-10-16 02:00:00+00:00,5.0,23
+168677735,115201,25.0,False,False,True,False,True,NBA Showdown $25 Winner Take All [$110 to 1st] (GSW @ LAL),110.0,NBA,2024-10-16 02:00:00+00:00,25.0,5
+168677736,115201,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (GSW @ LAL),20.0,NBA,2024-10-16 02:00:00+00:00,1.0,23
+168677745,115188,25.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2024-10-15 23:00:00+00:00,25.0,11
+168677746,115188,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-10-15 23:00:00+00:00,1.0,23
+168677747,115188,10.0,True,False,True,False,False,NBA $10 Double Up,100.0,NBA,2024-10-15 23:00:00+00:00,10.0,11
+168677748,115188,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2024-10-15 23:00:00+00:00,1.0,31
+168677749,115188,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-10-15 23:00:00+00:00,1.0,23
+168677750,115188,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2024-10-15 23:00:00+00:00,3.0,23
+168677751,115188,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2024-10-15 23:00:00+00:00,5.0,23
+168677752,115188,85.0,False,False,True,False,True,NBA $85 Winner Take All [$300 to 1st],300.0,NBA,2024-10-15 23:00:00+00:00,85.0,4
+168677753,115188,0.0,False,False,True,False,True,NBA Satellite to NBA 2024 Best Ball $400K Fadeaway,15.0,NBA,2024-10-15 23:00:00+00:00,0.1,178
+168677754,115188,0.0,False,False,True,False,True,NBA Satellite to NBA 2024 Best Ball $400K Fadeaway,15.0,NBA,2024-10-15 23:00:00+00:00,0.25,71
+168677755,115188,6.0,False,False,False,False,True,NBA Satellite to NBA 10-22 $15 Opening Tip Off	[Must Fill],15.0,NBA,2024-10-15 23:00:00+00:00,5.55,3
+168677756,115188,0.0,False,False,True,False,True,NBA Satellite to NBA $15 Opening Tip Off (10-22),15.0,NBA,2024-10-15 23:00:00+00:00,0.1,178
+168677757,115188,0.0,False,False,True,False,True,NBA Satellite to NBA $15 Opening Tip Off (10-22),15.0,NBA,2024-10-15 23:00:00+00:00,0.1,178
+168677758,115188,0.0,False,False,True,False,True,NBA Satellite to $20 NFL Fantasy Football Millionaire,20.0,NBA,2024-10-15 23:00:00+00:00,0.25,95
+168677759,115188,0.0,False,False,True,False,True,NBA Satellite to MLB 10-25 $5 Fall Five,6.0,NBA,2024-10-15 23:00:00+00:00,0.1,71
+168678677,115189,1.0,False,False,False,False,False,NBA Snake $1 12-Player,10.8,NBA,2024-10-15 23:00:00+00:00,1.0,12
+168678678,115189,1.0,False,False,False,False,False,NBA Snake $1 12-Player,10.8,NBA,2024-10-15 23:00:00+00:00,1.0,12
+168678679,115189,5.0,False,False,False,False,False,NBA Snake $5 12-Player,54.0,NBA,2024-10-15 23:00:00+00:00,5.0,12
+168678680,115189,10.0,False,False,False,False,False,NBA Snake $10 12-Player,108.0,NBA,2024-10-15 23:00:00+00:00,10.0,12
+168678681,115189,20.0,False,False,False,False,False,NBA Snake $20 12-Player,216.0,NBA,2024-10-15 23:00:00+00:00,20.0,12
+168678682,115189,50.0,False,False,False,False,False,NBA Snake $50 12-Player,540.0,NBA,2024-10-15 23:00:00+00:00,50.0,12
+168678683,115189,50.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2024-10-15 23:00:00+00:00,50.0,3
+168678684,115189,50.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2024-10-15 23:00:00+00:00,50.0,3
+168678685,115189,1.0,False,False,False,False,False,NBA Snake $1 6-Player,5.4,NBA,2024-10-15 23:00:00+00:00,1.0,6
+168678686,115189,1.0,False,False,False,False,False,NBA Snake $1 6-Player,5.4,NBA,2024-10-15 23:00:00+00:00,1.0,6
+168678687,115189,5.0,False,False,False,False,False,NBA Snake $5 6-Player,27.0,NBA,2024-10-15 23:00:00+00:00,5.0,6
+168678688,115189,10.0,False,False,False,False,False,NBA Snake $10 6-Player,54.0,NBA,2024-10-15 23:00:00+00:00,10.0,6
+168678689,115189,20.0,False,False,False,False,False,NBA Snake $20 6-Player,108.0,NBA,2024-10-15 23:00:00+00:00,20.0,6
+168678690,115189,50.0,False,False,False,False,False,NBA Snake $50 6-Player,270.0,NBA,2024-10-15 23:00:00+00:00,50.0,6
+168678691,115189,109.0,False,False,False,False,False,NBA Snake $109 6-Player,600.0,NBA,2024-10-15 23:00:00+00:00,109.0,6
+168678692,115189,530.0,False,False,False,False,False,NBA Snake $530 6-Player,3000.0,NBA,2024-10-15 23:00:00+00:00,530.0,6
+168678694,115189,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2024-10-15 23:00:00+00:00,1.0,3
+168678695,115189,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2024-10-15 23:00:00+00:00,1.0,3
+168678696,115189,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2024-10-15 23:00:00+00:00,5.0,3
+168678697,115189,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2024-10-15 23:00:00+00:00,5.0,3
+168678698,115189,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2024-10-15 23:00:00+00:00,10.0,3
+168678699,115189,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2024-10-15 23:00:00+00:00,10.0,3
+168678700,115189,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2024-10-15 23:00:00+00:00,10.0,3
+168678701,115189,20.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2024-10-15 23:00:00+00:00,20.0,3
+168678702,115189,20.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2024-10-15 23:00:00+00:00,20.0,3
+168678703,115189,109.0,False,False,False,False,False,NBA Snake $109 3-Player,300.0,NBA,2024-10-15 23:00:00+00:00,109.0,3
+168678704,115189,109.0,False,False,False,False,False,NBA Snake $109 3-Player,300.0,NBA,2024-10-15 23:00:00+00:00,109.0,3
+168678705,115189,530.0,False,False,False,False,False,NBA Snake $530 3-Player,1500.0,NBA,2024-10-15 23:00:00+00:00,530.0,3
+168678706,115189,2120.0,False,False,False,False,False,"NBA Snake $2,120 3-Player",6000.0,NBA,2024-10-15 23:00:00+00:00,2120.0,3
+168678707,115189,1060.0,False,False,False,False,False,"NBA Snake $1,060 3-Player",3000.0,NBA,2024-10-15 23:00:00+00:00,1060.0,3
+168678727,115206,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (GSW @ LAL),2.7,NBA,2024-10-16 02:00:00+00:00,1.0,3
+168678728,115206,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (GSW @ LAL),2.7,NBA,2024-10-16 02:00:00+00:00,1.0,3
+168678729,115206,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (GSW @ LAL),2.7,NBA,2024-10-16 02:00:00+00:00,1.0,3
+168678730,115206,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (GSW @ LAL),13.5,NBA,2024-10-16 02:00:00+00:00,5.0,3
+168678731,115206,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (GSW @ LAL),13.5,NBA,2024-10-16 02:00:00+00:00,5.0,3
+168678732,115206,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (GSW @ LAL),27.0,NBA,2024-10-16 02:00:00+00:00,10.0,3
+168678733,115206,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (GSW @ LAL),27.0,NBA,2024-10-16 02:00:00+00:00,10.0,3
+168678734,115206,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (GSW @ LAL),27.0,NBA,2024-10-16 02:00:00+00:00,10.0,3
+168678735,115206,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (GSW @ LAL),54.0,NBA,2024-10-16 02:00:00+00:00,20.0,3
+168678736,115206,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (GSW @ LAL),300.0,NBA,2024-10-16 02:00:00+00:00,109.0,3
+168678737,115206,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (GSW @ LAL),1500.0,NBA,2024-10-16 02:00:00+00:00,530.0,3
+168678738,115206,1.0,False,False,False,False,False,NBA Snake Showdown $1 4-Player (GSW @ LAL),3.6,NBA,2024-10-16 02:00:00+00:00,1.0,4
+168678739,115206,5.0,False,False,False,False,False,NBA Snake Showdown $5 4-Player (GSW @ LAL),18.0,NBA,2024-10-16 02:00:00+00:00,5.0,4
+168678740,115206,10.0,False,False,False,False,False,NBA Snake Showdown $10 4-Player (GSW @ LAL),36.0,NBA,2024-10-16 02:00:00+00:00,10.0,4
+168678741,115206,20.0,False,False,False,False,False,NBA Snake Showdown $20 4-Player (GSW @ LAL),72.0,NBA,2024-10-16 02:00:00+00:00,20.0,4
+168678742,115206,50.0,False,False,False,False,False,NBA Snake Showdown $50 4-Player (GSW @ LAL),180.0,NBA,2024-10-16 02:00:00+00:00,50.0,4
+168678743,115206,109.0,False,False,False,False,False,NBA Snake Showdown $109 4-Player (GSW @ LAL),400.0,NBA,2024-10-16 02:00:00+00:00,109.0,4
+168678744,115206,530.0,False,False,False,False,False,NBA Snake Showdown $530 4-Player (GSW @ LAL),2000.0,NBA,2024-10-16 02:00:00+00:00,530.0,4
+168678745,115206,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (GSW @ LAL),135.0,NBA,2024-10-16 02:00:00+00:00,50.0,3
+168678746,115206,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (GSW @ LAL)",3000.0,NBA,2024-10-16 02:00:00+00:00,1060.0,3
+168678747,115206,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (GSW @ LAL)",6000.0,NBA,2024-10-16 02:00:00+00:00,2120.0,3
+168688168,115200,2.0,False,False,False,False,False,Beginner NBA $2 3-Player (Night),5.4,NBA,2024-10-16 01:00:00+00:00,2.0,3
+168688492,115200,25.0,True,False,False,False,False,NBA $25 Double Up (Night),250.0,NBA,2024-10-16 01:00:00+00:00,25.0,11
+168706405,115188,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2024-10-15 23:00:00+00:00,1.0,20
+168707207,115188,0.0,False,False,True,False,False,NBA FREE 200-Player,0.0,NBA,2024-10-15 23:00:00+00:00,0.0,200
+168707496,115188,1.0,False,False,False,False,False,NBA $1 5-Player (Winner Takes All),4.5,NBA,2024-10-15 23:00:00+00:00,1.0,5
+168707978,115188,3.0,False,False,False,False,False,NBA $3 6-Player (Top 3 Win),16.2,NBA,2024-10-15 23:00:00+00:00,3.0,6
+168708041,115201,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (GSW @ LAL),5.4,NBA,2024-10-16 02:00:00+00:00,2.0,3
+168708170,115201,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (GSW @ LAL),36.0,NBA,2024-10-16 02:00:00+00:00,2.0,20
+168708200,115201,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (GSW @ LAL),10.0,NBA,2024-10-16 02:00:00+00:00,1.0,11
+168708201,115201,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (GSW @ LAL),4.5,NBA,2024-10-16 02:00:00+00:00,1.0,5
+168708393,115189,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2024-10-15 23:00:00+00:00,1.0,3
+168708483,115188,2.0,False,False,False,False,False,NBA $2 100-Player (Winner Takes All),180.0,NBA,2024-10-15 23:00:00+00:00,2.0,100
+168708642,115201,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (GSW @ LAL),9.0,NBA,2024-10-16 02:00:00+00:00,2.0,5
+168708644,115201,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (GSW @ LAL),2.7,NBA,2024-10-16 02:00:00+00:00,1.0,3
