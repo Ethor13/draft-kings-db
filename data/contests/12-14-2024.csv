@@ -1,0 +1,1337 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+171710521,118810,2.0,False,False,True,False,True,NBA $8.5K mini-MAX [150 Entry Max],8500.0,NBA,2024-12-14 21:30:00+00:00,2.0,5053
+171710522,118810,40.0,False,False,True,False,True,NBA $10K Mid Range Jumper [Single Entry],10000.0,NBA,2024-12-14 21:30:00+00:00,40.0,291
+171710523,118810,50.0,False,False,True,False,True,NBA $1K Ankle Breaker [Single Entry],1000.0,NBA,2024-12-14 21:30:00+00:00,50.0,22
+171710524,118810,3.0,False,False,True,False,True,NBA $2K Hot Shot [3 Entry Max],2000.0,NBA,2024-12-14 21:30:00+00:00,3.0,792
+171710525,118810,12.0,False,False,True,False,True,NBA $5K Pick and Roll [Single Entry],5000.0,NBA,2024-12-14 21:30:00+00:00,12.0,490
+171710526,118810,5.0,False,False,True,False,True,NBA $5K High Five [Single Entry],5000.0,NBA,2024-12-14 21:30:00+00:00,5.0,1189
+171710527,118810,100.0,True,False,True,False,True,NBA Single Entry $100 Double Up,2000.0,NBA,2024-12-14 21:30:00+00:00,100.0,22
+171710528,118810,20.0,False,False,True,False,True,NBA $2K Buzzer Beater [3 Entry Max],2000.0,NBA,2024-12-14 21:30:00+00:00,20.0,117
+171710529,118810,0.0,False,False,True,False,True,NBA $4K Quarter Jukebox [Just $0.25!],4000.0,NBA,2024-12-14 21:30:00+00:00,0.25,19024
+171710530,118810,0.0,False,False,True,False,True,NBA $15K mini-MAX [150 Entry Max],15000.0,NBA,2024-12-14 21:30:00+00:00,0.5,35671
+171710531,118810,400.0,False,False,True,False,True,NBA $1.8K Swish [Single Entry],1800.0,NBA,2024-12-14 21:30:00+00:00,400.0,5
+171710532,118810,100.0,False,False,True,False,True,NBA $15K Showtime [Single Entry],15000.0,NBA,2024-12-14 21:30:00+00:00,100.0,166
+171710533,118810,27.0,False,False,True,False,True,NBA $3K Fast Break [Single Entry],3000.0,NBA,2024-12-14 21:30:00+00:00,27.0,129
+171710534,118810,2.0,False,False,True,False,True,NBA $1K Elbow Shot [Single Entry] ,1000.0,NBA,2024-12-14 21:30:00+00:00,2.0,594
+171710535,118810,1.0,False,False,True,False,True,NBA $2K Daily Dollar [Single Entry] ,2000.0,NBA,2024-12-14 21:30:00+00:00,1.0,2378
+171710536,118810,100.0,True,False,True,False,False,NBA $100 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,100.0,11
+171710537,118810,50.0,True,False,True,False,True,NBA Single Entry $50 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,50.0,22
+171710538,118810,50.0,True,False,True,False,True,NBA $50 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,50.0,22
+171710539,118810,25.0,True,False,True,False,True,NBA Single Entry $25 Double Up,3000.0,NBA,2024-12-14 21:30:00+00:00,25.0,137
+171710540,118810,25.0,True,False,True,False,True,NBA $25 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,25.0,45
+171710541,118810,10.0,True,False,True,False,True,NBA Single Entry $10 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,10.0,114
+171710542,118810,5.0,True,False,True,False,True,NBA Single Entry $5 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,5.0,229
+171710543,118810,5.0,True,False,True,False,True,NBA $5 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,5.0,229
+171710544,118810,2.0,True,False,True,False,True,NBA $2 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,2.0,574
+171710545,118812,1.0,False,False,True,False,True,NBA Stating 5 $2K And-One (Starting 5),2000.0,NBA,2024-12-14 21:30:00+00:00,1.0,2378
+171710546,118812,0.0,False,False,True,False,True,NBA Stating 5 $500 Quarter Jukebox [Just $0.25!] (Starting 5),500.0,NBA,2024-12-14 21:30:00+00:00,0.25,2378
+171710547,118812,3.0,False,False,True,False,True,NBA Stating 5 $300 Sharpshooter (Starting 5),300.0,NBA,2024-12-14 21:30:00+00:00,3.0,118
+171710548,118812,12.0,False,False,True,False,True,NBA Stating 5 $155 Pick and Roll [Single Entry] (Starting 5),155.0,NBA,2024-12-14 21:30:00+00:00,12.0,15
+171710549,118812,5.0,False,False,True,False,True,NBA Stating 5 $200 High Five [Single Entry] (Starting 5),200.0,NBA,2024-12-14 21:30:00+00:00,5.0,47
+171710550,118812,1060.0,False,False,False,False,True,NBA Stating 5 $4K All Star [Single Entry] (Must Fill) (Starting 5),4000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,4
+171710551,118812,50.0,False,False,True,False,True,NBA Stating 5 $50 Winner Take All [$220 to 1st] (Starting 5),220.0,NBA,2024-12-14 21:30:00+00:00,50.0,5
+171710552,118812,100.0,False,False,False,False,True,NBA Stating 5 $100 Winner Take All [$460 to 1st] (Must Fill) (Starting 5),460.0,NBA,2024-12-14 21:30:00+00:00,100.0,5
+171710553,118814,0.0,False,False,True,False,True,NBA Showdown $1K Quarter Jukebox [Just $0.25!]  (ATL @ MIL),1000.0,NBA,2024-12-14 21:30:00+00:00,0.25,4756
+171710554,118814,5.0,False,False,True,False,True,NBA Showdown $1K High Five [Single Entry] (ATL @ MIL),1000.0,NBA,2024-12-14 21:30:00+00:00,5.0,237
+171710555,118814,12.0,False,False,True,False,True,NBA Showdown $300 Pick and Roll [Single Entry] (ATL @ MIL),300.0,NBA,2024-12-14 21:30:00+00:00,12.0,29
+171710556,118814,50.0,False,False,True,False,True,NBA Showdown $500 Ankle Breaker [Single Entry] (ATL @ MIL),500.0,NBA,2024-12-14 21:30:00+00:00,50.0,11
+171710557,118814,300.0,False,False,True,False,True,NBA Showdown $1.35K 3-Ball [Single Entry] (ATL @ MIL),1350.0,NBA,2024-12-14 21:30:00+00:00,300.0,5
+171710558,118814,150.0,False,False,True,False,True,NBA Showdown $2.57K Posterizer [Single Entry] (ATL @ MIL),2570.0,NBA,2024-12-14 21:30:00+00:00,150.0,19
+171710559,118814,1.0,False,False,True,False,True,NBA Showdown $3K And-One [20 Entry Max] (ATL @ MIL),3000.0,NBA,2024-12-14 21:30:00+00:00,1.0,3567
+171710560,118814,33.0,False,False,True,False,True,NBA Showdown $510 Triple Threat (ATL @ MIL),510.0,NBA,2024-12-14 21:30:00+00:00,33.0,18
+171710561,118814,3.0,False,False,True,False,True,NBA Showdown $750 Sharpshooter (ATL @ MIL),750.0,NBA,2024-12-14 21:30:00+00:00,3.0,297
+171710562,118815,50.0,False,False,True,False,True,NBA Showdown $3K Ankle Breaker [2 Entry Max] (HOU @ OKC),3000.0,NBA,2024-12-15 01:30:00+00:00,50.0,68
+171710563,118815,6.0,False,False,True,False,True,NBA Showdown $26K Jab Step [$5K to 1st] (HOU @ OKC),26000.0,NBA,2024-12-15 01:30:00+00:00,6.0,5098
+171710564,118815,1.0,False,False,True,False,True,NBA Showdown $10K And-One (HOU @ OKC),10000.0,NBA,2024-12-15 01:30:00+00:00,1.0,11890
+171710565,118815,0.0,False,False,True,False,True,NBA Showdown $2K Quarter Jukebox [Just $0.25!] (HOU @ OKC),2000.0,NBA,2024-12-15 01:30:00+00:00,0.25,9512
+171710566,118815,12.0,False,False,True,False,True,NBA Showdown $1.5K Pick and Roll [Single Entry] (HOU @ OKC),1500.0,NBA,2024-12-15 01:30:00+00:00,12.0,147
+171710567,118815,300.0,False,False,True,False,True,NBA Showdown $1.9K 3-Ball [Single Entry] (HOU @ OKC),1900.0,NBA,2024-12-15 01:30:00+00:00,300.0,7
+171710568,118815,100.0,False,False,True,False,True,NBA Showdown $3K Showtime [Single Entry] (HOU @ OKC),3000.0,NBA,2024-12-15 01:30:00+00:00,100.0,33
+171710569,118815,3.0,False,False,True,False,True,NBA Showdown $5K Sharpshooter [20 Entry Max] (HOU @ OKC),5000.0,NBA,2024-12-15 01:30:00+00:00,3.0,1981
+171710570,118815,5.0,False,False,True,False,True,NBA Showdown $5K High Five [Single Entry] (HOU @ OKC),5000.0,NBA,2024-12-15 01:30:00+00:00,5.0,1189
+171710571,118815,1500.0,False,False,True,False,True,NBA Showdown $8.5K Courtside Special [Single Entry] (HOU @ OKC),8500.0,NBA,2024-12-15 01:30:00+00:00,1500.0,6
+171710572,118815,33.0,False,False,True,False,True,NBA Showdown $4K Triple Threat [$1K to 1st] (HOU @ OKC),4000.0,NBA,2024-12-15 01:30:00+00:00,33.0,141
+171710573,118815,0.0,False,False,True,False,True,NBA Showdown $5K mini-MAX [150 Entry Max] (HOU @ OKC),5000.0,NBA,2024-12-15 01:30:00+00:00,0.5,11890
+171710574,118815,25.0,True,False,True,False,True,NBA Showdown Single Entry $25 Double Up (HOU @ OKC),1000.0,NBA,2024-12-15 01:30:00+00:00,25.0,45
+171710575,118815,10.0,True,False,True,False,True,NBA Showdown Single Entry $10 Double Up (HOU @ OKC),500.0,NBA,2024-12-15 01:30:00+00:00,10.0,57
+171710576,118815,5.0,True,False,True,False,True,NBA Showdown Single Entry $5 Double Up (HOU @ OKC),500.0,NBA,2024-12-15 01:30:00+00:00,5.0,114
+171710577,118817,100.0,False,False,True,False,True,"NBA In-Game $720 Showtime [Single Entry, Top 2 Win] (2H HOU @ OKC)",720.0,NBA,2024-12-15 02:30:00+00:00,100.0,8
+171710578,118817,27.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (2H HOU @ OKC),240.0,NBA,2024-12-15 02:30:00+00:00,27.0,10
+171710579,118817,3.0,False,False,True,False,True,NBA In-Game $100 Sharpshooter (2H HOU @ OKC),100.0,NBA,2024-12-15 02:30:00+00:00,3.0,39
+171710580,118817,5.0,False,False,True,False,True,NBA In-Game $150 High Five [Single Entry] (2H HOU @ OKC),150.0,NBA,2024-12-15 02:30:00+00:00,5.0,35
+171710581,118817,300.0,False,False,True,False,True,NBA In-Game $1.35K 3-Ball [Single Entry] (2H HOU @ OKC),1350.0,NBA,2024-12-15 02:30:00+00:00,300.0,5
+171710582,118817,10.0,False,False,True,False,True,NBA In-Game $4K Pull Up Jumper [$1K to 1st] (2H HOU @ OKC),4000.0,NBA,2024-12-15 02:30:00+00:00,10.0,470
+171710583,118817,50.0,False,False,True,False,True,NBA In-Game $265 Ankle Breaker [Single Entry] (2H HOU @ OKC),265.0,NBA,2024-12-15 02:30:00+00:00,50.0,6
+171710584,118817,1.0,False,False,True,False,True,NBA In-Game $250 And-One (2H HOU @ OKC),250.0,NBA,2024-12-15 02:30:00+00:00,1.0,297
+171710585,118817,0.0,False,False,True,False,True,NBA In-Game $100 Quarter Jukebox [Just $0.25!] (2H HOU @ OKC),100.0,NBA,2024-12-15 02:30:00+00:00,0.25,475
+171710668,118810,530.0,True,False,True,False,True,NBA $530 50-50,3000.0,NBA,2024-12-14 21:30:00+00:00,530.0,6
+171710669,118810,25.0,False,False,True,False,False,NBA $25 Quintuple Up [Top 5 Win $125],625.0,NBA,2024-12-14 21:30:00+00:00,25.0,28
+171710670,118810,100.0,True,False,True,False,False,NBA $100 Double Up,2000.0,NBA,2024-12-14 21:30:00+00:00,100.0,22
+171710671,118810,5.0,True,False,True,False,False,NBA $5 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,5.0,229
+171710672,118810,1.0,True,False,True,False,False,NBA $1 Double Up,300.0,NBA,2024-12-14 21:30:00+00:00,1.0,344
+171710673,118810,5.0,False,False,True,False,False,NBA 10x Booster [Top 5 Win $50],250.0,NBA,2024-12-14 21:30:00+00:00,5.0,59
+171710674,118810,2.0,False,False,True,False,False,NBA 10x Booster [Top 10 Win $20],200.0,NBA,2024-12-14 21:30:00+00:00,2.0,118
+171710675,118810,2.0,False,False,True,False,False,NBA 10x Booster [Top 5 Win $20],100.0,NBA,2024-12-14 21:30:00+00:00,2.0,59
+171710676,118810,2.0,False,False,True,False,False,NBA 10x Booster [Top 3 Win $20],60.0,NBA,2024-12-14 21:30:00+00:00,2.0,35
+171710677,118810,9.0,False,False,True,False,False,NBA $9 Contest,300.0,NBA,2024-12-14 21:30:00+00:00,9.0,39
+171710681,118810,5.0,False,False,True,False,False,NBA $5 Contest,200.0,NBA,2024-12-14 21:30:00+00:00,5.0,47
+171710682,118810,2.0,False,False,True,False,False,NBA $2 Contest,200.0,NBA,2024-12-14 21:30:00+00:00,2.0,118
+171710683,118810,1.0,False,False,True,False,False,NBA $1 Contest,50.0,NBA,2024-12-14 21:30:00+00:00,1.0,59
+171710684,118810,1.0,False,False,True,False,False,NBA $1 Contest,50.0,NBA,2024-12-14 21:30:00+00:00,1.0,59
+171710685,118810,0.0,False,False,True,False,False,NBA $0.25 Contest,50.0,NBA,2024-12-14 21:30:00+00:00,0.25,237
+171710686,118810,0.0,False,False,True,False,False,NBA $0.25 Contest,50.0,NBA,2024-12-14 21:30:00+00:00,0.25,237
+171710687,118810,50.0,True,False,True,False,False,NBA $50 Double Up,500.0,NBA,2024-12-14 21:30:00+00:00,50.0,11
+171710688,118810,50.0,True,False,True,False,False,NBA $50 Double Up,500.0,NBA,2024-12-14 21:30:00+00:00,50.0,11
+171710689,118810,1.0,True,False,True,False,False,Beginner NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710690,118810,2.0,False,False,True,False,False,NBA 10x Booster [Top 5 Win $20],100.0,NBA,2024-12-14 21:30:00+00:00,2.0,59
+171710691,118810,20.0,False,False,True,False,False,NBA $20 Winner Take All [$175 to 1st],175.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171710692,118810,2.0,False,False,True,False,False,NBA $2 Winner Take All [$120 to 1st],120.0,NBA,2024-12-14 21:30:00+00:00,2.0,71
+171710693,118810,0.0,False,False,True,False,False,NBA $0.25 Winner Take All [$50 to 1st],50.0,NBA,2024-12-14 21:30:00+00:00,0.25,237
+171710694,118810,25.0,True,False,True,False,False,NBA $25 Double Up,500.0,NBA,2024-12-14 21:30:00+00:00,25.0,22
+171710695,118810,25.0,True,False,True,False,False,NBA $25 Double Up,500.0,NBA,2024-12-14 21:30:00+00:00,25.0,22
+171710696,118810,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2024-12-14 21:30:00+00:00,10.0,23
+171710697,118810,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2024-12-14 21:30:00+00:00,10.0,23
+171710698,118810,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2024-12-14 21:30:00+00:00,10.0,23
+171710699,118810,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710700,118810,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710701,118810,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710702,118810,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710703,118810,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710704,118810,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710705,118810,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710706,118810,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710707,118810,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710708,118810,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710709,118810,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710710,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710711,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710712,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710713,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710714,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710715,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710716,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710717,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710718,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710719,118810,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710720,118810,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710721,118810,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710722,118810,5.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710723,118810,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2024-12-14 21:30:00+00:00,10.0,23
+171710724,118810,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2024-12-14 21:30:00+00:00,10.0,23
+171710725,118810,100.0,False,False,True,False,False,NBA $100 Winner Take All [$1K to 1st],1000.0,NBA,2024-12-14 21:30:00+00:00,100.0,11
+171710726,118810,20.0,False,False,True,False,True,NBA $20 Winner Take All [$500 to 1st],500.0,NBA,2024-12-14 21:30:00+00:00,20.0,29
+171710727,118810,5.0,False,False,True,False,False,NBA $5 Winner Take All [$100 to 1st],100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710728,118810,3.0,False,False,True,False,False,NBA $3 Winner Take All [$100 to 1st],100.0,NBA,2024-12-14 21:30:00+00:00,3.0,39
+171710729,118810,1.0,False,False,True,False,False,NBA $1 Winner Take All [$100 to 1st],100.0,NBA,2024-12-14 21:30:00+00:00,1.0,118
+171710730,118810,50.0,False,False,True,False,False,NBA $50 Winner Take All [$500 to 1st],500.0,NBA,2024-12-14 21:30:00+00:00,50.0,11
+171710731,118810,100.0,False,False,True,False,False,NBA $100 Quintuple Up [Top 2 Win $500],1000.0,NBA,2024-12-14 21:30:00+00:00,100.0,11
+171710732,118810,1.0,True,False,True,False,False,Casual NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710733,118810,3.0,True,False,True,False,False,Casual NBA $3 Double Up,60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710734,118810,5.0,False,False,True,False,False,NBA $5 Triple Up [Top 6 Win $15],90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171710735,118810,5.0,False,False,True,False,False,NBA $5 Triple Up [Top 6 Win $15],90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171710736,118810,25.0,False,False,True,False,False,NBA $25 Triple Up [Top 9 Win $75],675.0,NBA,2024-12-14 21:30:00+00:00,25.0,31
+171710737,118810,10.0,False,False,True,False,False,NBA $10 Triple Up [Top 9 Win $30],270.0,NBA,2024-12-14 21:30:00+00:00,10.0,31
+171710738,118810,10.0,False,False,True,False,False,NBA $10 Triple Up [Top 18 Win $30],540.0,NBA,2024-12-14 21:30:00+00:00,10.0,62
+171710739,118810,5.0,False,False,True,False,False,NBA $5 Triple Up [Top 18 Win $15],270.0,NBA,2024-12-14 21:30:00+00:00,5.0,62
+171710740,118810,5.0,False,False,True,False,False,NBA $5 Triple Up [Top 27 Win $15],405.0,NBA,2024-12-14 21:30:00+00:00,5.0,93
+171710741,118810,5.0,False,False,True,False,False,NBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2024-12-14 21:30:00+00:00,5.0,31
+171710742,118810,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 18 Win $3],54.0,NBA,2024-12-14 21:30:00+00:00,1.0,62
+171710743,118810,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2024-12-14 21:30:00+00:00,1.0,31
+171710744,118810,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2024-12-14 21:30:00+00:00,1.0,31
+171710745,118810,1.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2024-12-14 21:30:00+00:00,1.0,31
+171710746,118810,267.0,False,False,True,False,True,NBA $267 Winner Take All [$1K to 1st],1000.0,NBA,2024-12-14 21:30:00+00:00,267.0,4
+171710747,118810,1060.0,True,False,True,False,True,"NBA $1,060 50-50",6000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,6
+171710748,118810,1.0,True,False,True,False,False,NBA $1 Double Up,54.0,NBA,2024-12-14 21:30:00+00:00,1.0,62
+171710749,118810,1.0,True,False,True,False,False,NBA $1 Double Up,54.0,NBA,2024-12-14 21:30:00+00:00,1.0,62
+171710750,118810,1.0,True,False,True,False,False,NBA $1 Double Up,54.0,NBA,2024-12-14 21:30:00+00:00,1.0,62
+171710751,118810,1.0,True,False,True,False,False,NBA $1 Double Up,54.0,NBA,2024-12-14 21:30:00+00:00,1.0,62
+171710752,118810,1.0,True,False,True,False,False,NBA $1 Double Up,54.0,NBA,2024-12-14 21:30:00+00:00,1.0,62
+171710753,118810,3.0,True,False,True,False,False,NBA $3 Double Up,324.0,NBA,2024-12-14 21:30:00+00:00,3.0,124
+171710754,118810,3.0,True,False,True,False,False,NBA $3 Double Up,324.0,NBA,2024-12-14 21:30:00+00:00,3.0,124
+171710755,118810,5.0,True,False,True,False,False,NBA $5 Double Up,540.0,NBA,2024-12-14 21:30:00+00:00,5.0,124
+171710756,118810,10.0,True,False,True,False,False,NBA $10 Double Up,540.0,NBA,2024-12-14 21:30:00+00:00,10.0,62
+171710757,118810,3.0,True,False,True,False,False,NBA $3 Double Up,162.0,NBA,2024-12-14 21:30:00+00:00,3.0,62
+171710758,118810,3.0,True,False,True,False,False,NBA $3 Double Up,162.0,NBA,2024-12-14 21:30:00+00:00,3.0,62
+171710759,118810,5.0,True,False,True,False,False,NBA $5 Double Up,270.0,NBA,2024-12-14 21:30:00+00:00,5.0,62
+171710760,118810,5.0,True,False,True,False,False,NBA $5 Double Up,270.0,NBA,2024-12-14 21:30:00+00:00,5.0,62
+171710761,118810,25.0,True,False,True,False,False,NBA $25 Double Up,850.0,NBA,2024-12-14 21:30:00+00:00,25.0,39
+171710762,118810,0.0,False,False,True,False,True,NBA $400 Dime Time [Just $0.10!],400.0,NBA,2024-12-14 21:30:00+00:00,0.1,4756
+171710763,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710764,118810,1.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710765,118810,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710766,118810,3.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710767,118810,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2024-12-14 21:30:00+00:00,10.0,23
+171710768,118810,10.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2024-12-14 21:30:00+00:00,10.0,23
+171710769,118810,1.0,True,False,True,False,False,NBA $1 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,1.0,114
+171710770,118810,1.0,True,False,True,False,False,NBA $1 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,1.0,114
+171710771,118810,10.0,False,False,True,False,False,NBA $10 Quintuple Up [Top 5 Win $50],250.0,NBA,2024-12-14 21:30:00+00:00,10.0,28
+171710772,118810,10.0,False,False,True,False,False,NBA $10 Quintuple Up [Top 5 Win $50],250.0,NBA,2024-12-14 21:30:00+00:00,10.0,28
+171710773,118810,25.0,False,False,True,False,False,NBA $25 Quintuple Up [Top 5 Win $125],625.0,NBA,2024-12-14 21:30:00+00:00,25.0,28
+171710774,118810,100.0,False,False,True,False,False,NBA $100 Triple Up [Top 3 Win $300],900.0,NBA,2024-12-14 21:30:00+00:00,100.0,10
+171710775,118810,10.0,False,False,True,False,False,NBA 10x Booster [Top 5 Win $100],500.0,NBA,2024-12-14 21:30:00+00:00,10.0,58
+171710776,118810,10.0,False,False,True,False,False,NBA 10x Booster [Top 3 Win $100],300.0,NBA,2024-12-14 21:30:00+00:00,10.0,35
+171710777,118810,50.0,False,False,True,False,False,NBA $50 Triple Up [Top 3 Win $150],450.0,NBA,2024-12-14 21:30:00+00:00,50.0,10
+171710778,118810,50.0,False,False,True,False,False,NBA $50 Triple Up [Top 3 Win $150],450.0,NBA,2024-12-14 21:30:00+00:00,50.0,10
+171710779,118810,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2024-12-14 21:30:00+00:00,1.0,28
+171710780,118810,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2024-12-14 21:30:00+00:00,1.0,28
+171710781,118810,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2024-12-14 21:30:00+00:00,1.0,28
+171710782,118810,1.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2024-12-14 21:30:00+00:00,1.0,28
+171710783,118810,5.0,False,False,True,False,False,NBA $5 Quintuple Up [Top 5 Win $25],125.0,NBA,2024-12-14 21:30:00+00:00,5.0,28
+171710784,118810,5.0,False,False,True,False,False,NBA $5 Quintuple Up [Top 5 Win $25],125.0,NBA,2024-12-14 21:30:00+00:00,5.0,28
+171710785,118810,5.0,False,False,True,False,False,NBA $5 Quintuple Up [Top 5 Win $25],125.0,NBA,2024-12-14 21:30:00+00:00,5.0,28
+171710786,118810,3.0,False,False,True,False,False,NBA $3 Quintuple Up [Top 5 Win $15],75.0,NBA,2024-12-14 21:30:00+00:00,3.0,28
+171710787,118810,3.0,False,False,True,False,False,NBA $3 Quintuple Up [Top 5 Win $15],75.0,NBA,2024-12-14 21:30:00+00:00,3.0,28
+171710788,118810,250.0,True,False,True,False,False,NBA $250 Double Up,2500.0,NBA,2024-12-14 21:30:00+00:00,250.0,11
+171710789,118810,250.0,True,False,True,False,False,NBA $250 Double Up,2500.0,NBA,2024-12-14 21:30:00+00:00,250.0,11
+171710790,118810,10.0,False,False,True,False,False,NBA $10 Triple Up [Top 3 Win $30],90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171710791,118810,10.0,False,False,True,False,False,NBA $10 Triple Up [Top 3 Win $30],90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171710792,118810,25.0,False,False,True,False,False,NBA $25 Triple Up [Top 3 Win $75],225.0,NBA,2024-12-14 21:30:00+00:00,25.0,10
+171710793,118810,25.0,False,False,True,False,False,NBA $25 Triple Up [Top 3 Win $75],225.0,NBA,2024-12-14 21:30:00+00:00,25.0,10
+171710794,118810,25.0,False,False,True,False,False,NBA $25 Triple Up [Top 3 Win $75],225.0,NBA,2024-12-14 21:30:00+00:00,25.0,10
+171710795,118810,1.0,False,False,True,False,False,NBA $1 Hundo [Single Entry],90.0,NBA,2024-12-14 21:30:00+00:00,1.0,100
+171710796,118810,100.0,True,False,True,False,False,NBA $100 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,100.0,11
+171710797,118810,50.0,True,False,True,False,False,NBA $50 Double Up,500.0,NBA,2024-12-14 21:30:00+00:00,50.0,11
+171710798,118810,25.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2024-12-14 21:30:00+00:00,25.0,11
+171710799,118810,25.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2024-12-14 21:30:00+00:00,25.0,11
+171710800,118810,0.0,False,False,True,False,True,NBA Satellite to NAS 2-16 America's Race,25.0,NBA,2024-12-14 21:30:00+00:00,0.25,118
+171710801,118810,0.0,False,False,True,False,True,NBA Satellite to $15 NBA Fadeaway,15.0,NBA,2024-12-14 21:30:00+00:00,0.1,178
+171710802,118810,0.0,False,False,True,False,True,NBA Satellite to $15 NBA Fadeaway,15.0,NBA,2024-12-14 21:30:00+00:00,0.1,178
+171710803,118810,9.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop,555.0,NBA,2024-12-14 21:30:00+00:00,9.0,72
+171710804,118810,90.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop,555.0,NBA,2024-12-14 21:30:00+00:00,90.0,7
+171710805,118810,1.0,False,False,True,False,True,NBA Satellite to $15 NBA Fadeaway,15.0,NBA,2024-12-14 21:30:00+00:00,1.0,17
+171710806,118810,1.0,False,False,True,False,True,NBA Satellite to $15 NBA Fadeaway,15.0,NBA,2024-12-14 21:30:00+00:00,1.0,17
+171710807,118810,0.0,False,False,True,False,True,NBA Satellite to $15 NBA Fadeaway [2x],30.0,NBA,2024-12-14 21:30:00+00:00,0.25,142
+171710809,118810,35.0,False,False,True,False,True,NBA Satellite to $333 NFL Wildcat,333.0,NBA,2024-12-14 21:30:00+00:00,35.0,11
+171710810,118810,75.0,False,False,True,False,True,NBA Satellite to $333 NFL Wildcat,333.0,NBA,2024-12-14 21:30:00+00:00,75.0,5
+171710811,118810,0.0,False,False,True,False,True,NBA Satellite to $20 NFL Fantasy Football Millionaire,20.0,NBA,2024-12-14 21:30:00+00:00,0.1,237
+171710812,118810,0.0,False,False,True,False,True,NBA Satellite to $20 NFL Fantasy Football Millionaire,20.0,NBA,2024-12-14 21:30:00+00:00,0.1,237
+171710813,118810,0.0,False,False,True,False,True,NBA Satellite to $20 NFL Fantasy Football Millionaire,20.0,NBA,2024-12-14 21:30:00+00:00,0.25,95
+171710814,118810,0.0,False,False,True,False,True,NBA Satellite to $20 NFL Fantasy Football Millionaire,20.0,NBA,2024-12-14 21:30:00+00:00,0.25,95
+171710815,118810,1.0,False,False,True,False,True,NBA Satellite to $20 NFL Fantasy Football Millionaire,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710816,118810,370.0,False,False,True,False,True,FINAL STRETCH: NBA Satellite to NFL $10M Ultimate Main Event (12-29),3333.0,NBA,2024-12-14 21:30:00+00:00,370.0,10
+171710817,118810,29.0,False,False,True,False,True,NBA Satellite to NBA $2.25M MEGA Millionaire (12-27),2500.0,NBA,2024-12-14 21:30:00+00:00,29.0,100
+171710818,118810,42.0,False,False,True,False,True,NBA Satellite to NBA $2.25M MEGA Millionaire (12-27),2500.0,NBA,2024-12-14 21:30:00+00:00,42.0,69
+171710819,118810,42.0,False,False,True,False,True,NBA Satellite to NBA $2.25M MEGA Millionaire (12-27),2500.0,NBA,2024-12-14 21:30:00+00:00,42.0,69
+171710820,118810,111.0,False,False,True,False,True,NBA Satellite to NBA $2.25M MEGA Millionaire (12-27),2500.0,NBA,2024-12-14 21:30:00+00:00,111.0,25
+171710821,118810,250.0,False,False,True,False,True,NBA Satellite to NBA $2.25M MEGA Millionaire (12-27),2500.0,NBA,2024-12-14 21:30:00+00:00,250.0,11
+171710822,118810,10.0,False,False,True,False,True,NBA Satellite to NBA $725 FBWC Qualifier,725.0,NBA,2024-12-14 21:30:00+00:00,10.0,85
+171710823,118810,1.0,False,False,True,False,True,NBA Satellite to NBA $250 FBWC Qualifier,250.0,NBA,2024-12-14 21:30:00+00:00,1.0,297
+171710824,118810,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x],50.0,NBA,2024-12-14 21:30:00+00:00,0.25,237
+171710825,118810,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x],50.0,NBA,2024-12-14 21:30:00+00:00,0.25,237
+171710826,118810,2.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x],50.0,NBA,2024-12-14 21:30:00+00:00,2.0,29
+171710827,118810,3.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x],50.0,NBA,2024-12-14 21:30:00+00:00,3.0,19
+171710828,118810,3.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x],50.0,NBA,2024-12-14 21:30:00+00:00,3.0,19
+171710829,118810,3.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [4x],100.0,NBA,2024-12-14 21:30:00+00:00,3.0,39
+171710830,118810,3.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [4x],100.0,NBA,2024-12-14 21:30:00+00:00,3.0,39
+171710831,118810,5.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [4x],100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710832,118810,5.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [4x],100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710833,118810,3.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [10x],250.0,NBA,2024-12-14 21:30:00+00:00,3.0,99
+171710834,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.1,297
+171710835,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.1,297
+171710836,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.1,297
+171710837,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.1,297
+171710838,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.1,297
+171710839,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.25,118
+171710840,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.25,118
+171710841,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.25,118
+171710842,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.25,118
+171710843,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.25,118
+171710844,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.5,59
+171710845,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.5,59
+171710846,118810,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,0.5,59
+171710847,118810,1.0,False,False,True,False,True,NBA Satellite to NBA $25 Holiday BBall Special (12-25),25.0,NBA,2024-12-14 21:30:00+00:00,1.0,29
+171710848,118810,90.0,False,False,True,False,True,NBA Satellite to NBA $1M MEGA 8's Special (January),888.0,NBA,2024-12-14 21:30:00+00:00,90.0,11
+171710849,118810,140.0,False,False,True,False,True,NBA Satellite to NBA $1M MEGA 8's Special (January),888.0,NBA,2024-12-14 21:30:00+00:00,140.0,7
+171710850,118810,45.0,False,False,True,False,True,NBA Satellite to NBA $1M MEGA 8's Special (January),888.0,NBA,2024-12-14 21:30:00+00:00,45.0,23
+171710851,118810,10.0,False,False,True,False,True,NBA Satellite to NBA $1M MEGA 8's Special (January),888.0,NBA,2024-12-14 21:30:00+00:00,10.0,104
+171710852,118810,3.0,False,False,True,False,True,NBA Satellite to NFL Ultimate Main Event MEGASat (12-22),200.0,NBA,2024-12-14 21:30:00+00:00,3.0,79
+171710853,118810,90.0,False,False,True,False,True,NBA Satellite to 3-11 NHL $555 Barn Bash,555.0,NBA,2024-12-14 21:30:00+00:00,90.0,7
+171710854,118810,140.0,False,False,True,False,True,NBA Satellite to 12-18 NHL $888 Abominable Snowman,888.0,NBA,2024-12-14 21:30:00+00:00,140.0,7
+171710855,118810,1.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [10x],250.0,NBA,2024-12-14 21:30:00+00:00,1.0,297
+171710856,118810,5.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [10x],250.0,NBA,2024-12-14 21:30:00+00:00,5.0,59
+171710857,118810,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball Playoff Special,20.0,NBA,2024-12-14 21:30:00+00:00,0.25,95
+171710858,118810,1.0,False,False,True,False,True,NBA Satellite to NFL Best Ball Playoff Special,20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710859,118810,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball Playoff Special,20.0,NBA,2024-12-14 21:30:00+00:00,0.1,237
+171710875,118813,1.0,False,False,True,False,False,NBA Single Stat $1 10-Player [Top 2 Win] (Points),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171710876,118813,1.0,False,False,True,False,False,NBA Single Stat $1 10-Player [Top 2 Win] (Points),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171710879,118813,5.0,False,False,True,False,False,NBA Single Stat $5 10-Player [Top 2 Win] (Points),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171710897,118814,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (ATL @ MIL),250.0,NBA,2024-12-14 21:30:00+00:00,25.0,11
+171710898,118814,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (ATL @ MIL),20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710899,118814,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (ATL @ MIL),100.0,NBA,2024-12-14 21:30:00+00:00,10.0,11
+171710900,118814,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,1.0,31
+171710901,118814,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (ATL @ MIL),20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710902,118814,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (ATL @ MIL),60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710903,118814,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (ATL @ MIL),100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710904,118814,85.0,False,False,True,False,True,NBA Showdown $85 Winner Take All [$300 to 1st] (ATL @ MIL),300.0,NBA,2024-12-14 21:30:00+00:00,85.0,4
+171710905,118814,0.0,False,False,True,False,True,NBA Showdown Satellite to $20 NFL Fantasy Football Millionaire (ATL @ MIL),20.0,NBA,2024-12-14 21:30:00+00:00,0.25,95
+171710906,118814,1177.0,False,False,False,False,True,FINAL STRETCH: NBA Showdown Satellite to NFL $10M Ultimate Main Event (12-29) [Must Fill] (ATL @ MIL,3333.0,NBA,2024-12-14 21:30:00+00:00,1177.0,3
+171710907,118814,0.0,False,False,True,False,True,NBA Showdown Satellite to $15 NBA Fadeaway (ATL @ MIL),15.0,NBA,2024-12-14 21:30:00+00:00,0.25,71
+171710908,118814,0.0,False,False,True,False,True,NBA Showdown Satellite to $15 NBA Fadeaway (ATL @ MIL),15.0,NBA,2024-12-14 21:30:00+00:00,0.1,178
+171710909,118814,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (ATL @ MIL),25.0,NBA,2024-12-14 21:30:00+00:00,0.1,297
+171710910,118814,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (ATL @ MIL),25.0,NBA,2024-12-14 21:30:00+00:00,0.1,297
+171710911,118814,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (ATL @ MIL),25.0,NBA,2024-12-14 21:30:00+00:00,0.1,297
+171710912,118814,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (ATL @ MIL),25.0,NBA,2024-12-14 21:30:00+00:00,0.25,118
+171710913,118814,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (ATL @ MIL),25.0,NBA,2024-12-14 21:30:00+00:00,0.25,118
+171710914,118814,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (ATL @ MIL),25.0,NBA,2024-12-14 21:30:00+00:00,0.25,118
+171710915,118814,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (ATL @ MIL),25.0,NBA,2024-12-14 21:30:00+00:00,0.5,59
+171710916,118812,10.0,True,False,True,False,False,NBA Stating 5 $10 Double Up (Starting 5),200.0,NBA,2024-12-14 21:30:00+00:00,10.0,23
+171710917,118812,1.0,False,False,True,False,False,NBA Stating 5 $1 Triple Up [Top 9 Win $3] (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,1.0,31
+171710918,118812,5.0,False,False,True,False,False,NBA Stating 5 $5 Triple Up [Top 9 Win $15] (Starting 5),135.0,NBA,2024-12-14 21:30:00+00:00,5.0,31
+171710919,118812,10.0,False,False,True,False,False,NBA Stating 5 $10 Triple Up [Top 9 Win $30] (Starting 5),270.0,NBA,2024-12-14 21:30:00+00:00,10.0,31
+171710920,118812,3.0,True,False,True,False,False,NBA Stating 5 $3 Double Up (Starting 5),60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710921,118812,25.0,True,False,True,False,False,NBA Stating 5 $25 Double Up (Starting 5),250.0,NBA,2024-12-14 21:30:00+00:00,25.0,11
+171710922,118812,5.0,True,False,True,False,False,NBA Stating 5 $5 Double Up (Starting 5),100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710923,118812,1.0,True,False,True,False,False,NBA Stating 5 $1 Double Up (Starting 5),20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710924,118812,10.0,True,False,True,False,False,NBA Stating 5 $10 Double Up (Starting 5),100.0,NBA,2024-12-14 21:30:00+00:00,10.0,11
+171710925,118812,50.0,True,False,True,False,False,NBA Stating 5 $50 Double Up (Starting 5),500.0,NBA,2024-12-14 21:30:00+00:00,50.0,11
+171710926,118812,3.0,True,False,True,False,False,NBA Stating 5 $3 Double Up (Starting 5),60.0,NBA,2024-12-14 21:30:00+00:00,3.0,23
+171710927,118812,1.0,True,False,True,False,False,NBA Stating 5 $1 Double Up (Starting 5),20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710928,118812,5.0,True,False,True,False,False,NBA Stating 5 $5 Double Up (Starting 5),100.0,NBA,2024-12-14 21:30:00+00:00,5.0,23
+171710929,118812,25.0,False,False,True,False,False,NBA Stating 5 $25 Triple Up [Top 3 Win $75] (Starting 5),225.0,NBA,2024-12-14 21:30:00+00:00,25.0,10
+171710930,118812,1.0,False,False,True,False,False,NBA Stating 5 $1 Triple Up [Top 9 Win $3] (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,1.0,31
+171710931,118812,5.0,False,False,True,False,False,NBA Stating 5 $5 Triple Up [Top 9 Win $15] (Starting 5),135.0,NBA,2024-12-14 21:30:00+00:00,5.0,31
+171710932,118812,1.0,True,False,True,False,False,NBA Stating 5 $1 Double Up (Starting 5),20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171710933,118812,85.0,False,False,True,False,True,NBA Stating 5 $85 Winner Take All [$300 to 1st] (Starting 5),300.0,NBA,2024-12-14 21:30:00+00:00,85.0,4
+171710934,118812,25.0,False,False,True,False,True,NBA Stating 5 $25 Winner Take All [$110 to 1st] (Starting 5),110.0,NBA,2024-12-14 21:30:00+00:00,25.0,5
+171710952,118814,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171710953,118814,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (ATL @ MIL),135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171710954,118814,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171710955,118814,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171710956,118814,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (ATL @ MIL),2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171710957,118814,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (ATL @ MIL)",20000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,4
+171710958,118814,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (ATL @ MIL)",4000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,4
+171710959,118814,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (ATL @ MIL),2000.0,NBA,2024-12-14 21:30:00+00:00,530.0,4
+171710960,118814,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (ATL @ MIL),600.0,NBA,2024-12-14 21:30:00+00:00,162.0,4
+171710961,118814,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (ATL @ MIL),400.0,NBA,2024-12-14 21:30:00+00:00,109.0,4
+171710962,118814,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (ATL @ MIL),180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171710963,118814,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (ATL @ MIL),360.0,NBA,2024-12-14 21:30:00+00:00,20.0,20
+171710964,118814,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (ATL @ MIL),180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171710965,118814,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (ATL @ MIL),72.0,NBA,2024-12-14 21:30:00+00:00,20.0,4
+171710966,118814,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (ATL @ MIL),72.0,NBA,2024-12-14 21:30:00+00:00,20.0,4
+171710967,118814,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (ATL @ MIL),180.0,NBA,2024-12-14 21:30:00+00:00,10.0,20
+171710968,118814,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (ATL @ MIL),90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171710969,118814,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (ATL @ MIL),90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171710970,118814,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (ATL @ MIL),36.0,NBA,2024-12-14 21:30:00+00:00,10.0,4
+171710971,118814,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (ATL @ MIL),36.0,NBA,2024-12-14 21:30:00+00:00,10.0,4
+171710972,118814,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (ATL @ MIL),36.0,NBA,2024-12-14 21:30:00+00:00,10.0,4
+171710973,118814,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (ATL @ MIL),90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171710974,118814,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (ATL @ MIL),90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171710975,118814,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171710976,118814,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171710977,118814,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171710978,118814,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (ATL @ MIL),36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171710979,118814,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (ATL @ MIL),36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171710980,118814,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (ATL @ MIL),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171710981,118814,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (ATL @ MIL),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171710982,118814,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (ATL @ MIL),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171710983,118814,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (ATL @ MIL),18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171710984,118814,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (ATL @ MIL),18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171710985,118814,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171710986,118814,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171710987,118814,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171710988,118814,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (ATL @ MIL),180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171710989,118814,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (ATL @ MIL),72.0,NBA,2024-12-14 21:30:00+00:00,20.0,4
+171710990,118814,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (ATL @ MIL),90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171710991,118814,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171710992,118814,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,3.0,10
+171710993,118814,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171710994,118814,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171710995,118814,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (ATL @ MIL),22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171710996,118814,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171710997,118814,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171710998,118814,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (ATL @ MIL),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171710999,118814,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (ATL @ MIL),4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171711000,118814,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (ATL @ MIL)",30000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,3
+171711001,118814,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (ATL @ MIL)",15000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,3
+171711002,118814,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (ATL @ MIL)",3000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,3
+171711003,118814,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (ATL @ MIL),1500.0,NBA,2024-12-14 21:30:00+00:00,530.0,3
+171711004,118814,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (ATL @ MIL),450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171711005,118814,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (ATL @ MIL),300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171711006,118814,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (ATL @ MIL),300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171711007,118814,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (ATL @ MIL),225.0,NBA,2024-12-14 21:30:00+00:00,50.0,5
+171711008,118814,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (ATL @ MIL),135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171711009,118814,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (ATL @ MIL),90.0,NBA,2024-12-14 21:30:00+00:00,20.0,5
+171711010,118814,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (ATL @ MIL),90.0,NBA,2024-12-14 21:30:00+00:00,20.0,5
+171711011,118814,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711012,118814,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711013,118814,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711014,118814,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (ATL @ MIL),90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711015,118814,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711016,118814,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711017,118814,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711018,118814,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711019,118814,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711020,118814,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711021,118814,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711022,118814,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (ATL @ MIL),22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711023,118814,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (ATL @ MIL),22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711024,118814,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (ATL @ MIL),22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711025,118814,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711026,118814,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711027,118814,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711028,118814,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (ATL @ MIL),36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711029,118814,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (ATL @ MIL),36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711030,118814,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (ATL @ MIL),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711031,118814,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (ATL @ MIL),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711032,118814,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (ATL @ MIL),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711033,118814,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711034,118814,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711035,118814,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711036,118814,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (ATL @ MIL),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711037,118814,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (ATL @ MIL),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711038,118814,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (ATL @ MIL),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711039,118814,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711040,118814,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (ATL @ MIL),4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171711041,118814,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (ATL @ MIL),2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711042,118814,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (ATL @ MIL),2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711043,118814,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (ATL @ MIL),600.0,NBA,2024-12-14 21:30:00+00:00,109.0,6
+171711044,118814,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (ATL @ MIL)",40000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,4
+171711045,118814,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (ATL @ MIL)",40000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,4
+171711046,118814,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (ATL @ MIL)",40000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,4
+171711047,118814,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (ATL @ MIL),180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171711048,118814,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (ATL @ MIL),72.0,NBA,2024-12-14 21:30:00+00:00,20.0,4
+171711049,118814,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (ATL @ MIL),90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711050,118814,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711051,118814,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,3.0,10
+171711052,118814,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (ATL @ MIL),10.8,NBA,2024-12-14 21:30:00+00:00,3.0,4
+171711053,118814,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711054,118814,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (ATL @ MIL),135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171711055,118814,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711056,118814,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (ATL @ MIL),45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711057,118814,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711058,118814,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711059,118814,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (ATL @ MIL),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711060,118814,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (ATL @ MIL),500.0,NBA,2024-12-14 21:30:00+00:00,109.0,5
+171711061,118814,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (ATL @ MIL),100.0,NBA,2024-12-14 21:30:00+00:00,10.0,11
+171711062,118814,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (ATL @ MIL),250.0,NBA,2024-12-14 21:30:00+00:00,25.0,11
+171711063,118814,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (ATL @ MIL),500.0,NBA,2024-12-14 21:30:00+00:00,50.0,11
+171711064,118814,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (ATL @ MIL),50.0,NBA,2024-12-14 21:30:00+00:00,5.0,11
+171711065,118814,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (ATL @ MIL),30.0,NBA,2024-12-14 21:30:00+00:00,3.0,11
+171711066,118814,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (ATL @ MIL),10.0,NBA,2024-12-14 21:30:00+00:00,1.0,11
+171711067,118814,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (ATL @ MIL),500.0,NBA,2024-12-14 21:30:00+00:00,25.0,22
+171711068,118814,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (ATL @ MIL),1000.0,NBA,2024-12-14 21:30:00+00:00,50.0,22
+171711069,118814,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (ATL @ MIL),4000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,4
+171711071,118814,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (ATL @ MIL)",1500.0,NBA,2024-12-14 21:30:00+00:00,408.0,4
+171711072,118814,9.0,False,False,False,False,True,NBA Showdown Satellite to NAS 2-16 America's Race [Must Fill] (ATL @ MIL),25.0,NBA,2024-12-14 21:30:00+00:00,9.0,3
+171711073,118814,41.0,False,False,False,False,True,NBA Showdown Satellite to SOC 12-26 EPL MEGA Boxing Day Special [Must Fill] (ATL @ MIL),111.0,NBA,2024-12-14 21:30:00+00:00,41.0,3
+171711074,118814,121.0,False,False,False,False,True,NBA Showdown Satellite to $333 NFL Wildcat [Must Fill] (ATL @ MIL),333.0,NBA,2024-12-14 21:30:00+00:00,121.0,3
+171711075,118814,1570.0,False,False,False,False,True,"NBA Showdown Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill] (ATL @ MIL)",4444.0,NBA,2024-12-14 21:30:00+00:00,1570.0,3
+171711076,118814,181.0,False,False,False,False,True,NBA Showdown Satellite to NAS 2-16 Screaming Eagle [Must Fill] (ATL @ MIL),500.0,NBA,2024-12-14 21:30:00+00:00,181.0,3
+171711077,118814,322.0,False,False,False,False,True,NBA Showdown Satellite to NBA $1M MEGA 8's Special (January) [Must Fill] (ATL @ MIL),888.0,NBA,2024-12-14 21:30:00+00:00,322.0,3
+171711078,118814,201.0,False,False,False,False,True,NBA Showdown Satellite to 3-11 NHL $555 Barn Bash [Must Fill] (ATL @ MIL),555.0,NBA,2024-12-14 21:30:00+00:00,201.0,3
+171711079,118814,130.0,False,False,False,False,True,NBA Showdown Satellite to 1-28 NHL $360 Spin-O-Rama [Must Fill] (ATL @ MIL),360.0,NBA,2024-12-14 21:30:00+00:00,130.0,3
+171711080,118814,1570.0,False,False,False,False,True,"NBA Showdown Satellite to $4,444 NFL Showdown MEGA Millionaire (12-30) [Must Fill] (ATL @ MIL)",4444.0,NBA,2024-12-14 21:30:00+00:00,1570.0,3
+171711081,118814,322.0,False,False,False,False,True,NBA Showdown Satellite to 12-18 NHL $888 Abominable Snowman [Must Fill] (ATL @ MIL),888.0,NBA,2024-12-14 21:30:00+00:00,322.0,3
+171711082,118812,20.0,False,False,False,False,False,Beginner NBA Stating 5 $20 3-Player (Starting 5),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711083,118812,50.0,False,False,False,False,False,Beginner NBA Stating 5 $50 3-Player (Starting 5),135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171711084,118812,10.0,False,False,False,False,False,Beginner NBA Stating 5 $10 3-Player (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711085,118812,5.0,False,False,False,False,False,Beginner NBA Stating 5 $5 3-Player (Starting 5),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711086,118812,1.0,False,False,False,False,False,Beginner NBA Stating 5 $1 3-Player (Starting 5),2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711087,118812,5300.0,True,False,False,False,False,"NBA Stating 5 $5,300 50-50 (Starting 5)",20000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,4
+171711088,118812,1060.0,True,False,False,False,False,"NBA Stating 5 $1,060 50-50 (Starting 5)",4000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,4
+171711089,118812,530.0,True,False,False,False,False,NBA Stating 5 $530 50-50 (Starting 5),2000.0,NBA,2024-12-14 21:30:00+00:00,530.0,4
+171711090,118812,162.0,True,False,False,False,False,NBA Stating 5 $162 50-50 (Starting 5),600.0,NBA,2024-12-14 21:30:00+00:00,162.0,4
+171711091,118812,109.0,True,False,False,False,False,NBA Stating 5 $109 50-50 (Starting 5),400.0,NBA,2024-12-14 21:30:00+00:00,109.0,4
+171711092,118812,50.0,True,False,False,False,False,NBA Stating 5 $50 50-50 (Starting 5),180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171711093,118812,20.0,True,False,False,False,False,NBA Stating 5 $20 50-50 (Starting 5),360.0,NBA,2024-12-14 21:30:00+00:00,20.0,20
+171711094,118812,20.0,True,False,False,False,False,NBA Stating 5 $20 50-50 (Starting 5),180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171711095,118812,20.0,True,False,False,False,False,NBA Stating 5 $20 50-50 (Starting 5),72.0,NBA,2024-12-14 21:30:00+00:00,20.0,4
+171711096,118812,20.0,True,False,False,False,False,NBA Stating 5 $20 50-50 (Starting 5),72.0,NBA,2024-12-14 21:30:00+00:00,20.0,4
+171711097,118812,10.0,True,False,False,False,False,NBA Stating 5 $10 50-50 (Starting 5),180.0,NBA,2024-12-14 21:30:00+00:00,10.0,20
+171711098,118812,10.0,True,False,False,False,False,NBA Stating 5 $10 50-50 (Starting 5),90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711099,118812,10.0,True,False,False,False,False,NBA Stating 5 $10 50-50 (Starting 5),90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711100,118812,10.0,True,False,False,False,False,NBA Stating 5 $10 50-50 (Starting 5),36.0,NBA,2024-12-14 21:30:00+00:00,10.0,4
+171711101,118812,10.0,True,False,False,False,False,NBA Stating 5 $10 50-50 (Starting 5),36.0,NBA,2024-12-14 21:30:00+00:00,10.0,4
+171711102,118812,10.0,True,False,False,False,False,NBA Stating 5 $10 50-50 (Starting 5),36.0,NBA,2024-12-14 21:30:00+00:00,10.0,4
+171711103,118812,5.0,True,False,False,False,False,NBA Stating 5 $5 50-50 (Starting 5),90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171711104,118812,5.0,True,False,False,False,False,NBA Stating 5 $5 50-50 (Starting 5),90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171711105,118812,5.0,True,False,False,False,False,NBA Stating 5 $5 50-50 (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711106,118812,5.0,True,False,False,False,False,NBA Stating 5 $5 50-50 (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711107,118812,5.0,True,False,False,False,False,NBA Stating 5 $5 50-50 (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711108,118812,2.0,True,False,False,False,False,NBA Stating 5 $2 50-50 (Starting 5),36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711109,118812,2.0,True,False,False,False,False,NBA Stating 5 $2 50-50 (Starting 5),36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711110,118812,2.0,True,False,False,False,False,NBA Stating 5 $2 50-50 (Starting 5),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711111,118812,2.0,True,False,False,False,False,NBA Stating 5 $2 50-50 (Starting 5),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711112,118812,2.0,True,False,False,False,False,NBA Stating 5 $2 50-50 (Starting 5),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711113,118812,1.0,True,False,False,False,False,NBA Stating 5 $1 50-50 (Starting 5),18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171711114,118812,1.0,True,False,False,False,False,NBA Stating 5 $1 50-50 (Starting 5),18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171711115,118812,1.0,True,False,False,False,False,NBA Stating 5 $1 50-50 (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711116,118812,1.0,True,False,False,False,False,NBA Stating 5 $1 50-50 (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711117,118812,1.0,True,False,False,False,False,NBA Stating 5 $1 50-50 (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711118,118812,50.0,True,False,False,False,False,Beginner NBA Stating 5 $50 50-50 (Starting 5),180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171711119,118812,20.0,True,False,False,False,False,Beginner NBA Stating 5 $20 50-50 (Starting 5),72.0,NBA,2024-12-14 21:30:00+00:00,20.0,4
+171711120,118812,10.0,True,False,False,False,False,Beginner NBA Stating 5 $10 50-50 (Starting 5),90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711121,118812,5.0,True,False,False,False,False,Beginner NBA Stating 5 $5 50-50 (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711122,118812,3.0,True,False,False,False,False,Beginner NBA Stating 5 $3 50-50 (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,3.0,10
+171711123,118812,1.0,True,False,False,False,False,Beginner NBA Stating 5 $1 50-50 (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711124,118812,10.0,False,False,False,False,False,Beginner NBA Stating 5 $10 5-Player (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711125,118812,5.0,False,False,False,False,False,Beginner NBA Stating 5 $5 5-Player (Starting 5),22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711126,118812,5.0,False,False,False,False,False,Beginner NBA Stating 5 $5 3-Player (Starting 5),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711127,118812,2.0,False,False,False,False,False,Beginner NBA Stating 5 $2 5-Player (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711128,118812,2.0,False,False,False,False,False,Beginner NBA Stating 5 $2 3-Player (Starting 5),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711129,118812,1.0,False,False,False,False,False,Beginner NBA Stating 5 $1 5-Player (Starting 5),4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171711130,118812,10600.0,False,False,False,False,False,"NBA Stating 5 $10,600 3-Player (Starting 5)",30000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,3
+171711131,118812,5300.0,False,False,False,False,False,"NBA Stating 5 $5,300 3-Player (Starting 5)",15000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,3
+171711132,118812,1060.0,False,False,False,False,False,"NBA Stating 5 $1,060 3-Player (Starting 5)",3000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,3
+171711133,118812,530.0,False,False,False,False,False,NBA Stating 5 $530 3-Player (Starting 5),1500.0,NBA,2024-12-14 21:30:00+00:00,530.0,3
+171711134,118812,162.0,False,False,False,False,False,NBA Stating 5 $162 3-Player (Starting 5),450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171711135,118812,109.0,False,False,False,False,False,NBA Stating 5 $109 3-Player (Starting 5),300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171711136,118812,109.0,False,False,False,False,False,NBA Stating 5 $109 3-Player (Starting 5),300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171711137,118812,50.0,False,False,False,False,False,NBA Stating 5 $50 5-Player (Starting 5),225.0,NBA,2024-12-14 21:30:00+00:00,50.0,5
+171711138,118812,50.0,False,False,False,False,False,NBA Stating 5 $50 3-Player (Starting 5),135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171711139,118812,20.0,False,False,False,False,False,NBA Stating 5 $20 5-Player (Starting 5),90.0,NBA,2024-12-14 21:30:00+00:00,20.0,5
+171711140,118812,20.0,False,False,False,False,False,NBA Stating 5 $20 5-Player (Starting 5),90.0,NBA,2024-12-14 21:30:00+00:00,20.0,5
+171711141,118812,20.0,False,False,False,False,False,NBA Stating 5 $20 3-Player (Starting 5),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711142,118812,20.0,False,False,False,False,False,NBA Stating 5 $20 3-Player (Starting 5),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711143,118812,20.0,False,False,False,False,False,NBA Stating 5 $20 3-Player (Starting 5),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711144,118812,10.0,False,False,False,False,False,NBA Stating 5 $10 10-Player (Starting 5),90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711145,118812,10.0,False,False,False,False,False,NBA Stating 5 $10 5-Player (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711146,118812,10.0,False,False,False,False,False,NBA Stating 5 $10 5-Player (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711147,118812,10.0,False,False,False,False,False,NBA Stating 5 $10 3-Player (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711148,118812,10.0,False,False,False,False,False,NBA Stating 5 $10 3-Player (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711149,118812,10.0,False,False,False,False,False,NBA Stating 5 $10 3-Player (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711150,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 10-Player (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711151,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 10-Player (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711152,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 5-Player (Starting 5),22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711153,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 5-Player (Starting 5),22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711154,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 5-Player (Starting 5),22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711155,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 3-Player (Starting 5),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711156,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 3-Player (Starting 5),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711157,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 3-Player (Starting 5),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711158,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 20-Player (Starting 5),36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711159,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 20-Player (Starting 5),36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711160,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 10-Player (Starting 5),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711161,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 10-Player (Starting 5),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711162,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 10-Player (Starting 5),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711163,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 5-Player (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711164,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 5-Player (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711165,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 5-Player (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711166,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 3-Player (Starting 5),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711167,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 3-Player (Starting 5),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711168,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 3-Player (Starting 5),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711169,118812,1.0,False,False,False,False,False,NBA Stating 5 $1 10-Player (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711170,118812,1.0,False,False,False,False,False,NBA Stating 5 $1 5-Player (Starting 5),4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171711171,118812,1.0,False,False,False,False,False,NBA Stating 5 $1 3-Player (Starting 5),2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711172,118812,1.0,False,False,False,False,False,NBA Stating 5 $1 3-Player (Starting 5),2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711173,118812,109.0,True,False,False,False,False,NBA Stating 5 $109 50-50 (Starting 5),600.0,NBA,2024-12-14 21:30:00+00:00,109.0,6
+171711174,118812,10600.0,False,False,False,False,False,"NBA Stating 5 $10,600 4-Player (Winner Takes All) (Starting 5)",40000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,4
+171711175,118812,10600.0,False,False,False,False,False,"NBA Stating 5 $10,600 4-Player (Winner Takes All) (Starting 5)",40000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,4
+171711176,118812,10600.0,False,False,False,False,False,"NBA Stating 5 $10,600 4-Player (Winner Takes All) (Starting 5)",40000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,4
+171711177,118812,50.0,True,False,False,False,False,Casual NBA Stating 5 $50 50-50 (Starting 5),180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171711178,118812,20.0,True,False,False,False,False,Casual NBA Stating 5 $20 50-50 (Starting 5),72.0,NBA,2024-12-14 21:30:00+00:00,20.0,4
+171711179,118812,10.0,True,False,False,False,False,Casual NBA Stating 5 $10 50-50 (Starting 5),90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711180,118812,5.0,True,False,False,False,False,Casual NBA Stating 5 $5 50-50 (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711181,118812,3.0,True,False,False,False,False,Casual NBA Stating 5 $3 50-50 (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,3.0,10
+171711182,118812,3.0,True,False,False,False,False,Casual NBA Stating 5 $3 50-50 (Starting 5),10.8,NBA,2024-12-14 21:30:00+00:00,3.0,4
+171711183,118812,1.0,True,False,False,False,False,Casual NBA Stating 5 $1 50-50 (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711184,118812,50.0,False,False,False,False,False,Casual NBA Stating 5 $50 3-Player (Starting 5),135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171711185,118812,20.0,False,False,False,False,False,Casual NBA Stating 5 $20 3-Player (Starting 5),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711186,118812,10.0,False,False,False,False,False,Casual NBA Stating 5 $10 5-Player (Starting 5),45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711187,118812,10.0,False,False,False,False,False,Casual NBA Stating 5 $10 3-Player (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711188,118812,2.0,False,False,False,False,False,Casual NBA Stating 5 $2 5-Player (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711189,118812,2.0,False,False,False,False,False,Casual NBA Stating 5 $2 3-Player (Starting 5),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711190,118812,109.0,False,False,False,False,False,Casual NBA Stating 5 $109 5-Player (Starting 5),500.0,NBA,2024-12-14 21:30:00+00:00,109.0,5
+171711191,118812,10.0,True,False,False,False,False,NBA Stating 5 $10 Double Up (Starting 5),100.0,NBA,2024-12-14 21:30:00+00:00,10.0,11
+171711192,118812,25.0,True,False,False,False,False,NBA Stating 5 $25 Double Up (Starting 5),250.0,NBA,2024-12-14 21:30:00+00:00,25.0,11
+171711193,118812,50.0,True,False,False,False,False,NBA Stating 5 $50 Double Up (Starting 5),500.0,NBA,2024-12-14 21:30:00+00:00,50.0,11
+171711194,118812,5.0,True,False,False,False,False,NBA Stating 5 $5 Double Up (Starting 5),50.0,NBA,2024-12-14 21:30:00+00:00,5.0,11
+171711195,118812,3.0,True,False,False,False,False,NBA Stating 5 $3 Double Up (Starting 5),30.0,NBA,2024-12-14 21:30:00+00:00,3.0,11
+171711196,118812,1.0,True,False,False,False,False,NBA Stating 5 $1 Double Up (Starting 5),10.0,NBA,2024-12-14 21:30:00+00:00,1.0,11
+171711197,118812,25.0,True,False,False,False,False,NBA Stating 5 $25 Double Up (Starting 5),500.0,NBA,2024-12-14 21:30:00+00:00,25.0,22
+171711198,118812,50.0,True,False,False,False,False,NBA Stating 5 $50 Double Up (Starting 5),1000.0,NBA,2024-12-14 21:30:00+00:00,50.0,22
+171711199,118812,267.0,False,False,False,False,True,NBA Stating 5 $267 Winner Take All [$1K to 1st] (Must Fill) (Starting 5),1000.0,NBA,2024-12-14 21:30:00+00:00,267.0,4
+171711200,118812,408.0,False,False,False,False,True,"NBA Stating 5 $408 Winner Take All [$1.5K to 1st, Must Fill] (Starting 5)",1500.0,NBA,2024-12-14 21:30:00+00:00,408.0,4
+171711201,118812,9.0,False,False,False,False,True,NBA Stating 5 Satellite to NAS 2-16 America's Race [Must Fill] (Starting 5),25.0,NBA,2024-12-14 21:30:00+00:00,9.0,3
+171711202,118812,1177.0,False,False,False,False,True,FINAL STRETCH: NBA Stating 5 Satellite to NFL $10M Ultimate Main Event (12-29) [Must Fill] (Starting,3333.0,NBA,2024-12-14 21:30:00+00:00,1177.0,3
+171711203,118812,41.0,False,False,False,False,True,NBA Stating 5 Satellite to SOC 12-26 EPL MEGA Boxing Day Special [Must Fill] (Starting 5),111.0,NBA,2024-12-14 21:30:00+00:00,41.0,3
+171711204,118812,121.0,False,False,False,False,True,NBA Stating 5 Satellite to $333 NFL Wildcat [Must Fill] (Starting 5),333.0,NBA,2024-12-14 21:30:00+00:00,121.0,3
+171711205,118812,1570.0,False,False,False,False,True,"NBA Stating 5 Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill] (Starting 5)",4444.0,NBA,2024-12-14 21:30:00+00:00,1570.0,3
+171711206,118812,181.0,False,False,False,False,True,NBA Stating 5 Satellite to NAS 2-16 Screaming Eagle [Must Fill] (Starting 5),500.0,NBA,2024-12-14 21:30:00+00:00,181.0,3
+171711207,118812,322.0,False,False,False,False,True,NBA Stating 5 Satellite to NBA $1M MEGA 8's Special (January) [Must Fill] (Starting 5),888.0,NBA,2024-12-14 21:30:00+00:00,322.0,3
+171711208,118812,201.0,False,False,False,False,True,NBA Stating 5 Satellite to 3-11 NHL $555 Barn Bash [Must Fill] (Starting 5),555.0,NBA,2024-12-14 21:30:00+00:00,201.0,3
+171711209,118812,130.0,False,False,False,False,True,NBA Stating 5 Satellite to 1-28 NHL $360 Spin-O-Rama [Must Fill] (Starting 5),360.0,NBA,2024-12-14 21:30:00+00:00,130.0,3
+171711210,118812,1570.0,False,False,False,False,True,"NBA Stating 5 Satellite to $4,444 NFL Showdown MEGA Millionaire (12-30) [Must Fill] (Starting 5)",4444.0,NBA,2024-12-14 21:30:00+00:00,1570.0,3
+171711211,118812,322.0,False,False,False,False,True,NBA Stating 5 Satellite to 12-18 NHL $888 Abominable Snowman [Must Fill] (Starting 5),888.0,NBA,2024-12-14 21:30:00+00:00,322.0,3
+171711213,118810,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171711214,118810,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171711215,118810,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2024-12-14 21:30:00+00:00,109.0,4
+171711216,118810,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2024-12-14 21:30:00+00:00,109.0,4
+171711217,118810,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711218,118810,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711219,118810,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711220,118810,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711221,118810,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711222,118810,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711223,118810,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711224,118810,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711225,118810,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711226,118810,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711227,118810,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711228,118810,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711229,118810,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711230,118810,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711231,118810,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711232,118810,530.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2024-12-14 21:30:00+00:00,530.0,3
+171711233,118810,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171711234,118810,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171711235,118810,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171711236,118810,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171711237,118810,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171711238,118810,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171711239,118810,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711240,118810,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711241,118810,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711242,118810,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711243,118810,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711244,118810,5.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711245,118810,10.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711246,118810,10.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711247,118810,10.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711248,118810,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2024-12-14 21:30:00+00:00,20.0,5
+171711249,118810,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2024-12-14 21:30:00+00:00,20.0,5
+171711250,118810,20.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2024-12-14 21:30:00+00:00,20.0,5
+171711251,118810,109.0,False,False,False,False,False,NBA $109 5-Player,500.0,NBA,2024-12-14 21:30:00+00:00,109.0,5
+171711252,118810,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711253,118810,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711254,118810,1.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711255,118810,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711256,118810,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711257,118810,2.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711258,118810,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711259,118810,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711260,118810,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711261,118810,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711262,118810,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711263,118810,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711264,118810,10.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711265,118810,10.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711266,118810,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711267,118810,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711268,118810,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711269,118810,20.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171711270,118810,20.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171711271,118810,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171711272,118810,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171711273,118810,50.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2024-12-14 21:30:00+00:00,50.0,5
+171711274,118810,50.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2024-12-14 21:30:00+00:00,50.0,5
+171711275,118810,5300.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,4
+171711276,118810,5300.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,4
+171711277,118810,5300.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,4
+171711278,118810,1060.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,3
+171711279,118810,530.0,True,False,False,False,False,NBA $530 50-50,2000.0,NBA,2024-12-14 21:30:00+00:00,530.0,4
+171711280,118810,1060.0,True,False,False,False,False,"NBA $1,060 50-50",4000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,4
+171711281,118810,20.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171711282,118810,20.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171711283,118810,1.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171711284,118810,1.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171711285,118810,1.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171711286,118810,2.0,False,False,False,False,False,NBA $2 20 Player,36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711287,118810,2.0,False,False,False,False,False,NBA $2 20 Player,36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711288,118810,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,1.0,50
+171711289,118810,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,1.0,50
+171711290,118810,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,1.0,50
+171711291,118810,50.0,False,False,False,False,False,Beginner NBA $50 3-Player,135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171711292,118810,50.0,False,False,False,False,False,Beginner NBA $50 3-Player,135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171711293,118810,1.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171711294,118810,1.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171711295,118810,1.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171711296,118810,50.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2024-12-14 21:30:00+00:00,50.0,10
+171711297,118810,50.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2024-12-14 21:30:00+00:00,50.0,10
+171711298,118810,50.0,False,False,False,False,False,NBA $50 10-Player,450.0,NBA,2024-12-14 21:30:00+00:00,50.0,10
+171711299,118810,5300.0,True,False,False,False,False,"NBA $5,300 50-50",20000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,4
+171711300,118810,5300.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,3
+171711301,118810,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171711302,118810,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171711303,118810,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171711304,118810,5.0,False,False,False,False,False,NBA $5 20-Player,90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171711305,118810,20.0,True,False,False,False,False,NBA $20 50-50,360.0,NBA,2024-12-14 21:30:00+00:00,20.0,20
+171711306,118810,20.0,False,False,False,False,False,NBA $20 20-Player,360.0,NBA,2024-12-14 21:30:00+00:00,20.0,20
+171711307,118810,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711308,118810,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711309,118810,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171711310,118810,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711311,118810,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711312,118810,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171711313,118810,2.0,False,False,False,False,False,NBA $2 40-Player,72.0,NBA,2024-12-14 21:30:00+00:00,2.0,40
+171711314,118810,2.0,False,False,False,False,False,NBA $2 40-Player,72.0,NBA,2024-12-14 21:30:00+00:00,2.0,40
+171711315,118810,162.0,True,False,False,False,False,NBA $162 50-50,600.0,NBA,2024-12-14 21:30:00+00:00,162.0,4
+171711316,118810,162.0,False,False,False,False,False,NBA $162 5-Player,750.0,NBA,2024-12-14 21:30:00+00:00,162.0,5
+171711317,118810,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171711318,118810,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171711319,118810,10600.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,3
+171711320,118810,10.0,True,False,False,False,False,NBA $10 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,10.0,20
+171711321,118810,10.0,False,False,False,False,False,NBA $10 20-Player,180.0,NBA,2024-12-14 21:30:00+00:00,10.0,20
+171711322,118810,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171711323,118810,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171711324,118810,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171711325,118810,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711326,118810,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711327,118810,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711328,118810,1.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2024-12-14 21:30:00+00:00,1.0,40
+171711329,118810,1.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2024-12-14 21:30:00+00:00,1.0,40
+171711330,118810,50.0,True,False,False,False,False,Beginner NBA $50 50-50,450.0,NBA,2024-12-14 21:30:00+00:00,50.0,10
+171711331,118810,5.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711332,118810,5.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711333,118810,5.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711334,118810,5.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711335,118810,5.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711336,118810,5.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2024-12-14 21:30:00+00:00,5.0,5
+171711337,118810,5.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711338,118810,5.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711339,118810,5.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171711340,118810,3.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2024-12-14 21:30:00+00:00,3.0,10
+171711341,118810,3.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2024-12-14 21:30:00+00:00,3.0,10
+171711342,118810,3.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2024-12-14 21:30:00+00:00,3.0,10
+171711343,118810,20.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171711344,118810,20.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171711345,118810,20.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171711346,118810,20.0,False,False,False,False,False,Beginner NBA $20 5-Player,90.0,NBA,2024-12-14 21:30:00+00:00,20.0,5
+171711347,118810,20.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711348,118810,20.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711349,118810,20.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711350,118810,2.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711351,118810,2.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711352,118810,2.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711353,118810,2.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711354,118810,2.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711355,118810,2.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711356,118810,10.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711357,118810,10.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711358,118810,10.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711359,118810,10.0,False,False,False,False,False,Beginner NBA $10 5-Player,45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711360,118810,10.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711361,118810,10.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711362,118810,10.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711363,118810,1.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711364,118810,1.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711365,118810,1.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711366,118810,1.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711367,118810,1.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711368,118810,1.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171711369,118810,109.0,True,False,False,False,False,NBA $109 50-50,600.0,NBA,2024-12-14 21:30:00+00:00,109.0,6
+171711370,118810,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,4
+171711371,118810,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,4
+171711372,118810,10600.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,4
+171711373,118810,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,3
+171711374,118810,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,3
+171711375,118810,2120.0,False,False,False,False,False,"NBA $2,120 5-Player",10000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,5
+171711376,118810,2120.0,False,False,False,False,False,"NBA $2,120 5-Player",10000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,5
+171711377,118810,2120.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,4
+171711378,118810,2120.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,4
+171711379,118810,50.0,True,False,False,False,False,Casual NBA $50 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171711380,118810,20.0,True,False,False,False,False,Casual NBA $20 50-50,72.0,NBA,2024-12-14 21:30:00+00:00,20.0,4
+171711381,118810,10.0,True,False,False,False,False,Casual NBA $10 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171711382,118810,5.0,True,False,False,False,False,Casual NBA $5 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171711383,118810,3.0,True,False,False,False,False,Casual NBA $3 50-50,27.0,NBA,2024-12-14 21:30:00+00:00,3.0,10
+171711384,118810,3.0,True,False,False,False,False,Casual NBA $3 50-50,10.8,NBA,2024-12-14 21:30:00+00:00,3.0,4
+171711385,118810,1.0,True,False,False,False,False,Casual NBA $1 50-50,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171711386,118810,50.0,False,False,False,False,False,Casual NBA $50 3-Player,135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171711387,118810,20.0,False,False,False,False,False,Casual NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171711388,118810,10.0,False,False,False,False,False,Casual NBA $10 5-Player,45.0,NBA,2024-12-14 21:30:00+00:00,10.0,5
+171711389,118810,10.0,False,False,False,False,False,Casual NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171711390,118810,2.0,False,False,False,False,False,Casual NBA $2 5-Player,9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171711391,118810,2.0,False,False,False,False,False,Casual NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171711392,118810,109.0,False,False,False,False,False,Casual NBA $109 5-Player,500.0,NBA,2024-12-14 21:30:00+00:00,109.0,5
+171711393,118810,10.0,True,False,False,False,False,NBA $10 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,10.0,11
+171711394,118810,25.0,True,False,False,False,False,NBA $25 Double Up,250.0,NBA,2024-12-14 21:30:00+00:00,25.0,11
+171711395,118810,50.0,True,False,False,False,False,NBA $50 Double Up,500.0,NBA,2024-12-14 21:30:00+00:00,50.0,11
+171711396,118810,5.0,True,False,False,False,False,NBA $5 Double Up,50.0,NBA,2024-12-14 21:30:00+00:00,5.0,11
+171711397,118810,3.0,True,False,False,False,False,NBA $3 Double Up,30.0,NBA,2024-12-14 21:30:00+00:00,3.0,11
+171711398,118810,1.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2024-12-14 21:30:00+00:00,1.0,11
+171711399,118810,25.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2024-12-14 21:30:00+00:00,25.0,22
+171711400,118810,50.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,50.0,22
+171711401,118810,26200.0,False,False,False,False,True,NBA $100K Heavy Hitter [Must Fill],100000.0,NBA,2024-12-14 21:30:00+00:00,26200.0,4
+171711402,118810,1060.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,4
+171711403,118810,5300.0,False,False,False,False,True,NBA $20K Thunderdome [Must Fill],20000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,4
+171711404,118810,267.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2024-12-14 21:30:00+00:00,267.0,4
+171711405,118810,100.0,False,False,False,False,True,NBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2024-12-14 21:30:00+00:00,100.0,5
+171711406,118810,26200.0,False,False,False,False,True,NBA $75K Heavy Hitter [Must Fill],75000.0,NBA,2024-12-14 21:30:00+00:00,26200.0,3
+171711407,118810,1258.0,False,False,False,False,True,"NBA $4,747 Heavy Irons Satellite [MUST FILL]",4747.0,NBA,2024-12-14 21:30:00+00:00,1258.0,4
+171711408,118810,9.0,False,False,False,False,True,NBA Satellite to NAS 2-16 America's Race [Must Fill],25.0,NBA,2024-12-14 21:30:00+00:00,9.0,3
+171711409,118810,1177.0,False,False,False,False,True,FINAL STRETCH: NBA Satellite to NFL $10M Ultimate Main Event (12-29) [Must Fill],3333.0,NBA,2024-12-14 21:30:00+00:00,1177.0,3
+171711410,118810,41.0,False,False,False,False,True,NBA Satellite to SOC 12-26 EPL MEGA Boxing Day Special [Must Fill],111.0,NBA,2024-12-14 21:30:00+00:00,41.0,3
+171711411,118810,121.0,False,False,False,False,True,NBA Satellite to $333 NFL Wildcat [Must Fill],333.0,NBA,2024-12-14 21:30:00+00:00,121.0,3
+171711412,118810,1570.0,False,False,False,False,True,"NBA Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill]",4444.0,NBA,2024-12-14 21:30:00+00:00,1570.0,3
+171711413,118810,181.0,False,False,False,False,True,NBA Satellite to NAS 2-16 Screaming Eagle [Must Fill],500.0,NBA,2024-12-14 21:30:00+00:00,181.0,3
+171711414,118810,322.0,False,False,False,False,True,NBA Satellite to NBA $1M MEGA 8's Special (January) [Must Fill],888.0,NBA,2024-12-14 21:30:00+00:00,322.0,3
+171711415,118810,201.0,False,False,False,False,True,NBA Satellite to 3-11 NHL $555 Barn Bash [Must Fill],555.0,NBA,2024-12-14 21:30:00+00:00,201.0,3
+171711416,118810,130.0,False,False,False,False,True,NBA Satellite to 1-28 NHL $360 Spin-O-Rama [Must Fill],360.0,NBA,2024-12-14 21:30:00+00:00,130.0,3
+171711417,118810,1570.0,False,False,False,False,True,"NBA Satellite to $4,444 NFL Showdown MEGA Millionaire (12-30) [Must Fill]",4444.0,NBA,2024-12-14 21:30:00+00:00,1570.0,3
+171711418,118810,322.0,False,False,False,False,True,NBA Satellite to 12-18 NHL $888 Abominable Snowman [Must Fill],888.0,NBA,2024-12-14 21:30:00+00:00,322.0,3
+171711419,118817,1.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H HOU @ OKC),20.0,NBA,2024-12-15 02:30:00+00:00,1.0,23
+171711420,118817,85.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H HOU @ OKC),300.0,NBA,2024-12-15 02:30:00+00:00,85.0,4
+171711421,118817,25.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H HOU @ OKC),110.0,NBA,2024-12-15 02:30:00+00:00,25.0,5
+171711422,118817,10.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H HOU @ OKC),100.0,NBA,2024-12-15 02:30:00+00:00,10.0,11
+171711423,118817,5.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H HOU @ OKC),100.0,NBA,2024-12-15 02:30:00+00:00,5.0,23
+171711428,118815,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (HOU @ OKC),500.0,NBA,2024-12-15 01:30:00+00:00,50.0,11
+171711429,118815,50.0,True,False,True,False,False,NBA Showdown $50 Double Up (HOU @ OKC),500.0,NBA,2024-12-15 01:30:00+00:00,50.0,11
+171711430,118815,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $20] (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,2.0,59
+171711431,118815,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $50] (HOU @ OKC),150.0,NBA,2024-12-15 01:30:00+00:00,5.0,35
+171711432,118815,50.0,False,False,True,False,False,NBA Showdown $50 Triple Up [Top 3 Win $150] (HOU @ OKC),450.0,NBA,2024-12-15 01:30:00+00:00,50.0,10
+171711433,118815,10.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (HOU @ OKC),300.0,NBA,2024-12-15 01:30:00+00:00,10.0,35
+171711434,118815,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ OKC),20.0,NBA,2024-12-15 01:30:00+00:00,1.0,23
+171711435,118815,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (HOU @ OKC),60.0,NBA,2024-12-15 01:30:00+00:00,3.0,23
+171711436,118815,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (HOU @ OKC),60.0,NBA,2024-12-15 01:30:00+00:00,3.0,23
+171711437,118815,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (HOU @ OKC),60.0,NBA,2024-12-15 01:30:00+00:00,3.0,23
+171711438,118815,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (HOU @ OKC),60.0,NBA,2024-12-15 01:30:00+00:00,3.0,23
+171711439,118815,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (HOU @ OKC),60.0,NBA,2024-12-15 01:30:00+00:00,3.0,23
+171711440,118815,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (HOU @ OKC),60.0,NBA,2024-12-15 01:30:00+00:00,3.0,23
+171711441,118815,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,10.0,11
+171711442,118815,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,10.0,11
+171711443,118815,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,10.0,11
+171711444,118815,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,10.0,11
+171711445,118815,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,10.0,11
+171711446,118815,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ OKC),34.0,NBA,2024-12-15 01:30:00+00:00,1.0,39
+171711447,118815,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ OKC),34.0,NBA,2024-12-15 01:30:00+00:00,1.0,39
+171711448,118815,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (HOU @ OKC),170.0,NBA,2024-12-15 01:30:00+00:00,5.0,39
+171711449,118815,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (HOU @ OKC),250.0,NBA,2024-12-15 01:30:00+00:00,25.0,11
+171711450,118815,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,1.0,31
+171711451,118815,5.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (HOU @ OKC),135.0,NBA,2024-12-15 01:30:00+00:00,5.0,31
+171711452,118815,10.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 9 Win $30] (HOU @ OKC),270.0,NBA,2024-12-15 01:30:00+00:00,10.0,31
+171711453,118815,26200.0,False,False,False,False,True,NBA Showdown $100K Heavy Hitter [Must Fill] (HOU @ OKC),100000.0,NBA,2024-12-15 01:30:00+00:00,26200.0,4
+171711454,118815,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ OKC),20.0,NBA,2024-12-15 01:30:00+00:00,1.0,23
+171711455,118815,3.0,True,False,True,False,False,NBA Showdown $3 Double Up (HOU @ OKC),60.0,NBA,2024-12-15 01:30:00+00:00,3.0,23
+171711456,118815,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,5.0,23
+171711457,118815,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,5.0,23
+171711458,118815,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,5.0,23
+171711459,118815,5.0,True,False,True,False,False,NBA Showdown $5 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,5.0,23
+171711460,118815,10.0,True,False,True,False,False,NBA Showdown $10 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,10.0,11
+171711461,118815,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (HOU @ OKC),250.0,NBA,2024-12-15 01:30:00+00:00,25.0,11
+171711462,118815,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (HOU @ OKC),250.0,NBA,2024-12-15 01:30:00+00:00,25.0,11
+171711463,118815,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (HOU @ OKC),250.0,NBA,2024-12-15 01:30:00+00:00,25.0,11
+171711464,118815,25.0,True,False,True,False,False,NBA Showdown $25 Double Up (HOU @ OKC),250.0,NBA,2024-12-15 01:30:00+00:00,25.0,11
+171711465,118815,250.0,True,False,True,False,False,NBA Showdown $250 Double Up (HOU @ OKC),2500.0,NBA,2024-12-15 01:30:00+00:00,250.0,11
+171711466,118815,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ OKC),20.0,NBA,2024-12-15 01:30:00+00:00,1.0,23
+171711467,118815,100.0,True,False,True,False,False,NBA Showdown $100 Double Up (HOU @ OKC),1000.0,NBA,2024-12-15 01:30:00+00:00,100.0,11
+171711468,118815,26200.0,False,False,False,False,True,NBA Showdown $75K Heavy Hitter [Must Fill] (HOU @ OKC),75000.0,NBA,2024-12-15 01:30:00+00:00,26200.0,3
+171711469,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to $15 NBA Fadeaway (HOU @ OKC),15.0,NBA,2024-12-15 01:30:00+00:00,0.25,71
+171711470,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to $15 NBA Fadeaway (HOU @ OKC),15.0,NBA,2024-12-15 01:30:00+00:00,0.1,178
+171711471,118815,1.0,False,False,True,False,True,NBA Showdown Satellite to $15 NBA Fadeaway (HOU @ OKC),15.0,NBA,2024-12-15 01:30:00+00:00,1.0,17
+171711472,118815,75.0,False,False,True,False,True,NBA Showdown Satellite to $333 NFL Wildcat (HOU @ OKC),333.0,NBA,2024-12-15 01:30:00+00:00,75.0,5
+171711473,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to $20 NFL Fantasy Football Millionaire (HOU @ OKC),20.0,NBA,2024-12-15 01:30:00+00:00,0.1,237
+171711474,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to $20 NFL Fantasy Football Millionaire (HOU @ OKC),20.0,NBA,2024-12-15 01:30:00+00:00,0.25,95
+171711475,118815,1.0,False,False,True,False,True,NBA Showdown Satellite to $20 NFL Fantasy Football Millionaire (HOU @ OKC),20.0,NBA,2024-12-15 01:30:00+00:00,1.0,23
+171711476,118815,29.0,False,False,True,False,True,NBA Showdown Satellite to NBA $2.25M MEGA Millionaire (12-27) (HOU @ OKC),2500.0,NBA,2024-12-15 01:30:00+00:00,29.0,100
+171711477,118815,42.0,False,False,True,False,True,NBA Showdown Satellite to NBA $2.25M MEGA Millionaire (12-27) (HOU @ OKC),2500.0,NBA,2024-12-15 01:30:00+00:00,42.0,69
+171711478,118815,42.0,False,False,True,False,True,NBA Showdown Satellite to NBA $2.25M MEGA Millionaire (12-27) (HOU @ OKC),2500.0,NBA,2024-12-15 01:30:00+00:00,42.0,69
+171711479,118815,111.0,False,False,True,False,True,NBA Showdown Satellite to NBA $2.25M MEGA Millionaire (12-27) (HOU @ OKC),2500.0,NBA,2024-12-15 01:30:00+00:00,111.0,25
+171711480,118815,250.0,False,False,True,False,True,NBA Showdown Satellite to NBA $2.25M MEGA Millionaire (12-27) (HOU @ OKC),2500.0,NBA,2024-12-15 01:30:00+00:00,250.0,11
+171711481,118815,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x] (HOU @ OKC),50.0,NBA,2024-12-15 01:30:00+00:00,0.25,237
+171711482,118815,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x] (HOU @ OKC),50.0,NBA,2024-12-15 01:30:00+00:00,0.25,237
+171711483,118815,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x] (HOU @ OKC),50.0,NBA,2024-12-15 01:30:00+00:00,0.25,237
+171711484,118815,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x] (HOU @ OKC),50.0,NBA,2024-12-15 01:30:00+00:00,1.0,59
+171711485,118815,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x] (HOU @ OKC),50.0,NBA,2024-12-15 01:30:00+00:00,1.0,59
+171711486,118815,3.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x] (HOU @ OKC),50.0,NBA,2024-12-15 01:30:00+00:00,3.0,19
+171711487,118815,3.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [2x] (HOU @ OKC),50.0,NBA,2024-12-15 01:30:00+00:00,3.0,19
+171711488,118815,3.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Holiday BBall Special (12-25) [4x] (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,3.0,39
+171711489,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.1,297
+171711490,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.1,297
+171711491,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.1,297
+171711492,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.1,297
+171711493,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.1,297
+171711494,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.25,118
+171711495,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.25,118
+171711496,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.25,118
+171711497,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.25,118
+171711498,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.25,118
+171711499,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.5,59
+171711500,118815,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,0.5,59
+171711501,118815,1.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Holiday BBall Special (12-25) (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,1.0,29
+171711502,118815,90.0,False,False,True,False,True,NBA Showdown Satellite to NBA $1M MEGA 8's Special (January) (HOU @ OKC),888.0,NBA,2024-12-15 01:30:00+00:00,90.0,11
+171711503,118815,3.0,False,False,True,False,True,NBA Showdown Satellite to NFL Ultimate Main Event MEGASat (12-22) (HOU @ OKC),200.0,NBA,2024-12-15 01:30:00+00:00,3.0,79
+171711505,118817,2.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H HOU @ OKC),5.4,NBA,2024-12-15 02:30:00+00:00,2.0,3
+171711506,118817,10.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H HOU @ OKC),27.0,NBA,2024-12-15 02:30:00+00:00,10.0,3
+171711507,118817,5.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H HOU @ OKC),13.5,NBA,2024-12-15 02:30:00+00:00,5.0,3
+171711508,118817,1.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H HOU @ OKC),2.7,NBA,2024-12-15 02:30:00+00:00,1.0,3
+171711509,118817,1.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H HOU @ OKC),9.0,NBA,2024-12-15 02:30:00+00:00,1.0,10
+171711510,118817,1.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H HOU @ OKC),4.5,NBA,2024-12-15 02:30:00+00:00,1.0,5
+171711511,118817,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H HOU @ OKC),2.7,NBA,2024-12-15 02:30:00+00:00,1.0,3
+171711512,118817,1.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H HOU @ OKC),2.7,NBA,2024-12-15 02:30:00+00:00,1.0,3
+171711513,118817,20.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H HOU @ OKC),180.0,NBA,2024-12-15 02:30:00+00:00,20.0,10
+171711514,118817,10.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H HOU @ OKC),90.0,NBA,2024-12-15 02:30:00+00:00,10.0,10
+171711515,118817,5.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H HOU @ OKC),45.0,NBA,2024-12-15 02:30:00+00:00,5.0,10
+171711516,118817,3.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H HOU @ OKC),27.0,NBA,2024-12-15 02:30:00+00:00,3.0,10
+171711517,118817,1.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H HOU @ OKC),9.0,NBA,2024-12-15 02:30:00+00:00,1.0,10
+171711518,118817,5.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H HOU @ OKC),13.5,NBA,2024-12-15 02:30:00+00:00,5.0,3
+171711519,118817,2.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H HOU @ OKC),5.4,NBA,2024-12-15 02:30:00+00:00,2.0,3
+171711520,118817,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H HOU @ OKC),5.4,NBA,2024-12-15 02:30:00+00:00,2.0,3
+171711521,118817,2.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H HOU @ OKC),5.4,NBA,2024-12-15 02:30:00+00:00,2.0,3
+171711522,118817,2.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H HOU @ OKC),9.0,NBA,2024-12-15 02:30:00+00:00,2.0,5
+171711523,118817,2.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H HOU @ OKC),18.0,NBA,2024-12-15 02:30:00+00:00,2.0,10
+171711524,118817,5.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H HOU @ OKC),13.5,NBA,2024-12-15 02:30:00+00:00,5.0,3
+171711525,118817,5.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H HOU @ OKC),22.5,NBA,2024-12-15 02:30:00+00:00,5.0,5
+171711526,118817,5.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H HOU @ OKC),45.0,NBA,2024-12-15 02:30:00+00:00,5.0,10
+171711527,118817,10.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H HOU @ OKC),45.0,NBA,2024-12-15 02:30:00+00:00,10.0,5
+171711528,118817,10.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H HOU @ OKC),27.0,NBA,2024-12-15 02:30:00+00:00,10.0,3
+171711529,118817,20.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H HOU @ OKC),54.0,NBA,2024-12-15 02:30:00+00:00,20.0,3
+171711530,118817,50.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H HOU @ OKC),225.0,NBA,2024-12-15 02:30:00+00:00,50.0,5
+171711531,118817,50.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H HOU @ OKC),135.0,NBA,2024-12-15 02:30:00+00:00,50.0,3
+171711532,118817,109.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H HOU @ OKC),300.0,NBA,2024-12-15 02:30:00+00:00,109.0,3
+171711533,118817,162.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H HOU @ OKC),450.0,NBA,2024-12-15 02:30:00+00:00,162.0,3
+171711534,118817,530.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H HOU @ OKC),1500.0,NBA,2024-12-15 02:30:00+00:00,530.0,3
+171711535,118817,1060.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H HOU @ OKC)",3000.0,NBA,2024-12-15 02:30:00+00:00,1060.0,3
+171711536,118817,5300.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H HOU @ OKC)",15000.0,NBA,2024-12-15 02:30:00+00:00,5300.0,3
+171711537,118817,10600.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H HOU @ OKC)",30000.0,NBA,2024-12-15 02:30:00+00:00,10600.0,3
+171711538,118817,20.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H HOU @ OKC),72.0,NBA,2024-12-15 02:30:00+00:00,20.0,4
+171711539,118817,10.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H HOU @ OKC),90.0,NBA,2024-12-15 02:30:00+00:00,10.0,10
+171711540,118817,1.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H HOU @ OKC),9.0,NBA,2024-12-15 02:30:00+00:00,1.0,10
+171711541,118817,3.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H HOU @ OKC),27.0,NBA,2024-12-15 02:30:00+00:00,3.0,10
+171711542,118817,5.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H HOU @ OKC),45.0,NBA,2024-12-15 02:30:00+00:00,5.0,10
+171711543,118817,5300.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H HOU @ OKC)",20000.0,NBA,2024-12-15 02:30:00+00:00,5300.0,4
+171711544,118817,1060.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H HOU @ OKC)",4000.0,NBA,2024-12-15 02:30:00+00:00,1060.0,4
+171711545,118817,530.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H HOU @ OKC),2000.0,NBA,2024-12-15 02:30:00+00:00,530.0,4
+171711546,118817,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H HOU @ OKC),400.0,NBA,2024-12-15 02:30:00+00:00,109.0,4
+171711547,118817,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H HOU @ OKC),180.0,NBA,2024-12-15 02:30:00+00:00,50.0,4
+171711548,118817,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H HOU @ OKC),72.0,NBA,2024-12-15 02:30:00+00:00,20.0,4
+171711549,118817,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H HOU @ OKC),36.0,NBA,2024-12-15 02:30:00+00:00,10.0,4
+171711550,118817,50.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H HOU @ OKC),450.0,NBA,2024-12-15 02:30:00+00:00,50.0,10
+171711551,118817,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H HOU @ OKC),9.0,NBA,2024-12-15 02:30:00+00:00,1.0,10
+171711552,118817,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H HOU @ OKC),45.0,NBA,2024-12-15 02:30:00+00:00,5.0,10
+171711553,118817,109.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H HOU @ OKC),600.0,NBA,2024-12-15 02:30:00+00:00,109.0,6
+171711554,118817,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H HOU @ OKC),18.0,NBA,2024-12-15 02:30:00+00:00,2.0,10
+171711555,118817,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H HOU @ OKC),180.0,NBA,2024-12-15 02:30:00+00:00,20.0,10
+171711556,118817,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H HOU @ OKC),90.0,NBA,2024-12-15 02:30:00+00:00,10.0,10
+171711557,118817,5.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H HOU @ OKC),90.0,NBA,2024-12-15 02:30:00+00:00,5.0,20
+171711558,118817,10.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H HOU @ OKC),180.0,NBA,2024-12-15 02:30:00+00:00,10.0,20
+171711559,118817,20.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H HOU @ OKC),360.0,NBA,2024-12-15 02:30:00+00:00,20.0,20
+171711560,118817,2.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H HOU @ OKC),36.0,NBA,2024-12-15 02:30:00+00:00,2.0,20
+171711561,118817,1.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H HOU @ OKC),18.0,NBA,2024-12-15 02:30:00+00:00,1.0,20
+171711562,118817,1060.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H HOU @ OKC),4000.0,NBA,2024-12-15 02:30:00+00:00,1060.0,4
+171711563,118817,267.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H HOU @ OKC),1000.0,NBA,2024-12-15 02:30:00+00:00,267.0,4
+171711564,118817,100.0,False,False,False,False,True,NBA In-Game $100 Winner Take All [$460 to 1st] (Must Fill) (2H HOU @ OKC),460.0,NBA,2024-12-15 02:30:00+00:00,100.0,5
+171711565,118817,9.0,False,False,False,False,True,NBA In-Game Satellite to NAS 2-16 America's Race [Must Fill] (2H HOU @ OKC),25.0,NBA,2024-12-15 02:30:00+00:00,9.0,3
+171711566,118817,1570.0,False,False,False,False,True,"NBA In-Game Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill] (2H HOU @ OKC)",4444.0,NBA,2024-12-15 02:30:00+00:00,1570.0,3
+171711567,118815,20.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171711568,118815,50.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (HOU @ OKC),135.0,NBA,2024-12-15 01:30:00+00:00,50.0,3
+171711569,118815,10.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171711570,118815,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171711571,118815,1.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (HOU @ OKC),2.7,NBA,2024-12-15 01:30:00+00:00,1.0,3
+171711572,118815,5300.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (HOU @ OKC)",20000.0,NBA,2024-12-15 01:30:00+00:00,5300.0,4
+171711573,118815,1060.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (HOU @ OKC)",4000.0,NBA,2024-12-15 01:30:00+00:00,1060.0,4
+171711574,118815,530.0,True,False,False,False,False,NBA Showdown $530 50-50 (HOU @ OKC),2000.0,NBA,2024-12-15 01:30:00+00:00,530.0,4
+171711575,118815,162.0,True,False,False,False,False,NBA Showdown $162 50-50 (HOU @ OKC),600.0,NBA,2024-12-15 01:30:00+00:00,162.0,4
+171711576,118815,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (HOU @ OKC),400.0,NBA,2024-12-15 01:30:00+00:00,109.0,4
+171711577,118815,50.0,True,False,False,False,False,NBA Showdown $50 50-50 (HOU @ OKC),180.0,NBA,2024-12-15 01:30:00+00:00,50.0,4
+171711578,118815,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (HOU @ OKC),360.0,NBA,2024-12-15 01:30:00+00:00,20.0,20
+171711579,118815,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (HOU @ OKC),180.0,NBA,2024-12-15 01:30:00+00:00,20.0,10
+171711580,118815,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (HOU @ OKC),72.0,NBA,2024-12-15 01:30:00+00:00,20.0,4
+171711581,118815,20.0,True,False,False,False,False,NBA Showdown $20 50-50 (HOU @ OKC),72.0,NBA,2024-12-15 01:30:00+00:00,20.0,4
+171711582,118815,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ OKC),180.0,NBA,2024-12-15 01:30:00+00:00,10.0,20
+171711583,118815,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ OKC),90.0,NBA,2024-12-15 01:30:00+00:00,10.0,10
+171711584,118815,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ OKC),90.0,NBA,2024-12-15 01:30:00+00:00,10.0,10
+171711585,118815,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ OKC),36.0,NBA,2024-12-15 01:30:00+00:00,10.0,4
+171711586,118815,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ OKC),36.0,NBA,2024-12-15 01:30:00+00:00,10.0,4
+171711587,118815,10.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ OKC),36.0,NBA,2024-12-15 01:30:00+00:00,10.0,4
+171711588,118815,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (HOU @ OKC),90.0,NBA,2024-12-15 01:30:00+00:00,5.0,20
+171711589,118815,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (HOU @ OKC),90.0,NBA,2024-12-15 01:30:00+00:00,5.0,20
+171711590,118815,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,5.0,10
+171711591,118815,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,5.0,10
+171711592,118815,5.0,True,False,False,False,False,NBA Showdown $5 50-50 (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,5.0,10
+171711593,118815,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ OKC),36.0,NBA,2024-12-15 01:30:00+00:00,2.0,20
+171711594,118815,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ OKC),36.0,NBA,2024-12-15 01:30:00+00:00,2.0,20
+171711595,118815,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,2.0,10
+171711596,118815,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,2.0,10
+171711597,118815,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,2.0,10
+171711598,118815,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,1.0,20
+171711599,118815,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,1.0,20
+171711600,118815,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,1.0,10
+171711601,118815,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,1.0,10
+171711602,118815,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,1.0,10
+171711603,118815,50.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (HOU @ OKC),180.0,NBA,2024-12-15 01:30:00+00:00,50.0,4
+171711604,118815,20.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (HOU @ OKC),72.0,NBA,2024-12-15 01:30:00+00:00,20.0,4
+171711605,118815,10.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (HOU @ OKC),90.0,NBA,2024-12-15 01:30:00+00:00,10.0,10
+171711606,118815,5.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,5.0,10
+171711607,118815,3.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,3.0,10
+171711608,118815,1.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,1.0,10
+171711609,118815,10.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,10.0,5
+171711610,118815,5.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (HOU @ OKC),22.5,NBA,2024-12-15 01:30:00+00:00,5.0,5
+171711611,118815,5.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171711612,118815,2.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,2.0,5
+171711613,118815,2.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (HOU @ OKC),5.4,NBA,2024-12-15 01:30:00+00:00,2.0,3
+171711614,118815,1.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (HOU @ OKC),4.5,NBA,2024-12-15 01:30:00+00:00,1.0,5
+171711615,118815,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (HOU @ OKC)",30000.0,NBA,2024-12-15 01:30:00+00:00,10600.0,3
+171711616,118815,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (HOU @ OKC)",15000.0,NBA,2024-12-15 01:30:00+00:00,5300.0,3
+171711617,118815,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (HOU @ OKC)",3000.0,NBA,2024-12-15 01:30:00+00:00,1060.0,3
+171711618,118815,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (HOU @ OKC),1500.0,NBA,2024-12-15 01:30:00+00:00,530.0,3
+171711619,118815,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (HOU @ OKC),450.0,NBA,2024-12-15 01:30:00+00:00,162.0,3
+171711620,118815,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (HOU @ OKC),300.0,NBA,2024-12-15 01:30:00+00:00,109.0,3
+171711621,118815,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (HOU @ OKC),300.0,NBA,2024-12-15 01:30:00+00:00,109.0,3
+171711622,118815,50.0,False,False,False,False,False,NBA Showdown $50 5-Player (HOU @ OKC),225.0,NBA,2024-12-15 01:30:00+00:00,50.0,5
+171711623,118815,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (HOU @ OKC),135.0,NBA,2024-12-15 01:30:00+00:00,50.0,3
+171711624,118815,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (HOU @ OKC),90.0,NBA,2024-12-15 01:30:00+00:00,20.0,5
+171711625,118815,20.0,False,False,False,False,False,NBA Showdown $20 5-Player (HOU @ OKC),90.0,NBA,2024-12-15 01:30:00+00:00,20.0,5
+171711626,118815,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171711627,118815,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171711628,118815,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171711629,118815,10.0,False,False,False,False,False,NBA Showdown $10 10-Player (HOU @ OKC),90.0,NBA,2024-12-15 01:30:00+00:00,10.0,10
+171711630,118815,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,10.0,5
+171711631,118815,10.0,False,False,False,False,False,NBA Showdown $10 5-Player (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,10.0,5
+171711632,118815,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171711633,118815,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171711634,118815,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171711635,118815,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,5.0,10
+171711636,118815,5.0,False,False,False,False,False,NBA Showdown $5 10-Player (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,5.0,10
+171711637,118815,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (HOU @ OKC),22.5,NBA,2024-12-15 01:30:00+00:00,5.0,5
+171711638,118815,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (HOU @ OKC),22.5,NBA,2024-12-15 01:30:00+00:00,5.0,5
+171711639,118815,5.0,False,False,False,False,False,NBA Showdown $5 5-Player (HOU @ OKC),22.5,NBA,2024-12-15 01:30:00+00:00,5.0,5
+171711640,118815,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171711642,118815,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171711643,118815,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171711644,118815,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (HOU @ OKC),36.0,NBA,2024-12-15 01:30:00+00:00,2.0,20
+171711645,118815,2.0,False,False,False,False,False,NBA Showdown $2 20-Player (HOU @ OKC),36.0,NBA,2024-12-15 01:30:00+00:00,2.0,20
+171711646,118815,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,2.0,10
+171711647,118815,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,2.0,10
+171711648,118815,2.0,False,False,False,False,False,NBA Showdown $2 10-Player (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,2.0,10
+171711649,118815,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,2.0,5
+171711650,118815,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,2.0,5
+171711651,118815,2.0,False,False,False,False,False,NBA Showdown $2 5-Player (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,2.0,5
+171711652,118815,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (HOU @ OKC),5.4,NBA,2024-12-15 01:30:00+00:00,2.0,3
+171711653,118815,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (HOU @ OKC),5.4,NBA,2024-12-15 01:30:00+00:00,2.0,3
+171711654,118815,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (HOU @ OKC),5.4,NBA,2024-12-15 01:30:00+00:00,2.0,3
+171711655,118815,1.0,False,False,False,False,False,NBA Showdown $1 10-Player (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,1.0,10
+171711656,118815,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (HOU @ OKC),4.5,NBA,2024-12-15 01:30:00+00:00,1.0,5
+171711657,118815,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (HOU @ OKC),2.7,NBA,2024-12-15 01:30:00+00:00,1.0,3
+171711658,118815,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (HOU @ OKC),2.7,NBA,2024-12-15 01:30:00+00:00,1.0,3
+171711659,118815,109.0,True,False,False,False,False,NBA Showdown $109 50-50 (HOU @ OKC),600.0,NBA,2024-12-15 01:30:00+00:00,109.0,6
+171711660,118815,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (HOU @ OKC)",40000.0,NBA,2024-12-15 01:30:00+00:00,10600.0,4
+171711661,118815,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (HOU @ OKC)",40000.0,NBA,2024-12-15 01:30:00+00:00,10600.0,4
+171711662,118815,10600.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (HOU @ OKC)",40000.0,NBA,2024-12-15 01:30:00+00:00,10600.0,4
+171711663,118815,50.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (HOU @ OKC),180.0,NBA,2024-12-15 01:30:00+00:00,50.0,4
+171711664,118815,20.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (HOU @ OKC),72.0,NBA,2024-12-15 01:30:00+00:00,20.0,4
+171711665,118815,10.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (HOU @ OKC),90.0,NBA,2024-12-15 01:30:00+00:00,10.0,10
+171711666,118815,5.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,5.0,10
+171711667,118815,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,3.0,10
+171711668,118815,3.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (HOU @ OKC),10.8,NBA,2024-12-15 01:30:00+00:00,3.0,4
+171711669,118815,1.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,1.0,10
+171711670,118815,50.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (HOU @ OKC),135.0,NBA,2024-12-15 01:30:00+00:00,50.0,3
+171711671,118815,20.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171711672,118815,10.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (HOU @ OKC),45.0,NBA,2024-12-15 01:30:00+00:00,10.0,5
+171711673,118815,10.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171711674,118815,2.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,2.0,5
+171711675,118815,2.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (HOU @ OKC),5.4,NBA,2024-12-15 01:30:00+00:00,2.0,3
+171711676,118815,109.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (HOU @ OKC),500.0,NBA,2024-12-15 01:30:00+00:00,109.0,5
+171711677,118815,10.0,True,False,False,False,False,NBA Showdown $10 Double Up (HOU @ OKC),100.0,NBA,2024-12-15 01:30:00+00:00,10.0,11
+171711678,118815,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (HOU @ OKC),250.0,NBA,2024-12-15 01:30:00+00:00,25.0,11
+171711679,118815,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (HOU @ OKC),500.0,NBA,2024-12-15 01:30:00+00:00,50.0,11
+171711680,118815,5.0,True,False,False,False,False,NBA Showdown $5 Double Up (HOU @ OKC),50.0,NBA,2024-12-15 01:30:00+00:00,5.0,11
+171711681,118815,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (HOU @ OKC),30.0,NBA,2024-12-15 01:30:00+00:00,3.0,11
+171711682,118815,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (HOU @ OKC),10.0,NBA,2024-12-15 01:30:00+00:00,1.0,11
+171711683,118815,25.0,True,False,False,False,False,NBA Showdown $25 Double Up (HOU @ OKC),500.0,NBA,2024-12-15 01:30:00+00:00,25.0,22
+171711684,118815,50.0,True,False,False,False,False,NBA Showdown $50 Double Up (HOU @ OKC),1000.0,NBA,2024-12-15 01:30:00+00:00,50.0,22
+171711685,118815,1060.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (HOU @ OKC),4000.0,NBA,2024-12-15 01:30:00+00:00,1060.0,4
+171711686,118815,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (HOU @ OKC),1000.0,NBA,2024-12-15 01:30:00+00:00,267.0,4
+171711687,118815,408.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (HOU @ OKC)",1500.0,NBA,2024-12-15 01:30:00+00:00,408.0,4
+171711689,118815,1177.0,False,False,False,False,True,FINAL STRETCH: NBA Showdown Satellite to NFL $10M Ultimate Main Event (12-29) [Must Fill] (HOU @ OKC,3333.0,NBA,2024-12-15 01:30:00+00:00,1177.0,3
+171711690,118815,41.0,False,False,False,False,True,NBA Showdown Satellite to SOC 12-26 EPL MEGA Boxing Day Special [Must Fill] (HOU @ OKC),111.0,NBA,2024-12-15 01:30:00+00:00,41.0,3
+171711691,118815,121.0,False,False,False,False,True,NBA Showdown Satellite to $333 NFL Wildcat [Must Fill] (HOU @ OKC),333.0,NBA,2024-12-15 01:30:00+00:00,121.0,3
+171711692,118815,1570.0,False,False,False,False,True,"NBA Showdown Satellite to $4,444 NFL Fantasy Football MEGA Millionaire [Must Fill] (HOU @ OKC)",4444.0,NBA,2024-12-15 01:30:00+00:00,1570.0,3
+171711693,118815,181.0,False,False,False,False,True,NBA Showdown Satellite to NAS 2-16 Screaming Eagle [Must Fill] (HOU @ OKC),500.0,NBA,2024-12-15 01:30:00+00:00,181.0,3
+171711694,118815,322.0,False,False,False,False,True,NBA Showdown Satellite to NBA $1M MEGA 8's Special (January) [Must Fill] (HOU @ OKC),888.0,NBA,2024-12-15 01:30:00+00:00,322.0,3
+171711695,118815,201.0,False,False,False,False,True,NBA Showdown Satellite to 3-11 NHL $555 Barn Bash [Must Fill] (HOU @ OKC),555.0,NBA,2024-12-15 01:30:00+00:00,201.0,3
+171711696,118815,130.0,False,False,False,False,True,NBA Showdown Satellite to 1-28 NHL $360 Spin-O-Rama [Must Fill] (HOU @ OKC),360.0,NBA,2024-12-15 01:30:00+00:00,130.0,3
+171711697,118815,1570.0,False,False,False,False,True,"NBA Showdown Satellite to $4,444 NFL Showdown MEGA Millionaire (12-30) [Must Fill] (HOU @ OKC)",4444.0,NBA,2024-12-15 01:30:00+00:00,1570.0,3
+171711698,118815,322.0,False,False,False,False,True,NBA Showdown Satellite to 12-18 NHL $888 Abominable Snowman [Must Fill] (HOU @ OKC),888.0,NBA,2024-12-15 01:30:00+00:00,322.0,3
+171711711,118816,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171711712,118816,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171711713,118816,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171711714,118816,10.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171711715,118816,20.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171711716,118816,109.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (HOU @ OKC),300.0,NBA,2024-12-15 01:30:00+00:00,109.0,3
+171711717,118816,530.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (HOU @ OKC),1500.0,NBA,2024-12-15 01:30:00+00:00,530.0,3
+171711718,118816,50.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (HOU @ OKC),135.0,NBA,2024-12-15 01:30:00+00:00,50.0,3
+171711719,118816,1060.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (HOU @ OKC)",3000.0,NBA,2024-12-15 01:30:00+00:00,1060.0,3
+171711720,118816,2120.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (HOU @ OKC)",6000.0,NBA,2024-12-15 01:30:00+00:00,2120.0,3
+171711731,118811,109.0,False,False,False,False,False,NBA Snake $109 3-Player,300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171711732,118811,530.0,False,False,False,False,False,NBA Snake $530 3-Player,1500.0,NBA,2024-12-14 21:30:00+00:00,530.0,3
+171711733,118811,1060.0,False,False,False,False,False,"NBA Snake $1,060 3-Player",3000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,3
+171711734,118811,2120.0,False,False,False,False,False,"NBA Snake $2,120 3-Player",6000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,3
+171711735,118811,5300.0,False,False,False,False,False,"NBA Snake $5,300 3-Player",15000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,3
+171711736,118811,10600.0,False,False,False,False,False,"NBA Snake $10,600 3-Player",30000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,3
+171720430,118810,4.0,False,False,True,False,True,NBA $30K Four Point Play [20 Entry Max],30000.0,NBA,2024-12-14 21:30:00+00:00,4.0,8917
+171720431,118810,150.0,False,False,True,False,True,NBA $9.25K Posterizer [2 Entry Max],9250.0,NBA,2024-12-14 21:30:00+00:00,150.0,68
+171720432,118810,1.0,False,False,True,False,True,NBA $15K And-One,15000.0,NBA,2024-12-14 21:30:00+00:00,1.0,17835
+171720433,118810,5300.0,False,False,False,False,True,NBA $30K Thunderdome [Must Fill],30000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,6
+171720434,118810,20.0,False,False,True,False,True,NBA $200K Semi-Final Special [50K to 1st],200000.0,NBA,2024-12-14 21:30:00+00:00,20.0,11764
+171720435,118810,2120.0,False,False,True,False,True,NBA $26K Hall of Famer [$13K to 1st],26000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,13
+171720436,118810,333.0,False,False,True,False,True,NBA $101K Money Ball [$20K to 1st],101000.0,NBA,2024-12-14 21:30:00+00:00,333.0,337
+171720437,118810,5.0,False,False,True,False,True,NBA $22K Zone [$5K to 1st],22000.0,NBA,2024-12-14 21:30:00+00:00,5.0,5231
+171720438,118810,44.0,False,False,True,False,True,NBA $5.25K Spin Move [$1K to 1st],5250.0,NBA,2024-12-14 21:30:00+00:00,44.0,139
+171720439,118810,40.0,False,False,True,False,True,NBA $10K Euro Step [5 Entry Max],10000.0,NBA,2024-12-14 21:30:00+00:00,40.0,291
+171720447,118814,15.0,False,False,True,False,True,NBA Showdown $40K Fadeaway [$10K to 1st]  (ATL @ MIL),40000.0,NBA,2024-12-14 21:30:00+00:00,15.0,3137
+171720490,118813,5.0,False,False,True,False,False,NBA Single Stat $1K Winner Take All [3 Entry Max] (Points),1000.0,NBA,2024-12-14 21:30:00+00:00,5.0,237
+171720491,118813,1.0,False,False,True,False,True,NBA Single Stat $3K Winner Take All [20 Entry Max] (Points),3000.0,NBA,2024-12-14 21:30:00+00:00,1.0,3567
+171720500,118812,5.0,False,False,True,False,True,NBA Stating 5 $4K Zone [$1K to 1st] (Starting 5),4000.0,NBA,2024-12-14 21:30:00+00:00,5.0,951
+171720506,118815,222.0,False,False,True,False,True,NBA Showdown $20K Slam Jam [3 Entry Max] (HOU @ OKC),20000.0,NBA,2024-12-15 01:30:00+00:00,222.0,100
+171720507,118815,18.0,False,False,True,False,True,NBA Showdown $150K Fadeaway [$50K to 1st] (HOU @ OKC),150000.0,NBA,2024-12-15 01:30:00+00:00,18.0,9803
+171720968,118815,9.0,False,False,False,False,True,NBA Showdown Satellite to NAS 2-16 America's Race [Must Fill] (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,9.0,3
+171721559,118810,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171721560,118810,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171721561,118810,5.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171721562,118810,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171721563,118810,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171721564,118810,5.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,5.0,10
+171721565,118810,10.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171721566,118810,10.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171721567,118810,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171721568,118810,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171721569,118810,10.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,10.0,10
+171721570,118810,20.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171721571,118810,20.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171721572,118810,20.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171721573,118810,20.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2024-12-14 21:30:00+00:00,20.0,10
+171721574,118810,50.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2024-12-14 21:30:00+00:00,50.0,10
+171721575,118810,50.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2024-12-14 21:30:00+00:00,50.0,10
+171721576,118810,50.0,False,False,False,False,False,NBA $50 10-Player,450.0,NBA,2024-12-14 21:30:00+00:00,50.0,10
+171721577,118810,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171721578,118810,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171721579,118810,5.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171721580,118810,5.0,False,False,False,False,False,NBA $5 20-Player,90.0,NBA,2024-12-14 21:30:00+00:00,5.0,20
+171721581,118810,20.0,True,False,False,False,False,NBA $20 50-50,360.0,NBA,2024-12-14 21:30:00+00:00,20.0,20
+171721582,118810,20.0,False,False,False,False,False,NBA $20 20-Player,360.0,NBA,2024-12-14 21:30:00+00:00,20.0,20
+171721583,118810,10.0,True,False,False,False,False,NBA $10 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,10.0,20
+171721584,118810,10.0,False,False,False,False,False,NBA $10 20-Player,180.0,NBA,2024-12-14 21:30:00+00:00,10.0,20
+171721585,118810,10.0,True,False,False,False,False,NBA $10 Double Up,100.0,NBA,2024-12-14 21:30:00+00:00,10.0,11
+171721586,118810,25.0,True,False,False,False,False,NBA $25 Double Up,250.0,NBA,2024-12-14 21:30:00+00:00,25.0,11
+171721587,118810,50.0,True,False,False,False,False,NBA $50 Double Up,500.0,NBA,2024-12-14 21:30:00+00:00,50.0,11
+171721588,118810,5.0,True,False,False,False,False,NBA $5 Double Up,50.0,NBA,2024-12-14 21:30:00+00:00,5.0,11
+171721589,118810,25.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2024-12-14 21:30:00+00:00,25.0,22
+171721590,118810,50.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2024-12-14 21:30:00+00:00,50.0,22
+171721976,118810,0.0,False,False,True,False,False,NBA FREE 200-Player,0.0,NBA,2024-12-14 21:30:00+00:00,0.0,200
+171722495,118810,9.0,False,False,False,False,True,NBA Satellite to NAS 2-16 America's Race [Must Fill],25.0,NBA,2024-12-14 21:30:00+00:00,9.0,3
+171722504,118810,9.0,False,False,False,False,True,NBA Satellite to NAS 2-16 America's Race [Must Fill],25.0,NBA,2024-12-14 21:30:00+00:00,9.0,3
+171722777,118813,0.0,False,False,True,False,False,NBA Single Stat FREE 30-Player (Points),0.0,NBA,2024-12-14 21:30:00+00:00,0.0,30
+171723554,118816,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (HOU @ OKC),2.7,NBA,2024-12-15 01:30:00+00:00,1.0,3
+171723711,118810,1.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171724839,118814,1.0,False,False,False,False,False,NBA Showdown $1 5-Player (ATL @ MIL),4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171725018,118810,0.0,False,False,True,False,False,NBA FREE 17-Player,0.0,NBA,2024-12-14 21:30:00+00:00,0.0,17
+171725029,118810,0.0,False,False,True,False,False,NBA FREE 20-Player,0.0,NBA,2024-12-14 21:30:00+00:00,0.0,20
+171725416,118814,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (ATL @ MIL)",30000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,3
+171725417,118814,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (ATL @ MIL)",15000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,3
+171725418,118814,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (ATL @ MIL)",3000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,3
+171725419,118814,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (ATL @ MIL),1500.0,NBA,2024-12-14 21:30:00+00:00,530.0,3
+171725420,118814,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (ATL @ MIL),450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171725421,118814,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (ATL @ MIL),300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171725422,118814,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (ATL @ MIL),300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171725423,118814,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (ATL @ MIL),135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171725424,118814,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171725425,118814,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171725426,118814,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171725427,118814,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171725428,118814,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171725429,118814,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171725430,118814,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171725431,118814,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171725432,118814,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171725436,118810,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171725437,118810,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171725438,118810,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171725439,118810,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171725440,118810,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171725441,118810,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171725442,118810,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171725443,118810,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171725444,118810,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171725445,118810,530.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2024-12-14 21:30:00+00:00,530.0,3
+171725446,118810,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171725447,118810,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171725448,118810,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171725449,118810,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171725450,118810,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171725451,118810,1060.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,3
+171725452,118810,5300.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,3
+171725453,118810,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171725454,118810,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171725455,118810,10600.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,3
+171725456,118810,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,3
+171725457,118810,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,3
+171725458,118815,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (HOU @ OKC)",30000.0,NBA,2024-12-15 01:30:00+00:00,10600.0,3
+171725459,118815,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (HOU @ OKC)",15000.0,NBA,2024-12-15 01:30:00+00:00,5300.0,3
+171725460,118815,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (HOU @ OKC)",3000.0,NBA,2024-12-15 01:30:00+00:00,1060.0,3
+171725461,118815,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (HOU @ OKC),1500.0,NBA,2024-12-15 01:30:00+00:00,530.0,3
+171725462,118815,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (HOU @ OKC),450.0,NBA,2024-12-15 01:30:00+00:00,162.0,3
+171725463,118815,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (HOU @ OKC),300.0,NBA,2024-12-15 01:30:00+00:00,109.0,3
+171725464,118815,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (HOU @ OKC),300.0,NBA,2024-12-15 01:30:00+00:00,109.0,3
+171725465,118815,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (HOU @ OKC),135.0,NBA,2024-12-15 01:30:00+00:00,50.0,3
+171725466,118815,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171725467,118815,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171725468,118815,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171725469,118815,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171725470,118815,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171725471,118815,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171725472,118815,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171725473,118815,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171725474,118815,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171725476,118810,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171725477,118810,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171725478,118810,5.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171725479,118810,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171725480,118810,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171725481,118810,10.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171725482,118810,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171725483,118810,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171725484,118810,20.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171725485,118810,530.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2024-12-14 21:30:00+00:00,530.0,3
+171725486,118810,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171725487,118810,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171725488,118810,109.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171725489,118810,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171725490,118810,50.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171725491,118810,1060.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,3
+171725492,118810,5300.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,3
+171725493,118810,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171725494,118810,162.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171725495,118810,10600.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,3
+171725496,118810,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,3
+171725497,118810,2120.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,3
+171725501,118810,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171725502,118810,50.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2024-12-14 21:30:00+00:00,50.0,4
+171725503,118810,109.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2024-12-14 21:30:00+00:00,109.0,4
+171725504,118810,530.0,True,False,False,False,False,NBA $530 50-50,2000.0,NBA,2024-12-14 21:30:00+00:00,530.0,4
+171725505,118810,1060.0,True,False,False,False,False,"NBA $1,060 50-50",4000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,4
+171725506,118810,5300.0,True,False,False,False,False,"NBA $5,300 50-50",20000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,4
+171725507,118810,162.0,True,False,False,False,False,NBA $162 50-50,600.0,NBA,2024-12-14 21:30:00+00:00,162.0,4
+171725508,118810,2120.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,4
+171725509,118810,2120.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2024-12-14 21:30:00+00:00,2120.0,4
+171725556,118812,0.0,False,False,True,False,False,NBA Stating 5 FREE 50-Player (Starting 5),0.0,NBA,2024-12-14 21:30:00+00:00,0.0,50
+171726175,118810,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171726176,118810,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171726177,118810,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171726182,118812,2.0,False,False,False,False,False,NBA Stating 5 $2 3-Player (Starting 5),5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171726183,118812,1.0,False,False,False,False,False,NBA Stating 5 $1 3-Player (Starting 5),2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171726185,118812,1.0,False,False,False,False,False,NBA Stating 5 $1 3-Player (Starting 5),2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171726186,118812,10600.0,False,False,False,False,False,"NBA Stating 5 $10,600 3-Player (Starting 5)",30000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,3
+171726187,118812,5300.0,False,False,False,False,False,"NBA Stating 5 $5,300 3-Player (Starting 5)",15000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,3
+171726188,118812,1060.0,False,False,False,False,False,"NBA Stating 5 $1,060 3-Player (Starting 5)",3000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,3
+171726189,118812,530.0,False,False,False,False,False,NBA Stating 5 $530 3-Player (Starting 5),1500.0,NBA,2024-12-14 21:30:00+00:00,530.0,3
+171726190,118812,162.0,False,False,False,False,False,NBA Stating 5 $162 3-Player (Starting 5),450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171726191,118812,109.0,False,False,False,False,False,NBA Stating 5 $109 3-Player (Starting 5),300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171726192,118812,109.0,False,False,False,False,False,NBA Stating 5 $109 3-Player (Starting 5),300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171726193,118812,50.0,False,False,False,False,False,NBA Stating 5 $50 3-Player (Starting 5),135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171726194,118812,20.0,False,False,False,False,False,NBA Stating 5 $20 3-Player (Starting 5),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171726195,118812,20.0,False,False,False,False,False,NBA Stating 5 $20 3-Player (Starting 5),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171726196,118812,20.0,False,False,False,False,False,NBA Stating 5 $20 3-Player (Starting 5),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171726197,118812,10.0,False,False,False,False,False,NBA Stating 5 $10 3-Player (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171726198,118812,10.0,False,False,False,False,False,NBA Stating 5 $10 3-Player (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171726199,118812,10.0,False,False,False,False,False,NBA Stating 5 $10 3-Player (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171726200,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 3-Player (Starting 5),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171726201,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 3-Player (Starting 5),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171726202,118812,5.0,False,False,False,False,False,NBA Stating 5 $5 3-Player (Starting 5),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171726204,118813,1.0,False,False,True,False,False,NBA Single Stat $1 10-Player [Top 2 Win] (Points),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171726205,118813,2.0,False,False,True,False,False,NBA Single Stat $2 10-Player [Top 2 Win] (Points),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171727029,118815,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (HOU @ OKC)",30000.0,NBA,2024-12-15 01:30:00+00:00,10600.0,3
+171727030,118815,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (HOU @ OKC)",15000.0,NBA,2024-12-15 01:30:00+00:00,5300.0,3
+171727031,118815,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (HOU @ OKC)",3000.0,NBA,2024-12-15 01:30:00+00:00,1060.0,3
+171727032,118815,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (HOU @ OKC),1500.0,NBA,2024-12-15 01:30:00+00:00,530.0,3
+171727033,118815,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (HOU @ OKC),450.0,NBA,2024-12-15 01:30:00+00:00,162.0,3
+171727034,118815,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (HOU @ OKC),300.0,NBA,2024-12-15 01:30:00+00:00,109.0,3
+171727035,118815,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (HOU @ OKC),300.0,NBA,2024-12-15 01:30:00+00:00,109.0,3
+171727036,118815,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (HOU @ OKC),135.0,NBA,2024-12-15 01:30:00+00:00,50.0,3
+171727037,118815,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171727038,118815,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171727039,118815,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ OKC),54.0,NBA,2024-12-15 01:30:00+00:00,20.0,3
+171727040,118815,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171727041,118815,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171727042,118815,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,10.0,3
+171727043,118815,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171727044,118815,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171727045,118815,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171727631,118813,0.0,False,False,True,False,False,NBA Single Stat FREE 200-Player (Points),0.0,NBA,2024-12-14 21:30:00+00:00,0.0,200
+171727924,118810,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171727944,118810,3.0,False,False,False,False,False,NBA $3 15-Player (Winner Takes All),40.5,NBA,2024-12-14 21:30:00+00:00,3.0,15
+171727946,118814,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (ATL @ MIL),2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171727947,118810,1.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171727966,118810,1.0,False,False,False,False,False,NBA $1 30-Player (Winner Takes All),27.0,NBA,2024-12-14 21:30:00+00:00,1.0,30
+171727972,118810,1.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2024-12-14 21:30:00+00:00,1.0,5
+171727975,118810,2.0,False,False,False,False,False,NBA $2 10-Player (Top 2 Win),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171728176,118814,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (ATL @ MIL),36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171728187,118810,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171728188,118810,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171728189,118810,1.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171728190,118810,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171728191,118810,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171728192,118810,2.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2024-12-14 21:30:00+00:00,2.0,3
+171728193,118810,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,1.0,50
+171728194,118810,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,1.0,50
+171728195,118810,1.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2024-12-14 21:30:00+00:00,1.0,50
+171728196,118810,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171728197,118810,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171728198,118810,2.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171728199,118810,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171728200,118810,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171728201,118810,2.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2024-12-14 21:30:00+00:00,2.0,20
+171728202,118810,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171728203,118810,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171728204,118810,1.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171728205,118810,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171728206,118810,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171728207,118810,1.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171728208,118810,3.0,True,False,False,False,False,NBA $3 Double Up,30.0,NBA,2024-12-14 21:30:00+00:00,3.0,11
+171728209,118810,1.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2024-12-14 21:30:00+00:00,1.0,11
+171728243,118815,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ OKC),36.0,NBA,2024-12-15 01:30:00+00:00,2.0,20
+171728244,118815,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ OKC),36.0,NBA,2024-12-15 01:30:00+00:00,2.0,20
+171728245,118815,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,2.0,10
+171728246,118815,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,2.0,10
+171728247,118815,2.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,2.0,10
+171728248,118815,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,1.0,20
+171728249,118815,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ OKC),18.0,NBA,2024-12-15 01:30:00+00:00,1.0,20
+171728250,118815,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,1.0,10
+171728251,118815,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,1.0,10
+171728252,118815,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ OKC),9.0,NBA,2024-12-15 01:30:00+00:00,1.0,10
+171728253,118815,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (HOU @ OKC),5.4,NBA,2024-12-15 01:30:00+00:00,2.0,3
+171728254,118815,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (HOU @ OKC),5.4,NBA,2024-12-15 01:30:00+00:00,2.0,3
+171728255,118815,2.0,False,False,False,False,False,NBA Showdown $2 3-Player (HOU @ OKC),5.4,NBA,2024-12-15 01:30:00+00:00,2.0,3
+171728256,118815,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (HOU @ OKC),2.7,NBA,2024-12-15 01:30:00+00:00,1.0,3
+171728257,118815,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (HOU @ OKC),2.7,NBA,2024-12-15 01:30:00+00:00,1.0,3
+171728258,118815,3.0,True,False,False,False,False,NBA Showdown $3 Double Up (HOU @ OKC),30.0,NBA,2024-12-15 01:30:00+00:00,3.0,11
+171728259,118815,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (HOU @ OKC),10.0,NBA,2024-12-15 01:30:00+00:00,1.0,11
+171728260,118815,0.0,False,False,True,False,False,NBA Showdown FREE 200-Player (HOU @ OKC),0.0,NBA,2024-12-15 01:30:00+00:00,0.0,200
+171728542,118810,2.0,False,False,False,False,False,NBA $2 10-Player (Winner Takes All),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171728590,118814,1.0,False,False,False,False,False,NBA Showdown $1 3-Player (ATL @ MIL),2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171728713,118813,1.0,True,False,False,False,False,NBA Single Stat $1 50-50  (Points),18.0,NBA,2024-12-14 21:30:00+00:00,1.0,20
+171728809,118812,1.0,False,False,False,False,False,NBA Stating 5 $1 10-Player (Starting 5),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171728815,118811,20.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171728910,118811,20.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171729098,118810,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
+171729129,118812,3.0,True,False,False,False,False,Beginner NBA Stating 5 $3 50-50 (Starting 5),27.0,NBA,2024-12-14 21:30:00+00:00,3.0,10
+171729133,118812,2.0,True,False,False,False,False,NBA Stating 5 $2 50-50 (Starting 5),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171729136,118812,2.0,True,False,False,False,False,NBA Stating 5 $2 50-50 (Starting 5),18.0,NBA,2024-12-14 21:30:00+00:00,2.0,10
+171729141,118811,10.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171729158,118812,3.0,False,False,False,False,False,NBA Stating 5 $3 3-Player (Winner Takes All) (Starting 5),8.1,NBA,2024-12-14 21:30:00+00:00,3.0,3
+171729163,118814,1.0,True,False,False,False,False,NBA Showdown $1 50-50 (ATL @ MIL),9.0,NBA,2024-12-14 21:30:00+00:00,1.0,10
+171729228,118811,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171729233,118811,50.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171729238,118810,3.0,False,False,False,False,False,NBA $3 20-Player (Winner Takes All),54.0,NBA,2024-12-14 21:30:00+00:00,3.0,20
+171729293,118816,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (HOU @ OKC),2.7,NBA,2024-12-15 01:30:00+00:00,1.0,3
+171729328,118811,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171729347,118814,1.0,True,False,True,False,False,NBA Showdown $1 Double Up (ATL @ MIL),20.0,NBA,2024-12-14 21:30:00+00:00,1.0,23
+171729400,118816,1.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (HOU @ OKC),2.7,NBA,2024-12-15 01:30:00+00:00,1.0,3
+171729498,118810,5.0,False,False,True,False,True,NBA Satellite to $15 NBA Fadeaway [2x],30.0,NBA,2024-12-14 21:30:00+00:00,5.0,7
+171729553,118815,1.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (HOU @ OKC),27.0,NBA,2024-12-15 01:30:00+00:00,1.0,31
+171729733,118810,9.0,False,False,False,False,True,NBA Satellite to NAS 2-16 America's Race [Must Fill],25.0,NBA,2024-12-14 21:30:00+00:00,9.0,3
+171729735,118814,10600.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (ATL @ MIL)",30000.0,NBA,2024-12-14 21:30:00+00:00,10600.0,3
+171729736,118814,5300.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (ATL @ MIL)",15000.0,NBA,2024-12-14 21:30:00+00:00,5300.0,3
+171729737,118814,1060.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (ATL @ MIL)",3000.0,NBA,2024-12-14 21:30:00+00:00,1060.0,3
+171729738,118814,530.0,False,False,False,False,False,NBA Showdown $530 3-Player (ATL @ MIL),1500.0,NBA,2024-12-14 21:30:00+00:00,530.0,3
+171729739,118814,162.0,False,False,False,False,False,NBA Showdown $162 3-Player (ATL @ MIL),450.0,NBA,2024-12-14 21:30:00+00:00,162.0,3
+171729740,118814,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (ATL @ MIL),300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171729741,118814,109.0,False,False,False,False,False,NBA Showdown $109 3-Player (ATL @ MIL),300.0,NBA,2024-12-14 21:30:00+00:00,109.0,3
+171729742,118814,50.0,False,False,False,False,False,NBA Showdown $50 3-Player (ATL @ MIL),135.0,NBA,2024-12-14 21:30:00+00:00,50.0,3
+171729743,118814,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171729744,118814,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171729745,118814,20.0,False,False,False,False,False,NBA Showdown $20 3-Player (ATL @ MIL),54.0,NBA,2024-12-14 21:30:00+00:00,20.0,3
+171729746,118814,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171729747,118814,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171729748,118814,10.0,False,False,False,False,False,NBA Showdown $10 3-Player (ATL @ MIL),27.0,NBA,2024-12-14 21:30:00+00:00,10.0,3
+171729749,118814,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171729750,118814,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171729751,118814,5.0,False,False,False,False,False,NBA Showdown $5 3-Player (ATL @ MIL),13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171729753,118815,9.0,False,False,False,False,True,NBA Showdown Satellite to NAS 2-16 America's Race [Must Fill] (HOU @ OKC),25.0,NBA,2024-12-15 01:30:00+00:00,9.0,3
+171730034,118812,0.0,False,False,True,False,False,NBA Stating 5 FREE 6-Player (Starting 5),0.0,NBA,2024-12-14 21:30:00+00:00,0.0,6
+171730036,118813,0.0,False,False,True,False,False,NBA Single Stat FREE 6-Player (Points),0.0,NBA,2024-12-14 21:30:00+00:00,0.0,6
+171730272,118811,5.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2024-12-14 21:30:00+00:00,5.0,3
+171730334,118814,267.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (ATL @ MIL),1000.0,NBA,2024-12-14 21:30:00+00:00,267.0,4
+171730400,118811,1.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2024-12-14 21:30:00+00:00,1.0,3
+171730442,118815,2.0,False,False,False,False,False,NBA Showdown $2 9-Player (Winner Takes All) (HOU @ OKC),16.2,NBA,2024-12-15 01:30:00+00:00,2.0,9
+171730618,118814,1.0,True,False,False,False,False,NBA Showdown $1 Double Up (ATL @ MIL),10.0,NBA,2024-12-14 21:30:00+00:00,1.0,11
+171730621,118816,5.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (HOU @ OKC),13.5,NBA,2024-12-15 01:30:00+00:00,5.0,3
+171730736,118810,2.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2024-12-14 21:30:00+00:00,2.0,5
