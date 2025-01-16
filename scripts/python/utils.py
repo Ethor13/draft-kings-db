@@ -13,7 +13,7 @@ def send_email(
     recipient_email: str,
     subject: str,
     body: str,
-    smtp_server: str = "smtp.office365.com",
+    smtp_server: str = "smtp.gmail.com",
     port: int = 587,
 ):
     """

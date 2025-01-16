@@ -19,11 +19,12 @@ def main():
 
         page = context.new_page()
 
-        # Apply stealth mode to the page
-        stealth_sync(page)
-
         # Navigate to the DraftKings login page
         page.goto(LOGIN_URL)
+
+        # TODO: this has been causing problems!
+        # Apply stealth mode to the page
+        stealth_sync(page)
 
         # Fill in the username and password
         page.fill("#login-username-input", os.getenv("DK_USERNAME"))
@@ -49,7 +50,7 @@ if __name__ == "__main__":
     except Exception as e:
         send_email(
             os.getenv("SENDER_EMAIL"),
-            os.getenv("SENDER_PASSWORD"),
+            os.getenv("GMAIL_APP_PASSWORD"),
             os.getenv("RECIPIENT_EMAIL"),
             "RIDDLER - Cookies could not be scraped from DraftKings",
             str(e.args),
