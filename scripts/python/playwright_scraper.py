@@ -17,6 +17,8 @@ def main():
         context = browser.new_context(permissions=["geolocation"])
         context.set_default_timeout(TIMEOUT)
 
+        context.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+
         page = context.new_page()
 
         # Navigate to the DraftKings login page

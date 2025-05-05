@@ -1,0 +1,19 @@
+[project]
+authors = [{name = "Ethan Orlowsky", email = "ethaniorlowsky@gmail.com"}]
+dependencies = [
+    "pandas==2.2.3",
+    "draft-kings==3.1.0",
+    "playwright",
+    "playwright-stealth",
+    "python-dotenv",
+    "setuptools"
+]
+name = "draft-kings-db"
+requires-python = "==3.11"
+version = "0.1.0"
+
+[tool.pixi.project]
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[tool.pixi.tasks]
