@@ -10,3 +10,7 @@ logs/
 img/
 help.txt
 __pycache__
+
+# pixi environments
+.pixi
+*.egg-info
