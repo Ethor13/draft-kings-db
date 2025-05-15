@@ -1,0 +1,540 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+176832203,127600,20.0,False,False,True,False,True,NBA Showdown $10K Mid Range Jumper [Single Entry] (OKC @ DEN),10000.0,NBA,2025-05-16 00:30:00+00:00,40.0,291
+176832204,127600,25.0,False,False,True,False,True,NBA Showdown $1K Ankle Breaker [Single Entry] (OKC @ DEN),1000.0,NBA,2025-05-16 00:30:00+00:00,50.0,22
+176832205,127600,50.0,False,False,True,False,True,NBA Showdown $5K Showtime [Single Entry] (OKC @ DEN),5000.0,NBA,2025-05-16 00:30:00+00:00,100.0,55
+176832206,127600,1.0,False,False,True,False,True,NBA Showdown $2K Elbow Shot [Single Entry] (OKC @ DEN),2000.0,NBA,2025-05-16 00:30:00+00:00,2.0,1189
+176832207,127600,0.0,False,False,True,False,True,NBA Showdown $3K Quarter Jukebox [Just $0.25!] (OKC @ DEN),3000.0,NBA,2025-05-16 00:30:00+00:00,0.25,14268
+176832208,127600,1.0,False,False,True,False,True,NBA Showdown $4K Hot Shot [3 Entry Max] (OKC @ DEN),4000.0,NBA,2025-05-16 00:30:00+00:00,3.0,1585
+176832209,127600,0.0,False,False,True,False,True,NBA Showdown $20K mini-MAX [150 Max Entry] (OKC @ DEN),20000.0,NBA,2025-05-16 00:30:00+00:00,0.5,47562
+176832210,127600,50.0,False,False,True,False,True,NBA Showdown $15K Showtime [Single Entry] (OKC @ DEN),15000.0,NBA,2025-05-16 00:30:00+00:00,100.0,166
+176832211,127600,20.0,False,False,True,False,True,NBA Showdown $5K Euro Step [4 Entry Max] (OKC @ DEN),5000.0,NBA,2025-05-16 00:30:00+00:00,40.0,145
+176832212,127600,13.0,False,False,True,False,True,NBA Showdown $3K Fast Break [Single Entry] (OKC @ DEN),3000.0,NBA,2025-05-16 00:30:00+00:00,27.0,129
+176832213,127600,6.0,False,False,True,False,True,NBA Showdown $6K Pick and Roll [Single Entry] (OKC @ DEN),6000.0,NBA,2025-05-16 00:30:00+00:00,12.0,588
+176832214,127600,2.0,False,False,True,False,True,NBA Showdown $6K High Five [Single Entry] (OKC @ DEN),6000.0,NBA,2025-05-16 00:30:00+00:00,5.0,1426
+176832215,127600,0.0,False,False,True,False,True,NBA Showdown $2K Daily Dollar [Single Entry]  (OKC @ DEN),2000.0,NBA,2025-05-16 00:30:00+00:00,1.0,2378
+176832216,127600,12.0,True,False,True,False,True,NBA Showdown Single Entry $25 Double Up (OKC @ DEN),2000.0,NBA,2025-05-16 00:30:00+00:00,25.0,91
+176832217,127600,12.0,True,False,True,False,True,NBA Showdown $25 Double Up (OKC @ DEN),1000.0,NBA,2025-05-16 00:30:00+00:00,25.0,45
+176832218,127600,5.0,True,False,True,False,True,NBA Showdown Single Entry $10 Double Up (OKC @ DEN),1000.0,NBA,2025-05-16 00:30:00+00:00,10.0,114
+176832219,127600,2.0,True,False,True,False,True,NBA Showdown Single Entry $5 Double Up (OKC @ DEN),1000.0,NBA,2025-05-16 00:30:00+00:00,5.0,229
+176832220,127600,1.0,True,False,True,False,True,NBA Showdown $2 Double Up (OKC @ DEN),1000.0,NBA,2025-05-16 00:30:00+00:00,2.0,574
+176832221,127602,5.0,False,False,True,False,True,NBA In-Game $8K Pull Up Jumper [$2K to 1st] (2H OKC @ DEN),8000.0,NBA,2025-05-16 01:30:00+00:00,10.0,941
+176832222,127602,50.0,False,False,True,False,True,"NBA In-Game $720 Showtime [Single Entry, Top 2 Win] (2H OKC @ DEN)",720.0,NBA,2025-05-16 01:30:00+00:00,100.0,8
+176832223,127602,13.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (2H OKC @ DEN),240.0,NBA,2025-05-16 01:30:00+00:00,27.0,10
+176832224,127602,1.0,False,False,True,False,True,NBA In-Game $100 Sharpshooter (2H OKC @ DEN),100.0,NBA,2025-05-16 01:30:00+00:00,3.0,39
+176832225,127602,2.0,False,False,True,False,True,NBA In-Game $150 High Five [Single Entry] (2H OKC @ DEN),150.0,NBA,2025-05-16 01:30:00+00:00,5.0,35
+176832226,127602,6.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (2H OKC @ DEN),155.0,NBA,2025-05-16 01:30:00+00:00,12.0,15
+176832227,127602,150.0,False,False,True,False,True,NBA In-Game $1.08K 3-Ball [Winner Take All] (2H OKC @ DEN),1080.0,NBA,2025-05-16 01:30:00+00:00,300.0,4
+176832228,127602,25.0,False,False,True,False,True,NBA In-Game $50 Winner Take All [$220 to 1st] (2H OKC @ DEN),220.0,NBA,2025-05-16 01:30:00+00:00,50.0,5
+176832229,127602,0.0,False,False,True,False,True,NBA In-Game $200 And-One (2H OKC @ DEN),200.0,NBA,2025-05-16 01:30:00+00:00,1.0,237
+176832230,127602,0.0,False,False,True,False,True,NBA In-Game $100 Quarter Jukebox [Just $0.25!] (2H OKC @ DEN),100.0,NBA,2025-05-16 01:30:00+00:00,0.25,475
+176832289,127601,54.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (OKC @ DEN),300.0,NBA,2025-05-16 00:30:00+00:00,109.0,3
+176832290,127601,265.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (OKC @ DEN),1500.0,NBA,2025-05-16 00:30:00+00:00,530.0,3
+176832291,127601,25.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (OKC @ DEN),135.0,NBA,2025-05-16 00:30:00+00:00,50.0,3
+176832292,127601,530.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (OKC @ DEN)",3000.0,NBA,2025-05-16 00:30:00+00:00,1060.0,3
+176832293,127601,1060.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (OKC @ DEN)",6000.0,NBA,2025-05-16 00:30:00+00:00,2120.0,3
+176832297,127602,0.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H OKC @ DEN),20.0,NBA,2025-05-16 01:30:00+00:00,1.0,23
+176832298,127602,42.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H OKC @ DEN),300.0,NBA,2025-05-16 01:30:00+00:00,85.0,4
+176832299,127602,12.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H OKC @ DEN),110.0,NBA,2025-05-16 01:30:00+00:00,25.0,5
+176832300,127602,5.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H OKC @ DEN),100.0,NBA,2025-05-16 01:30:00+00:00,10.0,11
+176832301,127602,2.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H OKC @ DEN),100.0,NBA,2025-05-16 01:30:00+00:00,5.0,23
+176832309,127602,1.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H OKC @ DEN),5.4,NBA,2025-05-16 01:30:00+00:00,2.0,3
+176832310,127602,5.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H OKC @ DEN),27.0,NBA,2025-05-16 01:30:00+00:00,10.0,3
+176832311,127602,2.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H OKC @ DEN),13.5,NBA,2025-05-16 01:30:00+00:00,5.0,3
+176832312,127602,0.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H OKC @ DEN),2.7,NBA,2025-05-16 01:30:00+00:00,1.0,3
+176832313,127602,0.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H OKC @ DEN),9.0,NBA,2025-05-16 01:30:00+00:00,1.0,10
+176832314,127602,0.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H OKC @ DEN),4.5,NBA,2025-05-16 01:30:00+00:00,1.0,5
+176832315,127602,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H OKC @ DEN),2.7,NBA,2025-05-16 01:30:00+00:00,1.0,3
+176832316,127602,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H OKC @ DEN),2.7,NBA,2025-05-16 01:30:00+00:00,1.0,3
+176832317,127602,10.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H OKC @ DEN),180.0,NBA,2025-05-16 01:30:00+00:00,20.0,10
+176832318,127602,5.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H OKC @ DEN),90.0,NBA,2025-05-16 01:30:00+00:00,10.0,10
+176832319,127602,2.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H OKC @ DEN),45.0,NBA,2025-05-16 01:30:00+00:00,5.0,10
+176832320,127602,1.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H OKC @ DEN),27.0,NBA,2025-05-16 01:30:00+00:00,3.0,10
+176832321,127602,0.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H OKC @ DEN),9.0,NBA,2025-05-16 01:30:00+00:00,1.0,10
+176832322,127602,2.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H OKC @ DEN),13.5,NBA,2025-05-16 01:30:00+00:00,5.0,3
+176832323,127602,1.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H OKC @ DEN),5.4,NBA,2025-05-16 01:30:00+00:00,2.0,3
+176832324,127602,1.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H OKC @ DEN),5.4,NBA,2025-05-16 01:30:00+00:00,2.0,3
+176832325,127602,1.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H OKC @ DEN),5.4,NBA,2025-05-16 01:30:00+00:00,2.0,3
+176832326,127602,1.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H OKC @ DEN),9.0,NBA,2025-05-16 01:30:00+00:00,2.0,5
+176832327,127602,1.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H OKC @ DEN),18.0,NBA,2025-05-16 01:30:00+00:00,2.0,10
+176832328,127602,2.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H OKC @ DEN),13.5,NBA,2025-05-16 01:30:00+00:00,5.0,3
+176832329,127602,2.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H OKC @ DEN),22.5,NBA,2025-05-16 01:30:00+00:00,5.0,5
+176832330,127602,2.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H OKC @ DEN),45.0,NBA,2025-05-16 01:30:00+00:00,5.0,10
+176832331,127602,5.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H OKC @ DEN),45.0,NBA,2025-05-16 01:30:00+00:00,10.0,5
+176832332,127602,5.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H OKC @ DEN),27.0,NBA,2025-05-16 01:30:00+00:00,10.0,3
+176832333,127602,10.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H OKC @ DEN),54.0,NBA,2025-05-16 01:30:00+00:00,20.0,3
+176832334,127602,25.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H OKC @ DEN),225.0,NBA,2025-05-16 01:30:00+00:00,50.0,5
+176832335,127602,25.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H OKC @ DEN),135.0,NBA,2025-05-16 01:30:00+00:00,50.0,3
+176832336,127602,54.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H OKC @ DEN),300.0,NBA,2025-05-16 01:30:00+00:00,109.0,3
+176832337,127602,81.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H OKC @ DEN),450.0,NBA,2025-05-16 01:30:00+00:00,162.0,3
+176832338,127602,265.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H OKC @ DEN),1500.0,NBA,2025-05-16 01:30:00+00:00,530.0,3
+176832339,127602,530.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H OKC @ DEN)",3000.0,NBA,2025-05-16 01:30:00+00:00,1060.0,3
+176832340,127602,2650.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H OKC @ DEN)",15000.0,NBA,2025-05-16 01:30:00+00:00,5300.0,3
+176832341,127602,5300.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H OKC @ DEN)",30000.0,NBA,2025-05-16 01:30:00+00:00,10600.0,3
+176832342,127602,10.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H OKC @ DEN),72.0,NBA,2025-05-16 01:30:00+00:00,20.0,4
+176832343,127602,5.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H OKC @ DEN),90.0,NBA,2025-05-16 01:30:00+00:00,10.0,10
+176832344,127602,0.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H OKC @ DEN),9.0,NBA,2025-05-16 01:30:00+00:00,1.0,10
+176832345,127602,1.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H OKC @ DEN),27.0,NBA,2025-05-16 01:30:00+00:00,3.0,10
+176832346,127602,2.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H OKC @ DEN),45.0,NBA,2025-05-16 01:30:00+00:00,5.0,10
+176832347,127602,2650.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H OKC @ DEN)",20000.0,NBA,2025-05-16 01:30:00+00:00,5300.0,4
+176832348,127602,530.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H OKC @ DEN)",4000.0,NBA,2025-05-16 01:30:00+00:00,1060.0,4
+176832349,127602,265.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H OKC @ DEN),2000.0,NBA,2025-05-16 01:30:00+00:00,530.0,4
+176832350,127602,54.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H OKC @ DEN),400.0,NBA,2025-05-16 01:30:00+00:00,109.0,4
+176832351,127602,25.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H OKC @ DEN),180.0,NBA,2025-05-16 01:30:00+00:00,50.0,4
+176832352,127602,10.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H OKC @ DEN),72.0,NBA,2025-05-16 01:30:00+00:00,20.0,4
+176832353,127602,5.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H OKC @ DEN),36.0,NBA,2025-05-16 01:30:00+00:00,10.0,4
+176832354,127602,25.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H OKC @ DEN),450.0,NBA,2025-05-16 01:30:00+00:00,50.0,10
+176832355,127602,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H OKC @ DEN),9.0,NBA,2025-05-16 01:30:00+00:00,1.0,10
+176832356,127602,2.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H OKC @ DEN),45.0,NBA,2025-05-16 01:30:00+00:00,5.0,10
+176832357,127602,54.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H OKC @ DEN),600.0,NBA,2025-05-16 01:30:00+00:00,109.0,6
+176832358,127602,1.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H OKC @ DEN),18.0,NBA,2025-05-16 01:30:00+00:00,2.0,10
+176832359,127602,10.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H OKC @ DEN),180.0,NBA,2025-05-16 01:30:00+00:00,20.0,10
+176832360,127602,5.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H OKC @ DEN),90.0,NBA,2025-05-16 01:30:00+00:00,10.0,10
+176832361,127602,2.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H OKC @ DEN),90.0,NBA,2025-05-16 01:30:00+00:00,5.0,20
+176832362,127602,5.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H OKC @ DEN),180.0,NBA,2025-05-16 01:30:00+00:00,10.0,20
+176832363,127602,10.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H OKC @ DEN),360.0,NBA,2025-05-16 01:30:00+00:00,20.0,20
+176832364,127602,1.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H OKC @ DEN),36.0,NBA,2025-05-16 01:30:00+00:00,2.0,20
+176832365,127602,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H OKC @ DEN),18.0,NBA,2025-05-16 01:30:00+00:00,1.0,20
+176832366,127602,530.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H OKC @ DEN),4000.0,NBA,2025-05-16 01:30:00+00:00,1060.0,4
+176832367,127602,133.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H OKC @ DEN),1000.0,NBA,2025-05-16 01:30:00+00:00,267.0,4
+176832368,127602,50.0,False,False,False,False,True,NBA In-Game $100 Winner Take All [$460 to 1st] (Must Fill) (2H OKC @ DEN),460.0,NBA,2025-05-16 01:30:00+00:00,100.0,5
+176832369,127602,4.0,False,False,False,False,True,NBA In-Game Satellite to NBA $25 Finals Tip-Off Special (6-5) [Must Fill] (2H OKC @ DEN),25.0,NBA,2025-05-16 01:30:00+00:00,9.0,3
+176832370,127602,60.0,False,False,False,False,True,NBA In-Game Satellite to TEN $333 Clay Smash (5-28) [Must Fill] (2H OKC @ DEN),333.0,NBA,2025-05-16 01:30:00+00:00,121.0,3
+176832371,127602,81.0,False,False,False,False,True,NBA In-Game Satellite to NAS 5-25 $600 Soda Fountain [Must FIll] (2H OKC @ DEN),600.0,NBA,2025-05-16 01:30:00+00:00,163.0,4
+176832372,127602,100.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (2H OKC @ DEN),555.0,NBA,2025-05-16 01:30:00+00:00,201.0,3
+176832373,127602,587.0,False,False,False,False,True,NBA In-Game Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (2H OKC @ DEN),3333.0,NBA,2025-05-16 01:30:00+00:00,1175.0,3
+176832374,127602,4.0,False,False,False,False,False,NBA In-Game Satellite to NHL $25 Finals Face-Off (Game 1) [Must Fill] (2H OKC @ DEN),25.0,NBA,2025-05-16 01:30:00+00:00,9.0,3
+176832375,127602,0.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $5 Queen of the Court Qualifier [Must Fill] (2H OKC @ DEN),5.0,NBA,2025-05-16 01:30:00+00:00,1.85,3
+176832376,127602,0.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $5 Queen of the Court Qualifier [Must Fill] (2H OKC @ DEN),5.0,NBA,2025-05-16 01:30:00+00:00,1.85,3
+176832377,127602,4.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $25 Queen of the Court Qualifier [Must Fill] (2H OKC @ DEN),25.0,NBA,2025-05-16 01:30:00+00:00,9.0,3
+176832378,127602,4.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $25 Queen of the Court Qualifier [Must Fill] (2H OKC @ DEN),25.0,NBA,2025-05-16 01:30:00+00:00,9.0,3
+176832379,127602,30.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (2H OKC @ DEN),164.0,NBA,2025-05-16 01:30:00+00:00,60.0,3
+176832380,127602,30.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (2H OKC @ DEN),164.0,NBA,2025-05-16 01:30:00+00:00,60.0,3
+176832381,127602,52.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $287 Queen of the Court Qualifier [Must Fill] (2H OKC @ DEN),287.0,NBA,2025-05-16 01:30:00+00:00,104.0,3
+176832382,127602,52.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $287 Queen of the Court Qualifier [Must Fill] (2H OKC @ DEN),287.0,NBA,2025-05-16 01:30:00+00:00,104.0,3
+176832383,127602,59.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $328 Queen of the Court Qualifier [Must Fill] (2H OKC @ DEN),328.0,NBA,2025-05-16 01:30:00+00:00,119.0,3
+176832384,127602,59.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $328 Queen of the Court Qualifier [Must Fill] (2H OKC @ DEN),328.0,NBA,2025-05-16 01:30:00+00:00,119.0,3
+176832399,127600,265.0,True,False,True,False,True,NBA Showdown $530 50-50 (OKC @ DEN),3000.0,NBA,2025-05-16 00:30:00+00:00,530.0,6
+176832400,127600,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $50] (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,5.0,59
+176832401,127600,1.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 10 Win $20] (OKC @ DEN),200.0,NBA,2025-05-16 00:30:00+00:00,2.0,118
+176832402,127600,1.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $20] (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,2.0,59
+176832403,127600,1.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $20] (OKC @ DEN),60.0,NBA,2025-05-16 00:30:00+00:00,2.0,35
+176832404,127600,2.0,False,False,True,False,False,NBA Showdown $5 Contest (OKC @ DEN),200.0,NBA,2025-05-16 00:30:00+00:00,5.0,47
+176832405,127600,1.0,False,False,True,False,False,NBA Showdown $2 Contest (OKC @ DEN),200.0,NBA,2025-05-16 00:30:00+00:00,2.0,118
+176832406,127600,0.0,False,False,True,False,False,NBA Showdown $1 Contest (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,1.0,59
+176832407,127600,0.0,False,False,True,False,False,NBA Showdown $1 Contest (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,1.0,59
+176832408,127600,0.0,False,False,True,False,False,NBA Showdown $0.25 Contest (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,0.25,237
+176832409,127600,0.0,False,False,True,False,False,NBA Showdown $0.25 Contest (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,0.25,237
+176832410,127600,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,50.0,11
+176832411,127600,0.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832412,127600,10.0,False,False,True,False,False,NBA Showdown $20 Winner Take All [$175 to 1st] (OKC @ DEN),175.0,NBA,2025-05-16 00:30:00+00:00,20.0,10
+176832413,127600,1.0,False,False,True,False,False,NBA Showdown $2 Winner Take All [$120 to 1st] (OKC @ DEN),120.0,NBA,2025-05-16 00:30:00+00:00,2.0,71
+176832414,127600,0.0,False,False,True,False,False,NBA Showdown $0.25 Winner Take All [$50 to 1st] (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,0.25,237
+176832415,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,25.0,22
+176832416,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,25.0,22
+176832417,127600,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ DEN),200.0,NBA,2025-05-16 00:30:00+00:00,10.0,23
+176832418,127600,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ DEN),60.0,NBA,2025-05-16 00:30:00+00:00,3.0,23
+176832419,127600,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ DEN),60.0,NBA,2025-05-16 00:30:00+00:00,3.0,23
+176832420,127600,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ DEN),60.0,NBA,2025-05-16 00:30:00+00:00,3.0,23
+176832421,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832422,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832423,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832424,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832425,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832426,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832427,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832428,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832429,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832430,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832431,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832432,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832433,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832434,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832435,127600,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ DEN),60.0,NBA,2025-05-16 00:30:00+00:00,3.0,23
+176832436,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832437,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832438,127600,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ DEN),200.0,NBA,2025-05-16 00:30:00+00:00,10.0,23
+176832439,127600,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ DEN),200.0,NBA,2025-05-16 00:30:00+00:00,10.0,23
+176832440,127600,10.0,False,False,True,False,True,NBA Showdown $20 Winner Take All [$500 to 1st] (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,20.0,29
+176832441,127600,2.0,False,False,True,False,False,NBA Showdown $5 Winner Take All [$100 to 1st] (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832442,127600,1.0,False,False,True,False,False,NBA Showdown $3 Winner Take All [$100 to 1st] (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,3.0,39
+176832443,127600,0.0,False,False,True,False,False,NBA Showdown $1 Winner Take All [$100 to 1st] (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,1.0,118
+176832444,127600,25.0,False,False,True,False,False,NBA Showdown $50 Winner Take All [$500 to 1st] (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,50.0,11
+176832445,127600,0.0,True,False,True,False,False,Casual NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832446,127600,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 6 Win $15] (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,5.0,20
+176832447,127600,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 6 Win $15] (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,5.0,20
+176832448,127600,12.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 9 Win $75] (OKC @ DEN),675.0,NBA,2025-05-16 00:30:00+00:00,25.0,31
+176832449,127600,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 9 Win $30] (OKC @ DEN),270.0,NBA,2025-05-16 00:30:00+00:00,10.0,31
+176832450,127600,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 18 Win $15] (OKC @ DEN),270.0,NBA,2025-05-16 00:30:00+00:00,5.0,62
+176832451,127600,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (OKC @ DEN),135.0,NBA,2025-05-16 00:30:00+00:00,5.0,31
+176832452,127600,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 18 Win $3] (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,1.0,62
+176832453,127600,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,1.0,31
+176832454,127600,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,1.0,31
+176832455,127600,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,1.0,31
+176832456,127600,133.0,False,False,True,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (OKC @ DEN),1000.0,NBA,2025-05-16 00:30:00+00:00,267.0,4
+176832457,127600,125.0,True,False,True,False,True,NBA Showdown $250 Double Up (OKC @ DEN),5000.0,NBA,2025-05-16 00:30:00+00:00,250.0,22
+176832458,127600,530.0,True,False,True,False,True,"NBA Showdown $1,060 50-50 (OKC @ DEN)",6000.0,NBA,2025-05-16 00:30:00+00:00,1060.0,6
+176832459,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,1.0,62
+176832460,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,1.0,62
+176832461,127600,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ DEN),324.0,NBA,2025-05-16 00:30:00+00:00,3.0,124
+176832462,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),540.0,NBA,2025-05-16 00:30:00+00:00,5.0,124
+176832463,127600,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ DEN),540.0,NBA,2025-05-16 00:30:00+00:00,10.0,62
+176832464,127600,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ DEN),162.0,NBA,2025-05-16 00:30:00+00:00,3.0,62
+176832465,127600,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ DEN),270.0,NBA,2025-05-16 00:30:00+00:00,5.0,62
+176832466,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),850.0,NBA,2025-05-16 00:30:00+00:00,25.0,39
+176832467,127600,0.0,False,False,True,False,True,NBA Showdown $400 Dime Time [Just $0.10!] (OKC @ DEN),400.0,NBA,2025-05-16 00:30:00+00:00,0.1,4756
+176832468,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832469,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832470,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832471,127600,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ DEN),60.0,NBA,2025-05-16 00:30:00+00:00,3.0,23
+176832472,127600,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ DEN),60.0,NBA,2025-05-16 00:30:00+00:00,3.0,23
+176832473,127600,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ DEN),200.0,NBA,2025-05-16 00:30:00+00:00,10.0,23
+176832474,127600,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,1.0,114
+176832475,127600,12.0,False,False,True,False,False,NBA Showdown $25 Quintuple Up [Top 5 Win $125] (OKC @ DEN),625.0,NBA,2025-05-16 00:30:00+00:00,25.0,28
+176832476,127600,50.0,False,False,True,False,False,NBA Showdown $100 Triple Up [Top 3 Win $300] (OKC @ DEN),900.0,NBA,2025-05-16 00:30:00+00:00,100.0,10
+176832477,127600,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (OKC @ DEN),300.0,NBA,2025-05-16 00:30:00+00:00,10.0,35
+176832478,127600,25.0,False,False,True,False,False,NBA Showdown $50 Triple Up [Top 3 Win $150] (OKC @ DEN),450.0,NBA,2025-05-16 00:30:00+00:00,50.0,10
+176832479,127600,0.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,1.0,28
+176832480,127600,0.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,1.0,28
+176832481,127600,2.0,False,False,True,False,False,NBA Showdown $5 Quintuple Up [Top 5 Win $25] (OKC @ DEN),125.0,NBA,2025-05-16 00:30:00+00:00,5.0,28
+176832482,127600,1.0,False,False,True,False,False,NBA Showdown $3 Quintuple Up [Top 5 Win $15] (OKC @ DEN),75.0,NBA,2025-05-16 00:30:00+00:00,3.0,28
+176832483,127600,125.0,True,False,True,False,False,NBA Showdown $250 Double Up (OKC @ DEN),2500.0,NBA,2025-05-16 00:30:00+00:00,250.0,11
+176832484,127600,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832485,127600,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832486,127600,12.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 3 Win $75] (OKC @ DEN),225.0,NBA,2025-05-16 00:30:00+00:00,25.0,10
+176832487,127600,0.0,False,False,True,False,False,NBA Showdown $1 Hundo [Single Entry] (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,1.0,100
+176832488,127600,50.0,True,False,True,False,False,NBA Showdown $100 Double Up (OKC @ DEN),1000.0,NBA,2025-05-16 00:30:00+00:00,100.0,11
+176832489,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,25.0,11
+176832490,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,25.0,11
+176832491,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,25.0,11
+176832492,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,25.0,11
+176832493,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,25.0,11
+176832494,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,25.0,11
+176832495,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,25.0,11
+176832496,127600,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,25.0,11
+176832497,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to $15 NBA Fadeaway (OKC @ DEN),15.0,NBA,2025-05-16 00:30:00+00:00,0.1,178
+176832498,127600,45.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop (OKC @ DEN),555.0,NBA,2025-05-16 00:30:00+00:00,90.0,7
+176832499,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.1,297
+176832500,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.1,297
+176832501,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.1,297
+176832502,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.1,297
+176832503,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.1,297
+176832504,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.1,297
+176832505,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.1,297
+176832506,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.25,118
+176832507,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.25,118
+176832508,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.25,118
+176832509,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.25,118
+176832510,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.25,118
+176832511,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.25,118
+176832512,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,0.5,118
+176832513,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,0.5,118
+176832514,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,1.0,59
+176832515,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,1.0,59
+176832516,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,1.0,59
+176832517,127600,2.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x] (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,5.0,23
+176832518,127600,2.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [10x] (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,4.0,74
+176832519,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special [20x] (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,1.0,594
+176832520,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special [10x] (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,1.0,297
+176832521,127600,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [20x] (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,3.0,198
+176832522,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.5,59
+176832523,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.5,59
+176832524,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.5,59
+176832525,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,1.0,29
+176832526,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,1.0,29
+176832527,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,1.0,29
+176832528,127600,1.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,2.0,14
+176832529,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x] (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,1.0,118
+176832530,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x] (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,1.0,118
+176832531,127600,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x] (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,3.0,39
+176832532,127600,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x] (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,3.0,39
+176832533,127600,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x] (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,3.0,39
+176832534,127600,2.0,False,False,False,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off [Must Fill] (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,5.0,4
+176832535,127600,0.0,False,False,True,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off (OKC @ DEN),10.0,NBA,2025-05-16 00:30:00+00:00,0.1,118
+176832536,127600,0.0,False,False,True,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off (OKC @ DEN),10.0,NBA,2025-05-16 00:30:00+00:00,0.1,118
+176832537,127600,0.0,False,False,True,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off (OKC @ DEN),10.0,NBA,2025-05-16 00:30:00+00:00,0.25,47
+176832538,127600,0.0,False,False,True,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off (OKC @ DEN),10.0,NBA,2025-05-16 00:30:00+00:00,1.0,11
+176832539,127600,0.0,False,False,True,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off (OKC @ DEN),10.0,NBA,2025-05-16 00:30:00+00:00,1.0,11
+176832540,127600,0.0,False,False,True,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off (OKC @ DEN),10.0,NBA,2025-05-16 00:30:00+00:00,1.0,11
+176832541,127600,0.0,False,False,True,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off (OKC @ DEN),10.0,NBA,2025-05-16 00:30:00+00:00,1.0,11
+176832542,127600,0.0,False,False,True,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off (OKC @ DEN),10.0,NBA,2025-05-16 00:30:00+00:00,1.0,11
+176832543,127600,1.0,False,False,True,False,True,LAST SHOT: NBA Showdown SUPERSatellite to 5-16 WNBA $10 Opening Tip-Off [3x] (OKC @ DEN),30.0,NBA,2025-05-16 00:30:00+00:00,3.0,11
+176832544,127600,1.0,False,False,True,False,True,LAST SHOT: NBA Showdown SUPERSatellite to 5-16 WNBA $10 Opening Tip-Off [3x] (OKC @ DEN),30.0,NBA,2025-05-16 00:30:00+00:00,3.0,11
+176832545,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to 6-14 UFL $20 Championship Special (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.1,237
+176832546,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (5-27) (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.1,237
+176832547,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 French Slam (5-27) (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.25,95
+176832548,127600,81.0,False,False,False,False,True,NBA Showdown Satellite to NAS 5-25 $600 Soda Fountain [Must FIll] (OKC @ DEN),600.0,NBA,2025-05-16 00:30:00+00:00,163.0,4
+176832549,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to MLB 6-3 $111 MEGA Immaculate Inning (OKC @ DEN),111.0,NBA,2025-05-16 00:30:00+00:00,1.0,131
+176832550,127600,16.0,False,False,True,False,True,NBA Showdown Satellite to MLB 6-3 $111 MEGA Immaculate Inning (OKC @ DEN),111.0,NBA,2025-05-16 00:30:00+00:00,32.0,4
+176832551,127600,100.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (OKC @ DEN),555.0,NBA,2025-05-16 00:30:00+00:00,201.0,3
+176832552,127600,2.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [4x] (OKC @ DEN),80.0,NBA,2025-05-16 00:30:00+00:00,5.0,19
+176832553,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.1,237
+176832554,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.1,237
+176832555,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.1,237
+176832556,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.1,237
+176832557,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.25,95
+176832558,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.25,95
+176832559,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.25,95
+176832560,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,0.25,95
+176832561,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ DEN),40.0,NBA,2025-05-16 00:30:00+00:00,0.25,190
+176832562,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ DEN),40.0,NBA,2025-05-16 00:30:00+00:00,0.5,95
+176832563,127600,45.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire (OKC @ DEN),555.0,NBA,2025-05-16 00:30:00+00:00,90.0,7
+176832564,127600,100.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (OKC @ DEN),555.0,NBA,2025-05-16 00:30:00+00:00,201.0,3
+176832565,127600,100.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (OKC @ DEN),555.0,NBA,2025-05-16 00:30:00+00:00,201.0,3
+176832566,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832567,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832568,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832569,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832570,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,1.0,23
+176832571,127600,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [3x] (OKC @ DEN),60.0,NBA,2025-05-16 00:30:00+00:00,2.0,35
+176832573,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 316 $25 Special (6-7) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.25,118
+176832574,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 316 $25 Special (6-7) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.25,118
+176832575,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 316 $25 Special (6-7) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.1,297
+176832576,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 316 $25 Special (6-7) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.1,297
+176832577,127600,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 316 $25 Special (6-7) (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,0.5,59
+176832578,127600,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to UFC 316 $25 Special (6-7) [2x] (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,1.0,59
+176832579,127600,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to UFC 316 $25 Special (6-7) [2x] (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,3.0,19
+176832580,127600,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to UFC 316 $25 Special (6-7) [2x] (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,3.0,19
+176832581,127600,45.0,False,False,True,False,True,NBA Showdown Satellite to UFC 316 $555 Knockout Special (6-7) (OKC @ DEN),555.0,NBA,2025-05-16 00:30:00+00:00,90.0,7
+176832600,127600,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,50.0,4
+176832601,127600,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,50.0,4
+176832602,127600,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (OKC @ DEN),400.0,NBA,2025-05-16 00:30:00+00:00,109.0,4
+176832603,127600,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (OKC @ DEN),400.0,NBA,2025-05-16 00:30:00+00:00,109.0,4
+176832604,127600,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176832605,127600,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176832607,127600,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC @ DEN),5.4,NBA,2025-05-16 00:30:00+00:00,2.0,3
+176832608,127600,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC @ DEN),5.4,NBA,2025-05-16 00:30:00+00:00,2.0,3
+176832609,127600,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC @ DEN),5.4,NBA,2025-05-16 00:30:00+00:00,2.0,3
+176832610,127600,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (OKC @ DEN),13.5,NBA,2025-05-16 00:30:00+00:00,5.0,3
+176832611,127600,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (OKC @ DEN),13.5,NBA,2025-05-16 00:30:00+00:00,5.0,3
+176832612,127600,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (OKC @ DEN),13.5,NBA,2025-05-16 00:30:00+00:00,5.0,3
+176832613,127600,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,10.0,3
+176832614,127600,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,10.0,3
+176832615,127600,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,10.0,3
+176832616,127600,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,20.0,3
+176832617,127600,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,20.0,3
+176832618,127600,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,20.0,3
+176832619,127600,265.0,False,False,False,False,False,NBA Showdown $530 3-Player (OKC @ DEN),1500.0,NBA,2025-05-16 00:30:00+00:00,530.0,3
+176832620,127600,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (OKC @ DEN),300.0,NBA,2025-05-16 00:30:00+00:00,109.0,3
+176832621,127600,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (OKC @ DEN),300.0,NBA,2025-05-16 00:30:00+00:00,109.0,3
+176832622,127600,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (OKC @ DEN),300.0,NBA,2025-05-16 00:30:00+00:00,109.0,3
+176832623,127600,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC @ DEN),4.5,NBA,2025-05-16 00:30:00+00:00,1.0,5
+176832624,127600,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC @ DEN),4.5,NBA,2025-05-16 00:30:00+00:00,1.0,5
+176832625,127600,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC @ DEN),4.5,NBA,2025-05-16 00:30:00+00:00,1.0,5
+176832626,127600,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,2.0,5
+176832627,127600,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,2.0,5
+176832628,127600,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,2.0,5
+176832629,127600,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (OKC @ DEN),22.5,NBA,2025-05-16 00:30:00+00:00,5.0,5
+176832630,127600,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (OKC @ DEN),22.5,NBA,2025-05-16 00:30:00+00:00,5.0,5
+176832631,127600,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (OKC @ DEN),22.5,NBA,2025-05-16 00:30:00+00:00,5.0,5
+176832632,127600,5.0,False,False,False,False,False,NBA Showdown $10 5-Player (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,10.0,5
+176832633,127600,5.0,False,False,False,False,False,NBA Showdown $10 5-Player (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,10.0,5
+176832634,127600,5.0,False,False,False,False,False,NBA Showdown $10 5-Player (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,10.0,5
+176832635,127600,10.0,False,False,False,False,False,NBA Showdown $20 5-Player (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,20.0,5
+176832636,127600,10.0,False,False,False,False,False,NBA Showdown $20 5-Player (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,20.0,5
+176832637,127600,10.0,False,False,False,False,False,NBA Showdown $20 5-Player (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,20.0,5
+176832638,127600,54.0,False,False,False,False,False,NBA Showdown $109 5-Player (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,109.0,5
+176832639,127600,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176832640,127600,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176832641,127600,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176832642,127600,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,2.0,10
+176832643,127600,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,2.0,10
+176832644,127600,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,2.0,10
+176832645,127600,2.0,False,False,False,False,False,NBA Showdown $5 10-Player (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,5.0,10
+176832646,127600,2.0,False,False,False,False,False,NBA Showdown $5 10-Player (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,5.0,10
+176832647,127600,2.0,False,False,False,False,False,NBA Showdown $5 10-Player (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,5.0,10
+176832648,127600,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,5.0,10
+176832649,127600,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,5.0,10
+176832650,127600,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,5.0,10
+176832651,127600,5.0,False,False,False,False,False,NBA Showdown $10 10-Player (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832652,127600,5.0,False,False,False,False,False,NBA Showdown $10 10-Player (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832653,127600,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832654,127600,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832655,127600,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832656,127600,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,20.0,10
+176832657,127600,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,20.0,10
+176832658,127600,25.0,False,False,False,False,False,NBA Showdown $50 3-Player (OKC @ DEN),135.0,NBA,2025-05-16 00:30:00+00:00,50.0,3
+176832659,127600,25.0,False,False,False,False,False,NBA Showdown $50 3-Player (OKC @ DEN),135.0,NBA,2025-05-16 00:30:00+00:00,50.0,3
+176832660,127600,25.0,False,False,False,False,False,NBA Showdown $50 5-Player (OKC @ DEN),225.0,NBA,2025-05-16 00:30:00+00:00,50.0,5
+176832661,127600,25.0,False,False,False,False,False,NBA Showdown $50 5-Player (OKC @ DEN),225.0,NBA,2025-05-16 00:30:00+00:00,50.0,5
+176832662,127600,2650.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (OKC @ DEN)",20000.0,NBA,2025-05-16 00:30:00+00:00,5300.0,4
+176832663,127600,2650.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (OKC @ DEN)",20000.0,NBA,2025-05-16 00:30:00+00:00,5300.0,4
+176832664,127600,2650.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (OKC @ DEN)",20000.0,NBA,2025-05-16 00:30:00+00:00,5300.0,4
+176832665,127600,530.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (OKC @ DEN)",3000.0,NBA,2025-05-16 00:30:00+00:00,1060.0,3
+176832666,127600,265.0,True,False,False,False,False,NBA Showdown $530 50-50 (OKC @ DEN),2000.0,NBA,2025-05-16 00:30:00+00:00,530.0,4
+176832667,127600,530.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (OKC @ DEN)",4000.0,NBA,2025-05-16 00:30:00+00:00,1060.0,4
+176832668,127600,10.0,False,False,False,False,False,NBA Showdown $20 10-Player (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,20.0,10
+176832669,127600,10.0,False,False,False,False,False,NBA Showdown $20 10-Player (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,20.0,10
+176832670,127600,0.0,False,False,False,False,False,NBA Showdown $1 20-Player (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,1.0,20
+176832671,127600,0.0,False,False,False,False,False,NBA Showdown $1 20-Player (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,1.0,20
+176832672,127600,0.0,False,False,False,False,False,NBA Showdown $1 20-Player (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,1.0,20
+176832673,127600,1.0,False,False,False,False,False,NBA Showdown $2 20 Player (OKC @ DEN),36.0,NBA,2025-05-16 00:30:00+00:00,2.0,20
+176832674,127600,1.0,False,False,False,False,False,NBA Showdown $2 20 Player (OKC @ DEN),36.0,NBA,2025-05-16 00:30:00+00:00,2.0,20
+176832675,127600,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,1.0,50
+176832676,127600,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,1.0,50
+176832677,127600,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,1.0,50
+176832678,127600,25.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (OKC @ DEN),135.0,NBA,2025-05-16 00:30:00+00:00,50.0,3
+176832679,127600,25.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (OKC @ DEN),135.0,NBA,2025-05-16 00:30:00+00:00,50.0,3
+176832680,127600,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (OKC @ DEN),4.5,NBA,2025-05-16 00:30:00+00:00,1.0,5
+176832681,127600,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (OKC @ DEN),4.5,NBA,2025-05-16 00:30:00+00:00,1.0,5
+176832682,127600,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (OKC @ DEN),4.5,NBA,2025-05-16 00:30:00+00:00,1.0,5
+176832683,127600,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (OKC @ DEN),450.0,NBA,2025-05-16 00:30:00+00:00,50.0,10
+176832684,127600,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (OKC @ DEN),450.0,NBA,2025-05-16 00:30:00+00:00,50.0,10
+176832685,127600,25.0,False,False,False,False,False,NBA Showdown $50 10-Player (OKC @ DEN),450.0,NBA,2025-05-16 00:30:00+00:00,50.0,10
+176832686,127600,2650.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (OKC @ DEN)",20000.0,NBA,2025-05-16 00:30:00+00:00,5300.0,4
+176832687,127600,2650.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (OKC @ DEN)",15000.0,NBA,2025-05-16 00:30:00+00:00,5300.0,3
+176832688,127600,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,5.0,20
+176832689,127600,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,5.0,20
+176832690,127600,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,5.0,20
+176832691,127600,2.0,False,False,False,False,False,NBA Showdown $5 20-Player (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,5.0,20
+176832692,127600,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (OKC @ DEN),360.0,NBA,2025-05-16 00:30:00+00:00,20.0,20
+176832693,127600,10.0,False,False,False,False,False,NBA Showdown $20 20-Player (OKC @ DEN),360.0,NBA,2025-05-16 00:30:00+00:00,20.0,20
+176832694,127600,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,2.0,10
+176832695,127600,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,2.0,10
+176832696,127600,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,2.0,10
+176832697,127600,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ DEN),36.0,NBA,2025-05-16 00:30:00+00:00,2.0,20
+176832698,127600,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ DEN),36.0,NBA,2025-05-16 00:30:00+00:00,2.0,20
+176832699,127600,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ DEN),36.0,NBA,2025-05-16 00:30:00+00:00,2.0,20
+176832700,127600,1.0,False,False,False,False,False,NBA Showdown $2 40-Player (OKC @ DEN),72.0,NBA,2025-05-16 00:30:00+00:00,2.0,40
+176832701,127600,1.0,False,False,False,False,False,NBA Showdown $2 40-Player (OKC @ DEN),72.0,NBA,2025-05-16 00:30:00+00:00,2.0,40
+176832702,127600,81.0,True,False,False,False,False,NBA Showdown $162 50-50 (OKC @ DEN),600.0,NBA,2025-05-16 00:30:00+00:00,162.0,4
+176832703,127600,81.0,False,False,False,False,False,NBA Showdown $162 5-Player (OKC @ DEN),750.0,NBA,2025-05-16 00:30:00+00:00,162.0,5
+176832704,127600,81.0,False,False,False,False,False,NBA Showdown $162 3-Player (OKC @ DEN),450.0,NBA,2025-05-16 00:30:00+00:00,162.0,3
+176832705,127600,81.0,False,False,False,False,False,NBA Showdown $162 3-Player (OKC @ DEN),450.0,NBA,2025-05-16 00:30:00+00:00,162.0,3
+176832706,127600,5300.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (OKC @ DEN)",30000.0,NBA,2025-05-16 00:30:00+00:00,10600.0,3
+176832707,127600,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,10.0,20
+176832708,127600,5.0,False,False,False,False,False,NBA Showdown $10 20-Player (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,10.0,20
+176832709,127600,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,1.0,20
+176832710,127600,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,1.0,20
+176832711,127600,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,1.0,20
+176832712,127600,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176832713,127600,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176832714,127600,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176832715,127600,0.0,False,False,False,False,False,NBA Showdown $1 40-Player (OKC @ DEN),36.0,NBA,2025-05-16 00:30:00+00:00,1.0,40
+176832716,127600,0.0,False,False,False,False,False,NBA Showdown $1 40-Player (OKC @ DEN),36.0,NBA,2025-05-16 00:30:00+00:00,1.0,40
+176832717,127600,25.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (OKC @ DEN),450.0,NBA,2025-05-16 00:30:00+00:00,50.0,10
+176832718,127600,2.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,5.0,10
+176832719,127600,2.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,5.0,10
+176832720,127600,2.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,5.0,10
+176832721,127600,2.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (OKC @ DEN),22.5,NBA,2025-05-16 00:30:00+00:00,5.0,5
+176832722,127600,2.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (OKC @ DEN),22.5,NBA,2025-05-16 00:30:00+00:00,5.0,5
+176832723,127600,2.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (OKC @ DEN),22.5,NBA,2025-05-16 00:30:00+00:00,5.0,5
+176832724,127600,2.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (OKC @ DEN),13.5,NBA,2025-05-16 00:30:00+00:00,5.0,3
+176832725,127600,2.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (OKC @ DEN),13.5,NBA,2025-05-16 00:30:00+00:00,5.0,3
+176832726,127600,2.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (OKC @ DEN),13.5,NBA,2025-05-16 00:30:00+00:00,5.0,3
+176832727,127600,1.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,3.0,10
+176832728,127600,1.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,3.0,10
+176832729,127600,1.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,3.0,10
+176832730,127600,10.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,20.0,10
+176832731,127600,10.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,20.0,10
+176832732,127600,10.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,20.0,10
+176832733,127600,10.0,False,False,False,False,False,Beginner NBA Showdown $20 5-Player (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,20.0,5
+176832734,127600,10.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,20.0,3
+176832735,127600,10.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,20.0,3
+176832736,127600,10.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,20.0,3
+176832737,127600,1.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,2.0,5
+176832738,127600,1.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,2.0,5
+176832739,127600,1.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,2.0,5
+176832740,127600,1.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (OKC @ DEN),5.4,NBA,2025-05-16 00:30:00+00:00,2.0,3
+176832741,127600,1.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (OKC @ DEN),5.4,NBA,2025-05-16 00:30:00+00:00,2.0,3
+176832742,127600,1.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (OKC @ DEN),5.4,NBA,2025-05-16 00:30:00+00:00,2.0,3
+176832743,127600,5.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832744,127600,5.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832745,127600,5.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832746,127600,5.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,10.0,5
+176832747,127600,5.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,10.0,3
+176832748,127600,5.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,10.0,3
+176832749,127600,5.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,10.0,3
+176832750,127600,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176832751,127600,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176832752,127600,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176832753,127600,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176832754,127600,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176832755,127600,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176832756,127600,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (OKC @ DEN),600.0,NBA,2025-05-16 00:30:00+00:00,109.0,6
+176832757,127600,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (OKC @ DEN)",40000.0,NBA,2025-05-16 00:30:00+00:00,10600.0,4
+176832758,127600,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (OKC @ DEN)",40000.0,NBA,2025-05-16 00:30:00+00:00,10600.0,4
+176832759,127600,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (OKC @ DEN)",40000.0,NBA,2025-05-16 00:30:00+00:00,10600.0,4
+176832760,127600,1060.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (OKC @ DEN)",6000.0,NBA,2025-05-16 00:30:00+00:00,2120.0,3
+176832761,127600,1060.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (OKC @ DEN)",6000.0,NBA,2025-05-16 00:30:00+00:00,2120.0,3
+176832762,127600,1060.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (OKC @ DEN)",10000.0,NBA,2025-05-16 00:30:00+00:00,2120.0,5
+176832763,127600,1060.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (OKC @ DEN)",10000.0,NBA,2025-05-16 00:30:00+00:00,2120.0,5
+176832764,127600,1060.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (OKC @ DEN)",8000.0,NBA,2025-05-16 00:30:00+00:00,2120.0,4
+176832765,127600,1060.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (OKC @ DEN)",8000.0,NBA,2025-05-16 00:30:00+00:00,2120.0,4
+176832766,127600,25.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (OKC @ DEN),180.0,NBA,2025-05-16 00:30:00+00:00,50.0,4
+176832767,127600,10.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (OKC @ DEN),72.0,NBA,2025-05-16 00:30:00+00:00,20.0,4
+176832768,127600,5.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176832769,127600,2.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,5.0,10
+176832770,127600,1.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,3.0,10
+176832771,127600,1.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (OKC @ DEN),10.8,NBA,2025-05-16 00:30:00+00:00,3.0,4
+176832772,127600,0.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176832773,127600,25.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (OKC @ DEN),135.0,NBA,2025-05-16 00:30:00+00:00,50.0,3
+176832774,127600,10.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,20.0,3
+176832775,127600,5.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (OKC @ DEN),45.0,NBA,2025-05-16 00:30:00+00:00,10.0,5
+176832776,127600,5.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,10.0,3
+176832777,127600,1.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,2.0,5
+176832778,127600,1.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (OKC @ DEN),5.4,NBA,2025-05-16 00:30:00+00:00,2.0,3
+176832779,127600,54.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,109.0,5
+176832780,127600,5.0,True,False,False,False,False,NBA Showdown $10 Double Up (OKC @ DEN),100.0,NBA,2025-05-16 00:30:00+00:00,10.0,11
+176832781,127600,12.0,True,False,False,False,False,NBA Showdown $25 Double Up (OKC @ DEN),250.0,NBA,2025-05-16 00:30:00+00:00,25.0,11
+176832782,127600,25.0,True,False,False,False,False,NBA Showdown $50 Double Up (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,50.0,11
+176832783,127600,2.0,True,False,False,False,False,NBA Showdown $5 Double Up (OKC @ DEN),50.0,NBA,2025-05-16 00:30:00+00:00,5.0,11
+176832784,127600,1.0,True,False,False,False,False,NBA Showdown $3 Double Up (OKC @ DEN),30.0,NBA,2025-05-16 00:30:00+00:00,3.0,11
+176832785,127600,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (OKC @ DEN),10.0,NBA,2025-05-16 00:30:00+00:00,1.0,11
+176832786,127600,12.0,True,False,False,False,False,NBA Showdown $25 Double Up (OKC @ DEN),500.0,NBA,2025-05-16 00:30:00+00:00,25.0,22
+176832787,127600,25.0,True,False,False,False,False,NBA Showdown $50 Double Up (OKC @ DEN),1000.0,NBA,2025-05-16 00:30:00+00:00,50.0,22
+176832788,127600,13100.0,False,False,False,False,True,NBA Showdown $100K Heavy Hitter [Must Fill] (OKC @ DEN),100000.0,NBA,2025-05-16 00:30:00+00:00,26200.0,4
+176832789,127600,530.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (OKC @ DEN),4000.0,NBA,2025-05-16 00:30:00+00:00,1060.0,4
+176832790,127600,2650.0,False,False,False,False,True,NBA Showdown $20K Thunderdome [Must Fill] (OKC @ DEN),20000.0,NBA,2025-05-16 00:30:00+00:00,5300.0,4
+176832791,127600,133.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (OKC @ DEN),1000.0,NBA,2025-05-16 00:30:00+00:00,267.0,4
+176832792,127600,50.0,False,False,False,False,True,NBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (OKC @ DEN),460.0,NBA,2025-05-16 00:30:00+00:00,100.0,5
+176832793,127600,13100.0,False,False,False,False,True,NBA Showdown $75K Heavy Hitter [Must Fill] (OKC @ DEN),75000.0,NBA,2025-05-16 00:30:00+00:00,26200.0,3
+176832794,127600,4.0,False,False,False,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) [Must Fill] (OKC @ DEN),25.0,NBA,2025-05-16 00:30:00+00:00,9.0,3
+176832795,127600,60.0,False,False,False,False,True,NBA Showdown Satellite to TEN $333 Clay Smash (5-28) [Must Fill] (OKC @ DEN),333.0,NBA,2025-05-16 00:30:00+00:00,121.0,3
+176832796,127600,20.0,False,False,False,False,True,NBA Showdown Satellite to MLB 6-3 $111 MEGA Immaculate Inning [Must Fill] (OKC @ DEN),111.0,NBA,2025-05-16 00:30:00+00:00,41.0,3
+176832797,127600,3.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire [Must Fill] (OKC @ DEN),20.0,NBA,2025-05-16 00:30:00+00:00,7.4,3
+176832798,127600,587.0,False,False,False,False,True,NBA Showdown Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (OKC @ DEN),3333.0,NBA,2025-05-16 00:30:00+00:00,1175.0,3
+176832941,127600,100.0,False,False,True,False,True,NBA Showdown $200K Showdown Showcase Qualifier #62 (OKC @ DEN),2450.0,NBA,2025-05-16 00:30:00+00:00,200.0,14
+176832951,127600,50.0,False,False,True,False,True,NBA Showdown $200K Showdown Showcase Qualifier #63 (OKC @ DEN),2350.0,NBA,2025-05-16 00:30:00+00:00,100.0,27
+176836015,127600,1.0,False,False,False,False,False,NBA Showdown $3 200-Player (Top 3 Win) (OKC @ DEN),540.0,NBA,2025-05-16 00:30:00+00:00,3.0,200
+176836034,127600,1.0,False,False,False,False,False,NBA Showdown $3 200-Player (Winner Takes All) (OKC @ DEN),540.0,NBA,2025-05-16 00:30:00+00:00,3.0,200
+176836060,127600,5.0,False,False,False,False,False,NBA Showdown $10 200-Player (Top 5 Win) (OKC @ DEN),1800.0,NBA,2025-05-16 00:30:00+00:00,10.0,200
+176836062,127600,5.0,False,False,False,False,False,NBA Showdown $10 200-Player (Winner Takes All) (OKC @ DEN),1800.0,NBA,2025-05-16 00:30:00+00:00,10.0,200
+176840872,127600,0.0,False,False,True,False,True,NBA Showdown $20K And-One (OKC @ DEN),20000.0,NBA,2025-05-16 00:30:00+00:00,1.0,23781
+176840873,127600,2.0,False,False,True,False,True,NBA Showdown $50K Four-Point Play [$10K to 1st] (OKC @ DEN),50000.0,NBA,2025-05-16 00:30:00+00:00,4.0,14863
+176840874,127600,100.0,False,False,True,False,True,NBA Showdown $20K Splash [3 Entry Max] (OKC @ DEN),20000.0,NBA,2025-05-16 00:30:00+00:00,200.0,111
+176840875,127600,2.0,False,False,True,False,True,NBA Showdown $40K Zone [$10K to 1st] (OKC @ DEN),40000.0,NBA,2025-05-16 00:30:00+00:00,5.0,9512
+176840876,127600,1060.0,False,False,True,False,True,NBA Showdown $20K Hall of Famer [$10K to 1st] (OKC @ DEN),20000.0,NBA,2025-05-16 00:30:00+00:00,2120.0,10
+176840877,127600,277.0,False,False,True,False,True,NBA Showdown $100K Alley-Oop [$20K to 1st] (OKC @ DEN),100000.0,NBA,2025-05-16 00:30:00+00:00,555.0,200
+176840878,127600,3.0,False,False,True,False,True,NBA Showdown $30K Jab Step [$5K to 1st] (OKC @ DEN),30000.0,NBA,2025-05-16 00:30:00+00:00,6.0,5882
+176840879,127600,44.0,False,False,True,False,True,"NBA Showdown $8K Box Out [3 Entry Max, $2K to 1st] (OKC @ DEN)",8000.0,NBA,2025-05-16 00:30:00+00:00,88.0,103
+176840880,127600,10.0,False,False,True,False,True,NBA Showdown $400K Shootaround [$100K to 1st] (OKC @ DEN),400000.0,NBA,2025-05-16 00:30:00+00:00,20.0,23529
+176843331,127600,0.0,False,False,True,False,False,NBA Showdown FREE 12-Player (OKC @ DEN),0.0,NBA,2025-05-16 00:30:00+00:00,0.0,12
+176843394,127600,0.0,False,False,True,False,False,NBA Showdown FREE 18-Player (OKC @ DEN),0.0,NBA,2025-05-16 00:30:00+00:00,0.0,18
+176846986,127600,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176849503,127601,2.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (OKC @ DEN),13.5,NBA,2025-05-16 00:30:00+00:00,5.0,3
+176850278,127602,10.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H OKC @ DEN),360.0,NBA,2025-05-16 01:30:00+00:00,20.0,20
+176850495,127601,10.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (OKC @ DEN),54.0,NBA,2025-05-16 00:30:00+00:00,20.0,3
+176850557,127601,5.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,10.0,3
+176850852,127601,2.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (OKC @ DEN),13.5,NBA,2025-05-16 00:30:00+00:00,5.0,3
+176851019,127601,5.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,10.0,3
+176851279,127600,0.0,False,False,True,False,False,NBA Showdown FREE 6-Player (OKC @ DEN),0.0,NBA,2025-05-16 00:30:00+00:00,0.0,6
+176851280,127600,0.0,False,False,True,False,False,NBA Showdown FREE 8-Player (OKC @ DEN),0.0,NBA,2025-05-16 00:30:00+00:00,0.0,8
+176851281,127600,0.0,False,False,True,False,False,NBA Showdown FREE 10-Player (OKC @ DEN),0.0,NBA,2025-05-16 00:30:00+00:00,0.0,10
+176851285,127601,5.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (OKC @ DEN),27.0,NBA,2025-05-16 00:30:00+00:00,10.0,3
+176851595,127600,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176851598,127600,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176851622,127600,1.0,False,False,False,False,False,NBA Showdown $2 11-Player (Winner Takes All) (OKC @ DEN),19.8,NBA,2025-05-16 00:30:00+00:00,2.0,11
+176851659,127600,0.0,False,False,True,False,False,NBA Showdown FREE 100-Player (OKC @ DEN),0.0,NBA,2025-05-16 00:30:00+00:00,0.0,100
+176851995,127600,0.0,False,False,False,False,False,NBA Showdown $1 25-Player (Winner Takes All) (OKC @ DEN),22.5,NBA,2025-05-16 00:30:00+00:00,1.0,25
+176852315,127600,0.0,False,False,False,False,False,NBA Showdown $1 8-Player (Winner Takes All) (OKC @ DEN),7.2,NBA,2025-05-16 00:30:00+00:00,1.0,8
+176852316,127600,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,1.0,10
+176852320,127600,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC @ DEN),5.4,NBA,2025-05-16 00:30:00+00:00,2.0,3
+176852321,127600,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (OKC @ DEN),9.0,NBA,2025-05-16 00:30:00+00:00,2.0,5
+176852322,127600,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176852323,127600,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC @ DEN),4.5,NBA,2025-05-16 00:30:00+00:00,1.0,5
+176852324,127600,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC @ DEN),4.5,NBA,2025-05-16 00:30:00+00:00,1.0,5
+176852329,127601,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176852332,127601,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176852333,127601,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC @ DEN),2.7,NBA,2025-05-16 00:30:00+00:00,1.0,3
+176852381,127600,5.0,False,False,False,False,False,NBA Showdown $10 10-Player (OKC @ DEN),90.0,NBA,2025-05-16 00:30:00+00:00,10.0,10
+176852382,127600,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC @ DEN),18.0,NBA,2025-05-16 00:30:00+00:00,2.0,10
