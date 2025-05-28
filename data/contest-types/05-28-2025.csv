@@ -1,0 +1,5 @@
+game_type_id,allow_late_swaps,description,enforce_selecting_unique_players,draft_type_name,name,has_salary_cap,salary_max,salary_min
+70,True,"Create an 8-player lineup while staying under the $50,000 salary cap. Includes Late Swap.",True,SalaryCap,Classic,True,50000.0,0.0
+81,False,"Create your team from 1 game, while staying under the $50,000 salary cap",True,SalaryCap,Showdown Captain Mode,True,50000.0,0.0
+193,False,Snake draft a 4-player lineup,True,SnakeDraft,Snake Showdown,False,,
+348,False,Create a 3-player lineup of players you think will score the most points,True,Tiered,WNBA Single Stat - Points,False,,
