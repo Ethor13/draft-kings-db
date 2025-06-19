@@ -1,0 +1,896 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+177809710,129341,1060.0,False,False,True,False,True,NBA Showdown $26K Hall of Famer [$13K to 1st] (OKC @ IND),26000.0,NBA,2025-06-20 00:30:00+00:00,2120.0,13
+177809715,129341,530.0,False,False,True,False,True,NBA Showdown $10K All-Star [Single Entry] (OKC @ IND),10000.0,NBA,2025-06-20 00:30:00+00:00,1060.0,10
+177809717,129341,277.0,False,False,True,False,True,NBA Showdown $300K Alley Oop [$100K to 1st] (OKC @ IND),300000.0,NBA,2025-06-20 00:30:00+00:00,555.0,600
+177809718,129341,12.0,False,False,True,False,True,"NBA Showdown $750K Finals Shootaround [$200K to 1st, 3PT Throne Eligible] (OKC @ IND)",750000.0,NBA,2025-06-20 00:30:00+00:00,25.0,35294
+177809733,129341,100.0,False,False,True,False,True,NBA Showdown $40K Splash [3 Entry Max] (OKC @ IND),40000.0,NBA,2025-06-20 00:30:00+00:00,200.0,222
+177809735,129341,44.0,False,False,True,False,True,NBA Showdown $10K Box Out [$2K to 1st] (OKC @ IND),10000.0,NBA,2025-06-20 00:30:00+00:00,88.0,129
+177809750,129341,2.0,False,False,True,False,True,NBA Showdown $80K Four Point Play [20 Entry Max] (OKC @ IND),80000.0,NBA,2025-06-20 00:30:00+00:00,4.0,23781
+177809753,129341,0.0,False,False,True,False,True,NBA Showdown $30K And-One [20 Entry Max] (OKC @ IND),30000.0,NBA,2025-06-20 00:30:00+00:00,1.0,35671
+177809756,129341,4.0,False,False,True,False,True,NBA Showdown $40K Excellent 8's [$10K to 1st] (OKC @ IND),40000.0,NBA,2025-06-20 00:30:00+00:00,8.0,5882
+177809760,129341,3.0,False,False,True,False,True,NBA Showdown $30K Jab Step [$5K to 1st] (OKC @ IND),30000.0,NBA,2025-06-20 00:30:00+00:00,6.0,5882
+177809774,129341,2.0,False,False,True,False,True,NBA Showdown $125K Zone [$25K to 1st] (OKC @ IND),125000.0,NBA,2025-06-20 00:30:00+00:00,5.0,29726
+177815417,129341,0.0,False,False,False,False,False,NBA Showdown $1 30-Player (Winner Takes All) (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,1.0,30
+177815697,129341,0.0,False,False,True,False,False,NBA Showdown FREE 200-Player (OKC @ IND),0.0,NBA,2025-06-20 00:30:00+00:00,0.0,200
+177816490,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50! (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,1.0,50
+177818339,129342,54.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (OKC @ IND),300.0,NBA,2025-06-20 00:30:00+00:00,109.0,3
+177818340,129342,265.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (OKC @ IND),1500.0,NBA,2025-06-20 00:30:00+00:00,530.0,3
+177818342,129342,530.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (OKC @ IND)",3000.0,NBA,2025-06-20 00:30:00+00:00,1060.0,3
+177818343,129342,1060.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (OKC @ IND)",6000.0,NBA,2025-06-20 00:30:00+00:00,2120.0,3
+177818344,129341,1.0,False,False,True,False,True,NBA Showdown $8.5K mini-MAX [150 Entry Max] (OKC @ IND),8500.0,NBA,2025-06-20 00:30:00+00:00,2.0,5053
+177818345,129341,50.0,False,False,True,False,True,NBA Showdown $30K Showtime [Single Entry] (OKC @ IND),30100.0,NBA,2025-06-20 00:30:00+00:00,100.0,334
+177818346,129341,20.0,False,False,True,False,True,NBA Showdown $10K Mid Range Jumper [Single Entry] (OKC @ IND),10000.0,NBA,2025-06-20 00:30:00+00:00,40.0,291
+177818347,129341,6.0,False,False,True,False,True,NBA Showdown $10K Pick and Roll [Single Entry] (OKC @ IND),10000.0,NBA,2025-06-20 00:30:00+00:00,12.0,980
+177818348,129341,2.0,False,False,True,False,True,NBA Showdown $10K High Five [Single Entry] (OKC @ IND),10000.0,NBA,2025-06-20 00:30:00+00:00,5.0,2378
+177818349,129341,50.0,True,False,True,False,True,NBA Showdown Single Entry $100 Double Up (OKC @ IND),3000.0,NBA,2025-06-20 00:30:00+00:00,100.0,33
+177818350,129341,50.0,False,False,True,False,True,NBA Showdown $5K Showtime [Single Entry] (OKC @ IND),5000.0,NBA,2025-06-20 00:30:00+00:00,100.0,55
+177818351,129341,1.0,False,False,True,False,True,NBA Showdown $2K Elbow Shot [Single Entry] (OKC @ IND),2000.0,NBA,2025-06-20 00:30:00+00:00,2.0,1189
+177818352,129341,5.0,True,False,True,False,True,NBA Showdown $10 Double Up (OKC @ IND),2000.0,NBA,2025-06-20 00:30:00+00:00,10.0,229
+177818353,129341,2.0,True,False,True,False,True,NBA Showdown $5 Double Up (OKC @ IND),2000.0,NBA,2025-06-20 00:30:00+00:00,5.0,459
+177818354,129341,1.0,True,False,True,False,True,NBA Showdown $2 Double Up (OKC @ IND),2000.0,NBA,2025-06-20 00:30:00+00:00,2.0,1149
+177818355,129341,25.0,False,False,True,False,True,NBA Showdown $2K Ankle Breaker [Single Entry] (OKC @ IND),2000.0,NBA,2025-06-20 00:30:00+00:00,50.0,45
+177818356,129341,1.0,False,False,True,False,True,NBA Showdown $6K Hot Shot [3 Entry Max] (OKC @ IND),6000.0,NBA,2025-06-20 00:30:00+00:00,3.0,2378
+177818357,129341,0.0,False,False,True,False,True,NBA Showdown $5K Quarter Jukebox [Just $0.25!] (OKC @ IND),5000.0,NBA,2025-06-20 00:30:00+00:00,0.25,23781
+177818358,129341,0.0,False,False,True,False,True,NBA Showdown $30K mini-MAX [150 Entry Max] (OKC @ IND),30000.0,NBA,2025-06-20 00:30:00+00:00,0.5,71343
+177818359,129341,200.0,False,False,True,False,True,NBA Showdown $2.16K Swish [Single Entry] (OKC @ IND),2160.0,NBA,2025-06-20 00:30:00+00:00,400.0,6
+177818360,129341,166.0,False,False,True,False,True,NBA Showdown $3.3K Money Ball [Single Entry] (OKC @ IND),3300.0,NBA,2025-06-20 00:30:00+00:00,333.0,11
+177818361,129341,20.0,False,False,True,False,True,NBA Showdown $10K Euro Step [5 Entry Max] (OKC @ IND),10000.0,NBA,2025-06-20 00:30:00+00:00,40.0,291
+177818362,129341,0.0,False,False,True,False,True,NBA Showdown $2K Daily Dollar [Single Entry]  (OKC @ IND),2000.0,NBA,2025-06-20 00:30:00+00:00,1.0,2378
+177818363,129341,25.0,True,False,True,False,True,NBA Showdown Single Entry $50 Double Up (OKC @ IND),2000.0,NBA,2025-06-20 00:30:00+00:00,50.0,45
+177818364,129341,12.0,True,False,True,False,True,NBA Showdown Single Entry $25 Double Up (OKC @ IND),3000.0,NBA,2025-06-20 00:30:00+00:00,25.0,137
+177818365,129341,5.0,True,False,True,False,True,NBA Showdown Single Entry $10 Double Up (OKC @ IND),2000.0,NBA,2025-06-20 00:30:00+00:00,10.0,229
+177818366,129341,2.0,True,False,True,False,True,NBA Showdown Single Entry $5 Double Up (OKC @ IND),1000.0,NBA,2025-06-20 00:30:00+00:00,5.0,229
+177818381,129341,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,50.0,4
+177818382,129341,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,50.0,4
+177818383,129341,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (OKC @ IND),400.0,NBA,2025-06-20 00:30:00+00:00,109.0,4
+177818384,129341,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (OKC @ IND),400.0,NBA,2025-06-20 00:30:00+00:00,109.0,4
+177818385,129341,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177818386,129341,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177818388,129341,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC @ IND),5.4,NBA,2025-06-20 00:30:00+00:00,2.0,3
+177818389,129341,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC @ IND),5.4,NBA,2025-06-20 00:30:00+00:00,2.0,3
+177818392,129341,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177818393,129341,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177818394,129341,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177818395,129341,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177818396,129341,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177818397,129341,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177818398,129341,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177818399,129341,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177818400,129341,265.0,False,False,False,False,False,NBA Showdown $530 3-Player (OKC @ IND),1500.0,NBA,2025-06-20 00:30:00+00:00,530.0,3
+177818401,129341,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (OKC @ IND),300.0,NBA,2025-06-20 00:30:00+00:00,109.0,3
+177818402,129341,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (OKC @ IND),300.0,NBA,2025-06-20 00:30:00+00:00,109.0,3
+177818403,129341,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (OKC @ IND),300.0,NBA,2025-06-20 00:30:00+00:00,109.0,3
+177818404,129341,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC @ IND),4.5,NBA,2025-06-20 00:30:00+00:00,1.0,5
+177818405,129341,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC @ IND),4.5,NBA,2025-06-20 00:30:00+00:00,1.0,5
+177818406,129341,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC @ IND),4.5,NBA,2025-06-20 00:30:00+00:00,1.0,5
+177818407,129341,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,2.0,5
+177818408,129341,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,2.0,5
+177818409,129341,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,2.0,5
+177818410,129341,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (OKC @ IND),22.5,NBA,2025-06-20 00:30:00+00:00,5.0,5
+177818411,129341,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (OKC @ IND),22.5,NBA,2025-06-20 00:30:00+00:00,5.0,5
+177818412,129341,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (OKC @ IND),22.5,NBA,2025-06-20 00:30:00+00:00,5.0,5
+177818413,129341,5.0,False,False,False,False,False,NBA Showdown $10 5-Player (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,10.0,5
+177818414,129341,5.0,False,False,False,False,False,NBA Showdown $10 5-Player (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,10.0,5
+177818415,129341,5.0,False,False,False,False,False,NBA Showdown $10 5-Player (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,10.0,5
+177818416,129341,10.0,False,False,False,False,False,NBA Showdown $20 5-Player (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,20.0,5
+177818417,129341,10.0,False,False,False,False,False,NBA Showdown $20 5-Player (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,20.0,5
+177818418,129341,10.0,False,False,False,False,False,NBA Showdown $20 5-Player (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,20.0,5
+177818419,129341,54.0,False,False,False,False,False,NBA Showdown $109 5-Player (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,109.0,5
+177818420,129341,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177818421,129341,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177818422,129341,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177818423,129341,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,2.0,10
+177818424,129341,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,2.0,10
+177818425,129341,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,2.0,10
+177818426,129341,2.0,False,False,False,False,False,NBA Showdown $5 10-Player (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,5.0,10
+177818427,129341,2.0,False,False,False,False,False,NBA Showdown $5 10-Player (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,5.0,10
+177818428,129341,2.0,False,False,False,False,False,NBA Showdown $5 10-Player (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,5.0,10
+177818429,129341,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,5.0,10
+177818430,129341,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,5.0,10
+177818431,129341,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,5.0,10
+177818432,129341,5.0,False,False,False,False,False,NBA Showdown $10 10-Player (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818433,129341,5.0,False,False,False,False,False,NBA Showdown $10 10-Player (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818434,129341,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818435,129341,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818436,129341,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818437,129341,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,20.0,10
+177818438,129341,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,20.0,10
+177818439,129341,25.0,False,False,False,False,False,NBA Showdown $50 3-Player (OKC @ IND),135.0,NBA,2025-06-20 00:30:00+00:00,50.0,3
+177818440,129341,25.0,False,False,False,False,False,NBA Showdown $50 3-Player (OKC @ IND),135.0,NBA,2025-06-20 00:30:00+00:00,50.0,3
+177818441,129341,25.0,False,False,False,False,False,NBA Showdown $50 5-Player (OKC @ IND),225.0,NBA,2025-06-20 00:30:00+00:00,50.0,5
+177818442,129341,25.0,False,False,False,False,False,NBA Showdown $50 5-Player (OKC @ IND),225.0,NBA,2025-06-20 00:30:00+00:00,50.0,5
+177818443,129341,2650.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (OKC @ IND)",20000.0,NBA,2025-06-20 00:30:00+00:00,5300.0,4
+177818444,129341,2650.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (OKC @ IND)",20000.0,NBA,2025-06-20 00:30:00+00:00,5300.0,4
+177818445,129341,2650.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (OKC @ IND)",20000.0,NBA,2025-06-20 00:30:00+00:00,5300.0,4
+177818446,129341,530.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (OKC @ IND)",3000.0,NBA,2025-06-20 00:30:00+00:00,1060.0,3
+177818447,129341,265.0,True,False,False,False,False,NBA Showdown $530 50-50 (OKC @ IND),2000.0,NBA,2025-06-20 00:30:00+00:00,530.0,4
+177818448,129341,530.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (OKC @ IND)",4000.0,NBA,2025-06-20 00:30:00+00:00,1060.0,4
+177818449,129341,10.0,False,False,False,False,False,NBA Showdown $20 10-Player (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,20.0,10
+177818450,129341,10.0,False,False,False,False,False,NBA Showdown $20 10-Player (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,20.0,10
+177818451,129341,0.0,False,False,False,False,False,NBA Showdown $1 20-Player (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,1.0,20
+177818452,129341,0.0,False,False,False,False,False,NBA Showdown $1 20-Player (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,1.0,20
+177818453,129341,0.0,False,False,False,False,False,NBA Showdown $1 20-Player (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,1.0,20
+177818454,129341,1.0,False,False,False,False,False,NBA Showdown $2 20 Player (OKC @ IND),36.0,NBA,2025-06-20 00:30:00+00:00,2.0,20
+177818455,129341,1.0,False,False,False,False,False,NBA Showdown $2 20 Player (OKC @ IND),36.0,NBA,2025-06-20 00:30:00+00:00,2.0,20
+177818456,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,1.0,50
+177818457,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,1.0,50
+177818458,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,1.0,50
+177818459,129341,25.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (OKC @ IND),135.0,NBA,2025-06-20 00:30:00+00:00,50.0,3
+177818460,129341,25.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (OKC @ IND),135.0,NBA,2025-06-20 00:30:00+00:00,50.0,3
+177818461,129341,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (OKC @ IND),4.5,NBA,2025-06-20 00:30:00+00:00,1.0,5
+177818462,129341,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (OKC @ IND),4.5,NBA,2025-06-20 00:30:00+00:00,1.0,5
+177818463,129341,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (OKC @ IND),4.5,NBA,2025-06-20 00:30:00+00:00,1.0,5
+177818464,129341,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (OKC @ IND),450.0,NBA,2025-06-20 00:30:00+00:00,50.0,10
+177818465,129341,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (OKC @ IND),450.0,NBA,2025-06-20 00:30:00+00:00,50.0,10
+177818466,129341,25.0,False,False,False,False,False,NBA Showdown $50 10-Player (OKC @ IND),450.0,NBA,2025-06-20 00:30:00+00:00,50.0,10
+177818467,129341,2650.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (OKC @ IND)",20000.0,NBA,2025-06-20 00:30:00+00:00,5300.0,4
+177818468,129341,2650.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (OKC @ IND)",15000.0,NBA,2025-06-20 00:30:00+00:00,5300.0,3
+177818469,129341,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,5.0,20
+177818470,129341,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,5.0,20
+177818471,129341,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,5.0,20
+177818472,129341,2.0,False,False,False,False,False,NBA Showdown $5 20-Player (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,5.0,20
+177818473,129341,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (OKC @ IND),360.0,NBA,2025-06-20 00:30:00+00:00,20.0,20
+177818474,129341,10.0,False,False,False,False,False,NBA Showdown $20 20-Player (OKC @ IND),360.0,NBA,2025-06-20 00:30:00+00:00,20.0,20
+177818475,129341,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,2.0,10
+177818476,129341,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,2.0,10
+177818477,129341,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,2.0,10
+177818478,129341,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ IND),36.0,NBA,2025-06-20 00:30:00+00:00,2.0,20
+177818479,129341,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ IND),36.0,NBA,2025-06-20 00:30:00+00:00,2.0,20
+177818480,129341,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ IND),36.0,NBA,2025-06-20 00:30:00+00:00,2.0,20
+177818481,129341,1.0,False,False,False,False,False,NBA Showdown $2 40-Player (OKC @ IND),72.0,NBA,2025-06-20 00:30:00+00:00,2.0,40
+177818482,129341,1.0,False,False,False,False,False,NBA Showdown $2 40-Player (OKC @ IND),72.0,NBA,2025-06-20 00:30:00+00:00,2.0,40
+177818483,129341,81.0,True,False,False,False,False,NBA Showdown $162 50-50 (OKC @ IND),600.0,NBA,2025-06-20 00:30:00+00:00,162.0,4
+177818484,129341,81.0,False,False,False,False,False,NBA Showdown $162 5-Player (OKC @ IND),750.0,NBA,2025-06-20 00:30:00+00:00,162.0,5
+177818485,129341,81.0,False,False,False,False,False,NBA Showdown $162 3-Player (OKC @ IND),450.0,NBA,2025-06-20 00:30:00+00:00,162.0,3
+177818486,129341,81.0,False,False,False,False,False,NBA Showdown $162 3-Player (OKC @ IND),450.0,NBA,2025-06-20 00:30:00+00:00,162.0,3
+177818487,129341,5300.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (OKC @ IND)",30000.0,NBA,2025-06-20 00:30:00+00:00,10600.0,3
+177818488,129341,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,10.0,20
+177818489,129341,5.0,False,False,False,False,False,NBA Showdown $10 20-Player (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,10.0,20
+177818490,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,1.0,20
+177818491,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,1.0,20
+177818492,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,1.0,20
+177818493,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177818494,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177818495,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177818496,129341,0.0,False,False,False,False,False,NBA Showdown $1 40-Player (OKC @ IND),36.0,NBA,2025-06-20 00:30:00+00:00,1.0,40
+177818497,129341,0.0,False,False,False,False,False,NBA Showdown $1 40-Player (OKC @ IND),36.0,NBA,2025-06-20 00:30:00+00:00,1.0,40
+177818498,129341,25.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (OKC @ IND),450.0,NBA,2025-06-20 00:30:00+00:00,50.0,10
+177818499,129341,2.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,5.0,10
+177818500,129341,2.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,5.0,10
+177818501,129341,2.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,5.0,10
+177818502,129341,2.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (OKC @ IND),22.5,NBA,2025-06-20 00:30:00+00:00,5.0,5
+177818503,129341,2.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (OKC @ IND),22.5,NBA,2025-06-20 00:30:00+00:00,5.0,5
+177818504,129341,2.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (OKC @ IND),22.5,NBA,2025-06-20 00:30:00+00:00,5.0,5
+177818505,129341,2.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177818506,129341,2.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177818507,129341,2.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177818508,129341,1.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,3.0,10
+177818509,129341,1.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,3.0,10
+177818510,129341,1.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,3.0,10
+177818511,129341,10.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,20.0,10
+177818512,129341,10.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,20.0,10
+177818513,129341,10.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,20.0,10
+177818514,129341,10.0,False,False,False,False,False,Beginner NBA Showdown $20 5-Player (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,20.0,5
+177818515,129341,10.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177818516,129341,10.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177818517,129341,10.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177818518,129341,1.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,2.0,5
+177818519,129341,1.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,2.0,5
+177818520,129341,1.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,2.0,5
+177818521,129341,1.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (OKC @ IND),5.4,NBA,2025-06-20 00:30:00+00:00,2.0,3
+177818522,129341,1.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (OKC @ IND),5.4,NBA,2025-06-20 00:30:00+00:00,2.0,3
+177818523,129341,1.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (OKC @ IND),5.4,NBA,2025-06-20 00:30:00+00:00,2.0,3
+177818524,129341,5.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818525,129341,5.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818526,129341,5.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818527,129341,5.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,10.0,5
+177818528,129341,5.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177818529,129341,5.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177818530,129341,5.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177818531,129341,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177818532,129341,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177818533,129341,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177818534,129341,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177818535,129341,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177818536,129341,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177818537,129341,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (OKC @ IND),600.0,NBA,2025-06-20 00:30:00+00:00,109.0,6
+177818538,129341,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (OKC @ IND)",40000.0,NBA,2025-06-20 00:30:00+00:00,10600.0,4
+177818539,129341,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (OKC @ IND)",40000.0,NBA,2025-06-20 00:30:00+00:00,10600.0,4
+177818540,129341,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (OKC @ IND)",40000.0,NBA,2025-06-20 00:30:00+00:00,10600.0,4
+177818541,129341,1060.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (OKC @ IND)",6000.0,NBA,2025-06-20 00:30:00+00:00,2120.0,3
+177818542,129341,1060.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (OKC @ IND)",6000.0,NBA,2025-06-20 00:30:00+00:00,2120.0,3
+177818543,129341,1060.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (OKC @ IND)",10000.0,NBA,2025-06-20 00:30:00+00:00,2120.0,5
+177818544,129341,1060.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (OKC @ IND)",10000.0,NBA,2025-06-20 00:30:00+00:00,2120.0,5
+177818545,129341,1060.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (OKC @ IND)",8000.0,NBA,2025-06-20 00:30:00+00:00,2120.0,4
+177818546,129341,1060.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (OKC @ IND)",8000.0,NBA,2025-06-20 00:30:00+00:00,2120.0,4
+177818547,129341,25.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,50.0,4
+177818548,129341,10.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (OKC @ IND),72.0,NBA,2025-06-20 00:30:00+00:00,20.0,4
+177818549,129341,5.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818550,129341,2.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,5.0,10
+177818551,129341,1.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,3.0,10
+177818552,129341,1.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (OKC @ IND),10.8,NBA,2025-06-20 00:30:00+00:00,3.0,4
+177818553,129341,0.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177818554,129341,25.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (OKC @ IND),135.0,NBA,2025-06-20 00:30:00+00:00,50.0,3
+177818555,129341,10.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177818556,129341,5.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,10.0,5
+177818557,129341,5.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177818558,129341,1.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,2.0,5
+177818559,129341,1.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (OKC @ IND),5.4,NBA,2025-06-20 00:30:00+00:00,2.0,3
+177818560,129341,54.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,109.0,5
+177818561,129341,5.0,True,False,False,False,False,NBA Showdown $10 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,10.0,11
+177818562,129341,12.0,True,False,False,False,False,NBA Showdown $25 Double Up (OKC @ IND),250.0,NBA,2025-06-20 00:30:00+00:00,25.0,11
+177818563,129341,25.0,True,False,False,False,False,NBA Showdown $50 Double Up (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,50.0,11
+177818564,129341,2.0,True,False,False,False,False,NBA Showdown $5 Double Up (OKC @ IND),50.0,NBA,2025-06-20 00:30:00+00:00,5.0,11
+177818565,129341,1.0,True,False,False,False,False,NBA Showdown $3 Double Up (OKC @ IND),30.0,NBA,2025-06-20 00:30:00+00:00,3.0,11
+177818566,129341,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (OKC @ IND),10.0,NBA,2025-06-20 00:30:00+00:00,1.0,11
+177818567,129341,12.0,True,False,False,False,False,NBA Showdown $25 Double Up (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,25.0,22
+177818568,129341,25.0,True,False,False,False,False,NBA Showdown $50 Double Up (OKC @ IND),1000.0,NBA,2025-06-20 00:30:00+00:00,50.0,22
+177818569,129341,13100.0,False,False,False,False,True,NBA Showdown $100K Heavy Hitter [Must Fill] (OKC @ IND),100000.0,NBA,2025-06-20 00:30:00+00:00,26200.0,4
+177818570,129341,530.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (OKC @ IND),4000.0,NBA,2025-06-20 00:30:00+00:00,1060.0,4
+177818571,129341,2650.0,False,False,False,False,True,NBA Showdown $20K Thunderdome [Must Fill] (OKC @ IND),20000.0,NBA,2025-06-20 00:30:00+00:00,5300.0,4
+177818574,129341,13100.0,False,False,False,False,True,NBA Showdown $75K Heavy Hitter [Must Fill] (OKC @ IND),75000.0,NBA,2025-06-20 00:30:00+00:00,26200.0,3
+177818575,129341,3.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire [Must Fill] (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,7.4,3
+177818576,129341,100.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (OKC @ IND),555.0,NBA,2025-06-20 00:30:00+00:00,201.0,3
+177818577,129341,587.0,False,False,False,False,True,NBA Showdown Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (OKC @ IND),3333.0,NBA,2025-06-20 00:30:00+00:00,1175.0,3
+177818578,129341,60.0,False,False,False,False,True,NBA Showdown Satellite to TEN $333 Strawberries and Cream Special (7-2) [Must Fill] (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,121.0,3
+177818579,129341,60.0,False,False,False,False,True,NBA Showdown Satellite to TEN $333 Strawberries and Cream Special (7-2) [Must Fill] (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,121.0,3
+177818597,129341,265.0,True,False,True,False,True,NBA Showdown $530 50-50 (OKC @ IND),3000.0,NBA,2025-06-20 00:30:00+00:00,530.0,6
+177818598,129341,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $50] (OKC @ IND),250.0,NBA,2025-06-20 00:30:00+00:00,5.0,59
+177818599,129341,1.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 10 Win $20] (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,2.0,118
+177818600,129341,1.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $20] (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,2.0,59
+177818601,129341,1.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $20] (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,2.0,35
+177818602,129341,2.0,False,False,True,False,False,NBA Showdown $5 Contest (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,5.0,47
+177818603,129341,1.0,False,False,True,False,False,NBA Showdown $2 Contest (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,2.0,118
+177818604,129341,0.0,False,False,True,False,False,NBA Showdown $1 Contest (OKC @ IND),50.0,NBA,2025-06-20 00:30:00+00:00,1.0,59
+177818605,129341,0.0,False,False,True,False,False,NBA Showdown $1 Contest (OKC @ IND),50.0,NBA,2025-06-20 00:30:00+00:00,1.0,59
+177818606,129341,0.0,False,False,True,False,False,NBA Showdown $0.25 Contest (OKC @ IND),50.0,NBA,2025-06-20 00:30:00+00:00,0.25,237
+177818607,129341,0.0,False,False,True,False,False,NBA Showdown $0.25 Contest (OKC @ IND),50.0,NBA,2025-06-20 00:30:00+00:00,0.25,237
+177818608,129341,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,50.0,11
+177818609,129341,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,50.0,11
+177818610,129341,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,50.0,11
+177818611,129341,0.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818612,129341,10.0,False,False,True,False,False,NBA Showdown $20 Winner Take All [$175 to 1st] (OKC @ IND),175.0,NBA,2025-06-20 00:30:00+00:00,20.0,10
+177818613,129341,1.0,False,False,True,False,False,NBA Showdown $2 Winner Take All [$120 to 1st] (OKC @ IND),120.0,NBA,2025-06-20 00:30:00+00:00,2.0,71
+177818614,129341,0.0,False,False,True,False,False,NBA Showdown $0.25 Winner Take All [$50 to 1st] (OKC @ IND),50.0,NBA,2025-06-20 00:30:00+00:00,0.25,237
+177818615,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,25.0,22
+177818616,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,25.0,22
+177818617,129341,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,10.0,23
+177818618,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,3.0,23
+177818619,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,3.0,23
+177818620,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,3.0,23
+177818621,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,3.0,23
+177818622,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,3.0,23
+177818623,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,3.0,23
+177818624,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818625,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818626,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818627,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818628,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818629,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818630,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818631,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818632,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818633,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818634,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818635,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818636,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818637,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818638,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818639,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818640,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818641,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818642,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818643,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818644,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818645,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818646,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,3.0,23
+177818647,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,3.0,23
+177818648,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818649,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818650,129341,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,10.0,23
+177818651,129341,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,10.0,23
+177818652,129341,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,10.0,23
+177818653,129341,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,10.0,23
+177818654,129341,10.0,False,False,True,False,True,NBA Showdown $20 Winner Take All [$500 to 1st] (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,20.0,29
+177818655,129341,2.0,False,False,True,False,False,NBA Showdown $5 Winner Take All [$100 to 1st] (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,5.0,23
+177818656,129341,1.0,False,False,True,False,False,NBA Showdown $3 Winner Take All [$100 to 1st] (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,3.0,39
+177818657,129341,0.0,False,False,True,False,False,NBA Showdown $1 Winner Take All [$100 to 1st] (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,1.0,118
+177818658,129341,25.0,False,False,True,False,False,NBA Showdown $50 Winner Take All [$500 to 1st] (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,50.0,11
+177818659,129341,0.0,True,False,True,False,False,Casual NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818660,129341,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 6 Win $15] (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,5.0,20
+177818661,129341,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 6 Win $15] (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,5.0,20
+177818662,129341,12.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 9 Win $75] (OKC @ IND),675.0,NBA,2025-06-20 00:30:00+00:00,25.0,31
+177818663,129341,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 9 Win $30] (OKC @ IND),270.0,NBA,2025-06-20 00:30:00+00:00,10.0,31
+177818664,129341,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 18 Win $15] (OKC @ IND),270.0,NBA,2025-06-20 00:30:00+00:00,5.0,62
+177818665,129341,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (OKC @ IND),135.0,NBA,2025-06-20 00:30:00+00:00,5.0,31
+177818666,129341,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 18 Win $3] (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,1.0,62
+177818667,129341,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,1.0,31
+177818668,129341,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,1.0,31
+177818669,129341,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,1.0,31
+177818671,129341,125.0,True,False,True,False,True,NBA Showdown $250 Double Up (OKC @ IND),5000.0,NBA,2025-06-20 00:30:00+00:00,250.0,22
+177818672,129341,530.0,True,False,True,False,True,"NBA Showdown $1,060 50-50 (OKC @ IND)",6000.0,NBA,2025-06-20 00:30:00+00:00,1060.0,6
+177818673,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,1.0,62
+177818674,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,1.0,62
+177818675,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),324.0,NBA,2025-06-20 00:30:00+00:00,3.0,124
+177818676,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),540.0,NBA,2025-06-20 00:30:00+00:00,5.0,124
+177818677,129341,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ IND),540.0,NBA,2025-06-20 00:30:00+00:00,10.0,62
+177818678,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),162.0,NBA,2025-06-20 00:30:00+00:00,3.0,62
+177818679,129341,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (OKC @ IND),270.0,NBA,2025-06-20 00:30:00+00:00,5.0,62
+177818680,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),850.0,NBA,2025-06-20 00:30:00+00:00,25.0,39
+177818682,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818683,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818684,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818685,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818686,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,3.0,23
+177818687,129341,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,3.0,23
+177818688,129341,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,10.0,23
+177818689,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,1.0,114
+177818690,129341,12.0,False,False,True,False,False,NBA Showdown $25 Quintuple Up [Top 5 Win $125] (OKC @ IND),625.0,NBA,2025-06-20 00:30:00+00:00,25.0,28
+177818691,129341,50.0,False,False,True,False,False,NBA Showdown $100 Triple Up [Top 3 Win $300] (OKC @ IND),900.0,NBA,2025-06-20 00:30:00+00:00,100.0,10
+177818692,129341,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (OKC @ IND),300.0,NBA,2025-06-20 00:30:00+00:00,10.0,35
+177818693,129341,25.0,False,False,True,False,False,NBA Showdown $50 Triple Up [Top 3 Win $150] (OKC @ IND),450.0,NBA,2025-06-20 00:30:00+00:00,50.0,10
+177818694,129341,0.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,1.0,28
+177818695,129341,0.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,1.0,28
+177818696,129341,2.0,False,False,True,False,False,NBA Showdown $5 Quintuple Up [Top 5 Win $25] (OKC @ IND),125.0,NBA,2025-06-20 00:30:00+00:00,5.0,28
+177818697,129341,1.0,False,False,True,False,False,NBA Showdown $3 Quintuple Up [Top 5 Win $15] (OKC @ IND),75.0,NBA,2025-06-20 00:30:00+00:00,3.0,28
+177818698,129341,125.0,True,False,True,False,False,NBA Showdown $250 Double Up (OKC @ IND),2500.0,NBA,2025-06-20 00:30:00+00:00,250.0,11
+177818699,129341,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818700,129341,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177818701,129341,12.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 3 Win $75] (OKC @ IND),225.0,NBA,2025-06-20 00:30:00+00:00,25.0,10
+177818702,129341,0.0,False,False,True,False,False,NBA Showdown $1 Hundo [Single Entry] (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,1.0,100
+177818703,129341,50.0,True,False,True,False,False,NBA Showdown $100 Double Up (OKC @ IND),1000.0,NBA,2025-06-20 00:30:00+00:00,100.0,11
+177818704,129341,50.0,True,False,True,False,False,NBA Showdown $100 Double Up (OKC @ IND),1000.0,NBA,2025-06-20 00:30:00+00:00,100.0,11
+177818705,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),250.0,NBA,2025-06-20 00:30:00+00:00,25.0,11
+177818706,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),250.0,NBA,2025-06-20 00:30:00+00:00,25.0,11
+177818707,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),250.0,NBA,2025-06-20 00:30:00+00:00,25.0,11
+177818708,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),250.0,NBA,2025-06-20 00:30:00+00:00,25.0,11
+177818709,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),250.0,NBA,2025-06-20 00:30:00+00:00,25.0,11
+177818710,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),250.0,NBA,2025-06-20 00:30:00+00:00,25.0,11
+177818711,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),250.0,NBA,2025-06-20 00:30:00+00:00,25.0,11
+177818712,129341,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (OKC @ IND),250.0,NBA,2025-06-20 00:30:00+00:00,25.0,11
+177818713,129341,100.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (OKC @ IND),555.0,NBA,2025-06-20 00:30:00+00:00,201.0,3
+177818714,129341,2.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [4x] (OKC @ IND),80.0,NBA,2025-06-20 00:30:00+00:00,5.0,19
+177818715,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.1,237
+177818716,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.1,237
+177818717,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.1,237
+177818718,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.1,237
+177818719,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.1,237
+177818720,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.1,237
+177818721,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.1,237
+177818722,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.1,237
+177818723,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.25,95
+177818724,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.25,95
+177818725,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.25,95
+177818726,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.25,95
+177818727,129341,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,0.25,190
+177818728,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.5,47
+177818729,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.5,47
+177818730,129341,4.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire (OKC @ IND),555.0,NBA,2025-06-20 00:30:00+00:00,9.0,72
+177818731,129341,45.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire (OKC @ IND),555.0,NBA,2025-06-20 00:30:00+00:00,90.0,7
+177818732,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818733,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818734,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818735,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818736,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818737,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818738,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818739,129341,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,2.0,11
+177818740,129341,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,2.0,11
+177818741,129341,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,2.0,11
+177818742,129341,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,2.0,11
+177818743,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,2.0,23
+177818744,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,2.0,23
+177818745,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,2.0,23
+177818746,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,2.0,23
+177818747,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,2.0,23
+177818748,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,2.0,23
+177818749,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,2.0,23
+177818750,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,2.0,23
+177818751,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [3x] (OKC @ IND),60.0,NBA,2025-06-20 00:30:00+00:00,2.0,35
+177818752,129341,47.0,False,False,True,False,True,NBA Showdown Satellite to NAS 8-31 Southern Sunset (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,94.0,6
+177818753,129341,90.0,False,False,False,False,True,NBA Showdown Satellite to NAS 8-31 Southern Sunset [Must Fill] (OKC @ IND),500.0,NBA,2025-06-20 00:30:00+00:00,181.0,3
+177818754,129341,17.0,False,False,True,False,True,NBA Showdown Satellite to TEN $333 Strawberries and Cream Special (7-2) (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,35.0,11
+177818755,129341,37.0,False,False,True,False,True,NBA Showdown Satellite to TEN $333 Strawberries and Cream Special (7-2) (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,75.0,5
+177818756,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 Grass Swing Slam (6-30) (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.1,237
+177818757,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 Grass Swing Slam (6-30) (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.1,237
+177818758,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 Grass Swing Slam (6-30) (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.25,95
+177818759,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 Grass Swing Slam (6-30) (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,0.25,95
+177818760,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 Grass Swing Slam (6-30) (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818761,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 Grass Swing Slam (6-30) (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177818762,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 Grass Swing Slam (6-30) [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,0.5,95
+177818763,129341,2.0,False,False,True,False,True,NBA Showdown Satellite to TEN $20 Grass Swing Slam (6-30) [5x] (OKC @ IND),100.0,NBA,2025-06-20 00:30:00+00:00,4.0,29
+177818764,129341,60.0,False,False,False,False,True,NBA Showdown Satellite to MLB 6-24 $333 MEGA Perfect Game [Must Fill] (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,121.0,3
+177818765,129341,17.0,False,False,True,False,True,NBA Showdown Satellite to MLB 6-24 $333 MEGA Perfect Game (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,35.0,11
+177818766,129341,2.0,False,False,True,False,True,NBA Showdown Satellite to MLB 6-24 $333 MEGA Perfect Game (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,5.0,79
+177818767,129341,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [10x] (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,1.0,237
+177818768,129341,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [10x] (OKC @ IND),200.0,NBA,2025-06-20 00:30:00+00:00,0.1,2378
+177818773,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $25 Special (6-28) (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,0.1,297
+177818774,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $25 Special (6-28) (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,0.1,297
+177818775,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $25 Special (6-28) (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,0.1,297
+177818776,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $25 Special (6-28) (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,0.25,118
+177818777,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $25 Special (6-28) (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,0.25,118
+177818778,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $25 Special (6-28) (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,0.5,59
+177818779,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $25 Special (6-28) (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,0.5,59
+177818780,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $25 Special (6-28) (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,0.5,59
+177818781,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $25 Special (6-28) (OKC @ IND),25.0,NBA,2025-06-20 00:30:00+00:00,1.0,29
+177818782,129341,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to UFC 317 $25 Special (6-28) [2x] (OKC @ IND),50.0,NBA,2025-06-20 00:30:00+00:00,1.0,59
+177818783,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to UFC 317 $25 Special (6-28) [2x] (OKC @ IND),50.0,NBA,2025-06-20 00:30:00+00:00,3.0,19
+177818784,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to UFC 317 $25 Special (6-28) [2x] (OKC @ IND),50.0,NBA,2025-06-20 00:30:00+00:00,3.0,19
+177818785,129341,17.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $555 Knockout Special (6-28) (OKC @ IND),555.0,NBA,2025-06-20 00:30:00+00:00,34.0,19
+177818786,129341,17.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $555 Knockout Special (6-28) (OKC @ IND),555.0,NBA,2025-06-20 00:30:00+00:00,34.0,19
+177818787,129341,45.0,False,False,True,False,True,NBA Showdown Satellite to UFC 317 $555 Knockout Special (6-28) (OKC @ IND),555.0,NBA,2025-06-20 00:30:00+00:00,90.0,7
+177819110,129341,0.0,False,False,False,False,False,NBA Showdown $1 30-Player (Winner Takes All) (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,1.0,30
+177819486,129341,0.0,False,False,True,False,False,NBA Showdown FREE 100-Player (OKC @ IND),0.0,NBA,2025-06-20 00:30:00+00:00,0.0,100
+177819503,129341,0.0,False,False,True,False,False,NBA Showdown FREE 50-Player (OKC @ IND),0.0,NBA,2025-06-20 00:30:00+00:00,0.0,50
+177819891,129343,1.0,False,False,True,False,True,NBA In-Game $200 Sharpshooter [2 Entry Max] (2H OKC @ IND),200.0,NBA,2025-06-20 01:30:00+00:00,3.0,79
+177819892,129343,50.0,False,False,True,False,True,NBA In-Game $1K Showtime [Single Entry] (2H OKC @ IND),1000.0,NBA,2025-06-20 01:30:00+00:00,100.0,11
+177819893,129343,6.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (2H OKC @ IND),155.0,NBA,2025-06-20 01:30:00+00:00,12.0,15
+177819894,129343,0.0,False,False,True,False,True,NBA In-Game $400 And-One (2H OKC @ IND),400.0,NBA,2025-06-20 01:30:00+00:00,1.0,475
+177819895,129343,0.0,False,False,True,False,True,NBA In-Game $150 Quarter Jukebox [Just $0.25!] (2H OKC @ IND),150.0,NBA,2025-06-20 01:30:00+00:00,0.25,713
+177819896,129343,150.0,False,False,True,False,True,NBA In-Game $1.35K 3-Ball [Single Entry] (2H OKC @ IND),1350.0,NBA,2025-06-20 01:30:00+00:00,300.0,5
+177819897,129343,5.0,False,False,True,False,True,NBA In-Game $10K Pull Up Jumper [$2K to 1st] (2H OKC @ IND),10000.0,NBA,2025-06-20 01:30:00+00:00,10.0,1176
+177819898,129343,2.0,False,False,True,False,True,NBA In-Game $250 High Five [Single Entry] (2H OKC @ IND),250.0,NBA,2025-06-20 01:30:00+00:00,5.0,59
+177819899,129343,13.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (2H OKC @ IND),240.0,NBA,2025-06-20 01:30:00+00:00,27.0,10
+177819900,129343,25.0,False,False,True,False,True,NBA In-Game $355 Ankle Breaker [Single Entry] (2H OKC @ IND),355.0,NBA,2025-06-20 01:30:00+00:00,50.0,8
+177819935,129343,0.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H OKC @ IND),20.0,NBA,2025-06-20 01:30:00+00:00,1.0,23
+177819936,129343,42.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H OKC @ IND),300.0,NBA,2025-06-20 01:30:00+00:00,85.0,4
+177819937,129343,12.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H OKC @ IND),110.0,NBA,2025-06-20 01:30:00+00:00,25.0,5
+177819938,129343,5.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H OKC @ IND),100.0,NBA,2025-06-20 01:30:00+00:00,10.0,11
+177819939,129343,2.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H OKC @ IND),100.0,NBA,2025-06-20 01:30:00+00:00,5.0,23
+177819953,129343,1.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H OKC @ IND),5.4,NBA,2025-06-20 01:30:00+00:00,2.0,3
+177819954,129343,5.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H OKC @ IND),27.0,NBA,2025-06-20 01:30:00+00:00,10.0,3
+177819955,129343,2.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H OKC @ IND),13.5,NBA,2025-06-20 01:30:00+00:00,5.0,3
+177819956,129343,0.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H OKC @ IND),2.7,NBA,2025-06-20 01:30:00+00:00,1.0,3
+177819957,129343,0.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H OKC @ IND),9.0,NBA,2025-06-20 01:30:00+00:00,1.0,10
+177819958,129343,0.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H OKC @ IND),4.5,NBA,2025-06-20 01:30:00+00:00,1.0,5
+177819959,129343,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H OKC @ IND),2.7,NBA,2025-06-20 01:30:00+00:00,1.0,3
+177819960,129343,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H OKC @ IND),2.7,NBA,2025-06-20 01:30:00+00:00,1.0,3
+177819961,129343,10.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H OKC @ IND),180.0,NBA,2025-06-20 01:30:00+00:00,20.0,10
+177819962,129343,5.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H OKC @ IND),90.0,NBA,2025-06-20 01:30:00+00:00,10.0,10
+177819963,129343,2.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H OKC @ IND),45.0,NBA,2025-06-20 01:30:00+00:00,5.0,10
+177819964,129343,1.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H OKC @ IND),27.0,NBA,2025-06-20 01:30:00+00:00,3.0,10
+177819965,129343,0.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H OKC @ IND),9.0,NBA,2025-06-20 01:30:00+00:00,1.0,10
+177819966,129343,2.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H OKC @ IND),13.5,NBA,2025-06-20 01:30:00+00:00,5.0,3
+177819967,129343,1.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H OKC @ IND),5.4,NBA,2025-06-20 01:30:00+00:00,2.0,3
+177819968,129343,1.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H OKC @ IND),5.4,NBA,2025-06-20 01:30:00+00:00,2.0,3
+177819969,129343,1.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H OKC @ IND),5.4,NBA,2025-06-20 01:30:00+00:00,2.0,3
+177819970,129343,1.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H OKC @ IND),9.0,NBA,2025-06-20 01:30:00+00:00,2.0,5
+177819971,129343,1.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H OKC @ IND),18.0,NBA,2025-06-20 01:30:00+00:00,2.0,10
+177819972,129343,2.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H OKC @ IND),13.5,NBA,2025-06-20 01:30:00+00:00,5.0,3
+177819973,129343,2.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H OKC @ IND),22.5,NBA,2025-06-20 01:30:00+00:00,5.0,5
+177819974,129343,2.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H OKC @ IND),45.0,NBA,2025-06-20 01:30:00+00:00,5.0,10
+177819975,129343,5.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H OKC @ IND),45.0,NBA,2025-06-20 01:30:00+00:00,10.0,5
+177819976,129343,5.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H OKC @ IND),27.0,NBA,2025-06-20 01:30:00+00:00,10.0,3
+177819977,129343,10.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H OKC @ IND),54.0,NBA,2025-06-20 01:30:00+00:00,20.0,3
+177819978,129343,25.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H OKC @ IND),225.0,NBA,2025-06-20 01:30:00+00:00,50.0,5
+177819979,129343,25.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H OKC @ IND),135.0,NBA,2025-06-20 01:30:00+00:00,50.0,3
+177819980,129343,54.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H OKC @ IND),300.0,NBA,2025-06-20 01:30:00+00:00,109.0,3
+177819981,129343,81.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H OKC @ IND),450.0,NBA,2025-06-20 01:30:00+00:00,162.0,3
+177819982,129343,265.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H OKC @ IND),1500.0,NBA,2025-06-20 01:30:00+00:00,530.0,3
+177819983,129343,530.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H OKC @ IND)",3000.0,NBA,2025-06-20 01:30:00+00:00,1060.0,3
+177819984,129343,2650.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H OKC @ IND)",15000.0,NBA,2025-06-20 01:30:00+00:00,5300.0,3
+177819985,129343,5300.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H OKC @ IND)",30000.0,NBA,2025-06-20 01:30:00+00:00,10600.0,3
+177819986,129343,10.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H OKC @ IND),72.0,NBA,2025-06-20 01:30:00+00:00,20.0,4
+177819987,129343,5.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H OKC @ IND),90.0,NBA,2025-06-20 01:30:00+00:00,10.0,10
+177819988,129343,0.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H OKC @ IND),9.0,NBA,2025-06-20 01:30:00+00:00,1.0,10
+177819989,129343,1.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H OKC @ IND),27.0,NBA,2025-06-20 01:30:00+00:00,3.0,10
+177819990,129343,2.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H OKC @ IND),45.0,NBA,2025-06-20 01:30:00+00:00,5.0,10
+177819991,129343,2650.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H OKC @ IND)",20000.0,NBA,2025-06-20 01:30:00+00:00,5300.0,4
+177819992,129343,530.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H OKC @ IND)",4000.0,NBA,2025-06-20 01:30:00+00:00,1060.0,4
+177819993,129343,265.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H OKC @ IND),2000.0,NBA,2025-06-20 01:30:00+00:00,530.0,4
+177819994,129343,54.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H OKC @ IND),400.0,NBA,2025-06-20 01:30:00+00:00,109.0,4
+177819995,129343,25.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H OKC @ IND),180.0,NBA,2025-06-20 01:30:00+00:00,50.0,4
+177819996,129343,10.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H OKC @ IND),72.0,NBA,2025-06-20 01:30:00+00:00,20.0,4
+177819997,129343,5.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H OKC @ IND),36.0,NBA,2025-06-20 01:30:00+00:00,10.0,4
+177819998,129343,25.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H OKC @ IND),450.0,NBA,2025-06-20 01:30:00+00:00,50.0,10
+177819999,129343,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H OKC @ IND),9.0,NBA,2025-06-20 01:30:00+00:00,1.0,10
+177820000,129343,2.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H OKC @ IND),45.0,NBA,2025-06-20 01:30:00+00:00,5.0,10
+177820001,129343,54.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H OKC @ IND),600.0,NBA,2025-06-20 01:30:00+00:00,109.0,6
+177820002,129343,1.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H OKC @ IND),18.0,NBA,2025-06-20 01:30:00+00:00,2.0,10
+177820003,129343,10.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H OKC @ IND),180.0,NBA,2025-06-20 01:30:00+00:00,20.0,10
+177820004,129343,5.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H OKC @ IND),90.0,NBA,2025-06-20 01:30:00+00:00,10.0,10
+177820005,129343,2.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H OKC @ IND),90.0,NBA,2025-06-20 01:30:00+00:00,5.0,20
+177820006,129343,5.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H OKC @ IND),180.0,NBA,2025-06-20 01:30:00+00:00,10.0,20
+177820007,129343,10.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H OKC @ IND),360.0,NBA,2025-06-20 01:30:00+00:00,20.0,20
+177820008,129343,1.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H OKC @ IND),36.0,NBA,2025-06-20 01:30:00+00:00,2.0,20
+177820009,129343,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H OKC @ IND),18.0,NBA,2025-06-20 01:30:00+00:00,1.0,20
+177820010,129343,530.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H OKC @ IND),4000.0,NBA,2025-06-20 01:30:00+00:00,1060.0,4
+177820011,129343,133.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H OKC @ IND),1000.0,NBA,2025-06-20 01:30:00+00:00,267.0,4
+177820012,129343,50.0,False,False,False,False,True,NBA In-Game $100 Winner Take All [$460 to 1st] (Must Fill) (2H OKC @ IND),460.0,NBA,2025-06-20 01:30:00+00:00,100.0,5
+177820013,129343,750.0,False,False,False,False,True,NBA In-Game $5.7K Courtside Special [Single Entry] (Must Fill) (2H OKC @ IND),5700.0,NBA,2025-06-20 01:30:00+00:00,1500.0,4
+177820014,129343,100.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (2H OKC @ IND),555.0,NBA,2025-06-20 01:30:00+00:00,201.0,3
+177820015,129343,587.0,False,False,False,False,True,NBA In-Game Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (2H OKC @ IND),3333.0,NBA,2025-06-20 01:30:00+00:00,1175.0,3
+177820017,129343,4.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $25 Queen of the Court Qualifier [Must Fill] (2H OKC @ IND),25.0,NBA,2025-06-20 01:30:00+00:00,9.0,3
+177820018,129343,30.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (2H OKC @ IND),164.0,NBA,2025-06-20 01:30:00+00:00,60.0,3
+177820019,129343,52.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $287 Queen of the Court Qualifier [Must Fill] (2H OKC @ IND),287.0,NBA,2025-06-20 01:30:00+00:00,104.0,3
+177820020,129343,59.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $328 Queen of the Court Qualifier [Must Fill] (2H OKC @ IND),328.0,NBA,2025-06-20 01:30:00+00:00,119.0,3
+177820021,129343,90.0,False,False,False,False,True,NBA In-Game Satellite to NAS 8-31 Southern Sunset [Must Fill] (2H OKC @ IND),500.0,NBA,2025-06-20 01:30:00+00:00,181.0,3
+177820022,129343,60.0,False,False,False,False,True,NBA In-Game Satellite to TEN $333 Strawberries and Cream Special (7-2) [Must Fill] (2H OKC @ IND),333.0,NBA,2025-06-20 01:30:00+00:00,121.0,3
+177820023,129343,60.0,False,False,False,False,True,NBA In-Game Satellite to MLB 6-24 $333 MEGA Perfect Game [Must Fill] (2H OKC @ IND),333.0,NBA,2025-06-20 01:30:00+00:00,121.0,3
+177820713,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,0.1,178
+177820714,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,0.1,178
+177820715,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,0.1,178
+177820716,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,0.25,71
+177820717,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,0.25,71
+177820718,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,0.25,71
+177820719,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,1.0,17
+177820720,129341,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,1.0,17
+177820721,129341,2.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,4.0,4
+177820722,129341,2.0,False,False,False,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special [Must Fill] (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,5.55,3
+177820723,129341,2.0,False,False,False,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special [Must Fill] (OKC @ IND),15.0,NBA,2025-06-20 00:30:00+00:00,5.55,3
+177820724,129341,1.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special [3x] (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,3.0,17
+177820725,129341,17.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $333 Money Ball Special (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,35.0,11
+177820726,129341,17.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $333 Money Ball Special (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,35.0,11
+177820727,129341,37.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $333 Money Ball Special (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,75.0,5
+177820728,129341,37.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $333 Money Ball Special (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,75.0,5
+177820729,129341,60.0,False,False,False,False,True,NBA Showdown Satellite to WNBA 7-16 $333 Money Ball Special [Must Fill] (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,121.0,3
+177820730,129341,60.0,False,False,False,False,True,NBA Showdown Satellite to WNBA 7-16 $333 Money Ball Special [Must Fill] (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,121.0,3
+177821065,129341,2.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [4x] (OKC @ IND),80.0,NBA,2025-06-20 00:30:00+00:00,5.0,19
+177821152,129343,0.0,False,False,True,False,False,NBA In-Game FREE 25-Player (2H OKC @ IND),0.0,NBA,2025-06-20 01:30:00+00:00,0.0,25
+177822004,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177822005,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177822006,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177822007,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177822008,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177822009,129341,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (OKC @ IND),20.0,NBA,2025-06-20 00:30:00+00:00,1.0,23
+177822234,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177822551,129341,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (OKC @ IND),36.0,NBA,2025-06-20 00:30:00+00:00,2.0,20
+177824282,129341,100.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (OKC @ IND),555.0,NBA,2025-06-20 00:30:00+00:00,201.0,3
+177826273,129341,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC @ IND),5.4,NBA,2025-06-20 00:30:00+00:00,2.0,3
+177828455,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,1.0,20
+177832730,129341,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (OKC @ IND),22.5,NBA,2025-06-20 00:30:00+00:00,5.0,5
+177834409,129343,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H OKC @ IND),18.0,NBA,2025-06-20 01:30:00+00:00,1.0,20
+177834410,129343,0.0,False,False,False,False,True,NBA In-Game Satellite to WNBA $5 Queen of the Court Qualifier [Must Fill] (2H OKC @ IND),5.0,NBA,2025-06-20 01:30:00+00:00,1.85,3
+177835991,129343,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H OKC @ IND),2.7,NBA,2025-06-20 01:30:00+00:00,1.0,3
+177840218,129341,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177843072,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,1.0,50
+177843073,129341,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,1.0,50
+177843231,129343,1.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H OKC @ IND),36.0,NBA,2025-06-20 01:30:00+00:00,2.0,20
+177844123,129343,0.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H OKC @ IND),2.7,NBA,2025-06-20 01:30:00+00:00,1.0,3
+177844490,129341,1.0,False,False,False,False,False,NBA Showdown $2 25-Player (Winner Takes All) (OKC @ IND),45.0,NBA,2025-06-20 00:30:00+00:00,2.0,25
+177845225,129341,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177845226,129341,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177845227,129341,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177845228,129341,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177845229,129341,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177845230,129341,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177845231,129341,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177845232,129341,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177845233,129341,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177845234,129341,265.0,False,False,False,False,False,NBA Showdown $530 3-Player (OKC @ IND),1500.0,NBA,2025-06-20 00:30:00+00:00,530.0,3
+177845235,129341,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (OKC @ IND),300.0,NBA,2025-06-20 00:30:00+00:00,109.0,3
+177845236,129341,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (OKC @ IND),300.0,NBA,2025-06-20 00:30:00+00:00,109.0,3
+177845237,129341,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (OKC @ IND),300.0,NBA,2025-06-20 00:30:00+00:00,109.0,3
+177845238,129341,25.0,False,False,False,False,False,NBA Showdown $50 3-Player (OKC @ IND),135.0,NBA,2025-06-20 00:30:00+00:00,50.0,3
+177845239,129341,25.0,False,False,False,False,False,NBA Showdown $50 3-Player (OKC @ IND),135.0,NBA,2025-06-20 00:30:00+00:00,50.0,3
+177845240,129341,530.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (OKC @ IND)",3000.0,NBA,2025-06-20 00:30:00+00:00,1060.0,3
+177845241,129341,2650.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (OKC @ IND)",15000.0,NBA,2025-06-20 00:30:00+00:00,5300.0,3
+177845242,129341,81.0,False,False,False,False,False,NBA Showdown $162 3-Player (OKC @ IND),450.0,NBA,2025-06-20 00:30:00+00:00,162.0,3
+177845243,129341,81.0,False,False,False,False,False,NBA Showdown $162 3-Player (OKC @ IND),450.0,NBA,2025-06-20 00:30:00+00:00,162.0,3
+177845244,129341,5300.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (OKC @ IND)",30000.0,NBA,2025-06-20 00:30:00+00:00,10600.0,3
+177845245,129341,1060.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (OKC @ IND)",6000.0,NBA,2025-06-20 00:30:00+00:00,2120.0,3
+177845246,129341,1060.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (OKC @ IND)",6000.0,NBA,2025-06-20 00:30:00+00:00,2120.0,3
+177845650,129341,1.0,True,False,False,False,False,NBA Showdown $3 Double Up (OKC @ IND),30.0,NBA,2025-06-20 00:30:00+00:00,3.0,11
+177845669,129341,0.0,False,False,False,False,False,NBA Showdown $1 20-Player (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,1.0,20
+177846574,129341,0.0,False,False,False,False,False,NBA Showdown $1 200-Player (Top 3 Win) (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,1.0,200
+177846577,129341,0.0,False,False,False,False,False,NBA Showdown $1 200-Player (Winner Takes All) (OKC @ IND),180.0,NBA,2025-06-20 00:30:00+00:00,1.0,200
+177846632,129341,1.0,False,False,False,False,False,NBA Showdown $3 200-Player (Top 3 Win) (OKC @ IND),540.0,NBA,2025-06-20 00:30:00+00:00,3.0,200
+177846640,129341,1.0,False,False,False,False,False,NBA Showdown $3 200-Player (Winner Takes All) (OKC @ IND),540.0,NBA,2025-06-20 00:30:00+00:00,3.0,200
+177846644,129341,10.0,False,False,False,False,False,NBA Showdown $20 200-Player (Top 10 Win) (OKC @ IND),3600.0,NBA,2025-06-20 00:30:00+00:00,20.0,200
+177848011,129343,2.0,False,False,False,False,False,NBA In-Game $5 200-Player (Top 3 Win) (2H OKC @ IND),900.0,NBA,2025-06-20 01:30:00+00:00,5.0,200
+177848074,129341,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,10.0,10
+177848454,129341,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 6 Win $15] (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,5.0,20
+177848455,129341,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 6 Win $15] (OKC @ IND),90.0,NBA,2025-06-20 00:30:00+00:00,5.0,20
+177849200,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,2.0,23
+177849201,129341,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (OKC @ IND),40.0,NBA,2025-06-20 00:30:00+00:00,2.0,23
+177850545,129341,0.0,False,False,False,False,False,NBA Showdown $1 35-Player (Winner Takes All) (OKC @ IND) x2,31.5,NBA,2025-06-20 00:30:00+00:00,1.0,35
+177850563,129341,1.0,False,False,False,False,False,NBA Showdown $2 20-Player (Winner Takes All) (OKC @ IND),36.0,NBA,2025-06-20 00:30:00+00:00,2.0,20
+177850592,129341,1.0,False,False,False,False,False,NBA Showdown $2 18-Player (Winner Takes All) (OKC @ IND) x2,32.4,NBA,2025-06-20 00:30:00+00:00,2.0,18
+177850631,129341,1.0,False,False,False,False,False,NBA Showdown $3 16-Player (Winner Takes All) (OKC @ IND),43.2,NBA,2025-06-20 00:30:00+00:00,3.0,16
+177851225,129341,1.0,False,False,False,False,False,NBA Showdown $3 15-Player (Winner Takes All) (OKC @ IND) x2,40.5,NBA,2025-06-20 00:30:00+00:00,3.0,15
+177853477,129341,2.0,False,False,False,False,False,NBA Showdown $5 8-Player (Top 2 Win) (OKC @ IND),36.0,NBA,2025-06-20 00:30:00+00:00,5.0,8
+177854045,129341,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177854226,129341,17.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 7-16 $333 Money Ball Special (OKC @ IND),333.0,NBA,2025-06-20 00:30:00+00:00,35.0,11
+177855068,129341,133.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (OKC @ IND),1000.0,NBA,2025-06-20 00:30:00+00:00,267.0,4
+177855101,129303,16.0,False,False,True,False,True,WNBA $750 Triple Threat [Single Entry],750.0,NBA,2025-06-19 23:00:00+00:00,33.0,26
+177855102,129303,0.0,False,False,True,False,True,WNBA $1.5K And-One [20 Entry Max],1500.0,NBA,2025-06-19 23:00:00+00:00,1.0,1783
+177855103,129303,2.0,True,False,True,False,True, WNBA Single Entry $5 Double Up,250.0,NBA,2025-06-19 23:00:00+00:00,5.0,57
+177855104,129303,25.0,False,False,True,False,True,WNBA $1K Ankle Breaker [Single Entry],1000.0,NBA,2025-06-19 23:00:00+00:00,50.0,22
+177855105,129303,7.0,False,False,True,False,True,WNBA $30K Fadeaway [$10K to 1st],30000.0,NBA,2025-06-19 23:00:00+00:00,15.0,2352
+177855106,129303,0.0,False,False,True,False,True,WNBA $400 Quarter Jukebox [Just $0.25!],400.0,NBA,2025-06-19 23:00:00+00:00,0.25,1902
+177855107,129303,2.0,True,False,True,False,True,WNBA Single Entry $5 Double Up,150.0,NBA,2025-06-19 23:00:00+00:00,5.0,34
+177855108,129303,0.0,False,False,True,False,True,WNBA $150 Dime TIme [Just $0.10!],150.0,NBA,2025-06-19 23:00:00+00:00,0.1,1783
+177855109,129303,12.0,True,False,True,False,True,WNBA Single Entry $25 Double Up,750.0,NBA,2025-06-19 23:00:00+00:00,25.0,34
+177855110,129303,0.0,False,False,True,False,True,WNBA $150 Daily Dollar [Single Entry],150.0,NBA,2025-06-19 23:00:00+00:00,1.0,178
+177855111,129303,0.0,False,False,True,False,True,WNBA $2.1K mini-MAX [150 Entry Max],2150.0,NBA,2025-06-19 23:00:00+00:00,0.5,5112
+177855112,129303,6.0,False,False,True,False,True,WNBA $500 Pick and Roll [Single Entry],500.0,NBA,2025-06-19 23:00:00+00:00,12.0,49
+177855113,129303,50.0,False,False,True,False,True,WNBA $1.8K Showtime [Single Entry],1800.0,NBA,2025-06-19 23:00:00+00:00,100.0,20
+177855114,129303,2.0,False,False,True,False,True,WNBA $8K Zone [$2K to 1st],8000.0,NBA,2025-06-19 23:00:00+00:00,5.0,1902
+177855115,129303,166.0,False,False,True,False,True,WNBA $6K Money Ball [Single Entry],6000.0,NBA,2025-06-19 23:00:00+00:00,333.0,20
+177855116,129303,2.0,False,False,True,False,True,WNBA $750 High Five [Single Entry],750.0,NBA,2025-06-19 23:00:00+00:00,5.0,178
+177855117,129303,1.0,False,False,True,False,True,WNBA $500 Hot Shot [5 Entry Max],500.0,NBA,2025-06-19 23:00:00+00:00,3.0,198
+177855118,129303,111.0,False,False,True,False,True,WNBA $2K Slam Jam [Single Entry],2000.0,NBA,2025-06-19 23:00:00+00:00,222.0,10
+177855119,129303,12.0,True,False,True,False,True,WNBA Single Entry $25 Double Up,350.0,NBA,2025-06-19 23:00:00+00:00,25.0,16
+177855120,129304,2.0,True,False,True,False,True,WNBA Showdown Single Entry $5 Double Up (IND @ GSV),150.0,NBA,2025-06-20 02:00:00+00:00,5.0,34
+177855121,129304,0.0,False,False,True,False,True,WNBA Showdown $1K And-One (IND @ GSV),1000.0,NBA,2025-06-20 02:00:00+00:00,1.0,1189
+177855122,129304,6.0,False,False,True,False,True,WNBA Showdown $155 Pick and Roll [Single Entry] (IND @ GSV),155.0,NBA,2025-06-20 02:00:00+00:00,12.0,15
+177855124,129304,2.0,False,False,True,False,True,WNBA Showdown $300 High Five [Single Entry] (IND @ GSV),300.0,NBA,2025-06-20 02:00:00+00:00,5.0,71
+177855125,129304,0.0,False,False,True,False,True,WNBA Showdown $250 Quarter Jukebox [Just $0.25!]  (IND @ GSV),250.0,NBA,2025-06-20 02:00:00+00:00,0.25,1189
+177855126,129304,2.0,False,False,True,False,True,WNBA Showdown $300 Zone (IND @ GSV),300.0,NBA,2025-06-20 02:00:00+00:00,5.0,71
+177855127,129304,50.0,False,False,True,False,True,WNBA Showdown $100 Winner Take All [$450 to 1st] (IND @ GSV),450.0,NBA,2025-06-20 02:00:00+00:00,100.0,5
+177855128,129304,25.0,False,False,True,False,True,WNBA Showdown $265 Ankle Breaker [Single Entry] (IND @ GSV),265.0,NBA,2025-06-20 02:00:00+00:00,50.0,6
+177855129,129304,10.0,False,False,True,False,True,WNBA Showdown $6K Shootaround [$2K to 1st] (IND @ GSV),6000.0,NBA,2025-06-20 02:00:00+00:00,20.0,352
+177855160,129303,143.0,False,False,True,False,True,WNBA $100K Queen of the Court Qualifier #22,2000.0,NBA,2025-06-19 23:00:00+00:00,287.0,8
+177855223,129303,1.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2025-06-19 23:00:00+00:00,3.0,23
+177855224,129303,1.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2025-06-19 23:00:00+00:00,3.0,23
+177855225,129303,0.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2025-06-19 23:00:00+00:00,1.0,31
+177855226,129303,1.0,False,False,True,False,False,WNBA 10x Booster [Top 3 Win $20],60.0,NBA,2025-06-19 23:00:00+00:00,2.0,35
+177855227,129303,2.0,False,False,True,False,False,WNBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2025-06-19 23:00:00+00:00,5.0,31
+177855228,129303,50.0,True,False,True,False,False,WNBA $100 Double Up,1000.0,NBA,2025-06-19 23:00:00+00:00,100.0,11
+177855229,129303,25.0,True,False,True,False,False,WNBA $50 Double Up,500.0,NBA,2025-06-19 23:00:00+00:00,50.0,11
+177855230,129303,25.0,True,False,True,False,False,WNBA $50 Double Up,500.0,NBA,2025-06-19 23:00:00+00:00,50.0,11
+177855231,129303,12.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2025-06-19 23:00:00+00:00,25.0,11
+177855232,129303,12.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2025-06-19 23:00:00+00:00,25.0,11
+177855233,129303,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,10.0,11
+177855234,129303,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,10.0,11
+177855235,129303,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,10.0,11
+177855236,129303,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,10.0,11
+177855237,129303,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,10.0,11
+177855238,129303,2.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2025-06-19 23:00:00+00:00,5.0,34
+177855239,129303,2.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2025-06-19 23:00:00+00:00,5.0,34
+177855240,129303,2.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,5.0,23
+177855241,129303,2.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,5.0,23
+177855242,129303,1.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2025-06-19 23:00:00+00:00,3.0,34
+177855243,129303,1.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2025-06-19 23:00:00+00:00,3.0,34
+177855244,129303,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2025-06-19 23:00:00+00:00,1.0,34
+177855245,129303,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2025-06-19 23:00:00+00:00,1.0,23
+177855246,129303,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2025-06-19 23:00:00+00:00,1.0,23
+177855247,129303,1.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2025-06-19 23:00:00+00:00,3.0,23
+177855248,129303,1.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2025-06-19 23:00:00+00:00,3.0,23
+177855249,129303,2.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,5.0,23
+177855250,129303,2.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,5.0,23
+177855251,129303,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,10.0,11
+177855252,129303,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,10.0,11
+177855253,129303,25.0,False,False,True,False,False,WNBA $50 Winner Take All [$220 to 1st],220.0,NBA,2025-06-19 23:00:00+00:00,50.0,5
+177855254,129303,25.0,False,False,True,False,False,WNBA $50 Winner Take All [$220 to 1st],220.0,NBA,2025-06-19 23:00:00+00:00,50.0,5
+177855255,129303,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-06-19 23:00:00+00:00,1.0,23
+177855256,129303,1.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-06-19 23:00:00+00:00,2.0,11
+177855257,129303,19.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2025-06-19 23:00:00+00:00,38.0,3
+177855258,129303,19.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2025-06-19 23:00:00+00:00,38.0,3
+177855259,129303,19.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2025-06-19 23:00:00+00:00,38.0,3
+177855260,129303,0.0,False,False,True,False,True,WNBA Satellite to WNBA $5 Queen of the Court Qualifier,5.0,NBA,2025-06-19 23:00:00+00:00,0.25,23
+177855261,129303,0.0,False,False,True,False,True,WNBA Satellite to WNBA $5 Queen of the Court Qualifier,5.0,NBA,2025-06-19 23:00:00+00:00,0.25,23
+177855262,129303,0.0,False,False,True,False,True,WNBA Satellite to WNBA $25 Queen of the Court Qualifier,25.0,NBA,2025-06-19 23:00:00+00:00,0.25,118
+177855263,129303,0.0,False,False,True,False,True,WNBA Satellite to WNBA $25 Queen of the Court Qualifier,25.0,NBA,2025-06-19 23:00:00+00:00,1.0,29
+177855264,129303,0.0,False,False,True,False,True,WNBA Satellite to WNBA $25 Queen of the Court Qualifier,25.0,NBA,2025-06-19 23:00:00+00:00,1.0,29
+177855265,129303,2.0,False,False,True,False,True,WNBA Satellite to WNBA $164 Queen of the Court Qualifier,164.0,NBA,2025-06-19 23:00:00+00:00,5.0,39
+177855266,129303,0.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special,15.0,NBA,2025-06-19 23:00:00+00:00,0.25,71
+177855267,129303,0.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special,15.0,NBA,2025-06-19 23:00:00+00:00,1.0,17
+177855268,129303,2.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special,15.0,NBA,2025-06-19 23:00:00+00:00,4.0,4
+177855269,129303,1.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special [3x],45.0,NBA,2025-06-19 23:00:00+00:00,3.0,17
+177855270,129303,17.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $333 Money Ball Special,333.0,NBA,2025-06-19 23:00:00+00:00,35.0,11
+177855271,129303,37.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $333 Money Ball Special,333.0,NBA,2025-06-19 23:00:00+00:00,75.0,5
+177855278,129304,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (IND @ GSV),20.0,NBA,2025-06-20 02:00:00+00:00,1.0,23
+177855279,129304,1.0,True,False,True,False,False,WNBA Showdown $3 Double Up (IND @ GSV),60.0,NBA,2025-06-20 02:00:00+00:00,3.0,23
+177855280,129304,2.0,True,False,True,False,False,WNBA Showdown $5 Double Up (IND @ GSV),100.0,NBA,2025-06-20 02:00:00+00:00,5.0,23
+177855281,129304,5.0,True,False,True,False,False,WNBA Showdown $10 Double Up (IND @ GSV),100.0,NBA,2025-06-20 02:00:00+00:00,10.0,11
+177855282,129304,12.0,True,False,True,False,False,WNBA Showdown $25 Double Up (IND @ GSV),250.0,NBA,2025-06-20 02:00:00+00:00,25.0,11
+177855283,129304,12.0,True,False,True,False,False,WNBA Showdown $25 Double Up (IND @ GSV),250.0,NBA,2025-06-20 02:00:00+00:00,25.0,11
+177855284,129304,12.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (IND @ GSV),110.0,NBA,2025-06-20 02:00:00+00:00,25.0,5
+177855285,129304,12.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (IND @ GSV),110.0,NBA,2025-06-20 02:00:00+00:00,25.0,5
+177855286,129304,0.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $5 Queen of the Court Qualifier (IND @ GSV),5.0,NBA,2025-06-20 02:00:00+00:00,0.25,23
+177855287,129304,0.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $25 Queen of the Court Qualifier (IND @ GSV),25.0,NBA,2025-06-20 02:00:00+00:00,1.0,29
+177855288,129304,0.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (IND @ GSV),15.0,NBA,2025-06-20 02:00:00+00:00,1.0,17
+177855289,129304,2.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (IND @ GSV),15.0,NBA,2025-06-20 02:00:00+00:00,4.0,4
+177855291,129303,1.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2025-06-19 23:00:00+00:00,2.0,3
+177855292,129303,5.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2025-06-19 23:00:00+00:00,10.0,3
+177855293,129303,2.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2025-06-19 23:00:00+00:00,5.0,3
+177855294,129303,0.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2025-06-19 23:00:00+00:00,1.0,3
+177855295,129303,0.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2025-06-19 23:00:00+00:00,1.0,10
+177855296,129303,0.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2025-06-19 23:00:00+00:00,1.0,5
+177855298,129303,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2025-06-19 23:00:00+00:00,1.0,3
+177855299,129303,10.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2025-06-19 23:00:00+00:00,20.0,10
+177855300,129303,5.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2025-06-19 23:00:00+00:00,10.0,10
+177855301,129303,2.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2025-06-19 23:00:00+00:00,5.0,10
+177855302,129303,1.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2025-06-19 23:00:00+00:00,3.0,10
+177855303,129303,0.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2025-06-19 23:00:00+00:00,1.0,10
+177855304,129303,2.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2025-06-19 23:00:00+00:00,5.0,3
+177855305,129303,1.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2025-06-19 23:00:00+00:00,2.0,3
+177855306,129303,1.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2025-06-19 23:00:00+00:00,2.0,3
+177855307,129303,1.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2025-06-19 23:00:00+00:00,2.0,3
+177855308,129303,1.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2025-06-19 23:00:00+00:00,2.0,5
+177855309,129303,1.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2025-06-19 23:00:00+00:00,2.0,10
+177855310,129303,2.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2025-06-19 23:00:00+00:00,5.0,3
+177855311,129303,2.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2025-06-19 23:00:00+00:00,5.0,5
+177855312,129303,2.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2025-06-19 23:00:00+00:00,5.0,10
+177855313,129303,5.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2025-06-19 23:00:00+00:00,10.0,5
+177855314,129303,5.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2025-06-19 23:00:00+00:00,10.0,3
+177855315,129303,10.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2025-06-19 23:00:00+00:00,20.0,3
+177855316,129303,25.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2025-06-19 23:00:00+00:00,50.0,5
+177855317,129303,25.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2025-06-19 23:00:00+00:00,50.0,3
+177855318,129303,54.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2025-06-19 23:00:00+00:00,109.0,3
+177855319,129303,81.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2025-06-19 23:00:00+00:00,162.0,3
+177855320,129303,265.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2025-06-19 23:00:00+00:00,530.0,3
+177855321,129303,530.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2025-06-19 23:00:00+00:00,1060.0,3
+177855322,129303,2650.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2025-06-19 23:00:00+00:00,5300.0,3
+177855323,129303,5300.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2025-06-19 23:00:00+00:00,10600.0,3
+177855324,129303,10.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2025-06-19 23:00:00+00:00,20.0,4
+177855325,129303,5.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2025-06-19 23:00:00+00:00,10.0,10
+177855326,129303,0.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2025-06-19 23:00:00+00:00,1.0,10
+177855327,129303,1.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2025-06-19 23:00:00+00:00,3.0,10
+177855328,129303,2.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2025-06-19 23:00:00+00:00,5.0,10
+177855329,129303,2650.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2025-06-19 23:00:00+00:00,5300.0,4
+177855330,129303,530.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2025-06-19 23:00:00+00:00,1060.0,4
+177855331,129303,265.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2025-06-19 23:00:00+00:00,530.0,4
+177855332,129303,54.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2025-06-19 23:00:00+00:00,109.0,4
+177855333,129303,25.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2025-06-19 23:00:00+00:00,50.0,4
+177855334,129303,10.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2025-06-19 23:00:00+00:00,20.0,4
+177855335,129303,5.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2025-06-19 23:00:00+00:00,10.0,4
+177855336,129303,25.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2025-06-19 23:00:00+00:00,50.0,10
+177855337,129303,0.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2025-06-19 23:00:00+00:00,1.0,10
+177855338,129303,2.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2025-06-19 23:00:00+00:00,5.0,10
+177855339,129303,54.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2025-06-19 23:00:00+00:00,109.0,6
+177855340,129303,1.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2025-06-19 23:00:00+00:00,2.0,10
+177855341,129303,10.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2025-06-19 23:00:00+00:00,20.0,10
+177855342,129303,5.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2025-06-19 23:00:00+00:00,10.0,10
+177855343,129303,2.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2025-06-19 23:00:00+00:00,5.0,20
+177855344,129303,5.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2025-06-19 23:00:00+00:00,10.0,20
+177855345,129303,10.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2025-06-19 23:00:00+00:00,20.0,20
+177855346,129303,1.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2025-06-19 23:00:00+00:00,2.0,20
+177855347,129303,0.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2025-06-19 23:00:00+00:00,1.0,20
+177855348,129303,530.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2025-06-19 23:00:00+00:00,1060.0,4
+177855349,129303,133.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2025-06-19 23:00:00+00:00,267.0,4
+177855350,129303,50.0,False,False,False,False,True,WNBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2025-06-19 23:00:00+00:00,100.0,5
+177855351,129303,750.0,False,False,False,False,True,WNBA $5.7K Courtside Special [Single Entry] (Must Fill),5700.0,NBA,2025-06-19 23:00:00+00:00,1500.0,4
+177855352,129303,100.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill],555.0,NBA,2025-06-19 23:00:00+00:00,201.0,3
+177855353,129303,587.0,False,False,False,False,True,WNBA Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill],3333.0,NBA,2025-06-19 23:00:00+00:00,1175.0,3
+177855354,129303,0.0,False,False,False,False,True,WNBA Satellite to WNBA $5 Queen of the Court Qualifier [Must Fill],5.0,NBA,2025-06-19 23:00:00+00:00,1.85,3
+177855355,129303,4.0,False,False,False,False,True,WNBA Satellite to WNBA $25 Queen of the Court Qualifier [Must Fill],25.0,NBA,2025-06-19 23:00:00+00:00,9.0,3
+177855356,129303,30.0,False,False,False,False,True,WNBA Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill],164.0,NBA,2025-06-19 23:00:00+00:00,60.0,3
+177855357,129303,52.0,False,False,False,False,True,WNBA Satellite to WNBA $287 Queen of the Court Qualifier [Must Fill],287.0,NBA,2025-06-19 23:00:00+00:00,104.0,3
+177855358,129303,59.0,False,False,False,False,True,WNBA Satellite to WNBA $328 Queen of the Court Qualifier [Must Fill],328.0,NBA,2025-06-19 23:00:00+00:00,119.0,3
+177855359,129303,90.0,False,False,False,False,True,WNBA Satellite to NAS 8-31 Southern Sunset [Must Fill],500.0,NBA,2025-06-19 23:00:00+00:00,181.0,3
+177855360,129303,60.0,False,False,False,False,True,WNBA Satellite to TEN $333 Strawberries and Cream Special (7-2) [Must Fill],333.0,NBA,2025-06-19 23:00:00+00:00,121.0,3
+177855361,129303,60.0,False,False,False,False,True,WNBA Satellite to MLB 6-24 $333 MEGA Perfect Game [Must Fill],333.0,NBA,2025-06-19 23:00:00+00:00,121.0,3
+177855362,129303,2.0,False,False,False,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special [Must Fill],15.0,NBA,2025-06-19 23:00:00+00:00,5.55,3
+177855363,129303,60.0,False,False,False,False,True,WNBA Satellite to WNBA 7-16 $333 Money Ball Special [Must Fill],333.0,NBA,2025-06-19 23:00:00+00:00,121.0,3
+177855364,129304,1.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (IND @ GSV),5.4,NBA,2025-06-20 02:00:00+00:00,2.0,3
+177855365,129304,5.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (IND @ GSV),27.0,NBA,2025-06-20 02:00:00+00:00,10.0,3
+177855366,129304,2.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (IND @ GSV),13.5,NBA,2025-06-20 02:00:00+00:00,5.0,3
+177855367,129304,0.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (IND @ GSV),2.7,NBA,2025-06-20 02:00:00+00:00,1.0,3
+177855368,129304,0.0,False,False,False,False,False,WNBA Showdown $1 10-Player (IND @ GSV),9.0,NBA,2025-06-20 02:00:00+00:00,1.0,10
+177855369,129304,0.0,False,False,False,False,False,WNBA Showdown $1 5-Player (IND @ GSV),4.5,NBA,2025-06-20 02:00:00+00:00,1.0,5
+177855370,129304,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (IND @ GSV),2.7,NBA,2025-06-20 02:00:00+00:00,1.0,3
+177855371,129304,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (IND @ GSV),2.7,NBA,2025-06-20 02:00:00+00:00,1.0,3
+177855372,129304,10.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (IND @ GSV),180.0,NBA,2025-06-20 02:00:00+00:00,20.0,10
+177855373,129304,5.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (IND @ GSV),90.0,NBA,2025-06-20 02:00:00+00:00,10.0,10
+177855374,129304,2.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (IND @ GSV),45.0,NBA,2025-06-20 02:00:00+00:00,5.0,10
+177855375,129304,1.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (IND @ GSV),27.0,NBA,2025-06-20 02:00:00+00:00,3.0,10
+177855376,129304,0.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (IND @ GSV),9.0,NBA,2025-06-20 02:00:00+00:00,1.0,10
+177855377,129304,2.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (IND @ GSV),13.5,NBA,2025-06-20 02:00:00+00:00,5.0,3
+177855378,129304,1.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (IND @ GSV),5.4,NBA,2025-06-20 02:00:00+00:00,2.0,3
+177855379,129304,1.0,False,False,False,False,False,WNBA Showdown $2 3-Player (IND @ GSV),5.4,NBA,2025-06-20 02:00:00+00:00,2.0,3
+177855380,129304,1.0,False,False,False,False,False,WNBA Showdown $2 3-Player (IND @ GSV),5.4,NBA,2025-06-20 02:00:00+00:00,2.0,3
+177855381,129304,1.0,False,False,False,False,False,WNBA Showdown $2 5-Player (IND @ GSV),9.0,NBA,2025-06-20 02:00:00+00:00,2.0,5
+177855382,129304,1.0,False,False,False,False,False,WNBA Showdown $2 10-Player (IND @ GSV),18.0,NBA,2025-06-20 02:00:00+00:00,2.0,10
+177855383,129304,2.0,False,False,False,False,False,WNBA Showdown $5 3-Player (IND @ GSV),13.5,NBA,2025-06-20 02:00:00+00:00,5.0,3
+177855384,129304,2.0,False,False,False,False,False,WNBA Showdown $5 5-Player (IND @ GSV),22.5,NBA,2025-06-20 02:00:00+00:00,5.0,5
+177855385,129304,2.0,False,False,False,False,False,WNBA Showdown $5 10-Player (IND @ GSV),45.0,NBA,2025-06-20 02:00:00+00:00,5.0,10
+177855386,129304,5.0,False,False,False,False,False,WNBA Showdown $10 5-Player (IND @ GSV),45.0,NBA,2025-06-20 02:00:00+00:00,10.0,5
+177855387,129304,5.0,False,False,False,False,False,WNBA Showdown $10 3-Player (IND @ GSV),27.0,NBA,2025-06-20 02:00:00+00:00,10.0,3
+177855388,129304,10.0,False,False,False,False,False,WNBA Showdown $20 3-Player (IND @ GSV),54.0,NBA,2025-06-20 02:00:00+00:00,20.0,3
+177855389,129304,25.0,False,False,False,False,False,WNBA Showdown $50 5-Player (IND @ GSV),225.0,NBA,2025-06-20 02:00:00+00:00,50.0,5
+177855390,129304,25.0,False,False,False,False,False,WNBA Showdown $50 3-Player (IND @ GSV),135.0,NBA,2025-06-20 02:00:00+00:00,50.0,3
+177855391,129304,54.0,False,False,False,False,False,WNBA Showdown $109 3-Player (IND @ GSV),300.0,NBA,2025-06-20 02:00:00+00:00,109.0,3
+177855392,129304,81.0,False,False,False,False,False,WNBA Showdown $162 3-Player (IND @ GSV),450.0,NBA,2025-06-20 02:00:00+00:00,162.0,3
+177855393,129304,265.0,False,False,False,False,False,WNBA Showdown $530 3-Player (IND @ GSV),1500.0,NBA,2025-06-20 02:00:00+00:00,530.0,3
+177855394,129304,530.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (IND @ GSV)",3000.0,NBA,2025-06-20 02:00:00+00:00,1060.0,3
+177855395,129304,2650.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (IND @ GSV)",15000.0,NBA,2025-06-20 02:00:00+00:00,5300.0,3
+177855396,129304,5300.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (IND @ GSV)",30000.0,NBA,2025-06-20 02:00:00+00:00,10600.0,3
+177855397,129304,10.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (IND @ GSV),72.0,NBA,2025-06-20 02:00:00+00:00,20.0,4
+177855398,129304,5.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (IND @ GSV),90.0,NBA,2025-06-20 02:00:00+00:00,10.0,10
+177855399,129304,0.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (IND @ GSV),9.0,NBA,2025-06-20 02:00:00+00:00,1.0,10
+177855400,129304,1.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (IND @ GSV),27.0,NBA,2025-06-20 02:00:00+00:00,3.0,10
+177855401,129304,2.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (IND @ GSV),45.0,NBA,2025-06-20 02:00:00+00:00,5.0,10
+177855402,129304,2650.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (IND @ GSV)",20000.0,NBA,2025-06-20 02:00:00+00:00,5300.0,4
+177855403,129304,530.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (IND @ GSV)",4000.0,NBA,2025-06-20 02:00:00+00:00,1060.0,4
+177855404,129304,265.0,True,False,False,False,False,WNBA Showdown $530 50-50 (IND @ GSV),2000.0,NBA,2025-06-20 02:00:00+00:00,530.0,4
+177855405,129304,54.0,True,False,False,False,False,WNBA Showdown $109 50-50 (IND @ GSV),400.0,NBA,2025-06-20 02:00:00+00:00,109.0,4
+177855406,129304,25.0,True,False,False,False,False,WNBA Showdown $50 50-50 (IND @ GSV),180.0,NBA,2025-06-20 02:00:00+00:00,50.0,4
+177855407,129304,10.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND @ GSV),72.0,NBA,2025-06-20 02:00:00+00:00,20.0,4
+177855408,129304,5.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND @ GSV),36.0,NBA,2025-06-20 02:00:00+00:00,10.0,4
+177855409,129304,25.0,True,False,False,False,False,WNBA Showdown $50 50-50 (IND @ GSV),450.0,NBA,2025-06-20 02:00:00+00:00,50.0,10
+177855410,129304,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (IND @ GSV),9.0,NBA,2025-06-20 02:00:00+00:00,1.0,10
+177855411,129304,2.0,True,False,False,False,False,WNBA Showdown $5 50-50 (IND @ GSV),45.0,NBA,2025-06-20 02:00:00+00:00,5.0,10
+177855412,129304,54.0,True,False,False,False,False,WNBA Showdown $109 50-50 (IND @ GSV),600.0,NBA,2025-06-20 02:00:00+00:00,109.0,6
+177855413,129304,1.0,True,False,False,False,False,WNBA Showdown $2 50-50 (IND @ GSV),18.0,NBA,2025-06-20 02:00:00+00:00,2.0,10
+177855414,129304,10.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND @ GSV),180.0,NBA,2025-06-20 02:00:00+00:00,20.0,10
+177855415,129304,5.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND @ GSV),90.0,NBA,2025-06-20 02:00:00+00:00,10.0,10
+177855416,129304,2.0,True,False,False,False,False,WNBA Showdown $5 50-50 (IND @ GSV),90.0,NBA,2025-06-20 02:00:00+00:00,5.0,20
+177855417,129304,5.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND @ GSV),180.0,NBA,2025-06-20 02:00:00+00:00,10.0,20
+177855418,129304,10.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND @ GSV),360.0,NBA,2025-06-20 02:00:00+00:00,20.0,20
+177855419,129304,1.0,True,False,False,False,False,WNBA Showdown $2 50-50 (IND @ GSV),36.0,NBA,2025-06-20 02:00:00+00:00,2.0,20
+177855420,129304,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (IND @ GSV),18.0,NBA,2025-06-20 02:00:00+00:00,1.0,20
+177855421,129304,530.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (IND @ GSV),4000.0,NBA,2025-06-20 02:00:00+00:00,1060.0,4
+177855422,129304,133.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (IND @ GSV),1000.0,NBA,2025-06-20 02:00:00+00:00,267.0,4
+177855423,129304,50.0,False,False,False,False,True,WNBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (IND @ GSV),460.0,NBA,2025-06-20 02:00:00+00:00,100.0,5
+177855424,129304,750.0,False,False,False,False,True,WNBA Showdown $5.7K Courtside Special [Single Entry] (Must Fill) (IND @ GSV),5700.0,NBA,2025-06-20 02:00:00+00:00,1500.0,4
+177855425,129304,100.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (IND @ GSV),555.0,NBA,2025-06-20 02:00:00+00:00,201.0,3
+177855426,129304,587.0,False,False,False,False,True,WNBA Showdown Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (IND @ GSV),3333.0,NBA,2025-06-20 02:00:00+00:00,1175.0,3
+177855427,129304,0.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $5 Queen of the Court Qualifier [Must Fill] (IND @ GSV),5.0,NBA,2025-06-20 02:00:00+00:00,1.85,3
+177855428,129304,4.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $25 Queen of the Court Qualifier [Must Fill] (IND @ GSV),25.0,NBA,2025-06-20 02:00:00+00:00,9.0,3
+177855429,129304,30.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (IND @ GSV),164.0,NBA,2025-06-20 02:00:00+00:00,60.0,3
+177855430,129304,52.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $287 Queen of the Court Qualifier [Must Fill] (IND @ GSV),287.0,NBA,2025-06-20 02:00:00+00:00,104.0,3
+177855431,129304,59.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $328 Queen of the Court Qualifier [Must Fill] (IND @ GSV),328.0,NBA,2025-06-20 02:00:00+00:00,119.0,3
+177855432,129304,90.0,False,False,False,False,True,WNBA Showdown Satellite to NAS 8-31 Southern Sunset [Must Fill] (IND @ GSV),500.0,NBA,2025-06-20 02:00:00+00:00,181.0,3
+177855433,129304,60.0,False,False,False,False,True,WNBA Showdown Satellite to TEN $333 Strawberries and Cream Special (7-2) [Must Fill] (IND @ GSV),333.0,NBA,2025-06-20 02:00:00+00:00,121.0,3
+177855434,129304,60.0,False,False,False,False,True,WNBA Showdown Satellite to MLB 6-24 $333 MEGA Perfect Game [Must Fill] (IND @ GSV),333.0,NBA,2025-06-20 02:00:00+00:00,121.0,3
+177855435,129304,2.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special [Must Fill] (IND @ GSV),15.0,NBA,2025-06-20 02:00:00+00:00,5.55,3
+177855436,129304,60.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA 7-16 $333 Money Ball Special [Must Fill] (IND @ GSV),333.0,NBA,2025-06-20 02:00:00+00:00,121.0,3
+177855444,129305,0.0,False,False,True,False,True,WNBA Single Stat $1 Winner Take All [$100 to 1st] (Points),100.0,NBA,2025-06-19 23:00:00+00:00,1.0,118
+177855462,129306,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2025-06-19 23:00:00+00:00,1.0,3
+177855464,129306,2.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2025-06-19 23:00:00+00:00,5.0,3
+177855465,129306,2.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2025-06-19 23:00:00+00:00,5.0,3
+177855466,129306,5.0,False,False,False,False,False,WNBA Snake $10 3-Player,27.0,NBA,2025-06-19 23:00:00+00:00,10.0,3
+177855467,129306,10.0,False,False,False,False,False,WNBA Snake $20 3-Player,54.0,NBA,2025-06-19 23:00:00+00:00,20.0,3
+177855468,129306,10.0,False,False,False,False,False,WNBA Snake $20 3-Player,54.0,NBA,2025-06-19 23:00:00+00:00,20.0,3
+177855469,129306,25.0,False,False,False,False,False,WNBA Snake $50 3-Player,135.0,NBA,2025-06-19 23:00:00+00:00,50.0,3
+177855470,129306,54.0,False,False,False,False,False,WNBA Snake $109 3-Player,300.0,NBA,2025-06-19 23:00:00+00:00,109.0,3
+177855471,129306,265.0,False,False,False,False,False,WNBA Snake $530 3-Player,1500.0,NBA,2025-06-19 23:00:00+00:00,530.0,3
+177855472,129306,530.0,False,False,False,False,False,"WNBA Snake $1,060 3-Player",3000.0,NBA,2025-06-19 23:00:00+00:00,1060.0,3
+177855473,129306,1060.0,False,False,False,False,False,"WNBA Snake $2,120 3-Player",6000.0,NBA,2025-06-19 23:00:00+00:00,2120.0,3
+177855474,129306,2650.0,False,False,False,False,False,"WNBA Snake $5,300 3-Player",15000.0,NBA,2025-06-19 23:00:00+00:00,5300.0,3
+177855475,129306,5300.0,False,False,False,False,False,"WNBA Snake $10,600 3-Player",30000.0,NBA,2025-06-19 23:00:00+00:00,10600.0,3
+177855476,129343,2.0,False,False,False,False,False,NBA In-Game $5 3-Player (Winner Takes All) (2H OKC @ IND),13.5,NBA,2025-06-20 01:30:00+00:00,5.0,3
+177856207,129341,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177856270,129341,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (OKC @ IND),5.4,NBA,2025-06-20 00:30:00+00:00,2.0,3
+177856710,129303,0.0,False,False,True,False,False,WNBA FREE 200-Player x2,0.0,NBA,2025-06-19 23:00:00+00:00,0.0,200
+177857510,129303,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2025-06-19 23:00:00+00:00,1.0,3
+177858416,129341,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177858581,129341,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177864577,129342,25.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (OKC @ IND),135.0,NBA,2025-06-20 00:30:00+00:00,50.0,3
+177864965,129342,2.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177865092,129341,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (Winner Takes All) (OKC @ IND),9.0,NBA,2025-06-20 00:30:00+00:00,1.0,10
+177865904,129342,2.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (OKC @ IND),13.5,NBA,2025-06-20 00:30:00+00:00,5.0,3
+177866015,129306,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2025-06-19 23:00:00+00:00,1.0,3
+177867493,129341,0.0,False,False,True,False,False,NBA Showdown FREE 14-Player (OKC @ IND),0.0,NBA,2025-06-20 00:30:00+00:00,0.0,14
+177867494,129341,0.0,False,False,True,False,False,NBA Showdown FREE 19-Player (OKC @ IND),0.0,NBA,2025-06-20 00:30:00+00:00,0.0,19
+177867524,129341,0.0,False,False,True,False,False,NBA Showdown FREE 30-Player (OKC @ IND),0.0,NBA,2025-06-20 00:30:00+00:00,0.0,30
+177867545,129341,0.0,False,False,True,False,False,NBA Showdown FREE 35-Player (OKC @ IND),0.0,NBA,2025-06-20 00:30:00+00:00,0.0,35
+177867667,129341,0.0,False,False,True,False,False,NBA Showdown FREE 12-Player (OKC @ IND) x2,0.0,NBA,2025-06-20 00:30:00+00:00,0.0,12
+177867928,129304,0.0,False,False,True,False,False,WNBA Showdown FREE 10-Player (IND @ GSV),0.0,NBA,2025-06-20 02:00:00+00:00,0.0,10
+177869173,129303,0.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2025-06-19 23:00:00+00:00,1.0,20
+177869644,129304,1.0,False,False,False,False,False,WNBA Showdown $2 10-Player (IND @ GSV),18.0,NBA,2025-06-20 02:00:00+00:00,2.0,10
+177871322,129341,0.0,False,False,True,False,True,NBA Showdown $400 Dime Time [Just $0.10!] (OKC @ IND),400.0,NBA,2025-06-20 00:30:00+00:00,0.1,4756
+177871625,129304,1.0,True,False,False,False,False,WNBA Showdown $2 50-50 (IND @ GSV),36.0,NBA,2025-06-20 02:00:00+00:00,2.0,20
+177871733,129303,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2025-06-19 23:00:00+00:00,1.0,3
+177872147,129342,5.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177872386,129342,5.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177872421,129341,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (OKC @ IND),4.5,NBA,2025-06-20 00:30:00+00:00,1.0,5
+177872638,129342,5.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (OKC @ IND),27.0,NBA,2025-06-20 00:30:00+00:00,10.0,3
+177872768,129303,54.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2025-06-19 23:00:00+00:00,109.0,4
+177872769,129303,25.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2025-06-19 23:00:00+00:00,50.0,4
+177872770,129303,10.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2025-06-19 23:00:00+00:00,20.0,4
+177872771,129303,5.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2025-06-19 23:00:00+00:00,10.0,4
+177872772,129303,25.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2025-06-19 23:00:00+00:00,50.0,10
+177872773,129303,2.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2025-06-19 23:00:00+00:00,5.0,10
+177872774,129303,54.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2025-06-19 23:00:00+00:00,109.0,6
+177872775,129303,10.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2025-06-19 23:00:00+00:00,20.0,10
+177872776,129303,5.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2025-06-19 23:00:00+00:00,10.0,10
+177872777,129303,2.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2025-06-19 23:00:00+00:00,5.0,20
+177872778,129303,5.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2025-06-19 23:00:00+00:00,10.0,20
+177872779,129303,10.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2025-06-19 23:00:00+00:00,20.0,20
+177872818,129341,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (OKC @ IND),10.0,NBA,2025-06-20 00:30:00+00:00,1.0,11
+177873025,129342,10.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (OKC @ IND),54.0,NBA,2025-06-20 00:30:00+00:00,20.0,3
+177873109,129341,265.0,False,False,False,False,False,NBA Showdown $530 3-Player (OKC @ IND),1500.0,NBA,2025-06-20 00:30:00+00:00,530.0,3
+177873251,129303,1.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2025-06-19 23:00:00+00:00,2.0,10
+177873617,129341,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177873913,129341,133.0,False,False,True,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (OKC @ IND),1000.0,NBA,2025-06-20 00:30:00+00:00,267.0,4
+177874079,129303,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-06-19 23:00:00+00:00,10.0,11
+177874178,129341,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (OKC @ IND),18.0,NBA,2025-06-20 00:30:00+00:00,2.0,10
+177874184,129341,50.0,False,False,False,False,True,NBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (OKC @ IND),460.0,NBA,2025-06-20 00:30:00+00:00,100.0,5
+177874328,129342,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177874502,129342,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177874733,129343,1.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H OKC @ IND),5.4,NBA,2025-06-20 01:30:00+00:00,2.0,3
+177874734,129342,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
+177874816,129341,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (OKC @ IND),2.7,NBA,2025-06-20 00:30:00+00:00,1.0,3
