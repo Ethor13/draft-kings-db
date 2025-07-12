@@ -1,0 +1,536 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+178605090,130027,50.0,False,False,True,False,True,WNBA $1.35K Showtime [Single Entry],1350.0,NBA,2025-07-12 17:00:00+00:00,100.0,15
+178605091,130027,6.0,False,False,True,False,True,WNBA $300 Pick and Roll [Single Entry],300.0,NBA,2025-07-12 17:00:00+00:00,12.0,29
+178605092,130027,0.0,False,False,True,False,True,WNBA $100 Daily Dollar [Single Entry],100.0,NBA,2025-07-12 17:00:00+00:00,1.0,118
+178605093,130027,2.0,True,False,True,False,True, WNBA Single Entry $5 Double Up,250.0,NBA,2025-07-12 17:00:00+00:00,5.0,57
+178605094,130027,0.0,False,False,True,False,True,WNBA $400 Quarter Jukebox [Just $0.25!],400.0,NBA,2025-07-12 17:00:00+00:00,0.25,1902
+178605095,130027,0.0,False,False,True,False,True,WNBA $150 Dime TIme [Just $0.10!],150.0,NBA,2025-07-12 17:00:00+00:00,0.1,1783
+178605096,130027,2.0,False,False,True,False,True,WNBA $500 High Five [Single Entry],500.0,NBA,2025-07-12 17:00:00+00:00,5.0,118
+178605097,130027,25.0,False,False,True,False,True,WNBA $500 Ankle Breaker [Single Entry],500.0,NBA,2025-07-12 17:00:00+00:00,50.0,11
+178605098,130027,0.0,False,False,True,False,True,WNBA $2.1K mini-MAX [150 Entry Max],2150.0,NBA,2025-07-12 17:00:00+00:00,0.5,5112
+178605099,130027,10.0,False,False,True,False,True,WNBA $30K Shootaround [$10K to 1st],30000.0,NBA,2025-07-12 17:00:00+00:00,20.0,1764
+178605100,130027,166.0,False,False,True,False,True,WNBA $3.3K Money Ball [Single Entry],3300.0,NBA,2025-07-12 17:00:00+00:00,333.0,11
+178605101,130027,2.0,False,False,True,False,True,WNBA $10K Zone [$2K to 1st],10000.0,NBA,2025-07-12 17:00:00+00:00,5.0,2378
+178605102,130027,16.0,False,False,True,False,True,WNBA $455 Triple Threat [Single Entry],455.0,NBA,2025-07-12 17:00:00+00:00,33.0,16
+178605103,130027,1.0,False,False,True,False,True,WNBA $500 Hot Shot [5 Entry Max],500.0,NBA,2025-07-12 17:00:00+00:00,3.0,198
+178605104,130027,111.0,False,False,True,False,True,WNBA $2K Slam Jam [Single Entry],2000.0,NBA,2025-07-12 17:00:00+00:00,222.0,10
+178605105,130027,12.0,True,False,True,False,True,WNBA Single Entry $25 Double Up,350.0,NBA,2025-07-12 17:00:00+00:00,25.0,16
+178605106,130027,90.0,False,False,True,False,True,WNBA $1.8K Windmill [Single Entry],1800.0,NBA,2025-07-12 17:00:00+00:00,180.0,11
+178605107,130027,1.0,False,False,True,False,True,WNBA $1.5K Layup,1500.0,NBA,2025-07-12 17:00:00+00:00,2.0,891
+178605108,130028,0.0,False,False,True,False,True,WNBA Showdown $300 Quarter Jukebox [Just $0.25!]  (GSV @ LAV),300.0,NBA,2025-07-12 20:00:00+00:00,0.25,1426
+178605109,130028,2.0,True,False,True,False,True,WNBA Showdown Single Entry $5 Double Up (GSV @ LAV),150.0,NBA,2025-07-12 20:00:00+00:00,5.0,34
+178605110,130028,50.0,False,False,True,False,True,"WNBA Showdown $720 Showtime [Single Entry, Top 2 Win] (GSV @ LAV)",720.0,NBA,2025-07-12 20:00:00+00:00,100.0,8
+178605111,130028,6.0,False,False,True,False,True,WNBA Showdown $155 Pick and Roll [Single Entry] (GSV @ LAV),155.0,NBA,2025-07-12 20:00:00+00:00,12.0,15
+178605112,130028,2.0,False,False,True,False,True,WNBA Showdown $300 High Five [Single Entry] (GSV @ LAV),300.0,NBA,2025-07-12 20:00:00+00:00,5.0,71
+178605113,130028,16.0,False,False,True,False,True,WNBA Showdown $285 Triple Threat [Single Entry] (GSV @ LAV),285.0,NBA,2025-07-12 20:00:00+00:00,33.0,10
+178605114,130028,2.0,False,False,True,False,True,WNBA Showdown $3K Zone [$1K to 1st] (GSV @ LAV),3000.0,NBA,2025-07-12 20:00:00+00:00,5.0,713
+178605115,130028,7.0,False,False,True,False,True,WNBA Showdown $12K Fadeaway [$3K to 1st] (GSV @ LAV),12000.0,NBA,2025-07-12 20:00:00+00:00,15.0,941
+178605116,130028,1.0,False,False,True,False,True,WNBA Showdown $1K Layup (GSV @ LAV),1000.0,NBA,2025-07-12 20:00:00+00:00,2.0,594
+178605117,130028,0.0,False,False,True,False,True,WNBA Showdown $50 Daily Dollar [Single Entry] (GSV @ LAV),50.0,NBA,2025-07-12 20:00:00+00:00,1.0,59
+178605181,130027,143.0,False,False,True,False,True,WNBA $100K Queen of the Court Qualifier #37,2000.0,NBA,2025-07-12 17:00:00+00:00,287.0,8
+178606258,130027,1.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2025-07-12 17:00:00+00:00,3.0,23
+178606259,130027,1.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2025-07-12 17:00:00+00:00,3.0,23
+178606260,130027,0.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2025-07-12 17:00:00+00:00,1.0,31
+178606261,130027,2.0,False,False,True,False,False,WNBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2025-07-12 17:00:00+00:00,5.0,31
+178606262,130027,12.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2025-07-12 17:00:00+00:00,25.0,11
+178606263,130027,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-07-12 17:00:00+00:00,10.0,11
+178606264,130027,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-07-12 17:00:00+00:00,10.0,11
+178606265,130027,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-07-12 17:00:00+00:00,10.0,11
+178606266,130027,2.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2025-07-12 17:00:00+00:00,5.0,34
+178606267,130027,2.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2025-07-12 17:00:00+00:00,5.0,34
+178606268,130027,2.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2025-07-12 17:00:00+00:00,5.0,23
+178606269,130027,2.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2025-07-12 17:00:00+00:00,5.0,23
+178606270,130027,1.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2025-07-12 17:00:00+00:00,3.0,34
+178606271,130027,1.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2025-07-12 17:00:00+00:00,3.0,34
+178606272,130027,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2025-07-12 17:00:00+00:00,1.0,34
+178606273,130027,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2025-07-12 17:00:00+00:00,1.0,23
+178606274,130027,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2025-07-12 17:00:00+00:00,1.0,23
+178606275,130027,1.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2025-07-12 17:00:00+00:00,3.0,23
+178606276,130027,1.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2025-07-12 17:00:00+00:00,3.0,23
+178606277,130027,2.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2025-07-12 17:00:00+00:00,5.0,23
+178606278,130027,2.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2025-07-12 17:00:00+00:00,5.0,23
+178606279,130027,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-07-12 17:00:00+00:00,10.0,11
+178606280,130027,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-07-12 17:00:00+00:00,10.0,11
+178606281,130027,25.0,False,False,True,False,False,WNBA $50 Winner Take All [$220 to 1st],220.0,NBA,2025-07-12 17:00:00+00:00,50.0,5
+178606282,130027,25.0,False,False,True,False,False,WNBA $50 Winner Take All [$220 to 1st],220.0,NBA,2025-07-12 17:00:00+00:00,50.0,5
+178606283,130027,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-07-12 17:00:00+00:00,1.0,23
+178606284,130027,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-07-12 17:00:00+00:00,1.0,23
+178606285,130027,1.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-07-12 17:00:00+00:00,2.0,11
+178606286,130027,19.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2025-07-12 17:00:00+00:00,38.0,3
+178606287,130027,19.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2025-07-12 17:00:00+00:00,38.0,3
+178606288,130027,19.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2025-07-12 17:00:00+00:00,38.0,3
+178606289,130027,0.0,False,False,True,False,True,WNBA Satellite to WNBA $5 Queen of the Court Qualifier,5.0,NBA,2025-07-12 17:00:00+00:00,0.25,23
+178606290,130027,0.0,False,False,True,False,True,WNBA Satellite to WNBA $5 Queen of the Court Qualifier,5.0,NBA,2025-07-12 17:00:00+00:00,0.25,23
+178606291,130027,0.0,False,False,True,False,True,WNBA Satellite to WNBA $25 Queen of the Court Qualifier,25.0,NBA,2025-07-12 17:00:00+00:00,0.25,118
+178606292,130027,0.0,False,False,True,False,True,WNBA Satellite to WNBA $25 Queen of the Court Qualifier,25.0,NBA,2025-07-12 17:00:00+00:00,1.0,29
+178606293,130027,0.0,False,False,True,False,True,WNBA Satellite to WNBA $25 Queen of the Court Qualifier,25.0,NBA,2025-07-12 17:00:00+00:00,1.0,29
+178606294,130027,2.0,False,False,True,False,True,WNBA Satellite to WNBA $164 Queen of the Court Qualifier,164.0,NBA,2025-07-12 17:00:00+00:00,5.0,39
+178606295,130027,0.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special,15.0,NBA,2025-07-12 17:00:00+00:00,0.25,71
+178606296,130027,0.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special,15.0,NBA,2025-07-12 17:00:00+00:00,1.0,17
+178606297,130027,2.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special,15.0,NBA,2025-07-12 17:00:00+00:00,4.0,4
+178606298,130027,2.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special,15.0,NBA,2025-07-12 17:00:00+00:00,4.0,4
+178606299,130027,2.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special,15.0,NBA,2025-07-12 17:00:00+00:00,4.0,4
+178606300,130027,1.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special [3x],45.0,NBA,2025-07-12 17:00:00+00:00,3.0,17
+178606301,130027,17.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $333 Money Ball Special,333.0,NBA,2025-07-12 17:00:00+00:00,35.0,11
+178606302,130027,37.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $333 Money Ball Special,333.0,NBA,2025-07-12 17:00:00+00:00,75.0,5
+178606303,130027,37.0,False,False,True,False,True,WNBA Satellite to WNBA 7-16 $333 Money Ball Special,333.0,NBA,2025-07-12 17:00:00+00:00,75.0,5
+178606304,130027,0.0,False,False,True,False,True,WNBA Satellite to 7-17 Fantasy Golf Millionaire,25.0,NBA,2025-07-12 17:00:00+00:00,1.0,29
+178606306,130027,1.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2025-07-12 17:00:00+00:00,2.0,3
+178606307,130027,5.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2025-07-12 17:00:00+00:00,10.0,3
+178606308,130027,2.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2025-07-12 17:00:00+00:00,5.0,3
+178606309,130027,0.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2025-07-12 17:00:00+00:00,1.0,3
+178606310,130027,0.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2025-07-12 17:00:00+00:00,1.0,10
+178606311,130027,0.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2025-07-12 17:00:00+00:00,1.0,5
+178606312,130027,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2025-07-12 17:00:00+00:00,1.0,3
+178606313,130027,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2025-07-12 17:00:00+00:00,1.0,3
+178606314,130027,10.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2025-07-12 17:00:00+00:00,20.0,10
+178606315,130027,5.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2025-07-12 17:00:00+00:00,10.0,10
+178606316,130027,2.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2025-07-12 17:00:00+00:00,5.0,10
+178606317,130027,1.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2025-07-12 17:00:00+00:00,3.0,10
+178606318,130027,0.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2025-07-12 17:00:00+00:00,1.0,10
+178606319,130027,2.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2025-07-12 17:00:00+00:00,5.0,3
+178606320,130027,1.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2025-07-12 17:00:00+00:00,2.0,3
+178606321,130027,1.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2025-07-12 17:00:00+00:00,2.0,3
+178606322,130027,1.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2025-07-12 17:00:00+00:00,2.0,3
+178606323,130027,1.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2025-07-12 17:00:00+00:00,2.0,5
+178606324,130027,1.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2025-07-12 17:00:00+00:00,2.0,10
+178606325,130027,2.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2025-07-12 17:00:00+00:00,5.0,3
+178606326,130027,2.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2025-07-12 17:00:00+00:00,5.0,5
+178606327,130027,2.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2025-07-12 17:00:00+00:00,5.0,10
+178606328,130027,5.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2025-07-12 17:00:00+00:00,10.0,5
+178606329,130027,5.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2025-07-12 17:00:00+00:00,10.0,3
+178606330,130027,10.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2025-07-12 17:00:00+00:00,20.0,3
+178606331,130027,25.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2025-07-12 17:00:00+00:00,50.0,5
+178606332,130027,25.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2025-07-12 17:00:00+00:00,50.0,3
+178606333,130027,54.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2025-07-12 17:00:00+00:00,109.0,3
+178606334,130027,81.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2025-07-12 17:00:00+00:00,162.0,3
+178606335,130027,265.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2025-07-12 17:00:00+00:00,530.0,3
+178606336,130027,530.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2025-07-12 17:00:00+00:00,1060.0,3
+178606337,130027,2650.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2025-07-12 17:00:00+00:00,5300.0,3
+178606338,130027,5300.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2025-07-12 17:00:00+00:00,10600.0,3
+178606339,130027,10.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2025-07-12 17:00:00+00:00,20.0,4
+178606340,130027,5.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2025-07-12 17:00:00+00:00,10.0,10
+178606341,130027,0.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2025-07-12 17:00:00+00:00,1.0,10
+178606342,130027,1.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2025-07-12 17:00:00+00:00,3.0,10
+178606343,130027,2.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2025-07-12 17:00:00+00:00,5.0,10
+178606344,130027,2650.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2025-07-12 17:00:00+00:00,5300.0,4
+178606345,130027,530.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2025-07-12 17:00:00+00:00,1060.0,4
+178606346,130027,265.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2025-07-12 17:00:00+00:00,530.0,4
+178606347,130027,54.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2025-07-12 17:00:00+00:00,109.0,4
+178606348,130027,25.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2025-07-12 17:00:00+00:00,50.0,4
+178606349,130027,10.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2025-07-12 17:00:00+00:00,20.0,4
+178606350,130027,5.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2025-07-12 17:00:00+00:00,10.0,4
+178606351,130027,25.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2025-07-12 17:00:00+00:00,50.0,10
+178606352,130027,0.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2025-07-12 17:00:00+00:00,1.0,10
+178606353,130027,2.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2025-07-12 17:00:00+00:00,5.0,10
+178606354,130027,54.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2025-07-12 17:00:00+00:00,109.0,6
+178606355,130027,1.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2025-07-12 17:00:00+00:00,2.0,10
+178606356,130027,10.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2025-07-12 17:00:00+00:00,20.0,10
+178606357,130027,5.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2025-07-12 17:00:00+00:00,10.0,10
+178606358,130027,2.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2025-07-12 17:00:00+00:00,5.0,20
+178606359,130027,5.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2025-07-12 17:00:00+00:00,10.0,20
+178606360,130027,10.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2025-07-12 17:00:00+00:00,20.0,20
+178606361,130027,1.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2025-07-12 17:00:00+00:00,2.0,20
+178606362,130027,0.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2025-07-12 17:00:00+00:00,1.0,20
+178606363,130027,530.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2025-07-12 17:00:00+00:00,1060.0,4
+178606364,130027,133.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2025-07-12 17:00:00+00:00,267.0,4
+178606365,130027,50.0,False,False,False,False,True,WNBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2025-07-12 17:00:00+00:00,100.0,5
+178606366,130027,750.0,False,False,False,False,True,WNBA $5.7K Courtside Special [Single Entry] (Must Fill),5700.0,NBA,2025-07-12 17:00:00+00:00,1500.0,4
+178606367,130027,100.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill],555.0,NBA,2025-07-12 17:00:00+00:00,201.0,3
+178606368,130027,587.0,False,False,False,False,True,WNBA Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill],3333.0,NBA,2025-07-12 17:00:00+00:00,1175.0,3
+178606369,130027,0.0,False,False,False,False,True,WNBA Satellite to WNBA $5 Queen of the Court Qualifier [Must Fill],5.0,NBA,2025-07-12 17:00:00+00:00,1.85,3
+178606370,130027,4.0,False,False,False,False,True,WNBA Satellite to WNBA $25 Queen of the Court Qualifier [Must Fill],25.0,NBA,2025-07-12 17:00:00+00:00,9.0,3
+178606371,130027,30.0,False,False,False,False,True,WNBA Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill],164.0,NBA,2025-07-12 17:00:00+00:00,60.0,3
+178606372,130027,52.0,False,False,False,False,True,WNBA Satellite to WNBA $287 Queen of the Court Qualifier [Must Fill],287.0,NBA,2025-07-12 17:00:00+00:00,104.0,3
+178606373,130027,59.0,False,False,False,False,True,WNBA Satellite to WNBA $328 Queen of the Court Qualifier [Must Fill],328.0,NBA,2025-07-12 17:00:00+00:00,119.0,3
+178606374,130027,90.0,False,False,False,False,True,WNBA Satellite to NAS 8-31 Southern Sunset [Must Fill],500.0,NBA,2025-07-12 17:00:00+00:00,181.0,3
+178606375,130027,2.0,False,False,False,False,True,WNBA Satellite to WNBA 7-16 $15 Fadeaway Special [Must Fill],15.0,NBA,2025-07-12 17:00:00+00:00,5.55,3
+178606376,130027,60.0,False,False,False,False,True,WNBA Satellite to WNBA 7-16 $333 Money Ball Special [Must Fill],333.0,NBA,2025-07-12 17:00:00+00:00,121.0,3
+178606377,130027,41.0,False,False,False,False,True,WNBA Satellite to MLB 7-21 $1M MEGA Turn Two [Must Fill],222.0,NBA,2025-07-12 17:00:00+00:00,82.0,3
+178606390,130029,0.0,False,False,True,False,True,WNBA Single Stat $1 Winner Take All [$100 to 1st] (Points),100.0,NBA,2025-07-12 17:00:00+00:00,1.0,118
+178606957,130028,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (GSV @ LAV),20.0,NBA,2025-07-12 20:00:00+00:00,1.0,23
+178606958,130028,1.0,True,False,True,False,False,WNBA Showdown $3 Double Up (GSV @ LAV),60.0,NBA,2025-07-12 20:00:00+00:00,3.0,23
+178606959,130028,2.0,True,False,True,False,False,WNBA Showdown $5 Double Up (GSV @ LAV),100.0,NBA,2025-07-12 20:00:00+00:00,5.0,23
+178606960,130028,5.0,True,False,True,False,False,WNBA Showdown $10 Double Up (GSV @ LAV),100.0,NBA,2025-07-12 20:00:00+00:00,10.0,11
+178606961,130028,12.0,True,False,True,False,False,WNBA Showdown $25 Double Up (GSV @ LAV),250.0,NBA,2025-07-12 20:00:00+00:00,25.0,11
+178606962,130028,12.0,True,False,True,False,False,WNBA Showdown $25 Double Up (GSV @ LAV),250.0,NBA,2025-07-12 20:00:00+00:00,25.0,11
+178606963,130028,12.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (GSV @ LAV),110.0,NBA,2025-07-12 20:00:00+00:00,25.0,5
+178606964,130028,12.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (GSV @ LAV),110.0,NBA,2025-07-12 20:00:00+00:00,25.0,5
+178606965,130028,0.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $5 Queen of the Court Qualifier (GSV @ LAV),5.0,NBA,2025-07-12 20:00:00+00:00,0.25,23
+178606966,130028,0.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $25 Queen of the Court Qualifier (GSV @ LAV),25.0,NBA,2025-07-12 20:00:00+00:00,1.0,29
+178606967,130028,0.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (GSV @ LAV),15.0,NBA,2025-07-12 20:00:00+00:00,1.0,17
+178606968,130028,2.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special (GSV @ LAV),15.0,NBA,2025-07-12 20:00:00+00:00,4.0,4
+178606969,130028,37.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA 7-16 $333 Money Ball Special (GSV @ LAV),333.0,NBA,2025-07-12 20:00:00+00:00,75.0,5
+178606971,130028,1.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (GSV @ LAV),5.4,NBA,2025-07-12 20:00:00+00:00,2.0,3
+178606972,130028,5.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (GSV @ LAV),27.0,NBA,2025-07-12 20:00:00+00:00,10.0,3
+178606973,130028,2.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (GSV @ LAV),13.5,NBA,2025-07-12 20:00:00+00:00,5.0,3
+178606974,130028,0.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (GSV @ LAV),2.7,NBA,2025-07-12 20:00:00+00:00,1.0,3
+178606975,130028,0.0,False,False,False,False,False,WNBA Showdown $1 10-Player (GSV @ LAV),9.0,NBA,2025-07-12 20:00:00+00:00,1.0,10
+178606976,130028,0.0,False,False,False,False,False,WNBA Showdown $1 5-Player (GSV @ LAV),4.5,NBA,2025-07-12 20:00:00+00:00,1.0,5
+178606977,130028,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (GSV @ LAV),2.7,NBA,2025-07-12 20:00:00+00:00,1.0,3
+178606978,130028,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (GSV @ LAV),2.7,NBA,2025-07-12 20:00:00+00:00,1.0,3
+178606979,130028,10.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (GSV @ LAV),180.0,NBA,2025-07-12 20:00:00+00:00,20.0,10
+178606980,130028,5.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (GSV @ LAV),90.0,NBA,2025-07-12 20:00:00+00:00,10.0,10
+178606981,130028,2.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (GSV @ LAV),45.0,NBA,2025-07-12 20:00:00+00:00,5.0,10
+178606982,130028,1.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (GSV @ LAV),27.0,NBA,2025-07-12 20:00:00+00:00,3.0,10
+178606983,130028,0.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (GSV @ LAV),9.0,NBA,2025-07-12 20:00:00+00:00,1.0,10
+178606984,130028,2.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (GSV @ LAV),13.5,NBA,2025-07-12 20:00:00+00:00,5.0,3
+178606985,130028,1.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (GSV @ LAV),5.4,NBA,2025-07-12 20:00:00+00:00,2.0,3
+178606986,130028,1.0,False,False,False,False,False,WNBA Showdown $2 3-Player (GSV @ LAV),5.4,NBA,2025-07-12 20:00:00+00:00,2.0,3
+178606987,130028,1.0,False,False,False,False,False,WNBA Showdown $2 3-Player (GSV @ LAV),5.4,NBA,2025-07-12 20:00:00+00:00,2.0,3
+178606988,130028,1.0,False,False,False,False,False,WNBA Showdown $2 5-Player (GSV @ LAV),9.0,NBA,2025-07-12 20:00:00+00:00,2.0,5
+178606989,130028,1.0,False,False,False,False,False,WNBA Showdown $2 10-Player (GSV @ LAV),18.0,NBA,2025-07-12 20:00:00+00:00,2.0,10
+178606990,130028,2.0,False,False,False,False,False,WNBA Showdown $5 3-Player (GSV @ LAV),13.5,NBA,2025-07-12 20:00:00+00:00,5.0,3
+178606991,130028,2.0,False,False,False,False,False,WNBA Showdown $5 5-Player (GSV @ LAV),22.5,NBA,2025-07-12 20:00:00+00:00,5.0,5
+178606992,130028,2.0,False,False,False,False,False,WNBA Showdown $5 10-Player (GSV @ LAV),45.0,NBA,2025-07-12 20:00:00+00:00,5.0,10
+178606993,130028,5.0,False,False,False,False,False,WNBA Showdown $10 5-Player (GSV @ LAV),45.0,NBA,2025-07-12 20:00:00+00:00,10.0,5
+178606994,130028,5.0,False,False,False,False,False,WNBA Showdown $10 3-Player (GSV @ LAV),27.0,NBA,2025-07-12 20:00:00+00:00,10.0,3
+178606995,130028,10.0,False,False,False,False,False,WNBA Showdown $20 3-Player (GSV @ LAV),54.0,NBA,2025-07-12 20:00:00+00:00,20.0,3
+178606996,130028,25.0,False,False,False,False,False,WNBA Showdown $50 5-Player (GSV @ LAV),225.0,NBA,2025-07-12 20:00:00+00:00,50.0,5
+178606997,130028,25.0,False,False,False,False,False,WNBA Showdown $50 3-Player (GSV @ LAV),135.0,NBA,2025-07-12 20:00:00+00:00,50.0,3
+178606998,130028,54.0,False,False,False,False,False,WNBA Showdown $109 3-Player (GSV @ LAV),300.0,NBA,2025-07-12 20:00:00+00:00,109.0,3
+178606999,130028,81.0,False,False,False,False,False,WNBA Showdown $162 3-Player (GSV @ LAV),450.0,NBA,2025-07-12 20:00:00+00:00,162.0,3
+178607000,130028,265.0,False,False,False,False,False,WNBA Showdown $530 3-Player (GSV @ LAV),1500.0,NBA,2025-07-12 20:00:00+00:00,530.0,3
+178607001,130028,530.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (GSV @ LAV)",3000.0,NBA,2025-07-12 20:00:00+00:00,1060.0,3
+178607002,130028,2650.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (GSV @ LAV)",15000.0,NBA,2025-07-12 20:00:00+00:00,5300.0,3
+178607003,130028,5300.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (GSV @ LAV)",30000.0,NBA,2025-07-12 20:00:00+00:00,10600.0,3
+178607004,130028,10.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (GSV @ LAV),72.0,NBA,2025-07-12 20:00:00+00:00,20.0,4
+178607005,130028,5.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (GSV @ LAV),90.0,NBA,2025-07-12 20:00:00+00:00,10.0,10
+178607006,130028,0.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (GSV @ LAV),9.0,NBA,2025-07-12 20:00:00+00:00,1.0,10
+178607007,130028,1.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (GSV @ LAV),27.0,NBA,2025-07-12 20:00:00+00:00,3.0,10
+178607008,130028,2.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (GSV @ LAV),45.0,NBA,2025-07-12 20:00:00+00:00,5.0,10
+178607009,130028,2650.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (GSV @ LAV)",20000.0,NBA,2025-07-12 20:00:00+00:00,5300.0,4
+178607010,130028,530.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (GSV @ LAV)",4000.0,NBA,2025-07-12 20:00:00+00:00,1060.0,4
+178607011,130028,265.0,True,False,False,False,False,WNBA Showdown $530 50-50 (GSV @ LAV),2000.0,NBA,2025-07-12 20:00:00+00:00,530.0,4
+178607012,130028,54.0,True,False,False,False,False,WNBA Showdown $109 50-50 (GSV @ LAV),400.0,NBA,2025-07-12 20:00:00+00:00,109.0,4
+178607013,130028,25.0,True,False,False,False,False,WNBA Showdown $50 50-50 (GSV @ LAV),180.0,NBA,2025-07-12 20:00:00+00:00,50.0,4
+178607014,130028,10.0,True,False,False,False,False,WNBA Showdown $20 50-50 (GSV @ LAV),72.0,NBA,2025-07-12 20:00:00+00:00,20.0,4
+178607015,130028,5.0,True,False,False,False,False,WNBA Showdown $10 50-50 (GSV @ LAV),36.0,NBA,2025-07-12 20:00:00+00:00,10.0,4
+178607016,130028,25.0,True,False,False,False,False,WNBA Showdown $50 50-50 (GSV @ LAV),450.0,NBA,2025-07-12 20:00:00+00:00,50.0,10
+178607017,130028,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (GSV @ LAV),9.0,NBA,2025-07-12 20:00:00+00:00,1.0,10
+178607018,130028,2.0,True,False,False,False,False,WNBA Showdown $5 50-50 (GSV @ LAV),45.0,NBA,2025-07-12 20:00:00+00:00,5.0,10
+178607019,130028,54.0,True,False,False,False,False,WNBA Showdown $109 50-50 (GSV @ LAV),600.0,NBA,2025-07-12 20:00:00+00:00,109.0,6
+178607020,130028,1.0,True,False,False,False,False,WNBA Showdown $2 50-50 (GSV @ LAV),18.0,NBA,2025-07-12 20:00:00+00:00,2.0,10
+178607021,130028,10.0,True,False,False,False,False,WNBA Showdown $20 50-50 (GSV @ LAV),180.0,NBA,2025-07-12 20:00:00+00:00,20.0,10
+178607022,130028,5.0,True,False,False,False,False,WNBA Showdown $10 50-50 (GSV @ LAV),90.0,NBA,2025-07-12 20:00:00+00:00,10.0,10
+178607023,130028,2.0,True,False,False,False,False,WNBA Showdown $5 50-50 (GSV @ LAV),90.0,NBA,2025-07-12 20:00:00+00:00,5.0,20
+178607024,130028,5.0,True,False,False,False,False,WNBA Showdown $10 50-50 (GSV @ LAV),180.0,NBA,2025-07-12 20:00:00+00:00,10.0,20
+178607025,130028,10.0,True,False,False,False,False,WNBA Showdown $20 50-50 (GSV @ LAV),360.0,NBA,2025-07-12 20:00:00+00:00,20.0,20
+178607026,130028,1.0,True,False,False,False,False,WNBA Showdown $2 50-50 (GSV @ LAV),36.0,NBA,2025-07-12 20:00:00+00:00,2.0,20
+178607027,130028,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (GSV @ LAV),18.0,NBA,2025-07-12 20:00:00+00:00,1.0,20
+178607028,130028,530.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (GSV @ LAV),4000.0,NBA,2025-07-12 20:00:00+00:00,1060.0,4
+178607029,130028,133.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (GSV @ LAV),1000.0,NBA,2025-07-12 20:00:00+00:00,267.0,4
+178607030,130028,50.0,False,False,False,False,True,WNBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (GSV @ LAV),460.0,NBA,2025-07-12 20:00:00+00:00,100.0,5
+178607031,130028,750.0,False,False,False,False,True,WNBA Showdown $5.7K Courtside Special [Single Entry] (Must Fill) (GSV @ LAV),5700.0,NBA,2025-07-12 20:00:00+00:00,1500.0,4
+178607032,130028,100.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (GSV @ LAV),555.0,NBA,2025-07-12 20:00:00+00:00,201.0,3
+178607033,130028,587.0,False,False,False,False,True,WNBA Showdown Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (GSV @ LAV),3333.0,NBA,2025-07-12 20:00:00+00:00,1175.0,3
+178607034,130028,0.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $5 Queen of the Court Qualifier [Must Fill] (GSV @ LAV),5.0,NBA,2025-07-12 20:00:00+00:00,1.85,3
+178607035,130028,4.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $25 Queen of the Court Qualifier [Must Fill] (GSV @ LAV),25.0,NBA,2025-07-12 20:00:00+00:00,9.0,3
+178607036,130028,30.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (GSV @ LAV),164.0,NBA,2025-07-12 20:00:00+00:00,60.0,3
+178607037,130028,52.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $287 Queen of the Court Qualifier [Must Fill] (GSV @ LAV),287.0,NBA,2025-07-12 20:00:00+00:00,104.0,3
+178607038,130028,59.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $328 Queen of the Court Qualifier [Must Fill] (GSV @ LAV),328.0,NBA,2025-07-12 20:00:00+00:00,119.0,3
+178607039,130028,90.0,False,False,False,False,True,WNBA Showdown Satellite to NAS 8-31 Southern Sunset [Must Fill] (GSV @ LAV),500.0,NBA,2025-07-12 20:00:00+00:00,181.0,3
+178607040,130028,2.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA 7-16 $15 Fadeaway Special [Must Fill] (GSV @ LAV),15.0,NBA,2025-07-12 20:00:00+00:00,5.55,3
+178607041,130028,60.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA 7-16 $333 Money Ball Special [Must Fill] (GSV @ LAV),333.0,NBA,2025-07-12 20:00:00+00:00,121.0,3
+178607042,130028,41.0,False,False,False,False,True,WNBA Showdown Satellite to MLB 7-21 $1M MEGA Turn Two [Must Fill] (GSV @ LAV),222.0,NBA,2025-07-12 20:00:00+00:00,82.0,3
+178609533,130030,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2025-07-12 17:00:00+00:00,1.0,3
+178609534,130030,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2025-07-12 17:00:00+00:00,1.0,3
+178609536,130030,2.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2025-07-12 17:00:00+00:00,5.0,3
+178609537,130030,5.0,False,False,False,False,False,WNBA Snake $10 3-Player,27.0,NBA,2025-07-12 17:00:00+00:00,10.0,3
+178609538,130030,10.0,False,False,False,False,False,WNBA Snake $20 3-Player,54.0,NBA,2025-07-12 17:00:00+00:00,20.0,3
+178609539,130030,10.0,False,False,False,False,False,WNBA Snake $20 3-Player,54.0,NBA,2025-07-12 17:00:00+00:00,20.0,3
+178609540,130030,25.0,False,False,False,False,False,WNBA Snake $50 3-Player,135.0,NBA,2025-07-12 17:00:00+00:00,50.0,3
+178609541,130030,54.0,False,False,False,False,False,WNBA Snake $109 3-Player,300.0,NBA,2025-07-12 17:00:00+00:00,109.0,3
+178609542,130030,265.0,False,False,False,False,False,WNBA Snake $530 3-Player,1500.0,NBA,2025-07-12 17:00:00+00:00,530.0,3
+178609543,130030,530.0,False,False,False,False,False,"WNBA Snake $1,060 3-Player",3000.0,NBA,2025-07-12 17:00:00+00:00,1060.0,3
+178609544,130030,1060.0,False,False,False,False,False,"WNBA Snake $2,120 3-Player",6000.0,NBA,2025-07-12 17:00:00+00:00,2120.0,3
+178609545,130030,2650.0,False,False,False,False,False,"WNBA Snake $5,300 3-Player",15000.0,NBA,2025-07-12 17:00:00+00:00,5300.0,3
+178609546,130030,5300.0,False,False,False,False,False,"WNBA Snake $10,600 3-Player",30000.0,NBA,2025-07-12 17:00:00+00:00,10600.0,3
+178616168,130559,0.0,False,False,True,False,True,NBASL $100 Quarter Jukebox [Just $0.25!] (SL Early),100.0,NBA,2025-07-12 19:30:00+00:00,0.25,475
+178616169,130559,1.0,False,False,True,False,True,NBASL $150 Sharpshooter (SL Early),150.0,NBA,2025-07-12 19:30:00+00:00,3.0,59
+178616170,130559,6.0,False,False,True,False,True,NBASL $155 Pick and Roll [Single Entry] (SL Early),155.0,NBA,2025-07-12 19:30:00+00:00,12.0,15
+178616171,130559,0.0,False,False,True,False,True,NBASL $400 And-One (SL Early),400.0,NBA,2025-07-12 19:30:00+00:00,1.0,475
+178616172,130559,75.0,False,False,True,False,True,NBASL $1.5K Posterizer [Single Entry] (SL Early),1500.0,NBA,2025-07-12 19:30:00+00:00,150.0,11
+178616173,130559,16.0,False,False,True,False,True,NBASL $285 Triple Threat [Single Entry] (SL Early),285.0,NBA,2025-07-12 19:30:00+00:00,33.0,10
+178616174,130559,5.0,False,False,True,False,True,NBASL $6K Pull Up Jumper [$2K to 1st] (SL Early),6000.0,NBA,2025-07-12 19:30:00+00:00,10.0,705
+178616175,130559,25.0,False,False,True,False,False,NBASL $50 Winner Take All [$220 to 1st] (SL Early),220.0,NBA,2025-07-12 19:30:00+00:00,50.0,5
+178616176,130559,2.0,False,False,True,False,True,NBASL $150 High Five [Single Entry] (SL Early),150.0,NBA,2025-07-12 19:30:00+00:00,5.0,35
+178622573,130560,1.0,False,False,True,False,True,NBASL $200 Sharpshooter [2 Entry Max],200.0,NBA,2025-07-13 00:00:00+00:00,3.0,79
+178622574,130560,0.0,False,False,True,False,True,NBASL $500 And-One,500.0,NBA,2025-07-13 00:00:00+00:00,1.0,594
+178622575,130560,6.0,False,False,True,False,True,NBASL $155 Pick and Roll [Single Entry],155.0,NBA,2025-07-13 00:00:00+00:00,12.0,15
+178622576,130560,0.0,False,False,True,False,True,NBASL $150 Quarter Jukebox [Just $0.25!],150.0,NBA,2025-07-13 00:00:00+00:00,0.25,713
+178622577,130560,7.0,False,False,True,False,True,NBASL $10K Fadeaway [$2K to 1st],10000.0,NBA,2025-07-13 00:00:00+00:00,15.0,784
+178622578,130560,2.0,False,False,True,False,True,NBASL $400 High Five [Single Entry],400.0,NBA,2025-07-13 00:00:00+00:00,5.0,95
+178622579,130560,50.0,False,False,False,False,True,NBASL $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2025-07-13 00:00:00+00:00,100.0,5
+178622580,130560,75.0,False,False,True,False,True,NBASL $2.2K Posterizer [Single Entry],2200.0,NBA,2025-07-13 00:00:00+00:00,150.0,16
+178622581,130560,25.0,False,False,True,False,True,NBASL $310 Ankle Breaker [Single Entry],310.0,NBA,2025-07-13 00:00:00+00:00,50.0,7
+178622582,130560,16.0,False,False,True,False,True,NBASL $455 Triple Threat [Single Entry],455.0,NBA,2025-07-13 00:00:00+00:00,33.0,16
+178622606,130561,0.0,False,False,True,False,True,NBASL $50 Quarter Jukebox [Just $0.25!] (SL Night),50.0,NBA,2025-07-13 02:00:00+00:00,0.25,237
+178622607,130561,0.0,False,False,True,False,True,NBASL $300 And-One (SL Night),300.0,NBA,2025-07-13 02:00:00+00:00,1.0,356
+178622608,130561,5.0,False,False,True,False,True,NBASL $3K Pull Up Jumper [$1K to 1st] (SL Night),3000.0,NBA,2025-07-13 02:00:00+00:00,10.0,352
+178622609,130561,50.0,False,False,True,False,True,"NBASL $540 Showtime [Single Entry, Top 2 Win] (SL Night)",540.0,NBA,2025-07-13 02:00:00+00:00,100.0,6
+178622669,130562,0.0,False,False,True,False,True,NBASL Showdown $50 Quarter Jukebox [Just $0.25!] (SL MEM vs POR),50.0,NBA,2025-07-13 02:30:00+00:00,0.25,237
+178622670,130562,6.0,False,False,True,False,True,NBASL Showdown $155 Pick and Roll [Single Entry] (SL MEM vs POR),155.0,NBA,2025-07-13 02:30:00+00:00,12.0,15
+178622671,130562,0.0,False,False,True,False,True,NBASL Showdown $150 And-One (SL MEM vs POR),150.0,NBA,2025-07-13 02:30:00+00:00,1.0,178
+178622672,130562,5.0,False,False,True,False,True,NBASL Showdown $3K Pull Up Jumper [$1K to 1st] (SL MEM vs POR),3000.0,NBA,2025-07-13 02:30:00+00:00,10.0,352
+178622673,130562,50.0,False,False,False,False,True,NBASL Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (SL MEM vs POR),460.0,NBA,2025-07-13 02:30:00+00:00,100.0,5
+178622674,130562,25.0,False,False,True,False,False,NBASL Showdown $50 Winner Take All [$220 to 1st] (SL MEM vs POR),220.0,NBA,2025-07-13 02:30:00+00:00,50.0,5
+178622732,130559,1.0,False,False,False,False,False,Beginner NBASL $2 3-Player (SL Early),5.4,NBA,2025-07-12 19:30:00+00:00,2.0,3
+178622733,130559,5.0,False,False,False,False,False,Beginner NBASL $10 3-Player (SL Early),27.0,NBA,2025-07-12 19:30:00+00:00,10.0,3
+178622734,130559,2.0,False,False,False,False,False,Beginner NBASL $5 3-Player (SL Early),13.5,NBA,2025-07-12 19:30:00+00:00,5.0,3
+178622735,130559,0.0,False,False,False,False,False,Beginner NBASL $1 3-Player (SL Early),2.7,NBA,2025-07-12 19:30:00+00:00,1.0,3
+178622736,130559,0.0,False,False,False,False,False,NBASL $1 10-Player (SL Early),9.0,NBA,2025-07-12 19:30:00+00:00,1.0,10
+178622737,130559,0.0,False,False,False,False,False,NBASL $1 5-Player (SL Early),4.5,NBA,2025-07-12 19:30:00+00:00,1.0,5
+178622738,130559,0.0,False,False,False,False,False,NBASL $1 3-Player (SL Early),2.7,NBA,2025-07-12 19:30:00+00:00,1.0,3
+178622739,130559,0.0,False,False,False,False,False,NBASL $1 3-Player (SL Early),2.7,NBA,2025-07-12 19:30:00+00:00,1.0,3
+178622740,130559,10.0,True,False,False,False,False,Casual NBASL $20 50-50 (SL Early),180.0,NBA,2025-07-12 19:30:00+00:00,20.0,10
+178622741,130559,5.0,True,False,False,False,False,Casual NBASL $10 50-50 (SL Early),90.0,NBA,2025-07-12 19:30:00+00:00,10.0,10
+178622742,130559,2.0,True,False,False,False,False,Casual NBASL $5 50-50 (SL Early),45.0,NBA,2025-07-12 19:30:00+00:00,5.0,10
+178622743,130559,1.0,True,False,False,False,False,Casual NBASL $3 50-50 (SL Early),27.0,NBA,2025-07-12 19:30:00+00:00,3.0,10
+178622744,130559,0.0,True,False,False,False,False,Casual NBASL $1 50-50 (SL Early),9.0,NBA,2025-07-12 19:30:00+00:00,1.0,10
+178622745,130559,2.0,False,False,False,False,False,Casual NBASL $5 3-Player (SL Early),13.5,NBA,2025-07-12 19:30:00+00:00,5.0,3
+178622746,130559,1.0,False,False,False,False,False,Casual NBASL $2 3-Player (SL Early),5.4,NBA,2025-07-12 19:30:00+00:00,2.0,3
+178622747,130559,1.0,False,False,False,False,False,NBASL $2 3-Player (SL Early),5.4,NBA,2025-07-12 19:30:00+00:00,2.0,3
+178622748,130559,1.0,False,False,False,False,False,NBASL $2 3-Player (SL Early),5.4,NBA,2025-07-12 19:30:00+00:00,2.0,3
+178622749,130559,1.0,False,False,False,False,False,NBASL $2 5-Player (SL Early),9.0,NBA,2025-07-12 19:30:00+00:00,2.0,5
+178622750,130559,1.0,False,False,False,False,False,NBASL $2 10-Player (SL Early),18.0,NBA,2025-07-12 19:30:00+00:00,2.0,10
+178622751,130559,2.0,False,False,False,False,False,NBASL $5 3-Player (SL Early),13.5,NBA,2025-07-12 19:30:00+00:00,5.0,3
+178622752,130559,2.0,False,False,False,False,False,NBASL $5 5-Player (SL Early),22.5,NBA,2025-07-12 19:30:00+00:00,5.0,5
+178622753,130559,2.0,False,False,False,False,False,NBASL $5 10-Player (SL Early),45.0,NBA,2025-07-12 19:30:00+00:00,5.0,10
+178622754,130559,5.0,False,False,False,False,False,NBASL $10 5-Player (SL Early),45.0,NBA,2025-07-12 19:30:00+00:00,10.0,5
+178622755,130559,5.0,False,False,False,False,False,NBASL $10 3-Player (SL Early),27.0,NBA,2025-07-12 19:30:00+00:00,10.0,3
+178622756,130559,10.0,False,False,False,False,False,NBASL $20 3-Player (SL Early),54.0,NBA,2025-07-12 19:30:00+00:00,20.0,3
+178622757,130559,25.0,False,False,False,False,False,NBASL $50 5-Player (SL Early),225.0,NBA,2025-07-12 19:30:00+00:00,50.0,5
+178622758,130559,25.0,False,False,False,False,False,NBASL $50 3-Player (SL Early),135.0,NBA,2025-07-12 19:30:00+00:00,50.0,3
+178622759,130559,54.0,False,False,False,False,False,NBASL $109 3-Player (SL Early),300.0,NBA,2025-07-12 19:30:00+00:00,109.0,3
+178622760,130559,81.0,False,False,False,False,False,NBASL $162 3-Player (SL Early),450.0,NBA,2025-07-12 19:30:00+00:00,162.0,3
+178622761,130559,265.0,False,False,False,False,False,NBASL $530 3-Player (SL Early),1500.0,NBA,2025-07-12 19:30:00+00:00,530.0,3
+178622762,130559,530.0,False,False,False,False,False,"NBASL $1,060 3-Player (SL Early)",3000.0,NBA,2025-07-12 19:30:00+00:00,1060.0,3
+178622763,130559,2650.0,False,False,False,False,False,"NBASL $5,300 3-Player (SL Early)",15000.0,NBA,2025-07-12 19:30:00+00:00,5300.0,3
+178622764,130559,5300.0,False,False,False,False,False,"NBASL $10,600 3-Player (SL Early)",30000.0,NBA,2025-07-12 19:30:00+00:00,10600.0,3
+178622765,130559,10.0,True,False,False,False,False,Beginner NBASL $20 50-50 (SL Early),72.0,NBA,2025-07-12 19:30:00+00:00,20.0,4
+178622766,130559,5.0,True,False,False,False,False,Beginner NBASL $10 50-50 (SL Early),90.0,NBA,2025-07-12 19:30:00+00:00,10.0,10
+178622767,130559,0.0,True,False,False,False,False,Beginner NBASL $1 50-50 (SL Early),9.0,NBA,2025-07-12 19:30:00+00:00,1.0,10
+178622768,130559,1.0,True,False,False,False,False,Beginner NBASL $3 50-50 (SL Early),27.0,NBA,2025-07-12 19:30:00+00:00,3.0,10
+178622769,130559,2.0,True,False,False,False,False,Beginner NBASL $5 50-50 (SL Early),45.0,NBA,2025-07-12 19:30:00+00:00,5.0,10
+178622770,130559,2650.0,True,False,False,False,False,"NBASL $5,300 50-50 (SL Early)",20000.0,NBA,2025-07-12 19:30:00+00:00,5300.0,4
+178622771,130559,530.0,True,False,False,False,False,"NBASL $1,060 50-50 (SL Early)",4000.0,NBA,2025-07-12 19:30:00+00:00,1060.0,4
+178622772,130559,265.0,True,False,False,False,False,NBASL $530 50-50 (SL Early),2000.0,NBA,2025-07-12 19:30:00+00:00,530.0,4
+178622773,130559,54.0,True,False,False,False,False,NBASL $109 50-50 (SL Early),400.0,NBA,2025-07-12 19:30:00+00:00,109.0,4
+178622774,130559,25.0,True,False,False,False,False,NBASL $50 50-50 (SL Early),180.0,NBA,2025-07-12 19:30:00+00:00,50.0,4
+178622775,130559,10.0,True,False,False,False,False,NBASL $20 50-50 (SL Early),72.0,NBA,2025-07-12 19:30:00+00:00,20.0,4
+178622776,130559,5.0,True,False,False,False,False,NBASL $10 50-50 (SL Early),36.0,NBA,2025-07-12 19:30:00+00:00,10.0,4
+178622777,130559,25.0,True,False,False,False,False,NBASL $50 50-50 (SL Early),450.0,NBA,2025-07-12 19:30:00+00:00,50.0,10
+178622778,130559,0.0,True,False,False,False,False,NBASL $1 50-50 (SL Early),9.0,NBA,2025-07-12 19:30:00+00:00,1.0,10
+178622779,130559,2.0,True,False,False,False,False,NBASL $5 50-50 (SL Early),45.0,NBA,2025-07-12 19:30:00+00:00,5.0,10
+178622780,130559,54.0,True,False,False,False,False,NBASL $109 50-50 (SL Early),600.0,NBA,2025-07-12 19:30:00+00:00,109.0,6
+178622781,130559,1.0,True,False,False,False,False,NBASL $2 50-50 (SL Early),18.0,NBA,2025-07-12 19:30:00+00:00,2.0,10
+178622782,130559,10.0,True,False,False,False,False,NBASL $20 50-50 (SL Early),180.0,NBA,2025-07-12 19:30:00+00:00,20.0,10
+178622783,130559,5.0,True,False,False,False,False,NBASL $10 50-50 (SL Early),90.0,NBA,2025-07-12 19:30:00+00:00,10.0,10
+178622784,130559,2.0,True,False,False,False,False,NBASL $5 50-50 (SL Early),90.0,NBA,2025-07-12 19:30:00+00:00,5.0,20
+178622785,130559,5.0,True,False,False,False,False,NBASL $10 50-50 (SL Early),180.0,NBA,2025-07-12 19:30:00+00:00,10.0,20
+178622786,130559,10.0,True,False,False,False,False,NBASL $20 50-50 (SL Early),360.0,NBA,2025-07-12 19:30:00+00:00,20.0,20
+178622787,130559,1.0,True,False,False,False,False,NBASL $2 50-50 (SL Early),36.0,NBA,2025-07-12 19:30:00+00:00,2.0,20
+178622788,130559,0.0,True,False,False,False,False,NBASL $1 50-50 (SL Early),18.0,NBA,2025-07-12 19:30:00+00:00,1.0,20
+178622789,130559,530.0,False,False,False,False,True,NBASL $4K All Star [Single Entry] (Must Fill) (SL Early),4000.0,NBA,2025-07-12 19:30:00+00:00,1060.0,4
+178622790,130559,133.0,False,False,False,False,True,NBASL $267 Winner Take All [$1K to 1st] (Must Fill) (SL Early),1000.0,NBA,2025-07-12 19:30:00+00:00,267.0,4
+178622791,130559,50.0,False,False,False,False,True,NBASL $100 Winner Take All [$460 to 1st] (Must Fill) (SL Early),460.0,NBA,2025-07-12 19:30:00+00:00,100.0,5
+178622792,130559,750.0,False,False,False,False,True,NBASL $5.7K Courtside Special [Single Entry] (Must Fill) (SL Early),5700.0,NBA,2025-07-12 19:30:00+00:00,1500.0,4
+178622793,130559,100.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (SL Early),555.0,NBA,2025-07-12 19:30:00+00:00,201.0,3
+178622794,130559,587.0,False,False,False,False,True,NBASL Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (SL Early),3333.0,NBA,2025-07-12 19:30:00+00:00,1175.0,3
+178622795,130559,0.0,False,False,False,False,True,NBASL Satellite to WNBA $5 Queen of the Court Qualifier [Must Fill] (SL Early),5.0,NBA,2025-07-12 19:30:00+00:00,1.85,3
+178622796,130559,4.0,False,False,False,False,True,NBASL Satellite to WNBA $25 Queen of the Court Qualifier [Must Fill] (SL Early),25.0,NBA,2025-07-12 19:30:00+00:00,9.0,3
+178622797,130559,30.0,False,False,False,False,True,NBASL Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (SL Early),164.0,NBA,2025-07-12 19:30:00+00:00,60.0,3
+178622798,130559,52.0,False,False,False,False,True,NBASL Satellite to WNBA $287 Queen of the Court Qualifier [Must Fill] (SL Early),287.0,NBA,2025-07-12 19:30:00+00:00,104.0,3
+178622799,130559,59.0,False,False,False,False,True,NBASL Satellite to WNBA $328 Queen of the Court Qualifier [Must Fill] (SL Early),328.0,NBA,2025-07-12 19:30:00+00:00,119.0,3
+178622800,130559,90.0,False,False,False,False,True,NBASL Satellite to NAS 8-31 Southern Sunset [Must Fill] (SL Early),500.0,NBA,2025-07-12 19:30:00+00:00,181.0,3
+178622801,130559,2.0,False,False,False,False,True,NBASL Satellite to WNBA 7-16 $15 Fadeaway Special [Must Fill] (SL Early),15.0,NBA,2025-07-12 19:30:00+00:00,5.55,3
+178622802,130559,60.0,False,False,False,False,True,NBASL Satellite to WNBA 7-16 $333 Money Ball Special [Must Fill] (SL Early),333.0,NBA,2025-07-12 19:30:00+00:00,121.0,3
+178622803,130559,41.0,False,False,False,False,True,NBASL Satellite to MLB 7-21 $1M MEGA Turn Two [Must Fill] (SL Early),222.0,NBA,2025-07-12 19:30:00+00:00,82.0,3
+178622804,130561,1.0,False,False,False,False,False,Beginner NBASL $2 3-Player (SL Night),5.4,NBA,2025-07-13 02:00:00+00:00,2.0,3
+178622805,130561,5.0,False,False,False,False,False,Beginner NBASL $10 3-Player (SL Night),27.0,NBA,2025-07-13 02:00:00+00:00,10.0,3
+178622806,130561,2.0,False,False,False,False,False,Beginner NBASL $5 3-Player (SL Night),13.5,NBA,2025-07-13 02:00:00+00:00,5.0,3
+178622807,130561,0.0,False,False,False,False,False,Beginner NBASL $1 3-Player (SL Night),2.7,NBA,2025-07-13 02:00:00+00:00,1.0,3
+178622808,130561,0.0,False,False,False,False,False,NBASL $1 10-Player (SL Night),9.0,NBA,2025-07-13 02:00:00+00:00,1.0,10
+178622809,130561,0.0,False,False,False,False,False,NBASL $1 5-Player (SL Night),4.5,NBA,2025-07-13 02:00:00+00:00,1.0,5
+178622810,130561,0.0,False,False,False,False,False,NBASL $1 3-Player (SL Night),2.7,NBA,2025-07-13 02:00:00+00:00,1.0,3
+178622811,130561,0.0,False,False,False,False,False,NBASL $1 3-Player (SL Night),2.7,NBA,2025-07-13 02:00:00+00:00,1.0,3
+178622812,130561,10.0,True,False,False,False,False,Casual NBASL $20 50-50 (SL Night),180.0,NBA,2025-07-13 02:00:00+00:00,20.0,10
+178622813,130561,5.0,True,False,False,False,False,Casual NBASL $10 50-50 (SL Night),90.0,NBA,2025-07-13 02:00:00+00:00,10.0,10
+178622814,130561,2.0,True,False,False,False,False,Casual NBASL $5 50-50 (SL Night),45.0,NBA,2025-07-13 02:00:00+00:00,5.0,10
+178622815,130561,1.0,True,False,False,False,False,Casual NBASL $3 50-50 (SL Night),27.0,NBA,2025-07-13 02:00:00+00:00,3.0,10
+178622816,130561,0.0,True,False,False,False,False,Casual NBASL $1 50-50 (SL Night),9.0,NBA,2025-07-13 02:00:00+00:00,1.0,10
+178622817,130561,2.0,False,False,False,False,False,Casual NBASL $5 3-Player (SL Night),13.5,NBA,2025-07-13 02:00:00+00:00,5.0,3
+178622818,130561,1.0,False,False,False,False,False,Casual NBASL $2 3-Player (SL Night),5.4,NBA,2025-07-13 02:00:00+00:00,2.0,3
+178622819,130561,1.0,False,False,False,False,False,NBASL $2 3-Player (SL Night),5.4,NBA,2025-07-13 02:00:00+00:00,2.0,3
+178622820,130561,1.0,False,False,False,False,False,NBASL $2 3-Player (SL Night),5.4,NBA,2025-07-13 02:00:00+00:00,2.0,3
+178622821,130561,1.0,False,False,False,False,False,NBASL $2 5-Player (SL Night),9.0,NBA,2025-07-13 02:00:00+00:00,2.0,5
+178622822,130561,1.0,False,False,False,False,False,NBASL $2 10-Player (SL Night),18.0,NBA,2025-07-13 02:00:00+00:00,2.0,10
+178622823,130561,2.0,False,False,False,False,False,NBASL $5 3-Player (SL Night),13.5,NBA,2025-07-13 02:00:00+00:00,5.0,3
+178622824,130561,2.0,False,False,False,False,False,NBASL $5 5-Player (SL Night),22.5,NBA,2025-07-13 02:00:00+00:00,5.0,5
+178622825,130561,2.0,False,False,False,False,False,NBASL $5 10-Player (SL Night),45.0,NBA,2025-07-13 02:00:00+00:00,5.0,10
+178622826,130561,5.0,False,False,False,False,False,NBASL $10 5-Player (SL Night),45.0,NBA,2025-07-13 02:00:00+00:00,10.0,5
+178622827,130561,5.0,False,False,False,False,False,NBASL $10 3-Player (SL Night),27.0,NBA,2025-07-13 02:00:00+00:00,10.0,3
+178622828,130561,10.0,False,False,False,False,False,NBASL $20 3-Player (SL Night),54.0,NBA,2025-07-13 02:00:00+00:00,20.0,3
+178622829,130561,25.0,False,False,False,False,False,NBASL $50 5-Player (SL Night),225.0,NBA,2025-07-13 02:00:00+00:00,50.0,5
+178622830,130561,25.0,False,False,False,False,False,NBASL $50 3-Player (SL Night),135.0,NBA,2025-07-13 02:00:00+00:00,50.0,3
+178622831,130561,54.0,False,False,False,False,False,NBASL $109 3-Player (SL Night),300.0,NBA,2025-07-13 02:00:00+00:00,109.0,3
+178622832,130561,81.0,False,False,False,False,False,NBASL $162 3-Player (SL Night),450.0,NBA,2025-07-13 02:00:00+00:00,162.0,3
+178622833,130561,265.0,False,False,False,False,False,NBASL $530 3-Player (SL Night),1500.0,NBA,2025-07-13 02:00:00+00:00,530.0,3
+178622834,130561,530.0,False,False,False,False,False,"NBASL $1,060 3-Player (SL Night)",3000.0,NBA,2025-07-13 02:00:00+00:00,1060.0,3
+178622835,130561,2650.0,False,False,False,False,False,"NBASL $5,300 3-Player (SL Night)",15000.0,NBA,2025-07-13 02:00:00+00:00,5300.0,3
+178622836,130561,5300.0,False,False,False,False,False,"NBASL $10,600 3-Player (SL Night)",30000.0,NBA,2025-07-13 02:00:00+00:00,10600.0,3
+178622837,130561,10.0,True,False,False,False,False,Beginner NBASL $20 50-50 (SL Night),72.0,NBA,2025-07-13 02:00:00+00:00,20.0,4
+178622838,130561,5.0,True,False,False,False,False,Beginner NBASL $10 50-50 (SL Night),90.0,NBA,2025-07-13 02:00:00+00:00,10.0,10
+178622839,130561,0.0,True,False,False,False,False,Beginner NBASL $1 50-50 (SL Night),9.0,NBA,2025-07-13 02:00:00+00:00,1.0,10
+178622840,130561,1.0,True,False,False,False,False,Beginner NBASL $3 50-50 (SL Night),27.0,NBA,2025-07-13 02:00:00+00:00,3.0,10
+178622841,130561,2.0,True,False,False,False,False,Beginner NBASL $5 50-50 (SL Night),45.0,NBA,2025-07-13 02:00:00+00:00,5.0,10
+178622842,130561,2650.0,True,False,False,False,False,"NBASL $5,300 50-50 (SL Night)",20000.0,NBA,2025-07-13 02:00:00+00:00,5300.0,4
+178622843,130561,530.0,True,False,False,False,False,"NBASL $1,060 50-50 (SL Night)",4000.0,NBA,2025-07-13 02:00:00+00:00,1060.0,4
+178622844,130561,265.0,True,False,False,False,False,NBASL $530 50-50 (SL Night),2000.0,NBA,2025-07-13 02:00:00+00:00,530.0,4
+178622845,130561,54.0,True,False,False,False,False,NBASL $109 50-50 (SL Night),400.0,NBA,2025-07-13 02:00:00+00:00,109.0,4
+178622846,130561,25.0,True,False,False,False,False,NBASL $50 50-50 (SL Night),180.0,NBA,2025-07-13 02:00:00+00:00,50.0,4
+178622847,130561,10.0,True,False,False,False,False,NBASL $20 50-50 (SL Night),72.0,NBA,2025-07-13 02:00:00+00:00,20.0,4
+178622848,130561,5.0,True,False,False,False,False,NBASL $10 50-50 (SL Night),36.0,NBA,2025-07-13 02:00:00+00:00,10.0,4
+178622849,130561,25.0,True,False,False,False,False,NBASL $50 50-50 (SL Night),450.0,NBA,2025-07-13 02:00:00+00:00,50.0,10
+178622850,130561,0.0,True,False,False,False,False,NBASL $1 50-50 (SL Night),9.0,NBA,2025-07-13 02:00:00+00:00,1.0,10
+178622851,130561,2.0,True,False,False,False,False,NBASL $5 50-50 (SL Night),45.0,NBA,2025-07-13 02:00:00+00:00,5.0,10
+178622852,130561,54.0,True,False,False,False,False,NBASL $109 50-50 (SL Night),600.0,NBA,2025-07-13 02:00:00+00:00,109.0,6
+178622853,130561,1.0,True,False,False,False,False,NBASL $2 50-50 (SL Night),18.0,NBA,2025-07-13 02:00:00+00:00,2.0,10
+178622854,130561,10.0,True,False,False,False,False,NBASL $20 50-50 (SL Night),180.0,NBA,2025-07-13 02:00:00+00:00,20.0,10
+178622855,130561,5.0,True,False,False,False,False,NBASL $10 50-50 (SL Night),90.0,NBA,2025-07-13 02:00:00+00:00,10.0,10
+178622856,130561,2.0,True,False,False,False,False,NBASL $5 50-50 (SL Night),90.0,NBA,2025-07-13 02:00:00+00:00,5.0,20
+178622857,130561,5.0,True,False,False,False,False,NBASL $10 50-50 (SL Night),180.0,NBA,2025-07-13 02:00:00+00:00,10.0,20
+178622858,130561,10.0,True,False,False,False,False,NBASL $20 50-50 (SL Night),360.0,NBA,2025-07-13 02:00:00+00:00,20.0,20
+178622859,130561,1.0,True,False,False,False,False,NBASL $2 50-50 (SL Night),36.0,NBA,2025-07-13 02:00:00+00:00,2.0,20
+178622860,130561,0.0,True,False,False,False,False,NBASL $1 50-50 (SL Night),18.0,NBA,2025-07-13 02:00:00+00:00,1.0,20
+178622861,130561,530.0,False,False,False,False,True,NBASL $4K All Star [Single Entry] (Must Fill) (SL Night),4000.0,NBA,2025-07-13 02:00:00+00:00,1060.0,4
+178622862,130561,133.0,False,False,False,False,True,NBASL $267 Winner Take All [$1K to 1st] (Must Fill) (SL Night),1000.0,NBA,2025-07-13 02:00:00+00:00,267.0,4
+178622863,130561,50.0,False,False,False,False,True,NBASL $100 Winner Take All [$460 to 1st] (Must Fill) (SL Night),460.0,NBA,2025-07-13 02:00:00+00:00,100.0,5
+178622864,130561,750.0,False,False,False,False,True,NBASL $5.7K Courtside Special [Single Entry] (Must Fill) (SL Night),5700.0,NBA,2025-07-13 02:00:00+00:00,1500.0,4
+178622865,130561,100.0,False,False,False,False,True,NBASL Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (SL Night),555.0,NBA,2025-07-13 02:00:00+00:00,201.0,3
+178622866,130561,587.0,False,False,False,False,True,NBASL Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (SL Night),3333.0,NBA,2025-07-13 02:00:00+00:00,1175.0,3
+178622867,130561,0.0,False,False,False,False,True,NBASL Satellite to WNBA $5 Queen of the Court Qualifier [Must Fill] (SL Night),5.0,NBA,2025-07-13 02:00:00+00:00,1.85,3
+178622868,130561,4.0,False,False,False,False,True,NBASL Satellite to WNBA $25 Queen of the Court Qualifier [Must Fill] (SL Night),25.0,NBA,2025-07-13 02:00:00+00:00,9.0,3
+178622869,130561,30.0,False,False,False,False,True,NBASL Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (SL Night),164.0,NBA,2025-07-13 02:00:00+00:00,60.0,3
+178622870,130561,52.0,False,False,False,False,True,NBASL Satellite to WNBA $287 Queen of the Court Qualifier [Must Fill] (SL Night),287.0,NBA,2025-07-13 02:00:00+00:00,104.0,3
+178622871,130561,59.0,False,False,False,False,True,NBASL Satellite to WNBA $328 Queen of the Court Qualifier [Must Fill] (SL Night),328.0,NBA,2025-07-13 02:00:00+00:00,119.0,3
+178622872,130561,90.0,False,False,False,False,True,NBASL Satellite to NAS 8-31 Southern Sunset [Must Fill] (SL Night),500.0,NBA,2025-07-13 02:00:00+00:00,181.0,3
+178622873,130561,2.0,False,False,False,False,True,NBASL Satellite to WNBA 7-16 $15 Fadeaway Special [Must Fill] (SL Night),15.0,NBA,2025-07-13 02:00:00+00:00,5.55,3
+178622874,130561,60.0,False,False,False,False,True,NBASL Satellite to WNBA 7-16 $333 Money Ball Special [Must Fill] (SL Night),333.0,NBA,2025-07-13 02:00:00+00:00,121.0,3
+178622875,130561,41.0,False,False,False,False,True,NBASL Satellite to MLB 7-21 $1M MEGA Turn Two [Must Fill] (SL Night),222.0,NBA,2025-07-13 02:00:00+00:00,82.0,3
+178622876,130562,1.0,False,False,False,False,False,Beginner NBASL Showdown $2 3-Player (SL MEM vs POR),5.4,NBA,2025-07-13 02:30:00+00:00,2.0,3
+178622877,130562,5.0,False,False,False,False,False,Beginner NBASL Showdown $10 3-Player (SL MEM vs POR),27.0,NBA,2025-07-13 02:30:00+00:00,10.0,3
+178622878,130562,2.0,False,False,False,False,False,Beginner NBASL Showdown $5 3-Player (SL MEM vs POR),13.5,NBA,2025-07-13 02:30:00+00:00,5.0,3
+178622879,130562,0.0,False,False,False,False,False,Beginner NBASL Showdown $1 3-Player (SL MEM vs POR),2.7,NBA,2025-07-13 02:30:00+00:00,1.0,3
+178622880,130562,0.0,False,False,False,False,False,NBASL Showdown $1 10-Player (SL MEM vs POR),9.0,NBA,2025-07-13 02:30:00+00:00,1.0,10
+178622881,130562,0.0,False,False,False,False,False,NBASL Showdown $1 5-Player (SL MEM vs POR),4.5,NBA,2025-07-13 02:30:00+00:00,1.0,5
+178622882,130562,0.0,False,False,False,False,False,NBASL Showdown $1 3-Player (SL MEM vs POR),2.7,NBA,2025-07-13 02:30:00+00:00,1.0,3
+178622883,130562,0.0,False,False,False,False,False,NBASL Showdown $1 3-Player (SL MEM vs POR),2.7,NBA,2025-07-13 02:30:00+00:00,1.0,3
+178622884,130562,10.0,True,False,False,False,False,Casual NBASL Showdown $20 50-50 (SL MEM vs POR),180.0,NBA,2025-07-13 02:30:00+00:00,20.0,10
+178622885,130562,5.0,True,False,False,False,False,Casual NBASL Showdown $10 50-50 (SL MEM vs POR),90.0,NBA,2025-07-13 02:30:00+00:00,10.0,10
+178622886,130562,2.0,True,False,False,False,False,Casual NBASL Showdown $5 50-50 (SL MEM vs POR),45.0,NBA,2025-07-13 02:30:00+00:00,5.0,10
+178622887,130562,1.0,True,False,False,False,False,Casual NBASL Showdown $3 50-50 (SL MEM vs POR),27.0,NBA,2025-07-13 02:30:00+00:00,3.0,10
+178622888,130562,0.0,True,False,False,False,False,Casual NBASL Showdown $1 50-50 (SL MEM vs POR),9.0,NBA,2025-07-13 02:30:00+00:00,1.0,10
+178622889,130562,2.0,False,False,False,False,False,Casual NBASL Showdown $5 3-Player (SL MEM vs POR),13.5,NBA,2025-07-13 02:30:00+00:00,5.0,3
+178622890,130562,1.0,False,False,False,False,False,Casual NBASL Showdown $2 3-Player (SL MEM vs POR),5.4,NBA,2025-07-13 02:30:00+00:00,2.0,3
+178622891,130562,1.0,False,False,False,False,False,NBASL Showdown $2 3-Player (SL MEM vs POR),5.4,NBA,2025-07-13 02:30:00+00:00,2.0,3
+178622892,130562,1.0,False,False,False,False,False,NBASL Showdown $2 3-Player (SL MEM vs POR),5.4,NBA,2025-07-13 02:30:00+00:00,2.0,3
+178622893,130562,1.0,False,False,False,False,False,NBASL Showdown $2 5-Player (SL MEM vs POR),9.0,NBA,2025-07-13 02:30:00+00:00,2.0,5
+178622894,130562,1.0,False,False,False,False,False,NBASL Showdown $2 10-Player (SL MEM vs POR),18.0,NBA,2025-07-13 02:30:00+00:00,2.0,10
+178622895,130562,2.0,False,False,False,False,False,NBASL Showdown $5 3-Player (SL MEM vs POR),13.5,NBA,2025-07-13 02:30:00+00:00,5.0,3
+178622896,130562,2.0,False,False,False,False,False,NBASL Showdown $5 5-Player (SL MEM vs POR),22.5,NBA,2025-07-13 02:30:00+00:00,5.0,5
+178622897,130562,2.0,False,False,False,False,False,NBASL Showdown $5 10-Player (SL MEM vs POR),45.0,NBA,2025-07-13 02:30:00+00:00,5.0,10
+178622898,130562,5.0,False,False,False,False,False,NBASL Showdown $10 5-Player (SL MEM vs POR),45.0,NBA,2025-07-13 02:30:00+00:00,10.0,5
+178622899,130562,5.0,False,False,False,False,False,NBASL Showdown $10 3-Player (SL MEM vs POR),27.0,NBA,2025-07-13 02:30:00+00:00,10.0,3
+178622900,130562,10.0,False,False,False,False,False,NBASL Showdown $20 3-Player (SL MEM vs POR),54.0,NBA,2025-07-13 02:30:00+00:00,20.0,3
+178622901,130562,25.0,False,False,False,False,False,NBASL Showdown $50 5-Player (SL MEM vs POR),225.0,NBA,2025-07-13 02:30:00+00:00,50.0,5
+178622902,130562,25.0,False,False,False,False,False,NBASL Showdown $50 3-Player (SL MEM vs POR),135.0,NBA,2025-07-13 02:30:00+00:00,50.0,3
+178622903,130562,54.0,False,False,False,False,False,NBASL Showdown $109 3-Player (SL MEM vs POR),300.0,NBA,2025-07-13 02:30:00+00:00,109.0,3
+178622904,130562,81.0,False,False,False,False,False,NBASL Showdown $162 3-Player (SL MEM vs POR),450.0,NBA,2025-07-13 02:30:00+00:00,162.0,3
+178622905,130562,265.0,False,False,False,False,False,NBASL Showdown $530 3-Player (SL MEM vs POR),1500.0,NBA,2025-07-13 02:30:00+00:00,530.0,3
+178622906,130562,530.0,False,False,False,False,False,"NBASL Showdown $1,060 3-Player (SL MEM vs POR)",3000.0,NBA,2025-07-13 02:30:00+00:00,1060.0,3
+178622907,130562,2650.0,False,False,False,False,False,"NBASL Showdown $5,300 3-Player (SL MEM vs POR)",15000.0,NBA,2025-07-13 02:30:00+00:00,5300.0,3
+178622908,130562,5300.0,False,False,False,False,False,"NBASL Showdown $10,600 3-Player (SL MEM vs POR)",30000.0,NBA,2025-07-13 02:30:00+00:00,10600.0,3
+178622909,130562,10.0,True,False,False,False,False,Beginner NBASL Showdown $20 50-50 (SL MEM vs POR),72.0,NBA,2025-07-13 02:30:00+00:00,20.0,4
+178622910,130562,5.0,True,False,False,False,False,Beginner NBASL Showdown $10 50-50 (SL MEM vs POR),90.0,NBA,2025-07-13 02:30:00+00:00,10.0,10
+178622911,130562,0.0,True,False,False,False,False,Beginner NBASL Showdown $1 50-50 (SL MEM vs POR),9.0,NBA,2025-07-13 02:30:00+00:00,1.0,10
+178622912,130562,1.0,True,False,False,False,False,Beginner NBASL Showdown $3 50-50 (SL MEM vs POR),27.0,NBA,2025-07-13 02:30:00+00:00,3.0,10
+178622913,130562,2.0,True,False,False,False,False,Beginner NBASL Showdown $5 50-50 (SL MEM vs POR),45.0,NBA,2025-07-13 02:30:00+00:00,5.0,10
+178622914,130562,2650.0,True,False,False,False,False,"NBASL Showdown $5,300 50-50 (SL MEM vs POR)",20000.0,NBA,2025-07-13 02:30:00+00:00,5300.0,4
+178622915,130562,530.0,True,False,False,False,False,"NBASL Showdown $1,060 50-50 (SL MEM vs POR)",4000.0,NBA,2025-07-13 02:30:00+00:00,1060.0,4
+178622916,130562,265.0,True,False,False,False,False,NBASL Showdown $530 50-50 (SL MEM vs POR),2000.0,NBA,2025-07-13 02:30:00+00:00,530.0,4
+178622917,130562,54.0,True,False,False,False,False,NBASL Showdown $109 50-50 (SL MEM vs POR),400.0,NBA,2025-07-13 02:30:00+00:00,109.0,4
+178622918,130562,25.0,True,False,False,False,False,NBASL Showdown $50 50-50 (SL MEM vs POR),180.0,NBA,2025-07-13 02:30:00+00:00,50.0,4
+178622919,130562,10.0,True,False,False,False,False,NBASL Showdown $20 50-50 (SL MEM vs POR),72.0,NBA,2025-07-13 02:30:00+00:00,20.0,4
+178622920,130562,5.0,True,False,False,False,False,NBASL Showdown $10 50-50 (SL MEM vs POR),36.0,NBA,2025-07-13 02:30:00+00:00,10.0,4
+178622921,130562,25.0,True,False,False,False,False,NBASL Showdown $50 50-50 (SL MEM vs POR),450.0,NBA,2025-07-13 02:30:00+00:00,50.0,10
+178622922,130562,0.0,True,False,False,False,False,NBASL Showdown $1 50-50 (SL MEM vs POR),9.0,NBA,2025-07-13 02:30:00+00:00,1.0,10
+178622923,130562,2.0,True,False,False,False,False,NBASL Showdown $5 50-50 (SL MEM vs POR),45.0,NBA,2025-07-13 02:30:00+00:00,5.0,10
+178622924,130562,54.0,True,False,False,False,False,NBASL Showdown $109 50-50 (SL MEM vs POR),600.0,NBA,2025-07-13 02:30:00+00:00,109.0,6
+178622925,130562,1.0,True,False,False,False,False,NBASL Showdown $2 50-50 (SL MEM vs POR),18.0,NBA,2025-07-13 02:30:00+00:00,2.0,10
+178622926,130562,10.0,True,False,False,False,False,NBASL Showdown $20 50-50 (SL MEM vs POR),180.0,NBA,2025-07-13 02:30:00+00:00,20.0,10
+178622927,130562,5.0,True,False,False,False,False,NBASL Showdown $10 50-50 (SL MEM vs POR),90.0,NBA,2025-07-13 02:30:00+00:00,10.0,10
+178622928,130562,2.0,True,False,False,False,False,NBASL Showdown $5 50-50 (SL MEM vs POR),90.0,NBA,2025-07-13 02:30:00+00:00,5.0,20
+178622929,130562,5.0,True,False,False,False,False,NBASL Showdown $10 50-50 (SL MEM vs POR),180.0,NBA,2025-07-13 02:30:00+00:00,10.0,20
+178622930,130562,10.0,True,False,False,False,False,NBASL Showdown $20 50-50 (SL MEM vs POR),360.0,NBA,2025-07-13 02:30:00+00:00,20.0,20
+178622931,130562,1.0,True,False,False,False,False,NBASL Showdown $2 50-50 (SL MEM vs POR),36.0,NBA,2025-07-13 02:30:00+00:00,2.0,20
+178622932,130562,0.0,True,False,False,False,False,NBASL Showdown $1 50-50 (SL MEM vs POR),18.0,NBA,2025-07-13 02:30:00+00:00,1.0,20
+178622933,130562,530.0,False,False,False,False,True,NBASL Showdown $4K All Star [Single Entry] (Must Fill) (SL MEM vs POR),4000.0,NBA,2025-07-13 02:30:00+00:00,1060.0,4
+178622934,130562,133.0,False,False,False,False,True,NBASL Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (SL MEM vs POR),1000.0,NBA,2025-07-13 02:30:00+00:00,267.0,4
+178622935,130562,750.0,False,False,False,False,True,NBASL Showdown $5.7K Courtside Special [Single Entry] (Must Fill) (SL MEM vs POR),5700.0,NBA,2025-07-13 02:30:00+00:00,1500.0,4
+178622936,130562,100.0,False,False,False,False,True,NBASL Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (SL MEM vs POR),555.0,NBA,2025-07-13 02:30:00+00:00,201.0,3
+178622937,130562,587.0,False,False,False,False,True,NBASL Showdown Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (SL MEM vs POR),3333.0,NBA,2025-07-13 02:30:00+00:00,1175.0,3
+178622938,130562,0.0,False,False,False,False,True,NBASL Showdown Satellite to WNBA $5 Queen of the Court Qualifier [Must Fill] (SL MEM vs POR),5.0,NBA,2025-07-13 02:30:00+00:00,1.85,3
+178622939,130562,4.0,False,False,False,False,True,NBASL Showdown Satellite to WNBA $25 Queen of the Court Qualifier [Must Fill] (SL MEM vs POR),25.0,NBA,2025-07-13 02:30:00+00:00,9.0,3
+178622940,130562,30.0,False,False,False,False,True,NBASL Showdown Satellite to WNBA $164 Queen of the Court Qualifier [Must Fill] (SL MEM vs POR),164.0,NBA,2025-07-13 02:30:00+00:00,60.0,3
+178622941,130562,52.0,False,False,False,False,True,NBASL Showdown Satellite to WNBA $287 Queen of the Court Qualifier [Must Fill] (SL MEM vs POR),287.0,NBA,2025-07-13 02:30:00+00:00,104.0,3
+178622942,130562,59.0,False,False,False,False,True,NBASL Showdown Satellite to WNBA $328 Queen of the Court Qualifier [Must Fill] (SL MEM vs POR),328.0,NBA,2025-07-13 02:30:00+00:00,119.0,3
+178622943,130562,90.0,False,False,False,False,True,NBASL Showdown Satellite to NAS 8-31 Southern Sunset [Must Fill] (SL MEM vs POR),500.0,NBA,2025-07-13 02:30:00+00:00,181.0,3
+178622944,130562,2.0,False,False,False,False,True,NBASL Showdown Satellite to WNBA 7-16 $15 Fadeaway Special [Must Fill] (SL MEM vs POR),15.0,NBA,2025-07-13 02:30:00+00:00,5.55,3
+178622945,130562,60.0,False,False,False,False,True,NBASL Showdown Satellite to WNBA 7-16 $333 Money Ball Special [Must Fill] (SL MEM vs POR),333.0,NBA,2025-07-13 02:30:00+00:00,121.0,3
+178622946,130562,41.0,False,False,False,False,True,NBASL Showdown Satellite to MLB 7-21 $1M MEGA Turn Two [Must Fill] (SL MEM vs POR),222.0,NBA,2025-07-13 02:30:00+00:00,82.0,3
+178622983,130559,0.0,True,False,True,False,False,NBASL $1 Double Up (SL Early),20.0,NBA,2025-07-12 19:30:00+00:00,1.0,23
+178622984,130559,42.0,False,False,True,False,True,NBASL $85 Winner Take All [$300 to 1st] (SL Early),300.0,NBA,2025-07-12 19:30:00+00:00,85.0,4
+178622985,130559,12.0,False,False,True,False,True,NBASL $25 Winner Take All [$110 to 1st] (SL Early),110.0,NBA,2025-07-12 19:30:00+00:00,25.0,5
+178622986,130559,5.0,True,False,True,False,False,NBASL $10 Double Up (SL Early),100.0,NBA,2025-07-12 19:30:00+00:00,10.0,11
+178622987,130559,2.0,True,False,True,False,False,NBASL $5 Double Up (SL Early),100.0,NBA,2025-07-12 19:30:00+00:00,5.0,23
+178622988,130561,0.0,True,False,True,False,False,NBASL $1 Double Up (SL Night),20.0,NBA,2025-07-13 02:00:00+00:00,1.0,23
+178622989,130561,42.0,False,False,True,False,True,NBASL $85 Winner Take All [$300 to 1st] (SL Night),300.0,NBA,2025-07-13 02:00:00+00:00,85.0,4
+178622990,130561,12.0,False,False,True,False,True,NBASL $25 Winner Take All [$110 to 1st] (SL Night),110.0,NBA,2025-07-13 02:00:00+00:00,25.0,5
+178622991,130561,5.0,True,False,True,False,False,NBASL $10 Double Up (SL Night),100.0,NBA,2025-07-13 02:00:00+00:00,10.0,11
+178622992,130561,2.0,True,False,True,False,False,NBASL $5 Double Up (SL Night),100.0,NBA,2025-07-13 02:00:00+00:00,5.0,23
+178622993,130562,0.0,True,False,True,False,False,NBASL Showdown $1 Double Up (SL MEM vs POR),20.0,NBA,2025-07-13 02:30:00+00:00,1.0,23
+178622994,130562,42.0,False,False,True,False,True,NBASL Showdown $85 Winner Take All [$300 to 1st] (SL MEM vs POR),300.0,NBA,2025-07-13 02:30:00+00:00,85.0,4
+178622995,130562,12.0,False,False,True,False,True,NBASL Showdown $25 Winner Take All [$110 to 1st] (SL MEM vs POR),110.0,NBA,2025-07-13 02:30:00+00:00,25.0,5
+178622996,130562,5.0,True,False,True,False,False,NBASL Showdown $10 Double Up (SL MEM vs POR),100.0,NBA,2025-07-13 02:30:00+00:00,10.0,11
+178622997,130562,2.0,True,False,True,False,False,NBASL Showdown $5 Double Up (SL MEM vs POR),100.0,NBA,2025-07-13 02:30:00+00:00,5.0,23
+178623057,130560,12.0,True,False,True,False,False,NBASL $25 Double Up,250.0,NBA,2025-07-13 00:00:00+00:00,25.0,11
+178623058,130560,0.0,True,False,True,False,False,NBASL $1 Double Up,20.0,NBA,2025-07-13 00:00:00+00:00,1.0,23
+178623059,130560,5.0,True,False,True,False,False,NBASL $10 Double Up,100.0,NBA,2025-07-13 00:00:00+00:00,10.0,11
+178623060,130560,0.0,False,False,True,False,False,NBASL $1 Triple Up [Top 9 Win $3],27.0,NBA,2025-07-13 00:00:00+00:00,1.0,31
+178623061,130560,0.0,True,False,True,False,False,NBASL $1 Double Up,20.0,NBA,2025-07-13 00:00:00+00:00,1.0,23
+178623062,130560,1.0,True,False,True,False,False,NBASL $3 Double Up,60.0,NBA,2025-07-13 00:00:00+00:00,3.0,23
+178623063,130560,2.0,True,False,True,False,False,NBASL $5 Double Up,100.0,NBA,2025-07-13 00:00:00+00:00,5.0,23
+178623064,130560,42.0,False,False,True,False,True,NBASL $85 Winner Take All [$300 to 1st],300.0,NBA,2025-07-13 00:00:00+00:00,85.0,4
+178623065,130560,0.0,False,False,True,False,True,NBASL Satellite to WNBA 7-16 $15 Fadeaway Special,15.0,NBA,2025-07-13 00:00:00+00:00,0.1,178
+178623066,130560,2.0,False,False,False,False,True,NBASL Satellite to WNBA 7-16 $15 Fadeaway Special [Must Fill],15.0,NBA,2025-07-13 00:00:00+00:00,5.55,3
+178623067,130560,60.0,False,False,False,False,True,NBASL Satellite to WNBA 7-16 $333 Money Ball Special [Must Fill],333.0,NBA,2025-07-13 00:00:00+00:00,121.0,3
+178623068,130560,0.0,False,False,True,False,True,NBASL Satellite to 7-17 Fantasy Golf Millionaire,25.0,NBA,2025-07-13 00:00:00+00:00,0.25,118
+178623069,130560,41.0,False,False,False,False,True,NBASL Satellite to MLB 7-21 $1M MEGA Turn Two [Must Fill],222.0,NBA,2025-07-13 00:00:00+00:00,82.0,3
+178623070,130560,785.0,False,False,False,False,True,NBASL Satellite to 7-17 Fantasy Golf MEGA Millionaire [MUST FILL],4444.0,NBA,2025-07-13 00:00:00+00:00,1570.0,3
+178623071,130560,60.0,False,False,False,False,True,NBASL Satellite to TEN $333 Big Apple Smash (8-27) [Must Fill],333.0,NBA,2025-07-13 00:00:00+00:00,121.0,3
+178628279,130029,0.0,False,False,True,False,False,WNBA Single Stat FREE 200-Player (Points),0.0,NBA,2025-07-12 17:00:00+00:00,0.0,200
+178628335,130559,0.0,False,False,True,False,False,NBASL FREE 200-Player (SL Early),0.0,NBA,2025-07-12 19:30:00+00:00,0.0,200
+178628339,130560,0.0,False,False,True,False,False,NBASL FREE 200-Player,0.0,NBA,2025-07-13 00:00:00+00:00,0.0,200
+178628343,130561,0.0,False,False,True,False,False,NBASL FREE 200-Player (SL Night),0.0,NBA,2025-07-13 02:00:00+00:00,0.0,200
+178628346,130562,0.0,False,False,True,False,False,NBASL Showdown FREE 200-Player (SL MEM vs POR),0.0,NBA,2025-07-13 02:30:00+00:00,0.0,200
+178629857,130027,0.0,False,False,True,False,False,WNBA FREE 20-Player,0.0,NBA,2025-07-12 17:00:00+00:00,0.0,20
+178631144,130030,2.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2025-07-12 17:00:00+00:00,5.0,3
+178633962,130559,0.0,False,False,False,False,False,NBASL $1 3-Player (Winner Takes All) (SL Early),2.7,NBA,2025-07-12 19:30:00+00:00,1.0,3
+178633963,130560,0.0,False,False,False,False,False,NBASL $1 3-Player (Winner Takes All),2.7,NBA,2025-07-13 00:00:00+00:00,1.0,3
+178633964,130027,0.0,False,False,True,False,False,WNBA FREE 200-Player,0.0,NBA,2025-07-12 17:00:00+00:00,0.0,200
+178633965,130561,0.0,False,False,False,False,False,NBASL $1 3-Player (Winner Takes All) (SL Night),2.7,NBA,2025-07-13 02:00:00+00:00,1.0,3
+178633967,130028,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (Winner Takes All) (GSV @ LAV),2.7,NBA,2025-07-12 20:00:00+00:00,1.0,3
+178633968,130562,0.0,False,False,False,False,False,NBASL Showdown $1 3-Player (Winner Takes All) (SL MEM vs POR),2.7,NBA,2025-07-13 02:30:00+00:00,1.0,3
+178633970,130029,0.0,False,False,False,False,False,WNBA Single Stat $1 3-Player (Winner Takes All) (Points),2.7,NBA,2025-07-12 17:00:00+00:00,1.0,3
