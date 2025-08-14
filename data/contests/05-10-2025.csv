@@ -1,0 +1,1453 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+176666469,127234,137.0,False,False,True,False,True,NBA Showdown $200K Showdown Showcase Qualifier #52 (BOS @ NYK),2400.0,NBA,2025-05-10 19:30:00+00:00,275.0,10
+176666486,127235,67.0,False,False,True,False,True,NBA Showdown $200K Showdown Showcase Qualifier #53 (MIN @ GSW),2350.0,NBA,2025-05-11 00:30:00+00:00,135.0,20
+176666528,127231,10.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176666529,127231,10.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176666530,127231,25.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176666532,127231,265.0,False,False,False,False,False,NBA Snake $530 3-Player,1500.0,NBA,2025-05-10 19:30:00+00:00,530.0,3
+176666533,127231,530.0,False,False,False,False,False,"NBA Snake $1,060 3-Player",3000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,3
+176666534,127231,1060.0,False,False,False,False,False,"NBA Snake $2,120 3-Player",6000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,3
+176666535,127231,2650.0,False,False,False,False,False,"NBA Snake $5,300 3-Player",15000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,3
+176666536,127231,5300.0,False,False,False,False,False,"NBA Snake $10,600 3-Player",30000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,3
+176666557,127236,2.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (MIN @ GSW),13.5,NBA,2025-05-11 00:30:00+00:00,5.0,3
+176666558,127236,2.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (MIN @ GSW),13.5,NBA,2025-05-11 00:30:00+00:00,5.0,3
+176666559,127236,5.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176666560,127236,5.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176666561,127236,5.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176666562,127236,10.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (MIN @ GSW),54.0,NBA,2025-05-11 00:30:00+00:00,20.0,3
+176666563,127236,54.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (MIN @ GSW),300.0,NBA,2025-05-11 00:30:00+00:00,109.0,3
+176666564,127236,265.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (MIN @ GSW),1500.0,NBA,2025-05-11 00:30:00+00:00,530.0,3
+176666565,127236,25.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (MIN @ GSW),135.0,NBA,2025-05-11 00:30:00+00:00,50.0,3
+176666566,127236,530.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (MIN @ GSW)",3000.0,NBA,2025-05-11 00:30:00+00:00,1060.0,3
+176666567,127236,1060.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (MIN @ GSW)",6000.0,NBA,2025-05-11 00:30:00+00:00,2120.0,3
+176666603,127230,1.0,False,False,True,False,True,NBA $8.5K mini-MAX [150 Entry Max],8500.0,NBA,2025-05-10 19:30:00+00:00,2.0,5053
+176666604,127230,20.0,False,False,True,False,True,NBA $10K Mid Range Jumper [Single Entry],10000.0,NBA,2025-05-10 19:30:00+00:00,40.0,291
+176666605,127230,50.0,False,False,True,False,True,NBA $5K Showtime [Single Entry],5000.0,NBA,2025-05-10 19:30:00+00:00,100.0,55
+176666606,127230,1.0,False,False,True,False,True,NBA $3K Hot Shot [3 Entry Max],3000.0,NBA,2025-05-10 19:30:00+00:00,3.0,1189
+176666607,127230,1.0,False,False,True,False,True,NBA $2K Elbow Shot [Single Entry],2000.0,NBA,2025-05-10 19:30:00+00:00,2.0,1189
+176666608,127230,25.0,False,False,True,False,True,NBA $2K Ankle Breaker [Single Entry],2000.0,NBA,2025-05-10 19:30:00+00:00,50.0,45
+176666609,127230,0.0,False,False,True,False,True,NBA $2.5K Quarter Jukebox [Just $0.25!],2500.0,NBA,2025-05-10 19:30:00+00:00,0.25,11890
+176666610,127230,0.0,False,False,True,False,True,NBA $20K mini-MAX [150 Max Entry],20000.0,NBA,2025-05-10 19:30:00+00:00,0.5,47562
+176666611,127230,50.0,False,False,True,False,True,NBA $20K Showtime [Single Entry],20000.0,NBA,2025-05-10 19:30:00+00:00,100.0,222
+176666612,127230,20.0,False,False,True,False,True,NBA $5K Euro Step [4 Entry Max],5000.0,NBA,2025-05-10 19:30:00+00:00,40.0,145
+176666613,127230,13.0,False,False,True,False,True,NBA $3K Fast Break [Single Entry],3000.0,NBA,2025-05-10 19:30:00+00:00,27.0,129
+176666614,127230,6.0,False,False,True,False,True,NBA $8K Pick and Roll [Single Entry],8000.0,NBA,2025-05-10 19:30:00+00:00,12.0,784
+176666615,127230,2.0,False,False,True,False,True,NBA $8K High Five [Single Entry],8000.0,NBA,2025-05-10 19:30:00+00:00,5.0,1902
+176666616,127230,0.0,False,False,True,False,True,NBA $2K Daily Dollar [Single Entry] ,2000.0,NBA,2025-05-10 19:30:00+00:00,1.0,2378
+176666617,127230,25.0,True,False,True,False,True,NBA Single Entry $50 Double Up,1000.0,NBA,2025-05-10 19:30:00+00:00,50.0,22
+176666618,127230,12.0,True,False,True,False,True,NBA Single Entry $25 Double Up,2000.0,NBA,2025-05-10 19:30:00+00:00,25.0,91
+176666619,127230,5.0,True,False,True,False,True,NBA $10 Double Up,1000.0,NBA,2025-05-10 19:30:00+00:00,10.0,114
+176666620,127230,2.0,True,False,True,False,True,NBA $5 Double Up,1000.0,NBA,2025-05-10 19:30:00+00:00,5.0,229
+176666621,127230,1.0,True,False,True,False,True,NBA $2 Double Up,1000.0,NBA,2025-05-10 19:30:00+00:00,2.0,574
+176666622,127230,50.0,True,False,True,False,False,NBA $100 Double Up,1000.0,NBA,2025-05-10 19:30:00+00:00,100.0,11
+176666623,127233,2.0,False,False,True,False,False,NBA Single Stat $1K Winner Take All [3 Entry Max] (Points),1000.0,NBA,2025-05-10 19:30:00+00:00,5.0,237
+176666624,127233,0.0,False,False,True,False,True,NBA Single Stat $5K Winner Take All [20 Entry Max] (Points),5000.0,NBA,2025-05-10 19:30:00+00:00,1.0,5945
+176666625,127232,0.0,False,False,True,False,True,NBA Tiers $500 Quarter Jukebox [Just $0.25!],500.0,NBA,2025-05-10 19:30:00+00:00,0.25,2378
+176666626,127232,1.0,False,False,True,False,True,NBA Tiers $200 Sharpshooter [2 Entry Max],200.0,NBA,2025-05-10 19:30:00+00:00,3.0,79
+176666627,127232,2.0,False,False,True,False,True,NBA Tiers $150 High Five [Single Entry],150.0,NBA,2025-05-10 19:30:00+00:00,5.0,35
+176666628,127232,0.0,False,False,True,False,True,NBA Tiers $1.5K And-One [20 Entry Max],1500.0,NBA,2025-05-10 19:30:00+00:00,1.0,1783
+176666629,127232,6.0,False,False,True,False,True,NBA Tiers $155 Pick and Roll [Single Entry],155.0,NBA,2025-05-10 19:30:00+00:00,12.0,15
+176666630,127232,25.0,False,False,True,False,True,NBA Tiers $265 Ankle Breaker [Single Entry],265.0,NBA,2025-05-10 19:30:00+00:00,50.0,6
+176666631,127232,50.0,False,False,True,False,True,"NBA Tiers $540 Showtime [Single Entry, Top 2 Win]",540.0,NBA,2025-05-10 19:30:00+00:00,100.0,6
+176666632,127234,25.0,False,False,True,False,True,NBA Showdown $1K Ankle Breaker [Single Entry] (BOS @ NYK),1000.0,NBA,2025-05-10 19:30:00+00:00,50.0,22
+176666633,127234,150.0,False,False,True,False,True,NBA Showdown $1.9K 3-Ball [Single Entry] (BOS @ NYK),1900.0,NBA,2025-05-10 19:30:00+00:00,300.0,7
+176666634,127234,16.0,False,False,True,False,True,NBA Showdown $1K Triple Threat (BOS @ NYK),1000.0,NBA,2025-05-10 19:30:00+00:00,33.0,35
+176666635,127234,0.0,False,False,True,False,True,NBA Showdown $1.5K Quarter Jukebox [Just $0.25!] (BOS @ NYK),1500.0,NBA,2025-05-10 19:30:00+00:00,0.25,7134
+176666636,127234,2.0,False,False,True,False,True,NBA Showdown $3K High Five [Single Entry] (BOS @ NYK),3000.0,NBA,2025-05-10 19:30:00+00:00,5.0,713
+176666637,127234,90.0,False,False,True,False,True,NBA Showdown $10.9K Windmill [$3K to 1st] (BOS @ NYK),10900.0,NBA,2025-05-10 19:30:00+00:00,180.0,67
+176666638,127234,6.0,False,False,True,False,True,NBA Showdown $1K Pick and Roll [Single Entry] (BOS @ NYK),1000.0,NBA,2025-05-10 19:30:00+00:00,12.0,98
+176666639,127234,7.0,False,False,True,False,True,NBA Showdown $100K Fadeaway [$25K to 1st] (BOS @ NYK),100000.0,NBA,2025-05-10 19:30:00+00:00,15.0,7843
+176666640,127234,1.0,False,False,True,False,True,NBA Showdown $2.5K Sharpshooter (BOS @ NYK),2500.0,NBA,2025-05-10 19:30:00+00:00,3.0,990
+176666641,127234,0.0,False,False,True,False,True,NBA Showdown $7.5K And-One (BOS @ NYK),7500.0,NBA,2025-05-10 19:30:00+00:00,1.0,8917
+176666642,127235,2.0,False,False,True,False,True,NBA Showdown $4K High Five [Single Entry] (MIN @ GSW),4000.0,NBA,2025-05-11 00:30:00+00:00,5.0,951
+176666643,127235,25.0,False,False,True,False,True,NBA Showdown $2K Ankle Breaker [Single Entry] (MIN @ GSW),2000.0,NBA,2025-05-11 00:30:00+00:00,50.0,45
+176666644,127235,0.0,False,False,True,False,True,NBA Showdown $15K And-One (MIN @ GSW),15000.0,NBA,2025-05-11 00:30:00+00:00,1.0,17835
+176666645,127235,0.0,False,False,True,False,True,NBA Showdown $3K Quarter Jukebox [Just $0.25!] (MIN @ GSW),3000.0,NBA,2025-05-11 00:30:00+00:00,0.25,14268
+176666646,127235,6.0,False,False,True,False,True,NBA Showdown $3K Pick and Roll [Single Entry] (MIN @ GSW),3000.0,NBA,2025-05-11 00:30:00+00:00,12.0,294
+176666647,127235,2.0,False,False,True,False,True,NBA Showdown $8K High Five [Single Entry] (MIN @ GSW),8000.0,NBA,2025-05-11 00:30:00+00:00,5.0,1902
+176666648,127235,750.0,False,False,True,False,True,NBA Showdown $21.3K Courtside Special [Single Entry] (MIN @ GSW),21300.0,NBA,2025-05-11 00:30:00+00:00,1500.0,15
+176666649,127235,16.0,False,False,True,False,True,NBA Showdown $5K Triple Threat (MIN @ GSW),5000.0,NBA,2025-05-11 00:30:00+00:00,33.0,176
+176666650,127235,3.0,False,False,True,False,True,NBA Showdown $30K Jab Step [$5K to 1st] (MIN @ GSW),30000.0,NBA,2025-05-11 00:30:00+00:00,6.0,5882
+176666651,127235,1.0,False,False,True,False,True,NBA Showdown $7K Sharpshooter [20 Entry Max] (MIN @ GSW),7000.0,NBA,2025-05-11 00:30:00+00:00,3.0,2774
+176666652,127235,0.0,False,False,True,False,True,NBA Showdown $7.5K mini-MAX [150 Entry Max] (MIN @ GSW),7500.0,NBA,2025-05-11 00:30:00+00:00,0.5,17835
+176666653,127235,166.0,False,False,True,False,True,NBA Showdown $3.3K Money Ball [Single Entry] (MIN @ GSW),3300.0,NBA,2025-05-11 00:30:00+00:00,333.0,11
+176666654,127235,50.0,False,False,True,False,True,NBA Showdown $12K Showtime [Single Entry] (MIN @ GSW),12000.0,NBA,2025-05-11 00:30:00+00:00,100.0,133
+176666655,127235,12.0,True,False,True,False,True,NBA Showdown Single Entry $25 Double Up (MIN @ GSW),1000.0,NBA,2025-05-11 00:30:00+00:00,25.0,45
+176666656,127235,5.0,True,False,True,False,True,NBA Showdown Single Entry $10 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,10.0,57
+176666657,127235,2.0,True,False,True,False,True,NBA Showdown Single Entry $5 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,5.0,114
+176666658,127237,5.0,False,False,True,False,True,NBA In-Game $6K Pull Up Jumper [$2K to 1st] (2H MIN @ GSW),6000.0,NBA,2025-05-11 01:30:00+00:00,10.0,705
+176666659,127237,50.0,False,False,True,False,True,"NBA In-Game $720 Showtime [Single Entry, Top 2 Win] (2H MIN @ GSW)",720.0,NBA,2025-05-11 01:30:00+00:00,100.0,8
+176666660,127237,13.0,False,False,True,False,True,NBA In-Game $240 Fast Break [Single Entry] (2H MIN @ GSW),240.0,NBA,2025-05-11 01:30:00+00:00,27.0,10
+176666661,127237,1.0,False,False,True,False,True,NBA In-Game $100 Sharpshooter (2H MIN @ GSW),100.0,NBA,2025-05-11 01:30:00+00:00,3.0,39
+176666662,127237,2.0,False,False,True,False,True,NBA In-Game $150 High Five [Single Entry] (2H MIN @ GSW),150.0,NBA,2025-05-11 01:30:00+00:00,5.0,35
+176666663,127237,6.0,False,False,True,False,True,NBA In-Game $155 Pick and Roll [Single Entry] (2H MIN @ GSW),155.0,NBA,2025-05-11 01:30:00+00:00,12.0,15
+176666664,127237,150.0,False,False,True,False,True,NBA In-Game $1.08K 3-Ball [Winner Take All] (2H MIN @ GSW),1080.0,NBA,2025-05-11 01:30:00+00:00,300.0,4
+176666665,127237,25.0,False,False,True,False,False,NBA In-Game $50 Winner Take All [$220 to 1st] (2H MIN @ GSW),220.0,NBA,2025-05-11 01:30:00+00:00,50.0,5
+176666666,127237,0.0,False,False,True,False,True,NBA In-Game $200 And-One (2H MIN @ GSW),200.0,NBA,2025-05-11 01:30:00+00:00,1.0,237
+176666667,127237,0.0,False,False,True,False,True,NBA In-Game $100 Quarter Jukebox [Just $0.25!] (2H MIN @ GSW),100.0,NBA,2025-05-11 01:30:00+00:00,0.25,475
+176666736,127235,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,50.0,11
+176666737,127235,50.0,True,False,True,False,False,NBA Showdown $100 Double Up (MIN @ GSW),1000.0,NBA,2025-05-11 00:30:00+00:00,100.0,11
+176666738,127235,1.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $20] (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,2.0,59
+176666739,127235,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $50] (MIN @ GSW),150.0,NBA,2025-05-11 00:30:00+00:00,5.0,35
+176666740,127235,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN @ GSW),60.0,NBA,2025-05-11 00:30:00+00:00,3.0,23
+176666741,127235,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN @ GSW),60.0,NBA,2025-05-11 00:30:00+00:00,3.0,23
+176666742,127235,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,25.0,22
+176666743,127235,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,25.0,22
+176666744,127235,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,25.0,22
+176666745,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,1.0,23
+176666746,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,1.0,23
+176666747,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,1.0,23
+176666748,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,1.0,23
+176666749,127235,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN @ GSW),60.0,NBA,2025-05-11 00:30:00+00:00,3.0,23
+176666750,127235,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN @ GSW),60.0,NBA,2025-05-11 00:30:00+00:00,3.0,23
+176666751,127235,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN @ GSW),60.0,NBA,2025-05-11 00:30:00+00:00,3.0,23
+176666752,127235,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,10.0,11
+176666753,127235,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,10.0,11
+176666754,127235,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,10.0,11
+176666755,127235,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,10.0,11
+176666756,127235,0.0,False,False,True,False,True,NBA Showdown $300 Dime Time [Just $0.10!] (MIN @ GSW),300.0,NBA,2025-05-11 00:30:00+00:00,0.1,3567
+176666757,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),34.0,NBA,2025-05-11 00:30:00+00:00,1.0,39
+176666758,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),34.0,NBA,2025-05-11 00:30:00+00:00,1.0,39
+176666759,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),34.0,NBA,2025-05-11 00:30:00+00:00,1.0,39
+176666760,127235,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN @ GSW),170.0,NBA,2025-05-11 00:30:00+00:00,5.0,39
+176666761,127235,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ GSW),250.0,NBA,2025-05-11 00:30:00+00:00,25.0,11
+176666762,127235,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ GSW),250.0,NBA,2025-05-11 00:30:00+00:00,25.0,11
+176666763,127235,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,1.0,31
+176666764,127235,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,1.0,31
+176666765,127235,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,1.0,31
+176666766,127235,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (MIN @ GSW),135.0,NBA,2025-05-11 00:30:00+00:00,5.0,31
+176666767,127235,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (MIN @ GSW),135.0,NBA,2025-05-11 00:30:00+00:00,5.0,31
+176666768,127235,13100.0,False,False,False,False,True,NBA Showdown $100K Heavy Hitter [Must Fill] (MIN @ GSW),100000.0,NBA,2025-05-11 00:30:00+00:00,26200.0,4
+176666769,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,1.0,23
+176666770,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,1.0,23
+176666771,127235,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN @ GSW),60.0,NBA,2025-05-11 00:30:00+00:00,3.0,23
+176666772,127235,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,5.0,23
+176666773,127235,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,5.0,23
+176666774,127235,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,5.0,23
+176666775,127235,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,10.0,11
+176666776,127235,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ GSW),250.0,NBA,2025-05-11 00:30:00+00:00,25.0,11
+176666777,127235,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ GSW),250.0,NBA,2025-05-11 00:30:00+00:00,25.0,11
+176666778,127235,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ GSW),250.0,NBA,2025-05-11 00:30:00+00:00,25.0,11
+176666779,127235,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ GSW),250.0,NBA,2025-05-11 00:30:00+00:00,25.0,11
+176666780,127235,125.0,True,False,True,False,False,NBA Showdown $250 Double Up (MIN @ GSW),2500.0,NBA,2025-05-11 00:30:00+00:00,250.0,11
+176666781,127235,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176666782,127235,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176666783,127235,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176666784,127235,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176666785,127235,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176666786,127235,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,1.0,31
+176666787,127235,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,1.0,31
+176666788,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,1.0,23
+176666789,127235,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,1.0,23
+176666790,127235,50.0,True,False,True,False,False,NBA Showdown $100 Double Up (MIN @ GSW),1000.0,NBA,2025-05-11 00:30:00+00:00,100.0,11
+176666791,127235,50.0,True,False,True,False,False,NBA Showdown $100 Double Up (MIN @ GSW),1000.0,NBA,2025-05-11 00:30:00+00:00,100.0,11
+176666792,127235,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (MIN @ GSW),1000.0,NBA,2025-05-11 00:30:00+00:00,50.0,22
+176666793,127235,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,50.0,11
+176666794,127235,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,50.0,11
+176666795,127235,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,50.0,11
+176666796,127235,13100.0,False,False,False,False,True,NBA Showdown $75K Heavy Hitter [Must Fill] (MIN @ GSW),75000.0,NBA,2025-05-11 00:30:00+00:00,26200.0,3
+176666797,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.1,297
+176666798,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.1,297
+176666799,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.1,297
+176666800,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.25,118
+176666801,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.25,118
+176666802,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.25,118
+176666803,127235,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (MIN @ GSW),50.0,NBA,2025-05-11 00:30:00+00:00,0.5,118
+176666804,127235,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (MIN @ GSW),50.0,NBA,2025-05-11 00:30:00+00:00,1.0,59
+176666805,127235,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (MIN @ GSW),50.0,NBA,2025-05-11 00:30:00+00:00,2.0,29
+176666806,127235,2.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x] (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,5.0,23
+176666807,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.5,59
+176666808,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.5,59
+176666809,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,1.0,29
+176666810,127235,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x] (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,1.0,118
+176666811,127235,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x] (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,3.0,39
+176666812,127235,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x] (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,3.0,39
+176666813,127235,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (MIN @ GSW),50.0,NBA,2025-05-11 00:30:00+00:00,0.25,237
+176666814,127235,0.0,False,False,True,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off (MIN @ GSW),10.0,NBA,2025-05-11 00:30:00+00:00,0.1,118
+176666815,127235,0.0,False,False,True,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off (MIN @ GSW),10.0,NBA,2025-05-11 00:30:00+00:00,0.25,47
+176666816,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to 5-15 Fantasy Golf Millionaire (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.25,118
+176666817,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to 5-15 Fantasy Golf Millionaire (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,1.0,29
+176666818,127235,60.0,False,False,False,False,True,NBA Showdown Satellite to TEN $333 Clay Smash (5-28) [Must Fill] (MIN @ GSW),333.0,NBA,2025-05-11 00:30:00+00:00,121.0,3
+176666819,127235,81.0,False,False,False,False,True,NBA Showdown Satellite to NAS 5-25 $600 Soda Fountain [Must FIll] (MIN @ GSW),600.0,NBA,2025-05-11 00:30:00+00:00,163.0,4
+176666820,127235,20.0,False,False,False,False,True,NBA Showdown Satellite to MLB 6-3 $111 MEGA Immaculate Inning [Must Fill] (MIN @ GSW),111.0,NBA,2025-05-11 00:30:00+00:00,41.0,3
+176666821,127235,100.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (MIN @ GSW),555.0,NBA,2025-05-11 00:30:00+00:00,201.0,3
+176666822,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,0.1,237
+176666823,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,0.1,237
+176666824,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,0.25,95
+176666825,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,0.25,95
+176666826,127235,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (MIN @ GSW),40.0,NBA,2025-05-11 00:30:00+00:00,0.25,190
+176666827,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,0.5,47
+176666828,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,0.5,47
+176666829,127235,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [4x] (MIN @ GSW),80.0,NBA,2025-05-11 00:30:00+00:00,1.0,95
+176666830,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,1.0,23
+176666831,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,1.0,23
+176666832,127235,1.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,2.0,11
+176666833,127235,1.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $15M Millionaire [2x] (MIN @ GSW),40.0,NBA,2025-05-11 00:30:00+00:00,2.0,23
+176666834,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 316 $25 Special (6-7) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.25,118
+176666835,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 316 $25 Special (6-7) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.1,297
+176666836,127235,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 316 $25 Special (6-7) (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,0.5,59
+176666837,127237,0.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H MIN @ GSW),20.0,NBA,2025-05-11 01:30:00+00:00,1.0,23
+176666838,127237,42.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H MIN @ GSW),300.0,NBA,2025-05-11 01:30:00+00:00,85.0,4
+176666839,127237,12.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H MIN @ GSW),110.0,NBA,2025-05-11 01:30:00+00:00,25.0,5
+176666840,127237,5.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H MIN @ GSW),100.0,NBA,2025-05-11 01:30:00+00:00,10.0,11
+176666841,127237,2.0,True,False,True,False,False,NBA In-Game $5 Double Up (2H MIN @ GSW),100.0,NBA,2025-05-11 01:30:00+00:00,5.0,23
+176666843,127237,1.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H MIN @ GSW),5.4,NBA,2025-05-11 01:30:00+00:00,2.0,3
+176666844,127237,5.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H MIN @ GSW),27.0,NBA,2025-05-11 01:30:00+00:00,10.0,3
+176666845,127237,2.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H MIN @ GSW),13.5,NBA,2025-05-11 01:30:00+00:00,5.0,3
+176666846,127237,0.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H MIN @ GSW),2.7,NBA,2025-05-11 01:30:00+00:00,1.0,3
+176666847,127237,0.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H MIN @ GSW),9.0,NBA,2025-05-11 01:30:00+00:00,1.0,10
+176666848,127237,0.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H MIN @ GSW),4.5,NBA,2025-05-11 01:30:00+00:00,1.0,5
+176666849,127237,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H MIN @ GSW),2.7,NBA,2025-05-11 01:30:00+00:00,1.0,3
+176666850,127237,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H MIN @ GSW),2.7,NBA,2025-05-11 01:30:00+00:00,1.0,3
+176666851,127237,10.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H MIN @ GSW),180.0,NBA,2025-05-11 01:30:00+00:00,20.0,10
+176666852,127237,5.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H MIN @ GSW),90.0,NBA,2025-05-11 01:30:00+00:00,10.0,10
+176666853,127237,2.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H MIN @ GSW),45.0,NBA,2025-05-11 01:30:00+00:00,5.0,10
+176666854,127237,1.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H MIN @ GSW),27.0,NBA,2025-05-11 01:30:00+00:00,3.0,10
+176666855,127237,0.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H MIN @ GSW),9.0,NBA,2025-05-11 01:30:00+00:00,1.0,10
+176666856,127237,2.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H MIN @ GSW),13.5,NBA,2025-05-11 01:30:00+00:00,5.0,3
+176666857,127237,1.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H MIN @ GSW),5.4,NBA,2025-05-11 01:30:00+00:00,2.0,3
+176666858,127237,1.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H MIN @ GSW),5.4,NBA,2025-05-11 01:30:00+00:00,2.0,3
+176666859,127237,1.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H MIN @ GSW),5.4,NBA,2025-05-11 01:30:00+00:00,2.0,3
+176666860,127237,1.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H MIN @ GSW),9.0,NBA,2025-05-11 01:30:00+00:00,2.0,5
+176666861,127237,1.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H MIN @ GSW),18.0,NBA,2025-05-11 01:30:00+00:00,2.0,10
+176666862,127237,2.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H MIN @ GSW),13.5,NBA,2025-05-11 01:30:00+00:00,5.0,3
+176666863,127237,2.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H MIN @ GSW),22.5,NBA,2025-05-11 01:30:00+00:00,5.0,5
+176666864,127237,2.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H MIN @ GSW),45.0,NBA,2025-05-11 01:30:00+00:00,5.0,10
+176666865,127237,5.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H MIN @ GSW),45.0,NBA,2025-05-11 01:30:00+00:00,10.0,5
+176666866,127237,5.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H MIN @ GSW),27.0,NBA,2025-05-11 01:30:00+00:00,10.0,3
+176666867,127237,10.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H MIN @ GSW),54.0,NBA,2025-05-11 01:30:00+00:00,20.0,3
+176666868,127237,25.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H MIN @ GSW),225.0,NBA,2025-05-11 01:30:00+00:00,50.0,5
+176666869,127237,25.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H MIN @ GSW),135.0,NBA,2025-05-11 01:30:00+00:00,50.0,3
+176666870,127237,54.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H MIN @ GSW),300.0,NBA,2025-05-11 01:30:00+00:00,109.0,3
+176666871,127237,81.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H MIN @ GSW),450.0,NBA,2025-05-11 01:30:00+00:00,162.0,3
+176666872,127237,265.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H MIN @ GSW),1500.0,NBA,2025-05-11 01:30:00+00:00,530.0,3
+176666873,127237,530.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H MIN @ GSW)",3000.0,NBA,2025-05-11 01:30:00+00:00,1060.0,3
+176666874,127237,2650.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H MIN @ GSW)",15000.0,NBA,2025-05-11 01:30:00+00:00,5300.0,3
+176666875,127237,5300.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H MIN @ GSW)",30000.0,NBA,2025-05-11 01:30:00+00:00,10600.0,3
+176666876,127237,10.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H MIN @ GSW),72.0,NBA,2025-05-11 01:30:00+00:00,20.0,4
+176666877,127237,5.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H MIN @ GSW),90.0,NBA,2025-05-11 01:30:00+00:00,10.0,10
+176666878,127237,0.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H MIN @ GSW),9.0,NBA,2025-05-11 01:30:00+00:00,1.0,10
+176666879,127237,1.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H MIN @ GSW),27.0,NBA,2025-05-11 01:30:00+00:00,3.0,10
+176666880,127237,2.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H MIN @ GSW),45.0,NBA,2025-05-11 01:30:00+00:00,5.0,10
+176666881,127237,2650.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H MIN @ GSW)",20000.0,NBA,2025-05-11 01:30:00+00:00,5300.0,4
+176666882,127237,530.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H MIN @ GSW)",4000.0,NBA,2025-05-11 01:30:00+00:00,1060.0,4
+176666883,127237,265.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H MIN @ GSW),2000.0,NBA,2025-05-11 01:30:00+00:00,530.0,4
+176666884,127237,54.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H MIN @ GSW),400.0,NBA,2025-05-11 01:30:00+00:00,109.0,4
+176666885,127237,25.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H MIN @ GSW),180.0,NBA,2025-05-11 01:30:00+00:00,50.0,4
+176666886,127237,10.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H MIN @ GSW),72.0,NBA,2025-05-11 01:30:00+00:00,20.0,4
+176666887,127237,5.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H MIN @ GSW),36.0,NBA,2025-05-11 01:30:00+00:00,10.0,4
+176666888,127237,25.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H MIN @ GSW),450.0,NBA,2025-05-11 01:30:00+00:00,50.0,10
+176666889,127237,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H MIN @ GSW),9.0,NBA,2025-05-11 01:30:00+00:00,1.0,10
+176666890,127237,2.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H MIN @ GSW),45.0,NBA,2025-05-11 01:30:00+00:00,5.0,10
+176666891,127237,54.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H MIN @ GSW),600.0,NBA,2025-05-11 01:30:00+00:00,109.0,6
+176666892,127237,1.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H MIN @ GSW),18.0,NBA,2025-05-11 01:30:00+00:00,2.0,10
+176666893,127237,10.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H MIN @ GSW),180.0,NBA,2025-05-11 01:30:00+00:00,20.0,10
+176666894,127237,5.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H MIN @ GSW),90.0,NBA,2025-05-11 01:30:00+00:00,10.0,10
+176666895,127237,2.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H MIN @ GSW),90.0,NBA,2025-05-11 01:30:00+00:00,5.0,20
+176666896,127237,5.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H MIN @ GSW),180.0,NBA,2025-05-11 01:30:00+00:00,10.0,20
+176666897,127237,10.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H MIN @ GSW),360.0,NBA,2025-05-11 01:30:00+00:00,20.0,20
+176666898,127237,1.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H MIN @ GSW),36.0,NBA,2025-05-11 01:30:00+00:00,2.0,20
+176666899,127237,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H MIN @ GSW),18.0,NBA,2025-05-11 01:30:00+00:00,1.0,20
+176666900,127237,530.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H MIN @ GSW),4000.0,NBA,2025-05-11 01:30:00+00:00,1060.0,4
+176666901,127237,133.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H MIN @ GSW),1000.0,NBA,2025-05-11 01:30:00+00:00,267.0,4
+176666902,127237,50.0,False,False,False,False,True,NBA In-Game $100 Winner Take All [$460 to 1st] (Must Fill) (2H MIN @ GSW),460.0,NBA,2025-05-11 01:30:00+00:00,100.0,5
+176666903,127237,3.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $15M Millionaire [Must Fill] (2H MIN @ GSW),20.0,NBA,2025-05-11 01:30:00+00:00,7.4,3
+176666904,127237,100.0,False,False,False,False,True,NBA In-Game Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (2H MIN @ GSW),555.0,NBA,2025-05-11 01:30:00+00:00,201.0,3
+176666905,127235,10.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (MIN @ GSW),54.0,NBA,2025-05-11 00:30:00+00:00,20.0,3
+176666906,127235,25.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (MIN @ GSW),135.0,NBA,2025-05-11 00:30:00+00:00,50.0,3
+176666907,127235,5.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176666908,127235,2.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIN @ GSW),13.5,NBA,2025-05-11 00:30:00+00:00,5.0,3
+176666909,127235,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (MIN @ GSW),2.7,NBA,2025-05-11 00:30:00+00:00,1.0,3
+176666910,127235,2650.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (MIN @ GSW)",20000.0,NBA,2025-05-11 00:30:00+00:00,5300.0,4
+176666911,127235,530.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (MIN @ GSW)",4000.0,NBA,2025-05-11 00:30:00+00:00,1060.0,4
+176666912,127235,265.0,True,False,False,False,False,NBA Showdown $530 50-50 (MIN @ GSW),2000.0,NBA,2025-05-11 00:30:00+00:00,530.0,4
+176666913,127235,81.0,True,False,False,False,False,NBA Showdown $162 50-50 (MIN @ GSW),600.0,NBA,2025-05-11 00:30:00+00:00,162.0,4
+176666914,127235,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIN @ GSW),400.0,NBA,2025-05-11 00:30:00+00:00,109.0,4
+176666915,127235,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (MIN @ GSW),180.0,NBA,2025-05-11 00:30:00+00:00,50.0,4
+176666916,127235,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ GSW),360.0,NBA,2025-05-11 00:30:00+00:00,20.0,20
+176666917,127235,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ GSW),180.0,NBA,2025-05-11 00:30:00+00:00,20.0,10
+176666918,127235,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ GSW),72.0,NBA,2025-05-11 00:30:00+00:00,20.0,4
+176666919,127235,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ GSW),72.0,NBA,2025-05-11 00:30:00+00:00,20.0,4
+176666920,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),180.0,NBA,2025-05-11 00:30:00+00:00,10.0,20
+176666921,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176666922,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176666923,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,10.0,4
+176666924,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,10.0,4
+176666925,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,10.0,4
+176666926,127235,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,5.0,20
+176666927,127235,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,5.0,20
+176666928,127235,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,5.0,10
+176666929,127235,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,5.0,10
+176666930,127235,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,5.0,10
+176666931,127235,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,2.0,20
+176666932,127235,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,2.0,20
+176666933,127235,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176666934,127235,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176666935,127235,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176666936,127235,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,1.0,20
+176666937,127235,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,1.0,20
+176666938,127235,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,1.0,10
+176666939,127235,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,1.0,10
+176666940,127235,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,1.0,10
+176666941,127235,25.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (MIN @ GSW),180.0,NBA,2025-05-11 00:30:00+00:00,50.0,4
+176666942,127235,10.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (MIN @ GSW),72.0,NBA,2025-05-11 00:30:00+00:00,20.0,4
+176666943,127235,5.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176666944,127235,2.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,5.0,10
+176666945,127235,1.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,3.0,10
+176666946,127235,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,1.0,10
+176666947,127235,5.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,10.0,5
+176666948,127235,2.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (MIN @ GSW),22.5,NBA,2025-05-11 00:30:00+00:00,5.0,5
+176666949,127235,2.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIN @ GSW),13.5,NBA,2025-05-11 00:30:00+00:00,5.0,3
+176666950,127235,1.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,2.0,5
+176666951,127235,1.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (MIN @ GSW),5.4,NBA,2025-05-11 00:30:00+00:00,2.0,3
+176666952,127235,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (MIN @ GSW),4.5,NBA,2025-05-11 00:30:00+00:00,1.0,5
+176666953,127235,5300.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (MIN @ GSW)",30000.0,NBA,2025-05-11 00:30:00+00:00,10600.0,3
+176666954,127235,2650.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MIN @ GSW)",15000.0,NBA,2025-05-11 00:30:00+00:00,5300.0,3
+176666955,127235,530.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MIN @ GSW)",3000.0,NBA,2025-05-11 00:30:00+00:00,1060.0,3
+176666956,127235,265.0,False,False,False,False,False,NBA Showdown $530 3-Player (MIN @ GSW),1500.0,NBA,2025-05-11 00:30:00+00:00,530.0,3
+176666957,127235,81.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIN @ GSW),450.0,NBA,2025-05-11 00:30:00+00:00,162.0,3
+176666958,127235,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ GSW),300.0,NBA,2025-05-11 00:30:00+00:00,109.0,3
+176666959,127235,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ GSW),300.0,NBA,2025-05-11 00:30:00+00:00,109.0,3
+176666960,127235,25.0,False,False,False,False,False,NBA Showdown $50 5-Player (MIN @ GSW),225.0,NBA,2025-05-11 00:30:00+00:00,50.0,5
+176666961,127235,25.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIN @ GSW),135.0,NBA,2025-05-11 00:30:00+00:00,50.0,3
+176666962,127235,10.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,20.0,5
+176666963,127235,10.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,20.0,5
+176666964,127235,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ GSW),54.0,NBA,2025-05-11 00:30:00+00:00,20.0,3
+176666965,127235,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ GSW),54.0,NBA,2025-05-11 00:30:00+00:00,20.0,3
+176666966,127235,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ GSW),54.0,NBA,2025-05-11 00:30:00+00:00,20.0,3
+176666967,127235,5.0,False,False,False,False,False,NBA Showdown $10 10-Player (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176666968,127235,5.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,10.0,5
+176666969,127235,5.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,10.0,5
+176666970,127235,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176666971,127235,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176666972,127235,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176666973,127235,2.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,5.0,10
+176666974,127235,2.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,5.0,10
+176666975,127235,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN @ GSW),22.5,NBA,2025-05-11 00:30:00+00:00,5.0,5
+176666976,127235,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN @ GSW),22.5,NBA,2025-05-11 00:30:00+00:00,5.0,5
+176666977,127235,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN @ GSW),22.5,NBA,2025-05-11 00:30:00+00:00,5.0,5
+176666978,127235,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ GSW),13.5,NBA,2025-05-11 00:30:00+00:00,5.0,3
+176666979,127235,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ GSW),13.5,NBA,2025-05-11 00:30:00+00:00,5.0,3
+176666980,127235,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ GSW),13.5,NBA,2025-05-11 00:30:00+00:00,5.0,3
+176666981,127235,1.0,False,False,False,False,False,NBA Showdown $2 20-Player (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,2.0,20
+176666982,127235,1.0,False,False,False,False,False,NBA Showdown $2 20-Player (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,2.0,20
+176666983,127235,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176666984,127235,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176666985,127235,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176666986,127235,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,2.0,5
+176666987,127235,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,2.0,5
+176666988,127235,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,2.0,5
+176666989,127235,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ GSW),5.4,NBA,2025-05-11 00:30:00+00:00,2.0,3
+176666990,127235,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ GSW),5.4,NBA,2025-05-11 00:30:00+00:00,2.0,3
+176666991,127235,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ GSW),5.4,NBA,2025-05-11 00:30:00+00:00,2.0,3
+176666992,127235,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,1.0,10
+176666993,127235,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (MIN @ GSW),4.5,NBA,2025-05-11 00:30:00+00:00,1.0,5
+176666994,127235,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ GSW),2.7,NBA,2025-05-11 00:30:00+00:00,1.0,3
+176666995,127235,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ GSW),2.7,NBA,2025-05-11 00:30:00+00:00,1.0,3
+176666996,127235,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIN @ GSW),600.0,NBA,2025-05-11 00:30:00+00:00,109.0,6
+176666997,127235,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN @ GSW)",40000.0,NBA,2025-05-11 00:30:00+00:00,10600.0,4
+176666998,127235,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN @ GSW)",40000.0,NBA,2025-05-11 00:30:00+00:00,10600.0,4
+176666999,127235,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN @ GSW)",40000.0,NBA,2025-05-11 00:30:00+00:00,10600.0,4
+176667000,127235,25.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (MIN @ GSW),180.0,NBA,2025-05-11 00:30:00+00:00,50.0,4
+176667001,127235,10.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (MIN @ GSW),72.0,NBA,2025-05-11 00:30:00+00:00,20.0,4
+176667002,127235,5.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176667003,127235,2.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,5.0,10
+176667004,127235,1.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,3.0,10
+176667005,127235,1.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIN @ GSW),10.8,NBA,2025-05-11 00:30:00+00:00,3.0,4
+176667006,127235,0.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,1.0,10
+176667007,127235,25.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (MIN @ GSW),135.0,NBA,2025-05-11 00:30:00+00:00,50.0,3
+176667008,127235,10.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (MIN @ GSW),54.0,NBA,2025-05-11 00:30:00+00:00,20.0,3
+176667009,127235,5.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,10.0,5
+176667010,127235,5.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176667011,127235,1.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,2.0,5
+176667012,127235,1.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (MIN @ GSW),5.4,NBA,2025-05-11 00:30:00+00:00,2.0,3
+176667013,127235,54.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,109.0,5
+176667014,127235,5.0,True,False,False,False,False,NBA Showdown $10 Double Up (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,10.0,11
+176667015,127235,12.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN @ GSW),250.0,NBA,2025-05-11 00:30:00+00:00,25.0,11
+176667016,127235,25.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,50.0,11
+176667017,127235,2.0,True,False,False,False,False,NBA Showdown $5 Double Up (MIN @ GSW),50.0,NBA,2025-05-11 00:30:00+00:00,5.0,11
+176667018,127235,1.0,True,False,False,False,False,NBA Showdown $3 Double Up (MIN @ GSW),30.0,NBA,2025-05-11 00:30:00+00:00,3.0,11
+176667019,127235,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (MIN @ GSW),10.0,NBA,2025-05-11 00:30:00+00:00,1.0,11
+176667020,127235,12.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,25.0,22
+176667021,127235,25.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIN @ GSW),1000.0,NBA,2025-05-11 00:30:00+00:00,50.0,22
+176667022,127235,530.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (MIN @ GSW),4000.0,NBA,2025-05-11 00:30:00+00:00,1060.0,4
+176667023,127235,133.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (MIN @ GSW),1000.0,NBA,2025-05-11 00:30:00+00:00,267.0,4
+176667024,127235,204.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (MIN @ GSW)",1500.0,NBA,2025-05-11 00:30:00+00:00,408.0,4
+176667025,127235,2.0,False,False,False,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off [Must Fill] (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,5.0,4
+176667026,127235,4.0,False,False,False,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) [Must Fill] (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,9.0,3
+176667027,127235,3.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire [Must Fill] (MIN @ GSW),20.0,NBA,2025-05-11 00:30:00+00:00,7.4,3
+176667028,127235,100.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (MIN @ GSW),555.0,NBA,2025-05-11 00:30:00+00:00,201.0,3
+176667029,127235,587.0,False,False,False,False,True,NBA Showdown Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (MIN @ GSW),3333.0,NBA,2025-05-11 00:30:00+00:00,1175.0,3
+176667063,127230,25.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176667064,127230,25.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176667065,127230,54.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2025-05-10 19:30:00+00:00,109.0,4
+176667066,127230,54.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2025-05-10 19:30:00+00:00,109.0,4
+176667069,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176667070,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667071,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667072,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667073,127230,2.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667074,127230,2.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667075,127230,2.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667076,127230,5.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667077,127230,5.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667078,127230,5.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667079,127230,10.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667080,127230,10.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667081,127230,10.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667082,127230,265.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2025-05-10 19:30:00+00:00,530.0,3
+176667083,127230,54.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176667084,127230,54.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176667085,127230,54.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176667086,127230,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176667087,127230,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176667088,127230,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176667089,127230,1.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667090,127230,1.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667091,127230,1.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667092,127230,2.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667093,127230,2.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667094,127230,2.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667095,127230,5.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667096,127230,5.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667097,127230,5.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667098,127230,10.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176667099,127230,10.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176667100,127230,10.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176667101,127230,54.0,False,False,False,False,False,NBA $109 5-Player,500.0,NBA,2025-05-10 19:30:00+00:00,109.0,5
+176667102,127230,0.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667103,127230,0.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667104,127230,0.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667105,127230,1.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667106,127230,1.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667107,127230,1.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667108,127230,2.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667109,127230,2.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667110,127230,2.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667111,127230,2.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667112,127230,2.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667113,127230,2.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667114,127230,5.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667115,127230,5.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667116,127230,5.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667117,127230,5.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667118,127230,5.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667119,127230,10.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176667120,127230,10.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176667121,127230,25.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667122,127230,25.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667123,127230,25.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2025-05-10 19:30:00+00:00,50.0,5
+176667124,127230,25.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2025-05-10 19:30:00+00:00,50.0,5
+176667125,127230,2650.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176667126,127230,2650.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176667127,127230,2650.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176667128,127230,530.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,3
+176667129,127230,265.0,True,False,False,False,False,NBA $530 50-50,2000.0,NBA,2025-05-10 19:30:00+00:00,530.0,4
+176667130,127230,530.0,True,False,False,False,False,"NBA $1,060 50-50",4000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,4
+176667131,127230,10.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176667132,127230,10.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176667133,127230,0.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176667134,127230,0.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176667135,127230,0.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176667136,127230,1.0,False,False,False,False,False,NBA $2 20 Player,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667137,127230,1.0,False,False,False,False,False,NBA $2 20 Player,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667138,127230,0.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,1.0,50
+176667139,127230,0.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,1.0,50
+176667140,127230,0.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,1.0,50
+176667141,127230,25.0,False,False,False,False,False,Beginner NBA $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667142,127230,25.0,False,False,False,False,False,Beginner NBA $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667143,127230,0.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176667144,127230,0.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176667145,127230,0.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176667146,127230,25.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2025-05-10 19:30:00+00:00,50.0,10
+176667147,127230,25.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2025-05-10 19:30:00+00:00,50.0,10
+176667148,127230,25.0,False,False,False,False,False,NBA $50 10-Player,450.0,NBA,2025-05-10 19:30:00+00:00,50.0,10
+176667149,127230,2650.0,True,False,False,False,False,"NBA $5,300 50-50",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176667150,127230,2650.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,3
+176667151,127230,2.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176667152,127230,2.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176667153,127230,2.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176667154,127230,2.0,False,False,False,False,False,NBA $5 20-Player,90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176667155,127230,10.0,True,False,False,False,False,NBA $20 50-50,360.0,NBA,2025-05-10 19:30:00+00:00,20.0,20
+176667156,127230,10.0,False,False,False,False,False,NBA $20 20-Player,360.0,NBA,2025-05-10 19:30:00+00:00,20.0,20
+176667157,127230,1.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667158,127230,1.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667159,127230,1.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667160,127230,1.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667161,127230,1.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667162,127230,1.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667163,127230,1.0,False,False,False,False,False,NBA $2 40-Player,72.0,NBA,2025-05-10 19:30:00+00:00,2.0,40
+176667164,127230,1.0,False,False,False,False,False,NBA $2 40-Player,72.0,NBA,2025-05-10 19:30:00+00:00,2.0,40
+176667165,127230,81.0,True,False,False,False,False,NBA $162 50-50,600.0,NBA,2025-05-10 19:30:00+00:00,162.0,4
+176667166,127230,81.0,False,False,False,False,False,NBA $162 5-Player,750.0,NBA,2025-05-10 19:30:00+00:00,162.0,5
+176667167,127230,81.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2025-05-10 19:30:00+00:00,162.0,3
+176667168,127230,81.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2025-05-10 19:30:00+00:00,162.0,3
+176667169,127230,5300.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,3
+176667170,127230,5.0,True,False,False,False,False,NBA $10 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,10.0,20
+176667171,127230,5.0,False,False,False,False,False,NBA $10 20-Player,180.0,NBA,2025-05-10 19:30:00+00:00,10.0,20
+176667172,127230,0.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176667173,127230,0.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176667174,127230,0.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176667175,127230,0.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667176,127230,0.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667177,127230,0.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667178,127230,0.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2025-05-10 19:30:00+00:00,1.0,40
+176667179,127230,0.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2025-05-10 19:30:00+00:00,1.0,40
+176667180,127230,25.0,True,False,False,False,False,Beginner NBA $50 50-50,450.0,NBA,2025-05-10 19:30:00+00:00,50.0,10
+176667181,127230,2.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667182,127230,2.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667183,127230,2.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667184,127230,2.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667185,127230,2.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667186,127230,2.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667187,127230,2.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667188,127230,2.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667189,127230,2.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667190,127230,1.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2025-05-10 19:30:00+00:00,3.0,10
+176667191,127230,1.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2025-05-10 19:30:00+00:00,3.0,10
+176667192,127230,1.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2025-05-10 19:30:00+00:00,3.0,10
+176667193,127230,10.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176667194,127230,10.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176667195,127230,10.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176667196,127230,10.0,False,False,False,False,False,Beginner NBA $20 5-Player,90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176667197,127230,10.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667198,127230,10.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667199,127230,10.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667200,127230,1.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667201,127230,1.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667202,127230,1.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667203,127230,1.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667204,127230,1.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667205,127230,1.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667206,127230,5.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667207,127230,5.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667208,127230,5.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667209,127230,5.0,False,False,False,False,False,Beginner NBA $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667210,127230,5.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667211,127230,5.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667212,127230,5.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667213,127230,0.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667214,127230,0.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667215,127230,0.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667216,127230,0.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176667217,127230,0.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176667218,127230,0.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176667219,127230,54.0,True,False,False,False,False,NBA $109 50-50,600.0,NBA,2025-05-10 19:30:00+00:00,109.0,6
+176667220,127230,5300.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176667221,127230,5300.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176667222,127230,5300.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176667223,127230,1060.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,3
+176667224,127230,1060.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,3
+176667225,127230,1060.0,False,False,False,False,False,"NBA $2,120 5-Player",10000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,5
+176667226,127230,1060.0,False,False,False,False,False,"NBA $2,120 5-Player",10000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,5
+176667227,127230,1060.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,4
+176667228,127230,1060.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,4
+176667229,127230,25.0,True,False,False,False,False,Casual NBA $50 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176667230,127230,10.0,True,False,False,False,False,Casual NBA $20 50-50,72.0,NBA,2025-05-10 19:30:00+00:00,20.0,4
+176667231,127230,5.0,True,False,False,False,False,Casual NBA $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667232,127230,2.0,True,False,False,False,False,Casual NBA $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667233,127230,1.0,True,False,False,False,False,Casual NBA $3 50-50,27.0,NBA,2025-05-10 19:30:00+00:00,3.0,10
+176667234,127230,1.0,True,False,False,False,False,Casual NBA $3 50-50,10.8,NBA,2025-05-10 19:30:00+00:00,3.0,4
+176667235,127230,0.0,True,False,False,False,False,Casual NBA $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667236,127230,25.0,False,False,False,False,False,Casual NBA $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667237,127230,10.0,False,False,False,False,False,Casual NBA $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667238,127230,5.0,False,False,False,False,False,Casual NBA $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667239,127230,5.0,False,False,False,False,False,Casual NBA $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667240,127230,1.0,False,False,False,False,False,Casual NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667241,127230,1.0,False,False,False,False,False,Casual NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667242,127230,54.0,False,False,False,False,False,Casual NBA $109 5-Player,500.0,NBA,2025-05-10 19:30:00+00:00,109.0,5
+176667243,127230,5.0,True,False,False,False,False,NBA $10 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,10.0,11
+176667244,127230,12.0,True,False,False,False,False,NBA $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667245,127230,25.0,True,False,False,False,False,NBA $50 Double Up,500.0,NBA,2025-05-10 19:30:00+00:00,50.0,11
+176667246,127230,2.0,True,False,False,False,False,NBA $5 Double Up,50.0,NBA,2025-05-10 19:30:00+00:00,5.0,11
+176667247,127230,1.0,True,False,False,False,False,NBA $3 Double Up,30.0,NBA,2025-05-10 19:30:00+00:00,3.0,11
+176667248,127230,0.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176667249,127230,12.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2025-05-10 19:30:00+00:00,25.0,22
+176667250,127230,25.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2025-05-10 19:30:00+00:00,50.0,22
+176667251,127230,13100.0,False,False,False,False,True,NBA $100K Heavy Hitter [Must Fill],100000.0,NBA,2025-05-10 19:30:00+00:00,26200.0,4
+176667252,127230,530.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,4
+176667253,127230,2650.0,False,False,False,False,True,NBA $20K Thunderdome [Must Fill],20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176667255,127230,50.0,False,False,False,False,True,NBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2025-05-10 19:30:00+00:00,100.0,5
+176667256,127230,13100.0,False,False,False,False,True,NBA $75K Heavy Hitter [Must Fill],75000.0,NBA,2025-05-10 19:30:00+00:00,26200.0,3
+176667257,127230,2.0,False,False,False,False,False,LAST SHOT: NBA Satellite to 5-16 WNBA $10 Opening Tip-Off [Must Fill],18.0,NBA,2025-05-10 19:30:00+00:00,5.0,4
+176667258,127230,4.0,False,False,False,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5) [Must Fill],25.0,NBA,2025-05-10 19:30:00+00:00,9.0,3
+176667260,127230,60.0,False,False,False,False,True,NBA Satellite to TEN $333 Clay Smash (5-28) [Must Fill],333.0,NBA,2025-05-10 19:30:00+00:00,121.0,3
+176667261,127230,81.0,False,False,False,False,True,NBA Satellite to NAS 5-25 $600 Soda Fountain [Must FIll],600.0,NBA,2025-05-10 19:30:00+00:00,163.0,4
+176667262,127230,20.0,False,False,False,False,True,NBA Satellite to MLB 6-3 $111 MEGA Immaculate Inning [Must Fill],111.0,NBA,2025-05-10 19:30:00+00:00,41.0,3
+176667263,127230,3.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $15M Millionaire [Must Fill],20.0,NBA,2025-05-10 19:30:00+00:00,7.4,3
+176667264,127230,100.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill],555.0,NBA,2025-05-10 19:30:00+00:00,201.0,3
+176667265,127230,587.0,False,False,False,False,True,NBA Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill],3333.0,NBA,2025-05-10 19:30:00+00:00,1175.0,3
+176667266,127234,10.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (BOS @ NYK),54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667267,127234,25.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (BOS @ NYK),135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667268,127234,5.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667269,127234,2.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (BOS @ NYK),13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667270,127234,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (BOS @ NYK),2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176667271,127234,2650.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (BOS @ NYK)",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176667272,127234,530.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (BOS @ NYK)",4000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,4
+176667273,127234,265.0,True,False,False,False,False,NBA Showdown $530 50-50 (BOS @ NYK),2000.0,NBA,2025-05-10 19:30:00+00:00,530.0,4
+176667274,127234,81.0,True,False,False,False,False,NBA Showdown $162 50-50 (BOS @ NYK),600.0,NBA,2025-05-10 19:30:00+00:00,162.0,4
+176667275,127234,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (BOS @ NYK),400.0,NBA,2025-05-10 19:30:00+00:00,109.0,4
+176667276,127234,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (BOS @ NYK),180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176667277,127234,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS @ NYK),360.0,NBA,2025-05-10 19:30:00+00:00,20.0,20
+176667278,127234,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS @ NYK),180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176667279,127234,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS @ NYK),72.0,NBA,2025-05-10 19:30:00+00:00,20.0,4
+176667280,127234,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (BOS @ NYK),72.0,NBA,2025-05-10 19:30:00+00:00,20.0,4
+176667281,127234,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS @ NYK),180.0,NBA,2025-05-10 19:30:00+00:00,10.0,20
+176667282,127234,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS @ NYK),90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667283,127234,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS @ NYK),90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667284,127234,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,10.0,4
+176667285,127234,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,10.0,4
+176667286,127234,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,10.0,4
+176667287,127234,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS @ NYK),90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176667288,127234,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS @ NYK),90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176667289,127234,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667290,127234,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667291,127234,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667292,127234,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667293,127234,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667294,127234,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667295,127234,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667296,127234,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667297,127234,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176667298,127234,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176667299,127234,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667300,127234,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667301,127234,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667302,127234,25.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (BOS @ NYK),180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176667303,127234,10.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (BOS @ NYK),72.0,NBA,2025-05-10 19:30:00+00:00,20.0,4
+176667304,127234,5.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (BOS @ NYK),90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667305,127234,2.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667306,127234,1.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,3.0,10
+176667307,127234,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667308,127234,5.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667309,127234,2.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (BOS @ NYK),22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667310,127234,2.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (BOS @ NYK),13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667311,127234,1.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667312,127234,1.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667313,127234,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (BOS @ NYK),4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176667314,127234,5300.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS @ NYK)",30000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,3
+176667315,127234,2650.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (BOS @ NYK)",15000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,3
+176667316,127234,530.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (BOS @ NYK)",3000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,3
+176667317,127234,265.0,False,False,False,False,False,NBA Showdown $530 3-Player (BOS @ NYK),1500.0,NBA,2025-05-10 19:30:00+00:00,530.0,3
+176667318,127234,81.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS @ NYK),450.0,NBA,2025-05-10 19:30:00+00:00,162.0,3
+176667319,127234,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS @ NYK),300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176667320,127234,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS @ NYK),300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176667321,127234,25.0,False,False,False,False,False,NBA Showdown $50 5-Player (BOS @ NYK),225.0,NBA,2025-05-10 19:30:00+00:00,50.0,5
+176667322,127234,25.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS @ NYK),135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667323,127234,10.0,False,False,False,False,False,NBA Showdown $20 5-Player (BOS @ NYK),90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176667324,127234,10.0,False,False,False,False,False,NBA Showdown $20 5-Player (BOS @ NYK),90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176667326,127234,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS @ NYK),54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667327,127234,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS @ NYK),54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667328,127234,5.0,False,False,False,False,False,NBA Showdown $10 10-Player (BOS @ NYK),90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667329,127234,5.0,False,False,False,False,False,NBA Showdown $10 5-Player (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667330,127234,5.0,False,False,False,False,False,NBA Showdown $10 5-Player (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667331,127234,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667332,127234,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667333,127234,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667334,127234,2.0,False,False,False,False,False,NBA Showdown $5 10-Player (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667335,127234,2.0,False,False,False,False,False,NBA Showdown $5 10-Player (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667336,127234,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (BOS @ NYK),22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667337,127234,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (BOS @ NYK),22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667338,127234,2.0,False,False,False,False,False,NBA Showdown $5 5-Player (BOS @ NYK),22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667339,127234,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS @ NYK),13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667340,127234,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS @ NYK),13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667341,127234,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS @ NYK),13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667342,127234,1.0,False,False,False,False,False,NBA Showdown $2 20-Player (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667343,127234,1.0,False,False,False,False,False,NBA Showdown $2 20-Player (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667344,127234,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667345,127234,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667346,127234,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667347,127234,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667348,127234,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667349,127234,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667350,127234,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667351,127234,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667352,127234,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667353,127234,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667354,127234,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (BOS @ NYK),4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176667355,127234,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS @ NYK),2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176667356,127234,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS @ NYK),2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176667357,127234,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (BOS @ NYK),600.0,NBA,2025-05-10 19:30:00+00:00,109.0,6
+176667358,127234,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (BOS @ NYK)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176667359,127234,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (BOS @ NYK)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176667360,127234,5300.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (BOS @ NYK)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176667361,127234,25.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (BOS @ NYK),180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176667362,127234,10.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (BOS @ NYK),72.0,NBA,2025-05-10 19:30:00+00:00,20.0,4
+176667363,127234,5.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (BOS @ NYK),90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667364,127234,2.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667365,127234,1.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,3.0,10
+176667366,127234,1.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (BOS @ NYK),10.8,NBA,2025-05-10 19:30:00+00:00,3.0,4
+176667367,127234,0.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667368,127234,25.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (BOS @ NYK),135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667369,127234,10.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (BOS @ NYK),54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667370,127234,5.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (BOS @ NYK),45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667371,127234,5.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667372,127234,1.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667373,127234,1.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667374,127234,54.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (BOS @ NYK),500.0,NBA,2025-05-10 19:30:00+00:00,109.0,5
+176667375,127234,5.0,True,False,False,False,False,NBA Showdown $10 Double Up (BOS @ NYK),100.0,NBA,2025-05-10 19:30:00+00:00,10.0,11
+176667376,127234,12.0,True,False,False,False,False,NBA Showdown $25 Double Up (BOS @ NYK),250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667377,127234,25.0,True,False,False,False,False,NBA Showdown $50 Double Up (BOS @ NYK),500.0,NBA,2025-05-10 19:30:00+00:00,50.0,11
+176667378,127234,2.0,True,False,False,False,False,NBA Showdown $5 Double Up (BOS @ NYK),50.0,NBA,2025-05-10 19:30:00+00:00,5.0,11
+176667379,127234,1.0,True,False,False,False,False,NBA Showdown $3 Double Up (BOS @ NYK),30.0,NBA,2025-05-10 19:30:00+00:00,3.0,11
+176667380,127234,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (BOS @ NYK),10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176667381,127234,12.0,True,False,False,False,False,NBA Showdown $25 Double Up (BOS @ NYK),500.0,NBA,2025-05-10 19:30:00+00:00,25.0,22
+176667382,127234,25.0,True,False,False,False,False,NBA Showdown $50 Double Up (BOS @ NYK),1000.0,NBA,2025-05-10 19:30:00+00:00,50.0,22
+176667383,127234,530.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (BOS @ NYK),4000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,4
+176667384,127234,133.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (BOS @ NYK),1000.0,NBA,2025-05-10 19:30:00+00:00,267.0,4
+176667385,127234,204.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (BOS @ NYK)",1500.0,NBA,2025-05-10 19:30:00+00:00,408.0,4
+176667386,127234,2.0,False,False,False,False,False,LAST SHOT: NBA Showdown Satellite to 5-16 WNBA $10 Opening Tip-Off [Must Fill] (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,5.0,4
+176667387,127234,4.0,False,False,False,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) [Must Fill] (BOS @ NYK),25.0,NBA,2025-05-10 19:30:00+00:00,9.0,3
+176667388,127234,60.0,False,False,False,False,True,NBA Showdown Satellite to TEN $333 Clay Smash (5-28) [Must Fill] (BOS @ NYK),333.0,NBA,2025-05-10 19:30:00+00:00,121.0,3
+176667389,127234,81.0,False,False,False,False,True,NBA Showdown Satellite to NAS 5-25 $600 Soda Fountain [Must FIll] (BOS @ NYK),600.0,NBA,2025-05-10 19:30:00+00:00,163.0,4
+176667390,127234,20.0,False,False,False,False,True,NBA Showdown Satellite to MLB 6-3 $111 MEGA Immaculate Inning [Must Fill] (BOS @ NYK),111.0,NBA,2025-05-10 19:30:00+00:00,41.0,3
+176667391,127234,3.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire [Must Fill] (BOS @ NYK),20.0,NBA,2025-05-10 19:30:00+00:00,7.4,3
+176667392,127234,100.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill] (BOS @ NYK),555.0,NBA,2025-05-10 19:30:00+00:00,201.0,3
+176667393,127234,587.0,False,False,False,False,True,NBA Showdown Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill] (BOS @ NYK),3333.0,NBA,2025-05-10 19:30:00+00:00,1175.0,3
+176667394,127232,10.0,False,False,False,False,False,Beginner NBA Tiers $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667395,127232,25.0,False,False,False,False,False,Beginner NBA Tiers $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667396,127232,5.0,False,False,False,False,False,Beginner NBA Tiers $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667397,127232,2.0,False,False,False,False,False,Beginner NBA Tiers $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667398,127232,0.0,False,False,False,False,False,Beginner NBA Tiers $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176667399,127232,2650.0,True,False,False,False,False,"NBA Tiers $5,300 50-50",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176667400,127232,530.0,True,False,False,False,False,"NBA Tiers $1,060 50-50",4000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,4
+176667401,127232,265.0,True,False,False,False,False,NBA Tiers $530 50-50,2000.0,NBA,2025-05-10 19:30:00+00:00,530.0,4
+176667402,127232,81.0,True,False,False,False,False,NBA Tiers $162 50-50,600.0,NBA,2025-05-10 19:30:00+00:00,162.0,4
+176667403,127232,54.0,True,False,False,False,False,NBA Tiers $109 50-50,400.0,NBA,2025-05-10 19:30:00+00:00,109.0,4
+176667404,127232,25.0,True,False,False,False,False,NBA Tiers $50 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176667405,127232,10.0,True,False,False,False,False,NBA Tiers $20 50-50,360.0,NBA,2025-05-10 19:30:00+00:00,20.0,20
+176667406,127232,10.0,True,False,False,False,False,NBA Tiers $20 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176667407,127232,10.0,True,False,False,False,False,NBA Tiers $20 50-50,72.0,NBA,2025-05-10 19:30:00+00:00,20.0,4
+176667408,127232,10.0,True,False,False,False,False,NBA Tiers $20 50-50,72.0,NBA,2025-05-10 19:30:00+00:00,20.0,4
+176667409,127232,5.0,True,False,False,False,False,NBA Tiers $10 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,10.0,20
+176667410,127232,5.0,True,False,False,False,False,NBA Tiers $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667411,127232,5.0,True,False,False,False,False,NBA Tiers $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667412,127232,5.0,True,False,False,False,False,NBA Tiers $10 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,10.0,4
+176667413,127232,5.0,True,False,False,False,False,NBA Tiers $10 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,10.0,4
+176667414,127232,5.0,True,False,False,False,False,NBA Tiers $10 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,10.0,4
+176667415,127232,2.0,True,False,False,False,False,NBA Tiers $5 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176667416,127232,2.0,True,False,False,False,False,NBA Tiers $5 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176667417,127232,2.0,True,False,False,False,False,NBA Tiers $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667418,127232,2.0,True,False,False,False,False,NBA Tiers $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667419,127232,2.0,True,False,False,False,False,NBA Tiers $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667420,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667421,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667422,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667423,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667424,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667425,127232,0.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176667426,127232,0.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176667427,127232,0.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667428,127232,0.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667429,127232,0.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667430,127232,25.0,True,False,False,False,False,Beginner NBA Tiers $50 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176667431,127232,10.0,True,False,False,False,False,Beginner NBA Tiers $20 50-50,72.0,NBA,2025-05-10 19:30:00+00:00,20.0,4
+176667432,127232,5.0,True,False,False,False,False,Beginner NBA Tiers $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667433,127232,2.0,True,False,False,False,False,Beginner NBA Tiers $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667434,127232,1.0,True,False,False,False,False,Beginner NBA Tiers $3 50-50,27.0,NBA,2025-05-10 19:30:00+00:00,3.0,10
+176667435,127232,0.0,True,False,False,False,False,Beginner NBA Tiers $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667436,127232,5.0,False,False,False,False,False,Beginner NBA Tiers $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667437,127232,2.0,False,False,False,False,False,Beginner NBA Tiers $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667438,127232,2.0,False,False,False,False,False,Beginner NBA Tiers $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667439,127232,1.0,False,False,False,False,False,Beginner NBA Tiers $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667440,127232,1.0,False,False,False,False,False,Beginner NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667441,127232,0.0,False,False,False,False,False,Beginner NBA Tiers $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176667442,127232,5300.0,False,False,False,False,False,"NBA Tiers $10,600 3-Player",30000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,3
+176667443,127232,2650.0,False,False,False,False,False,"NBA Tiers $5,300 3-Player",15000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,3
+176667444,127232,530.0,False,False,False,False,False,"NBA Tiers $1,060 3-Player",3000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,3
+176667445,127232,265.0,False,False,False,False,False,NBA Tiers $530 3-Player,1500.0,NBA,2025-05-10 19:30:00+00:00,530.0,3
+176667446,127232,81.0,False,False,False,False,False,NBA Tiers $162 3-Player,450.0,NBA,2025-05-10 19:30:00+00:00,162.0,3
+176667447,127232,54.0,False,False,False,False,False,NBA Tiers $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176667448,127232,54.0,False,False,False,False,False,NBA Tiers $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176667449,127232,25.0,False,False,False,False,False,NBA Tiers $50 5-Player,225.0,NBA,2025-05-10 19:30:00+00:00,50.0,5
+176667450,127232,25.0,False,False,False,False,False,NBA Tiers $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667451,127232,10.0,False,False,False,False,False,NBA Tiers $20 5-Player,90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176667452,127232,10.0,False,False,False,False,False,NBA Tiers $20 5-Player,90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176667453,127232,10.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667454,127232,10.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667455,127232,10.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667456,127232,5.0,False,False,False,False,False,NBA Tiers $10 10-Player,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667457,127232,5.0,False,False,False,False,False,NBA Tiers $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667458,127232,5.0,False,False,False,False,False,NBA Tiers $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667459,127232,5.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667460,127232,5.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667461,127232,5.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667462,127232,2.0,False,False,False,False,False,NBA Tiers $5 10-Player,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667463,127232,2.0,False,False,False,False,False,NBA Tiers $5 10-Player,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667464,127232,2.0,False,False,False,False,False,NBA Tiers $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667465,127232,2.0,False,False,False,False,False,NBA Tiers $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667466,127232,2.0,False,False,False,False,False,NBA Tiers $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176667467,127232,2.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667468,127232,2.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667469,127232,2.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176667470,127232,1.0,False,False,False,False,False,NBA Tiers $2 20-Player,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667471,127232,1.0,False,False,False,False,False,NBA Tiers $2 20-Player,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176667472,127232,1.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667473,127232,1.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667474,127232,1.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667475,127232,1.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667476,127232,1.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667477,127232,1.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667478,127232,1.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667479,127232,1.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667480,127232,1.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667481,127232,0.0,False,False,False,False,False,NBA Tiers $1 10-Player,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667482,127232,0.0,False,False,False,False,False,NBA Tiers $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176667483,127232,0.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176667484,127232,0.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176667485,127232,54.0,True,False,False,False,False,NBA Tiers $109 50-50,600.0,NBA,2025-05-10 19:30:00+00:00,109.0,6
+176667486,127232,5300.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176667487,127232,5300.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176667488,127232,5300.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176667489,127232,25.0,True,False,False,False,False,Casual NBA Tiers $50 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176667490,127232,10.0,True,False,False,False,False,Casual NBA Tiers $20 50-50,72.0,NBA,2025-05-10 19:30:00+00:00,20.0,4
+176667491,127232,5.0,True,False,False,False,False,Casual NBA Tiers $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667492,127232,2.0,True,False,False,False,False,Casual NBA Tiers $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176667493,127232,1.0,True,False,False,False,False,Casual NBA Tiers $3 50-50,27.0,NBA,2025-05-10 19:30:00+00:00,3.0,10
+176667494,127232,1.0,True,False,False,False,False,Casual NBA Tiers $3 50-50,10.8,NBA,2025-05-10 19:30:00+00:00,3.0,4
+176667495,127232,0.0,True,False,False,False,False,Casual NBA Tiers $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667496,127232,25.0,False,False,False,False,False,Casual NBA Tiers $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176667497,127232,10.0,False,False,False,False,False,Casual NBA Tiers $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176667498,127232,5.0,False,False,False,False,False,Casual NBA Tiers $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176667499,127232,5.0,False,False,False,False,False,Casual NBA Tiers $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176667500,127232,1.0,False,False,False,False,False,Casual NBA Tiers $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176667501,127232,1.0,False,False,False,False,False,Casual NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176667502,127232,54.0,False,False,False,False,False,Casual NBA Tiers $109 5-Player,500.0,NBA,2025-05-10 19:30:00+00:00,109.0,5
+176667503,127232,5.0,True,False,False,False,False,NBA Tiers $10 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,10.0,11
+176667504,127232,12.0,True,False,False,False,False,NBA Tiers $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667505,127232,25.0,True,False,False,False,False,NBA Tiers $50 Double Up,500.0,NBA,2025-05-10 19:30:00+00:00,50.0,11
+176667506,127232,2.0,True,False,False,False,False,NBA Tiers $5 Double Up,50.0,NBA,2025-05-10 19:30:00+00:00,5.0,11
+176667507,127232,1.0,True,False,False,False,False,NBA Tiers $3 Double Up,30.0,NBA,2025-05-10 19:30:00+00:00,3.0,11
+176667508,127232,0.0,True,False,False,False,False,NBA Tiers $1 Double Up,10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176667509,127232,12.0,True,False,False,False,False,NBA Tiers $25 Double Up,500.0,NBA,2025-05-10 19:30:00+00:00,25.0,22
+176667510,127232,25.0,True,False,False,False,False,NBA Tiers $50 Double Up,1000.0,NBA,2025-05-10 19:30:00+00:00,50.0,22
+176667511,127232,530.0,False,False,False,False,True,NBA Tiers $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,4
+176667512,127232,133.0,False,False,False,False,True,NBA Tiers $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2025-05-10 19:30:00+00:00,267.0,4
+176667513,127232,204.0,False,False,False,False,True,"NBA Tiers $408 Winner Take All [$1.5K to 1st, Must Fill]",1500.0,NBA,2025-05-10 19:30:00+00:00,408.0,4
+176667514,127232,2.0,False,False,False,False,False,LAST SHOT: NBA Tiers Satellite to 5-16 WNBA $10 Opening Tip-Off [Must Fill],18.0,NBA,2025-05-10 19:30:00+00:00,5.0,4
+176667515,127232,4.0,False,False,False,False,True,NBA Tiers Satellite to NBA $25 Finals Tip-Off Special (6-5) [Must Fill],25.0,NBA,2025-05-10 19:30:00+00:00,9.0,3
+176667516,127232,60.0,False,False,False,False,True,NBA Tiers Satellite to TEN $333 Clay Smash (5-28) [Must Fill],333.0,NBA,2025-05-10 19:30:00+00:00,121.0,3
+176667517,127232,81.0,False,False,False,False,True,NBA Tiers Satellite to NAS 5-25 $600 Soda Fountain [Must FIll],600.0,NBA,2025-05-10 19:30:00+00:00,163.0,4
+176667518,127232,20.0,False,False,False,False,True,NBA Tiers Satellite to MLB 6-3 $111 MEGA Immaculate Inning [Must Fill],111.0,NBA,2025-05-10 19:30:00+00:00,41.0,3
+176667519,127232,3.0,False,False,False,False,True,NBA Tiers Satellite to NFL Best Ball $15M Millionaire [Must Fill],20.0,NBA,2025-05-10 19:30:00+00:00,7.4,3
+176667520,127232,100.0,False,False,False,False,True,NBA Tiers Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill],555.0,NBA,2025-05-10 19:30:00+00:00,201.0,3
+176667521,127232,587.0,False,False,False,False,True,NBA Tiers Satellite to MLB 8-26 $4M Ultimate Main Event [Must Fill],3333.0,NBA,2025-05-10 19:30:00+00:00,1175.0,3
+176667556,127230,265.0,True,False,True,False,True,NBA $530 50-50,3000.0,NBA,2025-05-10 19:30:00+00:00,530.0,6
+176667557,127230,2.0,False,False,True,False,False,NBA 10x Booster [Top 5 Win $50],250.0,NBA,2025-05-10 19:30:00+00:00,5.0,59
+176667558,127230,1.0,False,False,True,False,False,NBA 10x Booster [Top 10 Win $20],200.0,NBA,2025-05-10 19:30:00+00:00,2.0,118
+176667559,127230,1.0,False,False,True,False,False,NBA 10x Booster [Top 5 Win $20],100.0,NBA,2025-05-10 19:30:00+00:00,2.0,59
+176667560,127230,1.0,False,False,True,False,False,NBA 10x Booster [Top 3 Win $20],60.0,NBA,2025-05-10 19:30:00+00:00,2.0,35
+176667561,127230,2.0,False,False,True,False,False,NBA $5 Contest,200.0,NBA,2025-05-10 19:30:00+00:00,5.0,47
+176667562,127230,1.0,False,False,True,False,False,NBA $2 Contest,200.0,NBA,2025-05-10 19:30:00+00:00,2.0,118
+176667563,127230,0.0,False,False,True,False,False,NBA $1 Contest,50.0,NBA,2025-05-10 19:30:00+00:00,1.0,59
+176667564,127230,0.0,False,False,True,False,False,NBA $1 Contest,50.0,NBA,2025-05-10 19:30:00+00:00,1.0,59
+176667565,127230,0.0,False,False,True,False,False,NBA $0.25 Contest,50.0,NBA,2025-05-10 19:30:00+00:00,0.25,237
+176667566,127230,0.0,False,False,True,False,False,NBA $0.25 Contest,50.0,NBA,2025-05-10 19:30:00+00:00,0.25,237
+176667567,127230,25.0,True,False,True,False,False,NBA $50 Double Up,500.0,NBA,2025-05-10 19:30:00+00:00,50.0,11
+176667568,127230,0.0,True,False,True,False,False,Beginner NBA $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667569,127230,10.0,False,False,True,False,False,NBA $20 Winner Take All [$175 to 1st],175.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176667570,127230,1.0,False,False,True,False,False,NBA $2 Winner Take All [$120 to 1st],120.0,NBA,2025-05-10 19:30:00+00:00,2.0,71
+176667571,127230,0.0,False,False,True,False,False,NBA $0.25 Winner Take All [$50 to 1st],50.0,NBA,2025-05-10 19:30:00+00:00,0.25,237
+176667572,127230,12.0,True,False,True,False,False,NBA $25 Double Up,500.0,NBA,2025-05-10 19:30:00+00:00,25.0,22
+176667573,127230,12.0,True,False,True,False,False,NBA $25 Double Up,500.0,NBA,2025-05-10 19:30:00+00:00,25.0,22
+176667574,127230,5.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2025-05-10 19:30:00+00:00,10.0,23
+176667575,127230,1.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667576,127230,1.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667577,127230,1.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667578,127230,2.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667579,127230,2.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667580,127230,2.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667581,127230,2.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667582,127230,2.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667583,127230,2.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667584,127230,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667585,127230,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667586,127230,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667587,127230,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667588,127230,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667589,127230,1.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667590,127230,2.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667591,127230,2.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667592,127230,5.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2025-05-10 19:30:00+00:00,10.0,23
+176667593,127230,5.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2025-05-10 19:30:00+00:00,10.0,23
+176667594,127230,10.0,False,False,True,False,True,NBA $20 Winner Take All [$500 to 1st],500.0,NBA,2025-05-10 19:30:00+00:00,20.0,29
+176667595,127230,2.0,False,False,True,False,False,NBA $5 Winner Take All [$100 to 1st],100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667596,127230,1.0,False,False,True,False,False,NBA $3 Winner Take All [$100 to 1st],100.0,NBA,2025-05-10 19:30:00+00:00,3.0,39
+176667597,127230,0.0,False,False,True,False,False,NBA $1 Winner Take All [$100 to 1st],100.0,NBA,2025-05-10 19:30:00+00:00,1.0,118
+176667598,127230,25.0,False,False,True,False,False,NBA $50 Winner Take All [$500 to 1st],500.0,NBA,2025-05-10 19:30:00+00:00,50.0,11
+176667599,127230,0.0,True,False,True,False,False,Casual NBA $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667600,127230,2.0,False,False,True,False,False,NBA $5 Triple Up [Top 6 Win $15],90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176667601,127230,2.0,False,False,True,False,False,NBA $5 Triple Up [Top 6 Win $15],90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176667602,127230,12.0,False,False,True,False,False,NBA $25 Triple Up [Top 9 Win $75],675.0,NBA,2025-05-10 19:30:00+00:00,25.0,31
+176667603,127230,5.0,False,False,True,False,False,NBA $10 Triple Up [Top 9 Win $30],270.0,NBA,2025-05-10 19:30:00+00:00,10.0,31
+176667604,127230,2.0,False,False,True,False,False,NBA $5 Triple Up [Top 18 Win $15],270.0,NBA,2025-05-10 19:30:00+00:00,5.0,62
+176667605,127230,2.0,False,False,True,False,False,NBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2025-05-10 19:30:00+00:00,5.0,31
+176667606,127230,0.0,False,False,True,False,False,NBA $1 Triple Up [Top 18 Win $3],54.0,NBA,2025-05-10 19:30:00+00:00,1.0,62
+176667607,127230,0.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2025-05-10 19:30:00+00:00,1.0,31
+176667608,127230,0.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2025-05-10 19:30:00+00:00,1.0,31
+176667609,127230,0.0,False,False,True,False,False,NBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2025-05-10 19:30:00+00:00,1.0,31
+176667610,127230,133.0,False,False,True,False,True,NBA $267 Winner Take All [$1K to 1st],1000.0,NBA,2025-05-10 19:30:00+00:00,267.0,4
+176667611,127230,125.0,True,False,True,False,True,NBA $250 Double Up,5000.0,NBA,2025-05-10 19:30:00+00:00,250.0,22
+176667612,127230,530.0,True,False,True,False,True,"NBA $1,060 50-50",6000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,6
+176667613,127230,0.0,True,False,True,False,False,NBA $1 Double Up,54.0,NBA,2025-05-10 19:30:00+00:00,1.0,62
+176667614,127230,0.0,True,False,True,False,False,NBA $1 Double Up,54.0,NBA,2025-05-10 19:30:00+00:00,1.0,62
+176667615,127230,1.0,True,False,True,False,False,NBA $3 Double Up,324.0,NBA,2025-05-10 19:30:00+00:00,3.0,124
+176667616,127230,2.0,True,False,True,False,False,NBA $5 Double Up,540.0,NBA,2025-05-10 19:30:00+00:00,5.0,124
+176667617,127230,5.0,True,False,True,False,False,NBA $10 Double Up,540.0,NBA,2025-05-10 19:30:00+00:00,10.0,62
+176667618,127230,1.0,True,False,True,False,False,NBA $3 Double Up,162.0,NBA,2025-05-10 19:30:00+00:00,3.0,62
+176667619,127230,2.0,True,False,True,False,False,NBA $5 Double Up,270.0,NBA,2025-05-10 19:30:00+00:00,5.0,62
+176667620,127230,12.0,True,False,True,False,False,NBA $25 Double Up,850.0,NBA,2025-05-10 19:30:00+00:00,25.0,39
+176667621,127230,0.0,False,False,True,False,True,NBA $400 Dime Time [Just $0.10!],400.0,NBA,2025-05-10 19:30:00+00:00,0.1,4756
+176667622,127230,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667623,127230,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667624,127230,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667625,127230,1.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667626,127230,1.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667627,127230,5.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2025-05-10 19:30:00+00:00,10.0,23
+176667628,127230,0.0,True,False,True,False,False,NBA $1 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,1.0,114
+176667629,127230,12.0,False,False,True,False,False,NBA $25 Quintuple Up [Top 5 Win $125],625.0,NBA,2025-05-10 19:30:00+00:00,25.0,28
+176667630,127230,50.0,False,False,True,False,False,NBA $100 Triple Up [Top 3 Win $300],900.0,NBA,2025-05-10 19:30:00+00:00,100.0,10
+176667631,127230,5.0,False,False,True,False,False,NBA 10x Booster [Top 3 Win $100],300.0,NBA,2025-05-10 19:30:00+00:00,10.0,35
+176667632,127230,25.0,False,False,True,False,False,NBA $50 Triple Up [Top 3 Win $150],450.0,NBA,2025-05-10 19:30:00+00:00,50.0,10
+176667633,127230,0.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2025-05-10 19:30:00+00:00,1.0,28
+176667634,127230,0.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2025-05-10 19:30:00+00:00,1.0,28
+176667635,127230,2.0,False,False,True,False,False,NBA $5 Quintuple Up [Top 5 Win $25],125.0,NBA,2025-05-10 19:30:00+00:00,5.0,28
+176667636,127230,1.0,False,False,True,False,False,NBA $3 Quintuple Up [Top 5 Win $15],75.0,NBA,2025-05-10 19:30:00+00:00,3.0,28
+176667637,127230,125.0,True,False,True,False,False,NBA $250 Double Up,2500.0,NBA,2025-05-10 19:30:00+00:00,250.0,11
+176667638,127230,5.0,False,False,True,False,False,NBA $10 Triple Up [Top 3 Win $30],90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667639,127230,12.0,False,False,True,False,False,NBA $25 Triple Up [Top 3 Win $75],225.0,NBA,2025-05-10 19:30:00+00:00,25.0,10
+176667640,127230,0.0,False,False,True,False,False,NBA $1 Hundo [Single Entry],90.0,NBA,2025-05-10 19:30:00+00:00,1.0,100
+176667641,127230,12.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667642,127230,12.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667643,127230,12.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667644,127230,12.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667645,127230,12.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667646,127230,12.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667647,127230,0.0,False,False,True,False,True,NBA Satellite to $15 NBA Fadeaway,15.0,NBA,2025-05-10 19:30:00+00:00,0.1,178
+176667648,127230,45.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop,555.0,NBA,2025-05-10 19:30:00+00:00,90.0,7
+176667649,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667650,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667651,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667652,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667653,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667654,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667655,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667656,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667657,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667658,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667659,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667660,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667661,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667662,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x],50.0,NBA,2025-05-10 19:30:00+00:00,0.5,118
+176667663,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x],50.0,NBA,2025-05-10 19:30:00+00:00,0.5,118
+176667664,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x],50.0,NBA,2025-05-10 19:30:00+00:00,1.0,59
+176667665,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x],50.0,NBA,2025-05-10 19:30:00+00:00,1.0,59
+176667666,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x],50.0,NBA,2025-05-10 19:30:00+00:00,1.0,59
+176667667,127230,2.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x],100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667668,127230,2.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [10x],250.0,NBA,2025-05-10 19:30:00+00:00,4.0,74
+176667669,127230,4.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special [40x],1000.0,NBA,2025-05-10 19:30:00+00:00,8.0,147
+176667670,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special [20x],500.0,NBA,2025-05-10 19:30:00+00:00,1.0,594
+176667671,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special [10x],250.0,NBA,2025-05-10 19:30:00+00:00,1.0,297
+176667672,127230,1.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [20x],500.0,NBA,2025-05-10 19:30:00+00:00,3.0,198
+176667673,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.5,59
+176667674,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.5,59
+176667675,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,0.5,59
+176667676,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,1.0,29
+176667677,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,1.0,29
+176667678,127230,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,1.0,29
+176667679,127230,1.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5),25.0,NBA,2025-05-10 19:30:00+00:00,2.0,14
+176667680,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x],100.0,NBA,2025-05-10 19:30:00+00:00,1.0,118
+176667681,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x],100.0,NBA,2025-05-10 19:30:00+00:00,1.0,118
+176667682,127230,1.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x],100.0,NBA,2025-05-10 19:30:00+00:00,3.0,39
+176667683,127230,1.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x],100.0,NBA,2025-05-10 19:30:00+00:00,3.0,39
+176667684,127230,1.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [4x],100.0,NBA,2025-05-10 19:30:00+00:00,3.0,39
+176667685,127230,4.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [20x],500.0,NBA,2025-05-10 19:30:00+00:00,8.0,73
+176667686,127230,0.0,False,False,True,False,False,LAST SHOT: NBA Satellite to 5-16 WNBA $10 Opening Tip-Off,10.0,NBA,2025-05-10 19:30:00+00:00,0.1,118
+176667687,127230,0.0,False,False,True,False,False,LAST SHOT: NBA Satellite to 5-16 WNBA $10 Opening Tip-Off,10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176667688,127230,0.0,False,False,True,False,False,LAST SHOT: NBA Satellite to 5-16 WNBA $10 Opening Tip-Off,10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176667689,127230,0.0,False,False,True,False,False,LAST SHOT: NBA Satellite to 5-16 WNBA $10 Opening Tip-Off,10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176667690,127230,0.0,False,False,True,False,False,LAST SHOT: NBA Satellite to 5-16 WNBA $10 Opening Tip-Off,10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176667691,127230,0.0,False,False,True,False,False,LAST SHOT: NBA Satellite to 5-16 WNBA $10 Opening Tip-Off,10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176667692,127230,1.0,False,False,True,False,True,LAST SHOT: NBA SUPERSatellite to 5-16 WNBA $10 Opening Tip-Off [3x],30.0,NBA,2025-05-10 19:30:00+00:00,3.0,11
+176667693,127230,0.0,False,False,True,False,True,NBA Satellite to 6-14 UFL $20 Championship Special,20.0,NBA,2025-05-10 19:30:00+00:00,0.1,237
+176667694,127230,0.0,False,False,True,False,True,NBA Satellite to 5-15 Fantasy Golf Millionaire,25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667695,127230,0.0,False,False,True,False,True,NBA Satellite to 5-15 Fantasy Golf Millionaire,25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667696,127230,0.0,False,False,True,False,True,NBA Satellite to 5-15 Fantasy Golf Millionaire,25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667697,127230,0.0,False,False,True,False,True,NBA Satellite to 5-15 Fantasy Golf Millionaire,25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667698,127230,0.0,False,False,True,False,True,NBA Satellite to 5-15 Fantasy Golf Millionaire [2x],50.0,NBA,2025-05-10 19:30:00+00:00,0.5,118
+176667699,127230,1.0,False,False,True,False,True,NBA Satellite to 5-15 Fantasy Golf Millionaire [2x],50.0,NBA,2025-05-10 19:30:00+00:00,2.0,29
+176667700,127230,0.0,False,False,True,False,True,NBA Satellite to TEN $20 French Slam (5-27),20.0,NBA,2025-05-10 19:30:00+00:00,0.1,237
+176667701,127230,0.0,False,False,True,False,True,NBA Satellite to TEN $20 French Slam (5-27),20.0,NBA,2025-05-10 19:30:00+00:00,0.25,95
+176667702,127230,0.0,False,False,True,False,True,NBA Satellite to MLB 6-3 $111 MEGA Immaculate Inning,111.0,NBA,2025-05-10 19:30:00+00:00,1.0,131
+176667703,127230,16.0,False,False,True,False,True,NBA Satellite to MLB 6-3 $111 MEGA Immaculate Inning,111.0,NBA,2025-05-10 19:30:00+00:00,32.0,4
+176667704,127230,100.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $5M Monster Millionaire [Must Fill],555.0,NBA,2025-05-10 19:30:00+00:00,201.0,3
+176667705,127230,2.0,False,False,True,False,True,NBA SUPERSatellite to NFL Best Ball $15M Millionaire [4x],80.0,NBA,2025-05-10 19:30:00+00:00,5.0,19
+176667706,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,0.1,237
+176667707,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,0.1,237
+176667708,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,0.1,237
+176667709,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,0.1,237
+176667710,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,0.25,95
+176667711,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,0.25,95
+176667712,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,0.25,95
+176667713,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,0.25,95
+176667714,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NFL Best Ball $15M Millionaire [2x],40.0,NBA,2025-05-10 19:30:00+00:00,0.25,190
+176667715,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to NFL Best Ball $15M Millionaire [2x],40.0,NBA,2025-05-10 19:30:00+00:00,0.5,95
+176667716,127230,45.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $5M Monster Millionaire,555.0,NBA,2025-05-10 19:30:00+00:00,90.0,7
+176667717,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667718,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667719,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667720,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667721,127230,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $15M Millionaire,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667722,127230,1.0,False,False,True,False,True,NBA SUPERSatellite to NFL Best Ball $15M Millionaire [3x],60.0,NBA,2025-05-10 19:30:00+00:00,2.0,35
+176667723,127230,0.0,False,False,True,False,True,NBA Satellite to UFC 316 $25 Special (6-7),25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667724,127230,0.0,False,False,True,False,True,NBA Satellite to UFC 316 $25 Special (6-7),25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667725,127230,0.0,False,False,True,False,True,NBA Satellite to UFC 316 $25 Special (6-7),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667726,127230,0.0,False,False,True,False,True,NBA Satellite to UFC 316 $25 Special (6-7),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667727,127230,0.0,False,False,True,False,True,NBA Satellite to UFC 316 $25 Special (6-7),25.0,NBA,2025-05-10 19:30:00+00:00,0.5,59
+176667728,127230,0.0,False,False,True,False,True,NBA SUPERSatellite to UFC 316 $25 Special (6-7) [2x],50.0,NBA,2025-05-10 19:30:00+00:00,1.0,59
+176667729,127230,1.0,False,False,True,False,True,NBA SUPERSatellite to UFC 316 $25 Special (6-7) [2x],50.0,NBA,2025-05-10 19:30:00+00:00,3.0,19
+176667730,127230,1.0,False,False,True,False,True,NBA SUPERSatellite to UFC 316 $25 Special (6-7) [2x],50.0,NBA,2025-05-10 19:30:00+00:00,3.0,19
+176667731,127230,45.0,False,False,True,False,True,NBA Satellite to UFC 316 $555 Knockout Special (6-7),555.0,NBA,2025-05-10 19:30:00+00:00,90.0,7
+176667759,127232,0.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2025-05-10 19:30:00+00:00,1.0,31
+176667760,127232,2.0,False,False,True,False,False,NBA Tiers $5 Triple Up [Top 9 Win $15],135.0,NBA,2025-05-10 19:30:00+00:00,5.0,31
+176667761,127232,1.0,True,False,True,False,False,NBA Tiers $3 Double Up,60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667762,127232,12.0,True,False,True,False,False,NBA Tiers $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667763,127232,2.0,True,False,True,False,False,NBA Tiers $5 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667764,127232,0.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667765,127232,5.0,True,False,True,False,False,NBA Tiers $10 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,10.0,11
+176667766,127232,5.0,False,False,True,False,False,NBA Tiers $10 Triple Up [Top 3 Win $30],90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176667767,127232,50.0,False,False,False,False,True,NBA Tiers $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2025-05-10 19:30:00+00:00,100.0,5
+176667768,127232,1.0,True,False,True,False,False,NBA Tiers $3 Double Up,60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667769,127232,0.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667770,127232,0.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2025-05-10 19:30:00+00:00,1.0,31
+176667771,127232,2.0,False,False,True,False,False,NBA Tiers $5 Triple Up [Top 9 Win $15],135.0,NBA,2025-05-10 19:30:00+00:00,5.0,31
+176667772,127232,0.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667773,127232,42.0,False,False,True,False,True,NBA Tiers $85 Winner Take All [$300 to 1st],300.0,NBA,2025-05-10 19:30:00+00:00,85.0,4
+176667774,127232,12.0,False,False,True,False,True,NBA Tiers $25 Winner Take All [$110 to 1st],110.0,NBA,2025-05-10 19:30:00+00:00,25.0,5
+176667779,127234,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (BOS @ NYK),200.0,NBA,2025-05-10 19:30:00+00:00,10.0,23
+176667780,127234,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (BOS @ NYK),500.0,NBA,2025-05-10 19:30:00+00:00,50.0,11
+176667781,127234,0.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (BOS @ NYK),20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667782,127234,1.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 5 Win $20] (BOS @ NYK),100.0,NBA,2025-05-10 19:30:00+00:00,2.0,59
+176667783,127234,2.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $50] (BOS @ NYK),150.0,NBA,2025-05-10 19:30:00+00:00,5.0,35
+176667784,127234,25.0,False,False,True,False,False,NBA Showdown $50 Triple Up [Top 3 Win $150] (BOS @ NYK),450.0,NBA,2025-05-10 19:30:00+00:00,50.0,10
+176667785,127234,5.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (BOS @ NYK),300.0,NBA,2025-05-10 19:30:00+00:00,10.0,35
+176667786,127234,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS @ NYK),100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667787,127234,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS @ NYK),100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667788,127234,0.0,False,False,True,False,True,NBA Showdown $300 Dime Time [Just $0.10!] (BOS @ NYK),300.0,NBA,2025-05-10 19:30:00+00:00,0.1,3567
+176667789,127234,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS @ NYK),34.0,NBA,2025-05-10 19:30:00+00:00,1.0,39
+176667790,127234,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS @ NYK),34.0,NBA,2025-05-10 19:30:00+00:00,1.0,39
+176667791,127234,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS @ NYK),170.0,NBA,2025-05-10 19:30:00+00:00,5.0,39
+176667792,127234,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS @ NYK),250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667793,127234,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,1.0,31
+176667794,127234,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (BOS @ NYK),135.0,NBA,2025-05-10 19:30:00+00:00,5.0,31
+176667795,127234,5.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 9 Win $30] (BOS @ NYK),270.0,NBA,2025-05-10 19:30:00+00:00,10.0,31
+176667796,127234,13100.0,False,False,False,False,True,NBA Showdown $100K Heavy Hitter [Must Fill] (BOS @ NYK),100000.0,NBA,2025-05-10 19:30:00+00:00,26200.0,4
+176667797,127234,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS @ NYK),100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667798,127234,2.0,True,False,True,False,False,NBA Showdown $5 Double Up (BOS @ NYK),100.0,NBA,2025-05-10 19:30:00+00:00,5.0,23
+176667799,127234,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS @ NYK),250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667800,127234,1.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $20] (BOS @ NYK),60.0,NBA,2025-05-10 19:30:00+00:00,2.0,35
+176667801,127234,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,1.0,31
+176667802,127234,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,1.0,31
+176667803,127234,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (BOS @ NYK),500.0,NBA,2025-05-10 19:30:00+00:00,50.0,11
+176667804,127234,25.0,True,False,True,False,False,NBA Showdown $50 Double Up (BOS @ NYK),500.0,NBA,2025-05-10 19:30:00+00:00,50.0,11
+176667805,127234,2.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (BOS @ NYK),135.0,NBA,2025-05-10 19:30:00+00:00,5.0,31
+176667806,127234,50.0,True,False,True,False,False,NBA Showdown $100 Double Up (BOS @ NYK),1000.0,NBA,2025-05-10 19:30:00+00:00,100.0,11
+176667807,127234,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS @ NYK),20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667808,127234,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS @ NYK),20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667809,127234,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS @ NYK),20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667810,127234,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS @ NYK),60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667811,127234,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS @ NYK),60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667812,127234,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS @ NYK),60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667813,127234,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (BOS @ NYK),100.0,NBA,2025-05-10 19:30:00+00:00,10.0,11
+176667814,127234,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (BOS @ NYK),100.0,NBA,2025-05-10 19:30:00+00:00,10.0,11
+176667815,127234,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS @ NYK),250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667816,127234,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS @ NYK),250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667817,127234,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS @ NYK),20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667818,127234,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS @ NYK),20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667819,127234,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS @ NYK),60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667820,127234,1.0,True,False,True,False,False,NBA Showdown $3 Double Up (BOS @ NYK),60.0,NBA,2025-05-10 19:30:00+00:00,3.0,23
+176667821,127234,5.0,True,False,True,False,False,NBA Showdown $10 Double Up (BOS @ NYK),100.0,NBA,2025-05-10 19:30:00+00:00,10.0,11
+176667822,127234,12.0,True,False,True,False,False,NBA Showdown $25 Double Up (BOS @ NYK),250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176667823,127234,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,1.0,31
+176667824,127234,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (BOS @ NYK),20.0,NBA,2025-05-10 19:30:00+00:00,1.0,23
+176667825,127234,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (BOS @ NYK),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667826,127234,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (BOS @ NYK),25.0,NBA,2025-05-10 19:30:00+00:00,0.1,297
+176667827,127234,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (BOS @ NYK),25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667828,127234,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) (BOS @ NYK),25.0,NBA,2025-05-10 19:30:00+00:00,0.25,118
+176667829,127234,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (BOS @ NYK),50.0,NBA,2025-05-10 19:30:00+00:00,0.5,118
+176667830,127234,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-5) [2x] (BOS @ NYK),50.0,NBA,2025-05-10 19:30:00+00:00,1.0,59
+176667831,127234,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (BOS @ NYK),20.0,NBA,2025-05-10 19:30:00+00:00,0.1,237
+176667832,127234,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $15M Millionaire (BOS @ NYK),20.0,NBA,2025-05-10 19:30:00+00:00,0.25,95
+176667855,127233,0.0,False,False,True,False,False,NBA Single Stat $1 10-Player [Top 2 Win] (Points),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667856,127233,0.0,False,False,True,False,False,NBA Single Stat $1 10-Player [Top 2 Win] (Points),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176667858,127233,1.0,False,False,True,False,False,NBA Single Stat $2 10-Player [Top 2 Win] (Points),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176667859,127233,2.0,False,False,True,False,False,NBA Single Stat $5 10-Player [Top 2 Win] (Points),45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176669969,127230,0.0,False,False,True,False,False,NBA FREE 200-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,200
+176670156,127233,0.0,False,False,True,False,False,NBA Single Stat FREE 200-Player (Points),0.0,NBA,2025-05-10 19:30:00+00:00,0.0,200
+176670158,127232,0.0,False,False,True,False,False,NBA Tiers FREE 200-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,200
+176674043,127230,0.0,False,False,True,False,False,NBA FREE 200-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,200
+176674193,127235,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ GSW),2.7,NBA,2025-05-11 00:30:00+00:00,1.0,3
+176677001,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176679312,127230,1060.0,False,False,True,False,True,NBA $20K Hall of Famer [$10K to 1st],20000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,10
+176679349,127230,277.0,False,False,True,False,True,NBA $100K Alley-Oop [$20K to 1st],100000.0,NBA,2025-05-10 19:30:00+00:00,555.0,200
+176679357,127230,10.0,False,False,True,False,True,NBA $300K Shootaround [$100K to 1st],300000.0,NBA,2025-05-10 19:30:00+00:00,20.0,17647
+176679386,127230,100.0,False,False,True,False,True,NBA $20K Splash [3 Entry Max],20000.0,NBA,2025-05-10 19:30:00+00:00,200.0,111
+176679402,127230,44.0,False,False,True,False,True,"NBA $8K Box Out [3 Entry Max, $2K to 1st]",8000.0,NBA,2025-05-10 19:30:00+00:00,88.0,103
+176679430,127230,2.0,False,False,True,False,True,NBA $50K Four-Point Play [$10K to 1st],50000.0,NBA,2025-05-10 19:30:00+00:00,4.0,14863
+176679456,127230,0.0,False,False,True,False,True,NBA $15K And-One,15000.0,NBA,2025-05-10 19:30:00+00:00,1.0,17835
+176679499,127230,3.0,False,False,True,False,True,NBA $30K Jab Step [$5K to 1st],30000.0,NBA,2025-05-10 19:30:00+00:00,6.0,5882
+176679500,127230,2.0,False,False,True,False,True,NBA $40K Zone [$10K to 1st],40000.0,NBA,2025-05-10 19:30:00+00:00,5.0,9512
+176679501,127232,2.0,False,False,True,False,True,NBA Tiers $8K Zone [$2K to 1st],8000.0,NBA,2025-05-10 19:30:00+00:00,5.0,1902
+176679522,127235,111.0,False,False,True,False,True,NBA Showdown $50K SLAM Jam [$10K to 1st] (MIN @ GSW),50000.0,NBA,2025-05-11 00:30:00+00:00,222.0,250
+176679524,127235,9.0,False,False,True,False,True,NBA Showdown $300K Fadeaway [$100K to 1st] (MIN @ GSW),300000.0,NBA,2025-05-11 00:30:00+00:00,18.0,19607
+176679597,127234,5300.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (BOS @ NYK)",30000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,3
+176679598,127234,2650.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (BOS @ NYK)",15000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,3
+176679599,127234,530.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (BOS @ NYK)",3000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,3
+176679600,127234,265.0,False,False,False,False,False,NBA Showdown $530 3-Player (BOS @ NYK),1500.0,NBA,2025-05-10 19:30:00+00:00,530.0,3
+176679601,127234,81.0,False,False,False,False,False,NBA Showdown $162 3-Player (BOS @ NYK),450.0,NBA,2025-05-10 19:30:00+00:00,162.0,3
+176679602,127234,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS @ NYK),300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176679603,127234,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (BOS @ NYK),300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176679604,127234,25.0,False,False,False,False,False,NBA Showdown $50 3-Player (BOS @ NYK),135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176679605,127234,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS @ NYK),54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176679606,127234,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS @ NYK),54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176679607,127234,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (BOS @ NYK),54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176679608,127234,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176679609,127234,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176679610,127234,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (BOS @ NYK),27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176679611,127234,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS @ NYK),13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176679612,127234,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS @ NYK),13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176679613,127234,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (BOS @ NYK),13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176679629,127230,2.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176679630,127230,2.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176679631,127230,2.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176679632,127230,5.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176679633,127230,5.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176679634,127230,5.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176679635,127230,10.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176679636,127230,10.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176679637,127230,10.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176679638,127230,265.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2025-05-10 19:30:00+00:00,530.0,3
+176679639,127230,54.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176679640,127230,54.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176679641,127230,54.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176679642,127230,25.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176679643,127230,25.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176679644,127230,530.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,3
+176679645,127230,2650.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,3
+176679646,127230,81.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2025-05-10 19:30:00+00:00,162.0,3
+176679647,127230,81.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2025-05-10 19:30:00+00:00,162.0,3
+176679648,127230,5300.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,3
+176679649,127230,1060.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,3
+176679650,127230,1060.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,3
+176679651,127232,530.0,False,False,False,False,False,"NBA Tiers $1,060 3-Player",3000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,3
+176679652,127232,265.0,False,False,False,False,False,NBA Tiers $530 3-Player,1500.0,NBA,2025-05-10 19:30:00+00:00,530.0,3
+176679653,127232,81.0,False,False,False,False,False,NBA Tiers $162 3-Player,450.0,NBA,2025-05-10 19:30:00+00:00,162.0,3
+176679654,127232,54.0,False,False,False,False,False,NBA Tiers $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176679655,127232,54.0,False,False,False,False,False,NBA Tiers $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176679656,127232,25.0,False,False,False,False,False,NBA Tiers $50 3-Player,135.0,NBA,2025-05-10 19:30:00+00:00,50.0,3
+176679657,127232,10.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176679658,127232,10.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176679659,127232,10.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176679660,127232,5.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176679661,127232,5.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176679662,127232,5.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176679663,127232,2.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176679664,127232,2.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176679665,127232,2.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176679685,127235,5300.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (MIN @ GSW)",30000.0,NBA,2025-05-11 00:30:00+00:00,10600.0,3
+176679686,127235,2650.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MIN @ GSW)",15000.0,NBA,2025-05-11 00:30:00+00:00,5300.0,3
+176679687,127235,530.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MIN @ GSW)",3000.0,NBA,2025-05-11 00:30:00+00:00,1060.0,3
+176679688,127235,265.0,False,False,False,False,False,NBA Showdown $530 3-Player (MIN @ GSW),1500.0,NBA,2025-05-11 00:30:00+00:00,530.0,3
+176679689,127235,81.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIN @ GSW),450.0,NBA,2025-05-11 00:30:00+00:00,162.0,3
+176679690,127235,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ GSW),300.0,NBA,2025-05-11 00:30:00+00:00,109.0,3
+176679691,127235,54.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ GSW),300.0,NBA,2025-05-11 00:30:00+00:00,109.0,3
+176679692,127235,25.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIN @ GSW),135.0,NBA,2025-05-11 00:30:00+00:00,50.0,3
+176679693,127235,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ GSW),54.0,NBA,2025-05-11 00:30:00+00:00,20.0,3
+176679694,127235,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ GSW),54.0,NBA,2025-05-11 00:30:00+00:00,20.0,3
+176679695,127235,10.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ GSW),54.0,NBA,2025-05-11 00:30:00+00:00,20.0,3
+176679696,127235,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176679697,127235,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176679698,127235,5.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ GSW),27.0,NBA,2025-05-11 00:30:00+00:00,10.0,3
+176679699,127235,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ GSW),13.5,NBA,2025-05-11 00:30:00+00:00,5.0,3
+176679700,127235,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ GSW),13.5,NBA,2025-05-11 00:30:00+00:00,5.0,3
+176679701,127235,2.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ GSW),13.5,NBA,2025-05-11 00:30:00+00:00,5.0,3
+176681387,127230,0.0,False,False,True,False,False,NBA FREE 15-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,15
+176681423,127230,0.0,False,False,True,False,False,NBA FREE 25-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,25
+176681425,127230,0.0,False,False,True,False,False,NBA FREE 30-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,30
+176683271,127236,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIN @ GSW),2.7,NBA,2025-05-11 00:30:00+00:00,1.0,3
+176683323,127230,1.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176683784,127230,4.0,False,False,False,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-5) [Must Fill],25.0,NBA,2025-05-10 19:30:00+00:00,9.0,3
+176683814,127235,4.0,False,False,False,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-5) [Must Fill] (MIN @ GSW),25.0,NBA,2025-05-11 00:30:00+00:00,9.0,3
+176683839,127235,54.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIN @ GSW),400.0,NBA,2025-05-11 00:30:00+00:00,109.0,4
+176683840,127235,25.0,True,False,False,False,False,NBA Showdown $50 50-50 (MIN @ GSW),180.0,NBA,2025-05-11 00:30:00+00:00,50.0,4
+176683841,127235,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ GSW),360.0,NBA,2025-05-11 00:30:00+00:00,20.0,20
+176683842,127235,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ GSW),180.0,NBA,2025-05-11 00:30:00+00:00,20.0,10
+176683843,127235,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ GSW),72.0,NBA,2025-05-11 00:30:00+00:00,20.0,4
+176683844,127235,10.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ GSW),72.0,NBA,2025-05-11 00:30:00+00:00,20.0,4
+176683845,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),180.0,NBA,2025-05-11 00:30:00+00:00,10.0,20
+176683846,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176683847,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,10.0,10
+176683848,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,10.0,4
+176683849,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,10.0,4
+176683850,127235,5.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,10.0,4
+176683851,127235,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,5.0,20
+176683852,127235,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ GSW),90.0,NBA,2025-05-11 00:30:00+00:00,5.0,20
+176683853,127235,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,5.0,10
+176683854,127235,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,5.0,10
+176683855,127235,2.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ GSW),45.0,NBA,2025-05-11 00:30:00+00:00,5.0,10
+176683856,127235,5.0,True,False,False,False,False,NBA Showdown $10 Double Up (MIN @ GSW),100.0,NBA,2025-05-11 00:30:00+00:00,10.0,11
+176683857,127235,12.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN @ GSW),250.0,NBA,2025-05-11 00:30:00+00:00,25.0,11
+176683858,127235,25.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,50.0,11
+176683859,127235,2.0,True,False,False,False,False,NBA Showdown $5 Double Up (MIN @ GSW),50.0,NBA,2025-05-11 00:30:00+00:00,5.0,11
+176683860,127235,12.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN @ GSW),500.0,NBA,2025-05-11 00:30:00+00:00,25.0,22
+176684199,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176684200,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176684201,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176684202,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176684203,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176684204,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176684205,127230,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176684206,127230,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176684207,127230,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176684208,127230,1.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176684209,127230,1.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176684210,127230,1.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176684211,127230,0.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684212,127230,0.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684213,127230,0.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684214,127230,1.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684215,127230,1.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684216,127230,1.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684217,127230,0.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176684218,127230,0.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176684219,127230,0.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176684220,127230,1.0,False,False,False,False,False,NBA $2 20 Player,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684221,127230,1.0,False,False,False,False,False,NBA $2 20 Player,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684222,127230,0.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,1.0,50
+176684223,127230,0.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,1.0,50
+176684224,127230,0.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,1.0,50
+176684225,127230,1.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684226,127230,1.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684227,127230,1.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684228,127230,1.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684229,127230,1.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684230,127230,1.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684231,127230,1.0,False,False,False,False,False,NBA $2 40-Player,72.0,NBA,2025-05-10 19:30:00+00:00,2.0,40
+176684232,127230,1.0,False,False,False,False,False,NBA $2 40-Player,72.0,NBA,2025-05-10 19:30:00+00:00,2.0,40
+176684233,127230,0.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176684234,127230,0.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176684235,127230,0.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176684236,127230,0.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684237,127230,0.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684238,127230,0.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684239,127230,0.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2025-05-10 19:30:00+00:00,1.0,40
+176684240,127230,0.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2025-05-10 19:30:00+00:00,1.0,40
+176684241,127230,1.0,True,False,False,False,False,NBA $3 Double Up,30.0,NBA,2025-05-10 19:30:00+00:00,3.0,11
+176684242,127230,0.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176684258,127234,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684259,127234,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684260,127234,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684261,127234,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684262,127234,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684263,127234,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176684264,127234,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176684265,127234,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684266,127234,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684267,127234,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684268,127234,1.0,False,False,False,False,False,NBA Showdown $2 20-Player (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684269,127234,1.0,False,False,False,False,False,NBA Showdown $2 20-Player (BOS @ NYK),36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684270,127234,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684271,127234,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684272,127234,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (BOS @ NYK),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684273,127234,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176684274,127234,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176684275,127234,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176684276,127234,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176684277,127234,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176684278,127234,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176684279,127234,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684280,127234,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (BOS @ NYK),4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176684281,127234,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS @ NYK),2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176684282,127234,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS @ NYK),2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176684283,127234,1.0,True,False,False,False,False,NBA Showdown $3 Double Up (BOS @ NYK),30.0,NBA,2025-05-10 19:30:00+00:00,3.0,11
+176684284,127234,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (BOS @ NYK),10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176684321,127235,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,2.0,20
+176684322,127235,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,2.0,20
+176684323,127235,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176684324,127235,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176684325,127235,1.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176684326,127235,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,1.0,20
+176684327,127235,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,1.0,20
+176684328,127235,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,1.0,10
+176684329,127235,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,1.0,10
+176684330,127235,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,1.0,10
+176684331,127235,1.0,False,False,False,False,False,NBA Showdown $2 20-Player (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,2.0,20
+176684332,127235,1.0,False,False,False,False,False,NBA Showdown $2 20-Player (MIN @ GSW),36.0,NBA,2025-05-11 00:30:00+00:00,2.0,20
+176684333,127235,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176684334,127235,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176684335,127235,1.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ GSW),18.0,NBA,2025-05-11 00:30:00+00:00,2.0,10
+176684336,127235,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,2.0,5
+176684337,127235,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,2.0,5
+176684338,127235,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,2.0,5
+176684339,127235,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ GSW),5.4,NBA,2025-05-11 00:30:00+00:00,2.0,3
+176684340,127235,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ GSW),5.4,NBA,2025-05-11 00:30:00+00:00,2.0,3
+176684341,127235,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ GSW),5.4,NBA,2025-05-11 00:30:00+00:00,2.0,3
+176684342,127235,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (MIN @ GSW),9.0,NBA,2025-05-11 00:30:00+00:00,1.0,10
+176684343,127235,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (MIN @ GSW),4.5,NBA,2025-05-11 00:30:00+00:00,1.0,5
+176684344,127235,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ GSW),2.7,NBA,2025-05-11 00:30:00+00:00,1.0,3
+176684345,127235,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ GSW),2.7,NBA,2025-05-11 00:30:00+00:00,1.0,3
+176684346,127235,1.0,True,False,False,False,False,NBA Showdown $3 Double Up (MIN @ GSW),30.0,NBA,2025-05-11 00:30:00+00:00,3.0,11
+176684347,127235,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (MIN @ GSW),10.0,NBA,2025-05-11 00:30:00+00:00,1.0,11
+176684368,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684369,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684370,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684371,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684372,127232,1.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684373,127232,0.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176684374,127232,0.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2025-05-10 19:30:00+00:00,1.0,20
+176684375,127232,0.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684376,127232,0.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684377,127232,0.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684378,127232,1.0,False,False,False,False,False,NBA Tiers $2 20-Player,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684379,127232,1.0,False,False,False,False,False,NBA Tiers $2 20-Player,36.0,NBA,2025-05-10 19:30:00+00:00,2.0,20
+176684380,127232,1.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684381,127232,1.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684382,127232,1.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176684383,127232,1.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176684384,127232,1.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176684385,127232,1.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176684386,127232,1.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176684387,127232,1.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176684388,127232,1.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176684389,127232,0.0,False,False,False,False,False,NBA Tiers $1 10-Player,9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176684390,127232,0.0,False,False,False,False,False,NBA Tiers $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176684391,127232,0.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176684392,127232,0.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176684393,127232,1.0,True,False,False,False,False,NBA Tiers $3 Double Up,30.0,NBA,2025-05-10 19:30:00+00:00,3.0,11
+176684394,127232,0.0,True,False,False,False,False,NBA Tiers $1 Double Up,10.0,NBA,2025-05-10 19:30:00+00:00,1.0,11
+176684477,127230,0.0,False,False,False,False,False,NBA $1 25-Player (Winner Takes All),22.5,NBA,2025-05-10 19:30:00+00:00,1.0,25
+176684910,127236,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIN @ GSW),2.7,NBA,2025-05-11 00:30:00+00:00,1.0,3
+176684999,127234,0.0,False,False,True,False,False,NBA Showdown FREE 200-Player (BOS @ NYK),0.0,NBA,2025-05-10 19:30:00+00:00,0.0,200
+176685611,127235,1.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIN @ GSW),10.8,NBA,2025-05-11 00:30:00+00:00,3.0,4
+176685837,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176686231,127234,1.0,False,False,False,False,False,NBA Showdown $2 5-Player (BOS @ NYK),9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176686711,127230,1.0,False,False,False,False,False,NBA $2 10-Player (Winner Takes All),18.0,NBA,2025-05-10 19:30:00+00:00,2.0,10
+176686715,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176686716,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176686717,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176686718,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176686719,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176686720,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176686721,127230,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176686722,127230,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176686723,127230,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2025-05-10 19:30:00+00:00,1.0,5
+176686724,127230,1.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176686725,127230,1.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176686726,127230,1.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2025-05-10 19:30:00+00:00,2.0,5
+176687012,127231,0.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176687083,127230,10.0,False,False,False,False,False,NBA $20 3-Player (Winner Takes All),54.0,NBA,2025-05-10 19:30:00+00:00,20.0,3
+176687085,127230,1.0,True,False,False,False,False,Casual NBA $3 50-50,10.8,NBA,2025-05-10 19:30:00+00:00,3.0,4
+176687108,127230,0.0,False,False,True,False,False,NBA FREE 20-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,20
+176687225,127233,0.0,False,False,True,False,False,NBA Single Stat $1 10-Player [Top 2 Win] (Points),9.0,NBA,2025-05-10 19:30:00+00:00,1.0,10
+176687280,127236,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIN @ GSW),2.7,NBA,2025-05-11 00:30:00+00:00,1.0,3
+176687352,127230,2650.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176687353,127230,2650.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176687354,127230,2650.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176687355,127230,2650.0,True,False,False,False,False,"NBA $5,300 50-50",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176687356,127230,2650.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,3
+176687357,127230,5300.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,3
+176687358,127230,5300.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176687359,127230,5300.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176687360,127230,5300.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2025-05-10 19:30:00+00:00,10600.0,4
+176687515,127231,54.0,False,False,False,False,False,NBA Snake $109 3-Player,300.0,NBA,2025-05-10 19:30:00+00:00,109.0,3
+176687517,127230,25.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176687518,127230,25.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,50.0,4
+176687519,127230,54.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2025-05-10 19:30:00+00:00,109.0,4
+176687520,127230,54.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2025-05-10 19:30:00+00:00,109.0,4
+176687521,127230,2.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176687522,127230,2.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176687523,127230,2.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2025-05-10 19:30:00+00:00,5.0,5
+176687524,127230,5.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176687525,127230,5.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176687526,127230,5.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2025-05-10 19:30:00+00:00,10.0,5
+176687527,127230,10.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176687528,127230,10.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176687529,127230,10.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2025-05-10 19:30:00+00:00,20.0,5
+176687530,127230,54.0,False,False,False,False,False,NBA $109 5-Player,500.0,NBA,2025-05-10 19:30:00+00:00,109.0,5
+176687531,127230,2.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176687532,127230,2.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176687533,127230,2.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176687534,127230,2.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176687535,127230,2.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176687536,127230,2.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2025-05-10 19:30:00+00:00,5.0,10
+176687537,127230,5.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176687538,127230,5.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176687539,127230,5.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176687540,127230,5.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176687541,127230,5.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,10.0,10
+176687542,127230,10.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176687543,127230,10.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176687544,127230,25.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2025-05-10 19:30:00+00:00,50.0,5
+176687545,127230,25.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2025-05-10 19:30:00+00:00,50.0,5
+176687546,127230,10.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176687547,127230,10.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2025-05-10 19:30:00+00:00,20.0,10
+176687548,127230,25.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2025-05-10 19:30:00+00:00,50.0,10
+176687549,127230,25.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2025-05-10 19:30:00+00:00,50.0,10
+176687550,127230,25.0,False,False,False,False,False,NBA $50 10-Player,450.0,NBA,2025-05-10 19:30:00+00:00,50.0,10
+176687551,127230,2.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176687552,127230,2.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176687553,127230,2.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176687554,127230,2.0,False,False,False,False,False,NBA $5 20-Player,90.0,NBA,2025-05-10 19:30:00+00:00,5.0,20
+176687555,127230,10.0,True,False,False,False,False,NBA $20 50-50,360.0,NBA,2025-05-10 19:30:00+00:00,20.0,20
+176687556,127230,10.0,False,False,False,False,False,NBA $20 20-Player,360.0,NBA,2025-05-10 19:30:00+00:00,20.0,20
+176687557,127230,81.0,True,False,False,False,False,NBA $162 50-50,600.0,NBA,2025-05-10 19:30:00+00:00,162.0,4
+176687558,127230,81.0,False,False,False,False,False,NBA $162 5-Player,750.0,NBA,2025-05-10 19:30:00+00:00,162.0,5
+176687559,127230,5.0,True,False,False,False,False,NBA $10 50-50,180.0,NBA,2025-05-10 19:30:00+00:00,10.0,20
+176687560,127230,5.0,False,False,False,False,False,NBA $10 20-Player,180.0,NBA,2025-05-10 19:30:00+00:00,10.0,20
+176687561,127230,54.0,True,False,False,False,False,NBA $109 50-50,600.0,NBA,2025-05-10 19:30:00+00:00,109.0,6
+176687562,127230,1060.0,False,False,False,False,False,"NBA $2,120 5-Player",10000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,5
+176687563,127230,1060.0,False,False,False,False,False,"NBA $2,120 5-Player",10000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,5
+176687564,127230,5.0,True,False,False,False,False,NBA $10 Double Up,100.0,NBA,2025-05-10 19:30:00+00:00,10.0,11
+176687565,127230,12.0,True,False,False,False,False,NBA $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
+176687566,127230,25.0,True,False,False,False,False,NBA $50 Double Up,500.0,NBA,2025-05-10 19:30:00+00:00,50.0,11
+176687567,127230,2.0,True,False,False,False,False,NBA $5 Double Up,50.0,NBA,2025-05-10 19:30:00+00:00,5.0,11
+176687568,127230,12.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2025-05-10 19:30:00+00:00,25.0,22
+176687569,127230,25.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2025-05-10 19:30:00+00:00,50.0,22
+176687590,127230,265.0,True,False,False,False,False,NBA $530 50-50,2000.0,NBA,2025-05-10 19:30:00+00:00,530.0,4
+176687591,127230,530.0,True,False,False,False,False,"NBA $1,060 50-50",4000.0,NBA,2025-05-10 19:30:00+00:00,1060.0,4
+176687592,127230,1060.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,4
+176687593,127230,1060.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2025-05-10 19:30:00+00:00,2120.0,4
+176687594,127230,133.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2025-05-10 19:30:00+00:00,267.0,4
+176687597,127230,2650.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176687598,127230,2650.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176687599,127230,2650.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2025-05-10 19:30:00+00:00,5300.0,4
+176688086,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176688087,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176688088,127230,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176688089,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176688090,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176688091,127230,1.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176688108,127232,1.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176688109,127232,1.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176688110,127232,1.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176688111,127232,0.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176688112,127232,0.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176688166,127234,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176688167,127234,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176688168,127234,1.0,False,False,False,False,False,NBA Showdown $2 3-Player (BOS @ NYK),5.4,NBA,2025-05-10 19:30:00+00:00,2.0,3
+176688169,127234,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS @ NYK),2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176688170,127234,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (BOS @ NYK),2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176688221,127230,0.0,False,False,True,False,False,NBA FREE 10-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,10
+176688222,127230,0.0,False,False,True,False,False,NBA FREE 17-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,17
+176688247,127230,0.0,False,False,True,False,False,NBA FREE 8-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,8
+176688272,127233,0.0,False,False,True,False,False,NBA Single Stat FREE 6-Player (Points),0.0,NBA,2025-05-10 19:30:00+00:00,0.0,6
+176688287,127233,0.0,False,False,True,False,False,NBA Single Stat FREE 16-Player (Points),0.0,NBA,2025-05-10 19:30:00+00:00,0.0,16
+176688296,127233,0.0,False,False,True,False,False,NBA Single Stat FREE 10-Player (Points),0.0,NBA,2025-05-10 19:30:00+00:00,0.0,10
+176688297,127232,0.0,False,False,True,False,False,NBA Tiers FREE 7-Player,0.0,NBA,2025-05-10 19:30:00+00:00,0.0,7
+176688382,127231,2.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176688383,127234,5.0,False,False,False,False,False,NBA Showdown $10 7-Player (Winner Takes All) (BOS @ NYK),63.0,NBA,2025-05-10 19:30:00+00:00,10.0,7
+176688388,127231,5.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2025-05-10 19:30:00+00:00,10.0,3
+176688456,127231,2.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2025-05-10 19:30:00+00:00,5.0,3
+176688494,127230,1.0,False,False,False,False,False,NBA $3 5-Player (Top 2 Win),13.5,NBA,2025-05-10 19:30:00+00:00,3.0,5
+176688590,127231,0.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2025-05-10 19:30:00+00:00,1.0,3
+176688627,127230,12.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2025-05-10 19:30:00+00:00,25.0,11
