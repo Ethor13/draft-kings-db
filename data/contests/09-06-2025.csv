@@ -1,0 +1,192 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+181663880,132950,1.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2025-09-06 17:00:00+00:00,3.0,23
+181663881,132950,2.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2025-09-06 17:00:00+00:00,5.0,23
+181663882,132950,5.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2025-09-06 17:00:00+00:00,10.0,11
+181663883,132950,12.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2025-09-06 17:00:00+00:00,25.0,11
+181663884,132950,12.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2025-09-06 17:00:00+00:00,25.0,11
+181663885,132950,12.0,False,False,True,False,True,WNBA $25 Winner Take All [$110 to 1st],110.0,NBA,2025-09-06 17:00:00+00:00,25.0,5
+181663886,132950,12.0,False,False,True,False,True,WNBA $25 Winner Take All [$110 to 1st],110.0,NBA,2025-09-06 17:00:00+00:00,25.0,5
+181663887,132950,0.0,False,False,True,False,True,WNBA Satellite to WNBA $15 Playoff Fadeaway,15.0,NBA,2025-09-06 17:00:00+00:00,1.0,17
+181663948,132950,1.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2025-09-06 17:00:00+00:00,2.0,3
+181663949,132950,5.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2025-09-06 17:00:00+00:00,10.0,3
+181663950,132950,2.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2025-09-06 17:00:00+00:00,5.0,3
+181663951,132950,0.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2025-09-06 17:00:00+00:00,1.0,3
+181663952,132950,0.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2025-09-06 17:00:00+00:00,1.0,10
+181663953,132950,0.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2025-09-06 17:00:00+00:00,1.0,5
+181663954,132950,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2025-09-06 17:00:00+00:00,1.0,3
+181663955,132950,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2025-09-06 17:00:00+00:00,1.0,3
+181663956,132950,10.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2025-09-06 17:00:00+00:00,20.0,10
+181663957,132950,5.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2025-09-06 17:00:00+00:00,10.0,10
+181663958,132950,2.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2025-09-06 17:00:00+00:00,5.0,10
+181663959,132950,1.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2025-09-06 17:00:00+00:00,3.0,10
+181663960,132950,0.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2025-09-06 17:00:00+00:00,1.0,10
+181663961,132950,2.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2025-09-06 17:00:00+00:00,5.0,3
+181663962,132950,1.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2025-09-06 17:00:00+00:00,2.0,3
+181663963,132950,1.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2025-09-06 17:00:00+00:00,2.0,3
+181663964,132950,1.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2025-09-06 17:00:00+00:00,2.0,3
+181663965,132950,1.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2025-09-06 17:00:00+00:00,2.0,5
+181663966,132950,1.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2025-09-06 17:00:00+00:00,2.0,10
+181663967,132950,2.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2025-09-06 17:00:00+00:00,5.0,3
+181663968,132950,2.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2025-09-06 17:00:00+00:00,5.0,5
+181663969,132950,2.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2025-09-06 17:00:00+00:00,5.0,10
+181663970,132950,5.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2025-09-06 17:00:00+00:00,10.0,5
+181663971,132950,5.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2025-09-06 17:00:00+00:00,10.0,3
+181663972,132950,10.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2025-09-06 17:00:00+00:00,20.0,3
+181663973,132950,25.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2025-09-06 17:00:00+00:00,50.0,5
+181663974,132950,25.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2025-09-06 17:00:00+00:00,50.0,3
+181663975,132950,54.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2025-09-06 17:00:00+00:00,109.0,3
+181663976,132950,81.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2025-09-06 17:00:00+00:00,162.0,3
+181663977,132950,265.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2025-09-06 17:00:00+00:00,530.0,3
+181663978,132950,530.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2025-09-06 17:00:00+00:00,1060.0,3
+181663979,132950,2650.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2025-09-06 17:00:00+00:00,5300.0,3
+181663980,132950,5300.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2025-09-06 17:00:00+00:00,10600.0,3
+181663981,132950,10.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2025-09-06 17:00:00+00:00,20.0,4
+181663982,132950,5.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2025-09-06 17:00:00+00:00,10.0,10
+181663983,132950,0.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2025-09-06 17:00:00+00:00,1.0,10
+181663984,132950,1.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2025-09-06 17:00:00+00:00,3.0,10
+181663985,132950,2.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2025-09-06 17:00:00+00:00,5.0,10
+181663986,132950,2650.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2025-09-06 17:00:00+00:00,5300.0,4
+181663987,132950,530.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2025-09-06 17:00:00+00:00,1060.0,4
+181663988,132950,265.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2025-09-06 17:00:00+00:00,530.0,4
+181663989,132950,54.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2025-09-06 17:00:00+00:00,109.0,4
+181663990,132950,25.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2025-09-06 17:00:00+00:00,50.0,4
+181663991,132950,10.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2025-09-06 17:00:00+00:00,20.0,4
+181663992,132950,5.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2025-09-06 17:00:00+00:00,10.0,4
+181663993,132950,25.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2025-09-06 17:00:00+00:00,50.0,10
+181663994,132950,0.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2025-09-06 17:00:00+00:00,1.0,10
+181663995,132950,2.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2025-09-06 17:00:00+00:00,5.0,10
+181663996,132950,54.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2025-09-06 17:00:00+00:00,109.0,6
+181663997,132950,1.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2025-09-06 17:00:00+00:00,2.0,10
+181663998,132950,10.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2025-09-06 17:00:00+00:00,20.0,10
+181663999,132950,5.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2025-09-06 17:00:00+00:00,10.0,10
+181664000,132950,2.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2025-09-06 17:00:00+00:00,5.0,20
+181664001,132950,5.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2025-09-06 17:00:00+00:00,10.0,20
+181664002,132950,10.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2025-09-06 17:00:00+00:00,20.0,20
+181664003,132950,1.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2025-09-06 17:00:00+00:00,2.0,20
+181664004,132950,0.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2025-09-06 17:00:00+00:00,1.0,20
+181664005,132950,530.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2025-09-06 17:00:00+00:00,1060.0,4
+181664006,132950,530.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2025-09-06 17:00:00+00:00,1060.0,4
+181664007,132950,133.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2025-09-06 17:00:00+00:00,267.0,4
+181664008,132950,50.0,False,False,False,False,True,WNBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2025-09-06 17:00:00+00:00,100.0,5
+181664009,132950,750.0,False,False,False,False,True,WNBA $5.7K Courtside Special [Single Entry] (Must Fill),5700.0,NBA,2025-09-06 17:00:00+00:00,1500.0,4
+181664010,132950,0.0,False,False,False,False,True,WNBA Satellite to NFL 9-7 $5 Fantasy Football Millionaire [Must Fill],5.0,NBA,2025-09-06 17:00:00+00:00,1.85,3
+181664011,132950,18.0,False,False,False,False,True,WNBA Satellite to NFL 9-7 $100 Fantasy Football Millionaire [Must Fill],100.0,NBA,2025-09-06 17:00:00+00:00,37.0,3
+181664012,132950,2.0,False,False,False,False,True,WNBA Satellite to WNBA $15 Playoff Fadeaway [Must Fill],15.0,NBA,2025-09-06 17:00:00+00:00,5.55,3
+181664013,132950,0.0,False,False,False,False,True,WNBA Satellite to NHL 10-7 $5 Opening Night Puck Drop [Must Fill],5.0,NBA,2025-09-06 17:00:00+00:00,1.85,3
+181664014,132950,65.0,False,False,False,False,True,WNBA Satellite to NHL 10-14 $360 Spin-O-Rama [Must Fill],360.0,NBA,2025-09-06 17:00:00+00:00,130.0,3
+181664015,132950,2.0,False,False,False,False,True,WNBA Satellite to NBA 10-21 $15 Opening Tip Off [Must Fill],15.0,NBA,2025-09-06 17:00:00+00:00,5.55,3
+181664016,132950,2.0,False,False,False,False,True,WNBA Satellite to NBA 10-21 $15 Opening Tip Off [Must Fill],15.0,NBA,2025-09-06 17:00:00+00:00,5.55,3
+181664038,132952,0.0,False,False,True,False,True,WNBA Single Stat $1 Winner Take All [$100 to 1st] (Points),100.0,NBA,2025-09-06 17:00:00+00:00,1.0,118
+181672061,132951,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (MIN @ GSV),20.0,NBA,2025-09-07 00:30:00+00:00,1.0,23
+181672062,132951,1.0,True,False,True,False,False,WNBA Showdown $3 Double Up (MIN @ GSV),60.0,NBA,2025-09-07 00:30:00+00:00,3.0,23
+181672063,132951,2.0,True,False,True,False,False,WNBA Showdown $5 Double Up (MIN @ GSV),100.0,NBA,2025-09-07 00:30:00+00:00,5.0,23
+181672064,132951,5.0,True,False,True,False,False,WNBA Showdown $10 Double Up (MIN @ GSV),100.0,NBA,2025-09-07 00:30:00+00:00,10.0,11
+181672065,132951,12.0,True,False,True,False,False,WNBA Showdown $25 Double Up (MIN @ GSV),250.0,NBA,2025-09-07 00:30:00+00:00,25.0,11
+181672066,132951,12.0,True,False,True,False,False,WNBA Showdown $25 Double Up (MIN @ GSV),250.0,NBA,2025-09-07 00:30:00+00:00,25.0,11
+181672067,132951,12.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (MIN @ GSV),110.0,NBA,2025-09-07 00:30:00+00:00,25.0,5
+181672068,132951,12.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (MIN @ GSV),110.0,NBA,2025-09-07 00:30:00+00:00,25.0,5
+181672069,132951,0.0,False,False,True,False,True,WNBA Showdown Satellite to WNBA $15 Playoff Fadeaway (MIN @ GSV),15.0,NBA,2025-09-07 00:30:00+00:00,1.0,17
+181672100,132951,1.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (MIN @ GSV),5.4,NBA,2025-09-07 00:30:00+00:00,2.0,3
+181672101,132951,5.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (MIN @ GSV),27.0,NBA,2025-09-07 00:30:00+00:00,10.0,3
+181672102,132951,2.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (MIN @ GSV),13.5,NBA,2025-09-07 00:30:00+00:00,5.0,3
+181672103,132951,0.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (MIN @ GSV),2.7,NBA,2025-09-07 00:30:00+00:00,1.0,3
+181672104,132951,0.0,False,False,False,False,False,WNBA Showdown $1 10-Player (MIN @ GSV),9.0,NBA,2025-09-07 00:30:00+00:00,1.0,10
+181672105,132951,0.0,False,False,False,False,False,WNBA Showdown $1 5-Player (MIN @ GSV),4.5,NBA,2025-09-07 00:30:00+00:00,1.0,5
+181672106,132951,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (MIN @ GSV),2.7,NBA,2025-09-07 00:30:00+00:00,1.0,3
+181672107,132951,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (MIN @ GSV),2.7,NBA,2025-09-07 00:30:00+00:00,1.0,3
+181672108,132951,10.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (MIN @ GSV),180.0,NBA,2025-09-07 00:30:00+00:00,20.0,10
+181672109,132951,5.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (MIN @ GSV),90.0,NBA,2025-09-07 00:30:00+00:00,10.0,10
+181672110,132951,2.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (MIN @ GSV),45.0,NBA,2025-09-07 00:30:00+00:00,5.0,10
+181672111,132951,1.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (MIN @ GSV),27.0,NBA,2025-09-07 00:30:00+00:00,3.0,10
+181672112,132951,0.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (MIN @ GSV),9.0,NBA,2025-09-07 00:30:00+00:00,1.0,10
+181672113,132951,2.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (MIN @ GSV),13.5,NBA,2025-09-07 00:30:00+00:00,5.0,3
+181672114,132951,1.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (MIN @ GSV),5.4,NBA,2025-09-07 00:30:00+00:00,2.0,3
+181672115,132951,1.0,False,False,False,False,False,WNBA Showdown $2 3-Player (MIN @ GSV),5.4,NBA,2025-09-07 00:30:00+00:00,2.0,3
+181672116,132951,1.0,False,False,False,False,False,WNBA Showdown $2 3-Player (MIN @ GSV),5.4,NBA,2025-09-07 00:30:00+00:00,2.0,3
+181672117,132951,1.0,False,False,False,False,False,WNBA Showdown $2 5-Player (MIN @ GSV),9.0,NBA,2025-09-07 00:30:00+00:00,2.0,5
+181672118,132951,1.0,False,False,False,False,False,WNBA Showdown $2 10-Player (MIN @ GSV),18.0,NBA,2025-09-07 00:30:00+00:00,2.0,10
+181672119,132951,2.0,False,False,False,False,False,WNBA Showdown $5 3-Player (MIN @ GSV),13.5,NBA,2025-09-07 00:30:00+00:00,5.0,3
+181672120,132951,2.0,False,False,False,False,False,WNBA Showdown $5 5-Player (MIN @ GSV),22.5,NBA,2025-09-07 00:30:00+00:00,5.0,5
+181672121,132951,2.0,False,False,False,False,False,WNBA Showdown $5 10-Player (MIN @ GSV),45.0,NBA,2025-09-07 00:30:00+00:00,5.0,10
+181672122,132951,5.0,False,False,False,False,False,WNBA Showdown $10 5-Player (MIN @ GSV),45.0,NBA,2025-09-07 00:30:00+00:00,10.0,5
+181672123,132951,5.0,False,False,False,False,False,WNBA Showdown $10 3-Player (MIN @ GSV),27.0,NBA,2025-09-07 00:30:00+00:00,10.0,3
+181672124,132951,10.0,False,False,False,False,False,WNBA Showdown $20 3-Player (MIN @ GSV),54.0,NBA,2025-09-07 00:30:00+00:00,20.0,3
+181672125,132951,25.0,False,False,False,False,False,WNBA Showdown $50 5-Player (MIN @ GSV),225.0,NBA,2025-09-07 00:30:00+00:00,50.0,5
+181672126,132951,25.0,False,False,False,False,False,WNBA Showdown $50 3-Player (MIN @ GSV),135.0,NBA,2025-09-07 00:30:00+00:00,50.0,3
+181672127,132951,54.0,False,False,False,False,False,WNBA Showdown $109 3-Player (MIN @ GSV),300.0,NBA,2025-09-07 00:30:00+00:00,109.0,3
+181672128,132951,81.0,False,False,False,False,False,WNBA Showdown $162 3-Player (MIN @ GSV),450.0,NBA,2025-09-07 00:30:00+00:00,162.0,3
+181672129,132951,265.0,False,False,False,False,False,WNBA Showdown $530 3-Player (MIN @ GSV),1500.0,NBA,2025-09-07 00:30:00+00:00,530.0,3
+181672130,132951,530.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (MIN @ GSV)",3000.0,NBA,2025-09-07 00:30:00+00:00,1060.0,3
+181672131,132951,2650.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (MIN @ GSV)",15000.0,NBA,2025-09-07 00:30:00+00:00,5300.0,3
+181672132,132951,5300.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (MIN @ GSV)",30000.0,NBA,2025-09-07 00:30:00+00:00,10600.0,3
+181672133,132951,10.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (MIN @ GSV),72.0,NBA,2025-09-07 00:30:00+00:00,20.0,4
+181672134,132951,5.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (MIN @ GSV),90.0,NBA,2025-09-07 00:30:00+00:00,10.0,10
+181672135,132951,0.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (MIN @ GSV),9.0,NBA,2025-09-07 00:30:00+00:00,1.0,10
+181672136,132951,1.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (MIN @ GSV),27.0,NBA,2025-09-07 00:30:00+00:00,3.0,10
+181672137,132951,2.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (MIN @ GSV),45.0,NBA,2025-09-07 00:30:00+00:00,5.0,10
+181672138,132951,2650.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (MIN @ GSV)",20000.0,NBA,2025-09-07 00:30:00+00:00,5300.0,4
+181672139,132951,530.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (MIN @ GSV)",4000.0,NBA,2025-09-07 00:30:00+00:00,1060.0,4
+181672140,132951,265.0,True,False,False,False,False,WNBA Showdown $530 50-50 (MIN @ GSV),2000.0,NBA,2025-09-07 00:30:00+00:00,530.0,4
+181672141,132951,54.0,True,False,False,False,False,WNBA Showdown $109 50-50 (MIN @ GSV),400.0,NBA,2025-09-07 00:30:00+00:00,109.0,4
+181672142,132951,25.0,True,False,False,False,False,WNBA Showdown $50 50-50 (MIN @ GSV),180.0,NBA,2025-09-07 00:30:00+00:00,50.0,4
+181672143,132951,10.0,True,False,False,False,False,WNBA Showdown $20 50-50 (MIN @ GSV),72.0,NBA,2025-09-07 00:30:00+00:00,20.0,4
+181672144,132951,5.0,True,False,False,False,False,WNBA Showdown $10 50-50 (MIN @ GSV),36.0,NBA,2025-09-07 00:30:00+00:00,10.0,4
+181672145,132951,25.0,True,False,False,False,False,WNBA Showdown $50 50-50 (MIN @ GSV),450.0,NBA,2025-09-07 00:30:00+00:00,50.0,10
+181672146,132951,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (MIN @ GSV),9.0,NBA,2025-09-07 00:30:00+00:00,1.0,10
+181672147,132951,2.0,True,False,False,False,False,WNBA Showdown $5 50-50 (MIN @ GSV),45.0,NBA,2025-09-07 00:30:00+00:00,5.0,10
+181672148,132951,54.0,True,False,False,False,False,WNBA Showdown $109 50-50 (MIN @ GSV),600.0,NBA,2025-09-07 00:30:00+00:00,109.0,6
+181672149,132951,1.0,True,False,False,False,False,WNBA Showdown $2 50-50 (MIN @ GSV),18.0,NBA,2025-09-07 00:30:00+00:00,2.0,10
+181672150,132951,10.0,True,False,False,False,False,WNBA Showdown $20 50-50 (MIN @ GSV),180.0,NBA,2025-09-07 00:30:00+00:00,20.0,10
+181672151,132951,5.0,True,False,False,False,False,WNBA Showdown $10 50-50 (MIN @ GSV),90.0,NBA,2025-09-07 00:30:00+00:00,10.0,10
+181672152,132951,2.0,True,False,False,False,False,WNBA Showdown $5 50-50 (MIN @ GSV),90.0,NBA,2025-09-07 00:30:00+00:00,5.0,20
+181672153,132951,5.0,True,False,False,False,False,WNBA Showdown $10 50-50 (MIN @ GSV),180.0,NBA,2025-09-07 00:30:00+00:00,10.0,20
+181672154,132951,10.0,True,False,False,False,False,WNBA Showdown $20 50-50 (MIN @ GSV),360.0,NBA,2025-09-07 00:30:00+00:00,20.0,20
+181672155,132951,1.0,True,False,False,False,False,WNBA Showdown $2 50-50 (MIN @ GSV),36.0,NBA,2025-09-07 00:30:00+00:00,2.0,20
+181672156,132951,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (MIN @ GSV),18.0,NBA,2025-09-07 00:30:00+00:00,1.0,20
+181672157,132951,530.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (MIN @ GSV),4000.0,NBA,2025-09-07 00:30:00+00:00,1060.0,4
+181672158,132951,530.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (MIN @ GSV),4000.0,NBA,2025-09-07 00:30:00+00:00,1060.0,4
+181672159,132951,133.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (MIN @ GSV),1000.0,NBA,2025-09-07 00:30:00+00:00,267.0,4
+181672160,132951,50.0,False,False,False,False,True,WNBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (MIN @ GSV),460.0,NBA,2025-09-07 00:30:00+00:00,100.0,5
+181672161,132951,750.0,False,False,False,False,True,WNBA Showdown $5.7K Courtside Special [Single Entry] (Must Fill) (MIN @ GSV),5700.0,NBA,2025-09-07 00:30:00+00:00,1500.0,4
+181672162,132951,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL 9-7 $5 Fantasy Football Millionaire [Must Fill] (MIN @ GSV),5.0,NBA,2025-09-07 00:30:00+00:00,1.85,3
+181672163,132951,18.0,False,False,False,False,True,WNBA Showdown Satellite to NFL 9-7 $100 Fantasy Football Millionaire [Must Fill] (MIN @ GSV),100.0,NBA,2025-09-07 00:30:00+00:00,37.0,3
+181672164,132951,2.0,False,False,False,False,True,WNBA Showdown Satellite to WNBA $15 Playoff Fadeaway [Must Fill] (MIN @ GSV),15.0,NBA,2025-09-07 00:30:00+00:00,5.55,3
+181672165,132951,0.0,False,False,False,False,True,WNBA Showdown Satellite to NHL 10-7 $5 Opening Night Puck Drop [Must Fill] (MIN @ GSV),5.0,NBA,2025-09-07 00:30:00+00:00,1.85,3
+181672166,132951,65.0,False,False,False,False,True,WNBA Showdown Satellite to NHL 10-14 $360 Spin-O-Rama [Must Fill] (MIN @ GSV),360.0,NBA,2025-09-07 00:30:00+00:00,130.0,3
+181672167,132951,2.0,False,False,False,False,True,WNBA Showdown Satellite to NBA 10-21 $15 Opening Tip Off [Must Fill] (MIN @ GSV),15.0,NBA,2025-09-07 00:30:00+00:00,5.55,3
+181672168,132951,2.0,False,False,False,False,True,WNBA Showdown Satellite to NBA 10-21 $15 Opening Tip Off [Must Fill] (MIN @ GSV),15.0,NBA,2025-09-07 00:30:00+00:00,5.55,3
+181672173,132953,2.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2025-09-06 17:00:00+00:00,5.0,3
+181672174,132953,2.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2025-09-06 17:00:00+00:00,5.0,3
+181672175,132953,5.0,False,False,False,False,False,WNBA Snake $10 3-Player,27.0,NBA,2025-09-06 17:00:00+00:00,10.0,3
+181672176,132953,10.0,False,False,False,False,False,WNBA Snake $20 3-Player,54.0,NBA,2025-09-06 17:00:00+00:00,20.0,3
+181672177,132953,10.0,False,False,False,False,False,WNBA Snake $20 3-Player,54.0,NBA,2025-09-06 17:00:00+00:00,20.0,3
+181672178,132953,25.0,False,False,False,False,False,WNBA Snake $50 3-Player,135.0,NBA,2025-09-06 17:00:00+00:00,50.0,3
+181672179,132953,54.0,False,False,False,False,False,WNBA Snake $109 3-Player,300.0,NBA,2025-09-06 17:00:00+00:00,109.0,3
+181672180,132953,265.0,False,False,False,False,False,WNBA Snake $530 3-Player,1500.0,NBA,2025-09-06 17:00:00+00:00,530.0,3
+181672181,132953,530.0,False,False,False,False,False,"WNBA Snake $1,060 3-Player",3000.0,NBA,2025-09-06 17:00:00+00:00,1060.0,3
+181672182,132953,1060.0,False,False,False,False,False,"WNBA Snake $2,120 3-Player",6000.0,NBA,2025-09-06 17:00:00+00:00,2120.0,3
+181672183,132953,2650.0,False,False,False,False,False,"WNBA Snake $5,300 3-Player",15000.0,NBA,2025-09-06 17:00:00+00:00,5300.0,3
+181672184,132953,5300.0,False,False,False,False,False,"WNBA Snake $10,600 3-Player",30000.0,NBA,2025-09-06 17:00:00+00:00,10600.0,3
+181675291,132954,0.0,False,False,False,False,False,WNBA Snake Showdown $1 3-Player (MIN @ GSV Snake),2.7,NBA,2025-09-07 00:30:00+00:00,1.0,3
+181675292,132954,0.0,False,False,False,False,False,WNBA Snake Showdown $1 3-Player (MIN @ GSV Snake),2.7,NBA,2025-09-07 00:30:00+00:00,1.0,3
+181675293,132954,0.0,False,False,False,False,False,WNBA Snake Showdown $1 3-Player (MIN @ GSV Snake),2.7,NBA,2025-09-07 00:30:00+00:00,1.0,3
+181675294,132954,2.0,False,False,False,False,False,WNBA Snake Showdown $5 3-Player (MIN @ GSV Snake),13.5,NBA,2025-09-07 00:30:00+00:00,5.0,3
+181675295,132954,2.0,False,False,False,False,False,WNBA Snake Showdown $5 3-Player (MIN @ GSV Snake),13.5,NBA,2025-09-07 00:30:00+00:00,5.0,3
+181675296,132954,5.0,False,False,False,False,False,WNBA Snake Showdown $10 3-Player (MIN @ GSV Snake),27.0,NBA,2025-09-07 00:30:00+00:00,10.0,3
+181675297,132954,5.0,False,False,False,False,False,WNBA Snake Showdown $10 3-Player (MIN @ GSV Snake),27.0,NBA,2025-09-07 00:30:00+00:00,10.0,3
+181675298,132954,5.0,False,False,False,False,False,WNBA Snake Showdown $10 3-Player (MIN @ GSV Snake),27.0,NBA,2025-09-07 00:30:00+00:00,10.0,3
+181675299,132954,10.0,False,False,False,False,False,WNBA Snake Showdown $20 3-Player (MIN @ GSV Snake),54.0,NBA,2025-09-07 00:30:00+00:00,20.0,3
+181675300,132954,54.0,False,False,False,False,False,WNBA Snake Showdown $109 3-Player (MIN @ GSV Snake),300.0,NBA,2025-09-07 00:30:00+00:00,109.0,3
+181675301,132954,265.0,False,False,False,False,False,WNBA Snake Showdown $530 3-Player (MIN @ GSV Snake),1500.0,NBA,2025-09-07 00:30:00+00:00,530.0,3
+181675302,132954,25.0,False,False,False,False,False,WNBA Snake Showdown $50 3-Player (MIN @ GSV Snake),135.0,NBA,2025-09-07 00:30:00+00:00,50.0,3
+181675303,132954,530.0,False,False,False,False,False,"WNBA Snake Showdown $1,060 3-Player (MIN @ GSV Snake)",3000.0,NBA,2025-09-07 00:30:00+00:00,1060.0,3
+181675304,132954,1060.0,False,False,False,False,False,"WNBA Snake Showdown $2,120 3-Player (MIN @ GSV Snake)",6000.0,NBA,2025-09-07 00:30:00+00:00,2120.0,3
+181685201,132950,0.0,False,False,True,False,False,WNBA FREE 200-Player,0.0,NBA,2025-09-06 17:00:00+00:00,0.0,200
+181695514,132950,0.0,False,False,True,False,False,WNBA FREE 200-Player x2,0.0,NBA,2025-09-06 17:00:00+00:00,0.0,200
+181696252,132953,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2025-09-06 17:00:00+00:00,1.0,3
+181696400,132950,0.0,False,False,False,False,False,WNBA $1 200-Player (Winner Takes All) x2,180.0,NBA,2025-09-06 17:00:00+00:00,1.0,200
+181698560,132950,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2025-09-06 17:00:00+00:00,1.0,23
+181698562,132953,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2025-09-06 17:00:00+00:00,1.0,3
+181698977,132950,2.0,False,False,False,False,False,WNBA $5 100-Player (Winner Takes All),450.0,NBA,2025-09-06 17:00:00+00:00,5.0,100
+181699352,132951,0.0,False,False,False,False,False,WNBA Showdown $1 200-Player (Top 10 Win) (MIN @ GSV),180.0,NBA,2025-09-07 00:30:00+00:00,1.0,200
+181699375,132950,0.0,False,False,False,False,False,WNBA $1 200-Player (Top 10 Win),180.0,NBA,2025-09-06 17:00:00+00:00,1.0,200
