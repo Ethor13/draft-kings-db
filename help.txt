@@ -1,0 +1,14 @@
+To merge remote and current and take all changes from one or the other...
+<commit changes>
+git pull
+git checkout --ours -- .
+git add .
+git commit -m "add new files and merge"
+git push
+
+To copy files from this repo to the backup location from a windows terminal
+to onedrive:
+robocopy C:\Users\ethor\python-docs\draft-kings\draft-kings-db\data C:\Users\ethor\OneDrive\Data\draft-kings-db /E /XC /XN /XO
+
+to d drive:
+robocopy C:\Users\ethor\python-docs\draft-kings\draft-kings-db\data D:\draft-kings-db /E /XC /XN /XO
