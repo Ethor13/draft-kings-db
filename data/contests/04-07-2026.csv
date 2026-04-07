@@ -1,0 +1,1538 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+189480769,145266,0.0,False,False,True,False,True,NBA $1.5K Hot Shot [5 Entry Max],1500.0,NBA,2026-04-07 23:00:00+00:00,3.0,594
+189480770,145266,0.0,False,False,True,False,True,NBA $1.5K Quarter Jukebox [Just $0.25!],1500.0,NBA,2026-04-07 23:00:00+00:00,0.25,7134
+189480771,145266,0.0,False,False,True,False,True,NBA $15K mini-MAX [150 Entry Max],15000.0,NBA,2026-04-07 23:00:00+00:00,0.5,35671
+189480772,145266,0.0,False,False,True,False,True,NBA $3.3K Money Ball [Single Entry],3300.0,NBA,2026-04-07 23:00:00+00:00,333.0,11
+189480773,145266,0.0,False,False,True,False,True,NBA $10K Showtime [Single Entry],10000.0,NBA,2026-04-07 23:00:00+00:00,100.0,111
+189480774,145266,0.0,False,False,True,False,True,NBA $8K Mid Range Jumper [Single Entry],8000.0,NBA,2026-04-07 23:00:00+00:00,40.0,233
+189480775,145266,0.0,False,False,True,False,True,NBA $750 Fast Break,750.0,NBA,2026-04-07 23:00:00+00:00,27.0,32
+189480776,145266,0.0,False,False,True,False,True,NBA $4K Pick and Roll [Single Entry],4000.0,NBA,2026-04-07 23:00:00+00:00,12.0,392
+189480777,145266,0.0,False,False,True,False,True,NBA $4K High Five [Single Entry],4000.0,NBA,2026-04-07 23:00:00+00:00,5.0,951
+189480778,145266,0.0,False,False,True,False,True,NBA $1K Elbow Shot [Single Entry] ,1000.0,NBA,2026-04-07 23:00:00+00:00,2.0,594
+189480779,145266,0.0,False,False,True,False,True,NBA $1K Daily Dollar [Single Entry],1000.0,NBA,2026-04-07 23:00:00+00:00,1.0,1189
+189480780,145266,0.0,True,False,True,False,False,NBA $100 Double Up,1000.0,NBA,2026-04-07 23:00:00+00:00,100.0,11
+189480781,145266,0.0,True,False,True,False,True,NBA Single Entry $50 Double Up,1000.0,NBA,2026-04-07 23:00:00+00:00,50.0,22
+189480782,145266,0.0,True,False,True,False,True,NBA Single Entry $25 Double Up,1000.0,NBA,2026-04-07 23:00:00+00:00,25.0,45
+189480783,145266,0.0,True,False,True,False,True,NBA $5 Double Up,1000.0,NBA,2026-04-07 23:00:00+00:00,5.0,229
+189480784,145266,0.0,True,False,True,False,True,NBA $2 Double Up,1000.0,NBA,2026-04-07 23:00:00+00:00,2.0,574
+189480785,145269,0.0,False,False,True,False,True,NBA Single Stat $2K Winner Take All [20 Entry Max]  (Points),2000.0,NBA,2026-04-07 23:00:00+00:00,1.0,2378
+189480786,145268,0.0,False,False,True,False,True,NBA Tiers $310 Ankle Breaker [Single Entry],310.0,NBA,2026-04-07 23:00:00+00:00,50.0,7
+189480787,145268,0.0,False,False,True,False,True,NBA Tiers $1.5K And-One [20 Entry Max],1500.0,NBA,2026-04-07 23:00:00+00:00,1.0,1783
+189480788,145268,0.0,False,False,True,False,True,NBA Tiers $300 Quarter Jukebox [Just $0.25!] ,300.0,NBA,2026-04-07 23:00:00+00:00,0.25,1426
+189480789,145268,0.0,False,False,False,False,True,NBA Tiers $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2026-04-07 23:00:00+00:00,100.0,5
+189480790,145268,0.0,False,False,True,False,True,NBA Tiers $155 Pick and Roll [Single Entry],155.0,NBA,2026-04-07 23:00:00+00:00,12.0,15
+189480791,145268,0.0,False,False,True,False,True,NBA Tiers $100 High Five [Single Entry],100.0,NBA,2026-04-07 23:00:00+00:00,5.0,23
+189480792,145270,0.0,False,False,True,False,True,NBA Showdown $300 Quarter Jukebox [Just $0.25!]  (MIN @ IND),300.0,NBA,2026-04-07 23:00:00+00:00,0.25,1426
+189480793,145270,0.0,False,False,True,False,True,NBA Showdown $400 Ankle Breaker [Single Entry] (MIN @ IND),400.0,NBA,2026-04-07 23:00:00+00:00,50.0,9
+189480794,145270,0.0,False,False,True,False,True,NBA Showdown $6K Pull Up Jumper [$2K to 1st] (MIN @ IND),6000.0,NBA,2026-04-07 23:00:00+00:00,10.0,705
+189480795,145270,0.0,False,False,True,False,True,NBA Showdown $1K And-One (MIN @ IND),1000.0,NBA,2026-04-07 23:00:00+00:00,1.0,1189
+189480796,145270,0.0,False,False,True,False,True,"NBA Showdown $720 Showtime [Single Entry, Top 2 Win] (MIN @ IND)",720.0,NBA,2026-04-07 23:00:00+00:00,100.0,8
+189480797,145270,0.0,False,False,True,False,True,NBA Showdown $200 Pick and Roll [Single Entry] (MIN @ IND),200.0,NBA,2026-04-07 23:00:00+00:00,12.0,19
+189480798,145270,0.0,False,False,True,False,True,NBA Showdown $150 High Five [Single Entry] (MIN @ IND),150.0,NBA,2026-04-07 23:00:00+00:00,5.0,35
+189480799,145271,0.0,False,False,True,False,True,NBA $1.5K And-One [20 Entry Max] (Turbo),1500.0,NBA,2026-04-07 23:30:00+00:00,1.0,1783
+189480800,145271,0.0,False,False,True,False,True,"NBA $720 Showtime [Single Entry, Top 2 Win] (Turbo)",720.0,NBA,2026-04-07 23:30:00+00:00,100.0,8
+189480801,145271,0.0,False,False,True,False,True,NBA $200 Pick and Roll [Single Entry] (Turbo),200.0,NBA,2026-04-07 23:30:00+00:00,12.0,19
+189480802,145271,0.0,False,False,True,False,True,NBA $150 High Five [Single Entry] (Turbo),150.0,NBA,2026-04-07 23:30:00+00:00,5.0,35
+189480803,145271,0.0,False,False,True,False,True,NBA $500 Ankle Breaker [Single Entry] (Turbo),500.0,NBA,2026-04-07 23:30:00+00:00,50.0,11
+189480804,145271,0.0,False,False,True,False,True,NBA $4K Pull Up Jumper [$1K to 1st] (Turbo),4000.0,NBA,2026-04-07 23:30:00+00:00,10.0,470
+189480805,145271,0.0,False,False,True,False,True,NBA $100 Sharpshooter (Turbo),100.0,NBA,2026-04-07 23:30:00+00:00,3.0,39
+189480806,145271,0.0,False,False,True,False,True,NBA $200 Quarter Jukebox (Turbo),200.0,NBA,2026-04-07 23:30:00+00:00,0.25,951
+189480807,145272,0.0,False,False,True,False,True,NBA Showdown $155 Pick and Roll [Single Entry] (CHA @ BOS),155.0,NBA,2026-04-08 00:00:00+00:00,12.0,15
+189480808,145272,0.0,False,False,True,False,True,NBA Showdown $6K Pull Up Jumper [$2K to 1st] (CHA @ BOS),6000.0,NBA,2026-04-08 00:00:00+00:00,10.0,705
+189480809,145272,0.0,False,False,True,False,True,NBA Showdown $150 High Five [Single Entry] (CHA @ BOS),150.0,NBA,2026-04-08 00:00:00+00:00,5.0,35
+189480810,145272,0.0,False,False,True,False,True,NBA Showdown $500 Ankle Breaker [Single Entry] (CHA @ BOS),500.0,NBA,2026-04-08 00:00:00+00:00,50.0,11
+189480811,145272,0.0,False,False,True,False,True,NBA Showdown $100 Sharpshooter (CHA @ BOS),100.0,NBA,2026-04-08 00:00:00+00:00,3.0,39
+189480812,145272,0.0,False,False,True,False,True,NBA Showdown $200 Quarter Jukebox (CHA @ BOS),200.0,NBA,2026-04-08 00:00:00+00:00,0.25,951
+189480813,145272,0.0,False,False,True,False,True,NBA Showdown $285 Triple Threat [Single Entry] (CHA @ BOS),285.0,NBA,2026-04-08 00:00:00+00:00,33.0,10
+189480814,145272,0.0,False,False,True,False,True,NBA Showdown $1.25K And-One [20 Entry Max] (CHA @ BOS),1250.0,NBA,2026-04-08 00:00:00+00:00,1.0,1486
+189480815,145272,0.0,False,False,True,False,True,"NBA Showdown $540 Showtime [Single Entry, Top 2 Win] (CHA @ BOS)",540.0,NBA,2026-04-08 00:00:00+00:00,100.0,6
+189480816,145273,0.0,False,False,True,False,True,NBA $155 Pick and Roll [Single Entry] (Turbo),155.0,NBA,2026-04-08 00:00:00+00:00,12.0,15
+189480817,145273,0.0,False,False,True,False,True,NBA $400 Ankle Breaker [Single Entry] (Turbo),400.0,NBA,2026-04-08 00:00:00+00:00,50.0,9
+189480818,145273,0.0,False,False,True,False,True,NBA $150 High Five [Single Entry] (Turbo),150.0,NBA,2026-04-08 00:00:00+00:00,5.0,35
+189480819,145273,0.0,False,False,True,False,True,NBA $4K Pull Up Jumper [$1K to 1st] (Turbo),4000.0,NBA,2026-04-08 00:00:00+00:00,10.0,470
+189480820,145273,0.0,False,False,True,False,True,NBA $100 Sharpshooter (Turbo),100.0,NBA,2026-04-08 00:00:00+00:00,3.0,39
+189480821,145273,0.0,False,False,True,False,True,NBA $200 Quarter Jukebox (Turbo),200.0,NBA,2026-04-08 00:00:00+00:00,0.25,951
+189480822,145273,0.0,False,False,True,False,True,NBA $1.25K And-One [20 Entry Max] (Turbo),1250.0,NBA,2026-04-08 00:00:00+00:00,1.0,1486
+189480823,145273,0.0,False,False,True,False,True,"NBA $540 Showtime [Single Entry, Top 2 Win] (Turbo)",540.0,NBA,2026-04-08 00:00:00+00:00,100.0,6
+189480824,145274,0.0,False,False,True,False,True,NBA $20K Slam Jam [3 Entry Max] (Night),20000.0,NBA,2026-04-08 02:00:00+00:00,222.0,100
+189480825,145274,0.0,False,False,True,False,True,NBA $750 Ankle Breaker [Single Entry] (Night),750.0,NBA,2026-04-08 02:00:00+00:00,50.0,17
+189480826,145274,0.0,False,False,True,False,True,NBA $750 Triple Threat [Single Entry] (Night),750.0,NBA,2026-04-08 02:00:00+00:00,33.0,26
+189480827,145274,0.0,False,False,True,False,True,NBA $60K Fadeaway [$20K to 1st] (Night),60000.0,NBA,2026-04-08 02:00:00+00:00,18.0,3921
+189480828,145274,0.0,False,False,True,False,True,NBA $22K Zone [$5K to 1st] (Night),22000.0,NBA,2026-04-08 02:00:00+00:00,5.0,5231
+189480829,145274,0.0,False,False,True,False,True,NBA $500 Four Point Play (Night),500.0,NBA,2026-04-08 02:00:00+00:00,4.0,148
+189480830,145274,0.0,False,False,True,False,True,NBA $5K And-One (Night),5000.0,NBA,2026-04-08 02:00:00+00:00,1.0,5945
+189480831,145274,0.0,False,False,True,False,True,NBA $750 Quarter Jukebox [Just $0.25!]  (Night),750.0,NBA,2026-04-08 02:00:00+00:00,0.25,3567
+189480832,145274,0.0,False,False,True,False,True,NBA $3K mini-MAX [150 Entry Max] (Night),3000.0,NBA,2026-04-08 02:00:00+00:00,0.5,7134
+189480833,145274,0.0,False,False,True,False,True,NBA $2K Showtime [Single Entry] (Night),2000.0,NBA,2026-04-08 02:00:00+00:00,100.0,22
+189480834,145274,0.0,False,False,True,False,True,NBA $400 Pick and Roll [Single Entry] (Night),400.0,NBA,2026-04-08 02:00:00+00:00,12.0,39
+189480835,145274,0.0,False,False,True,False,True,NBA $1.5K High Five [Single Entry] (Night),1500.0,NBA,2026-04-08 02:00:00+00:00,5.0,356
+189480836,145277,0.0,False,False,True,False,True,NBA Showdown $500 Ankle Breaker [Single Entry] (HOU @ PHX),500.0,NBA,2026-04-08 03:00:00+00:00,50.0,11
+189480837,145277,0.0,False,False,True,False,True,NBA Showdown $60K Fadeaway [$20K to 1st] (HOU @ PHX),60000.0,NBA,2026-04-08 03:00:00+00:00,18.0,3921
+189480838,145277,0.0,False,False,True,False,True,NBA Showdown $1.35K 3-Ball [Single Entry] (HOU @ PHX),1350.0,NBA,2026-04-08 03:00:00+00:00,300.0,5
+189480839,145277,0.0,False,False,True,False,True,NBA Showdown $2.6K Windmill [$1K to 1st] (HOU @ PHX),2600.0,NBA,2026-04-08 03:00:00+00:00,180.0,16
+189480840,145277,0.0,False,False,True,False,True,NBA Showdown $340 Triple Threat [Single Entry] (HOU @ PHX),340.0,NBA,2026-04-08 03:00:00+00:00,33.0,12
+189480841,145277,0.0,False,False,True,False,True,NBA Showdown $15K Zone [$5K to 1st] (HOU @ PHX),15000.0,NBA,2026-04-08 03:00:00+00:00,5.0,3567
+189480842,145277,0.0,False,False,True,False,True,NBA Showdown $500 Sharpshooter (HOU @ PHX),500.0,NBA,2026-04-08 03:00:00+00:00,3.0,198
+189480843,145277,0.0,False,False,True,False,True,NBA Showdown $4K And-One (HOU @ PHX),4000.0,NBA,2026-04-08 03:00:00+00:00,1.0,4756
+189480844,145277,0.0,False,False,True,False,True,NBA Showdown $500 Quarter Jukebox [Just $0.25!] (HOU @ PHX),500.0,NBA,2026-04-08 03:00:00+00:00,0.25,2378
+189480845,145277,0.0,False,False,True,False,True,NBA Showdown $2.1K mini-MAX [150 Entry Max] (HOU @ PHX),2150.0,NBA,2026-04-08 03:00:00+00:00,0.5,5112
+189480846,145277,0.0,False,False,True,False,True,NBA Showdown $1K Showtime [Single Entry] (HOU @ PHX),1000.0,NBA,2026-04-08 03:00:00+00:00,100.0,11
+189480847,145277,0.0,False,False,True,False,True,NBA Showdown $300 Pick and Roll [Single Entry] (HOU @ PHX),300.0,NBA,2026-04-08 03:00:00+00:00,12.0,29
+189480848,145277,0.0,False,False,True,False,True,NBA Showdown $400 High Five [Single Entry] (HOU @ PHX),400.0,NBA,2026-04-08 03:00:00+00:00,5.0,95
+189480849,145279,0.0,False,False,True,False,True,NBA In-Game $100 High Five [Single Entry] (2H HOU @ PHX),100.0,NBA,2026-04-08 04:00:00+00:00,5.0,23
+189480850,145279,0.0,False,False,True,False,True,"NBA In-Game $540 Showtime [Single Entry, Top 2 Win] (2H HOU @ PHX)",540.0,NBA,2026-04-08 04:00:00+00:00,100.0,6
+189480851,145279,0.0,False,False,True,False,True,NBA In-Game $1.35K 3-Ball [Single Entry] (2H HOU @ PHX),1350.0,NBA,2026-04-08 04:00:00+00:00,300.0,5
+189480852,145279,0.0,False,False,True,False,True,NBA In-Game $50 Winner Take All [$220 to 1st] (2H HOU @ PHX),220.0,NBA,2026-04-08 04:00:00+00:00,50.0,5
+189480853,145279,0.0,False,False,True,False,True,NBA In-Game $1.5K Pull Up Jumper [$500 to 1st] (2H HOU @ PHX),1500.0,NBA,2026-04-08 04:00:00+00:00,10.0,176
+189480854,145279,0.0,False,False,True,False,True,NBA In-Game $50 And-One (2H HOU @ PHX),50.0,NBA,2026-04-08 04:00:00+00:00,1.0,59
+189480855,145279,0.0,False,False,True,False,True,NBA In-Game $20 Quarter Jukebox [Just $0.25!] (2H HOU @ PHX),20.0,NBA,2026-04-08 04:00:00+00:00,0.25,95
+189481029,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (MIN @ IND),54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189481030,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (MIN @ IND),135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189481031,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (MIN @ IND),27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189481032,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIN @ IND),13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189481033,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (MIN @ IND),2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189481034,145270,0.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (MIN @ IND)",20000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,4
+189481035,145270,0.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (MIN @ IND)",4000.0,NBA,2026-04-07 23:00:00+00:00,1060.0,4
+189481036,145270,0.0,True,False,False,False,False,NBA Showdown $530 50-50 (MIN @ IND),2000.0,NBA,2026-04-07 23:00:00+00:00,530.0,4
+189481037,145270,0.0,True,False,False,False,False,NBA Showdown $162 50-50 (MIN @ IND),600.0,NBA,2026-04-07 23:00:00+00:00,162.0,4
+189481038,145270,0.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIN @ IND),400.0,NBA,2026-04-07 23:00:00+00:00,109.0,4
+189481039,145270,0.0,True,False,False,False,False,NBA Showdown $50 50-50 (MIN @ IND),180.0,NBA,2026-04-07 23:00:00+00:00,50.0,4
+189481040,145270,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ IND),360.0,NBA,2026-04-07 23:00:00+00:00,20.0,20
+189481041,145270,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ IND),180.0,NBA,2026-04-07 23:00:00+00:00,20.0,10
+189481042,145270,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ IND),72.0,NBA,2026-04-07 23:00:00+00:00,20.0,4
+189481043,145270,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ IND),72.0,NBA,2026-04-07 23:00:00+00:00,20.0,4
+189481044,145270,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ IND),180.0,NBA,2026-04-07 23:00:00+00:00,10.0,20
+189481045,145270,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ IND),90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481046,145270,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ IND),90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481047,145270,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ IND),36.0,NBA,2026-04-07 23:00:00+00:00,10.0,4
+189481048,145270,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ IND),36.0,NBA,2026-04-07 23:00:00+00:00,10.0,4
+189481049,145270,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ IND),36.0,NBA,2026-04-07 23:00:00+00:00,10.0,4
+189481050,145270,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ IND),90.0,NBA,2026-04-07 23:00:00+00:00,5.0,20
+189481051,145270,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ IND),90.0,NBA,2026-04-07 23:00:00+00:00,5.0,20
+189481052,145270,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481053,145270,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481054,145270,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481055,145270,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ IND),36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189481056,145270,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ IND),36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189481057,145270,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ IND),18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481058,145270,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ IND),18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481059,145270,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ IND),18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481060,145270,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ IND),18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189481061,145270,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ IND),18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189481062,145270,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481063,145270,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481064,145270,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481065,145270,0.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (MIN @ IND),180.0,NBA,2026-04-07 23:00:00+00:00,50.0,4
+189481066,145270,0.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (MIN @ IND),72.0,NBA,2026-04-07 23:00:00+00:00,20.0,4
+189481067,145270,0.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (MIN @ IND),90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481068,145270,0.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481069,145270,0.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (MIN @ IND),27.0,NBA,2026-04-07 23:00:00+00:00,3.0,10
+189481070,145270,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481071,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189481072,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (MIN @ IND),22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189481073,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIN @ IND),13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189481074,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189481075,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (MIN @ IND),5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189481076,145270,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (MIN @ IND),4.5,NBA,2026-04-07 23:00:00+00:00,1.0,5
+189481077,145270,0.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (MIN @ IND)",30000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,3
+189481078,145270,0.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MIN @ IND)",15000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,3
+189481079,145270,0.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MIN @ IND)",3000.0,NBA,2026-04-07 23:00:00+00:00,1060.0,3
+189481080,145270,0.0,False,False,False,False,False,NBA Showdown $530 3-Player (MIN @ IND),1500.0,NBA,2026-04-07 23:00:00+00:00,530.0,3
+189481081,145270,0.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIN @ IND),450.0,NBA,2026-04-07 23:00:00+00:00,162.0,3
+189481082,145270,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ IND),300.0,NBA,2026-04-07 23:00:00+00:00,109.0,3
+189481083,145270,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ IND),300.0,NBA,2026-04-07 23:00:00+00:00,109.0,3
+189481084,145270,0.0,False,False,False,False,False,NBA Showdown $50 5-Player (MIN @ IND),225.0,NBA,2026-04-07 23:00:00+00:00,50.0,5
+189481085,145270,0.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIN @ IND),135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189481086,145270,0.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIN @ IND),90.0,NBA,2026-04-07 23:00:00+00:00,20.0,5
+189481087,145270,0.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIN @ IND),90.0,NBA,2026-04-07 23:00:00+00:00,20.0,5
+189481088,145270,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ IND),54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189481089,145270,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ IND),54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189481090,145270,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ IND),54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189481091,145270,0.0,False,False,False,False,False,NBA Showdown $10 10-Player (MIN @ IND),90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481092,145270,0.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189481093,145270,0.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189481094,145270,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ IND),27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189481095,145270,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ IND),27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189481096,145270,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ IND),27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189481097,145270,0.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481098,145270,0.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481099,145270,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN @ IND),22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189481100,145270,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN @ IND),22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189481101,145270,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN @ IND),22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189481102,145270,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ IND),13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189481103,145270,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ IND),13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189481104,145270,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ IND),13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189481105,145270,0.0,False,False,False,False,False,NBA Showdown $2 20-Player (MIN @ IND),36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189481106,145270,0.0,False,False,False,False,False,NBA Showdown $2 20-Player (MIN @ IND),36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189481107,145270,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ IND),18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481108,145270,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ IND),18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481109,145270,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ IND),18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481110,145270,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189481111,145270,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189481112,145270,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189481113,145270,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ IND),5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189481114,145270,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ IND),5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189481115,145270,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ IND),5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189481116,145270,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481117,145270,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (MIN @ IND),4.5,NBA,2026-04-07 23:00:00+00:00,1.0,5
+189481118,145270,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ IND),2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189481119,145270,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ IND),2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189481120,145270,0.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIN @ IND),600.0,NBA,2026-04-07 23:00:00+00:00,109.0,6
+189481121,145270,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN @ IND)",40000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,4
+189481122,145270,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN @ IND)",40000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,4
+189481123,145270,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN @ IND)",40000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,4
+189481124,145270,0.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (MIN @ IND),180.0,NBA,2026-04-07 23:00:00+00:00,50.0,4
+189481125,145270,0.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (MIN @ IND),72.0,NBA,2026-04-07 23:00:00+00:00,20.0,4
+189481126,145270,0.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (MIN @ IND),90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481127,145270,0.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481128,145270,0.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIN @ IND),27.0,NBA,2026-04-07 23:00:00+00:00,3.0,10
+189481129,145270,0.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIN @ IND),10.8,NBA,2026-04-07 23:00:00+00:00,3.0,4
+189481130,145270,0.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481131,145270,0.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (MIN @ IND),135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189481132,145270,0.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (MIN @ IND),54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189481133,145270,0.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (MIN @ IND),45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189481134,145270,0.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (MIN @ IND),27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189481135,145270,0.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (MIN @ IND),9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189481136,145270,0.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (MIN @ IND),5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189481137,145270,0.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (MIN @ IND),500.0,NBA,2026-04-07 23:00:00+00:00,109.0,5
+189481138,145270,0.0,True,False,False,False,False,NBA Showdown $10 Double Up (MIN @ IND),100.0,NBA,2026-04-07 23:00:00+00:00,10.0,11
+189481139,145270,0.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN @ IND),250.0,NBA,2026-04-07 23:00:00+00:00,25.0,11
+189481140,145270,0.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIN @ IND),500.0,NBA,2026-04-07 23:00:00+00:00,50.0,11
+189481141,145270,0.0,True,False,False,False,False,NBA Showdown $5 Double Up (MIN @ IND),50.0,NBA,2026-04-07 23:00:00+00:00,5.0,11
+189481142,145270,0.0,True,False,False,False,False,NBA Showdown $3 Double Up (MIN @ IND),30.0,NBA,2026-04-07 23:00:00+00:00,3.0,11
+189481143,145270,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (MIN @ IND),10.0,NBA,2026-04-07 23:00:00+00:00,1.0,11
+189481144,145270,0.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN @ IND),500.0,NBA,2026-04-07 23:00:00+00:00,25.0,22
+189481145,145270,0.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIN @ IND),1000.0,NBA,2026-04-07 23:00:00+00:00,50.0,22
+189481146,145270,0.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (MIN @ IND),4000.0,NBA,2026-04-07 23:00:00+00:00,1060.0,4
+189481147,145270,0.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (MIN @ IND),1000.0,NBA,2026-04-07 23:00:00+00:00,267.0,4
+189481148,145270,0.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (MIN @ IND)",1500.0,NBA,2026-04-07 23:00:00+00:00,408.0,4
+189481149,145270,0.0,False,False,False,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill] (MIN @ IND),25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189481150,145270,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (MIN @ IND),25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189481151,145270,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (MIN @ IND),25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189481152,145270,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (MIN @ IND),25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189481153,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189481154,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $50 3-Player,135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189481155,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189481156,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189481157,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189481158,145268,0.0,True,False,False,False,False,"NBA Tiers $5,300 50-50",20000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,4
+189481159,145268,0.0,True,False,False,False,False,"NBA Tiers $1,060 50-50",4000.0,NBA,2026-04-07 23:00:00+00:00,1060.0,4
+189481160,145268,0.0,True,False,False,False,False,NBA Tiers $530 50-50,2000.0,NBA,2026-04-07 23:00:00+00:00,530.0,4
+189481161,145268,0.0,True,False,False,False,False,NBA Tiers $162 50-50,600.0,NBA,2026-04-07 23:00:00+00:00,162.0,4
+189481162,145268,0.0,True,False,False,False,False,NBA Tiers $109 50-50,400.0,NBA,2026-04-07 23:00:00+00:00,109.0,4
+189481163,145268,0.0,True,False,False,False,False,NBA Tiers $50 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,50.0,4
+189481164,145268,0.0,True,False,False,False,False,NBA Tiers $20 50-50,360.0,NBA,2026-04-07 23:00:00+00:00,20.0,20
+189481165,145268,0.0,True,False,False,False,False,NBA Tiers $20 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,20.0,10
+189481166,145268,0.0,True,False,False,False,False,NBA Tiers $20 50-50,72.0,NBA,2026-04-07 23:00:00+00:00,20.0,4
+189481167,145268,0.0,True,False,False,False,False,NBA Tiers $20 50-50,72.0,NBA,2026-04-07 23:00:00+00:00,20.0,4
+189481168,145268,0.0,True,False,False,False,False,NBA Tiers $10 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,10.0,20
+189481169,145268,0.0,True,False,False,False,False,NBA Tiers $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481170,145268,0.0,True,False,False,False,False,NBA Tiers $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481171,145268,0.0,True,False,False,False,False,NBA Tiers $10 50-50,36.0,NBA,2026-04-07 23:00:00+00:00,10.0,4
+189481172,145268,0.0,True,False,False,False,False,NBA Tiers $10 50-50,36.0,NBA,2026-04-07 23:00:00+00:00,10.0,4
+189481173,145268,0.0,True,False,False,False,False,NBA Tiers $10 50-50,36.0,NBA,2026-04-07 23:00:00+00:00,10.0,4
+189481174,145268,0.0,True,False,False,False,False,NBA Tiers $5 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,5.0,20
+189481175,145268,0.0,True,False,False,False,False,NBA Tiers $5 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,5.0,20
+189481176,145268,0.0,True,False,False,False,False,NBA Tiers $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481177,145268,0.0,True,False,False,False,False,NBA Tiers $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481178,145268,0.0,True,False,False,False,False,NBA Tiers $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481179,145268,0.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189481180,145268,0.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189481181,145268,0.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481182,145268,0.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481183,145268,0.0,True,False,False,False,False,NBA Tiers $2 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481184,145268,0.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189481185,145268,0.0,True,False,False,False,False,NBA Tiers $1 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189481186,145268,0.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481187,145268,0.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481188,145268,0.0,True,False,False,False,False,NBA Tiers $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481189,145268,0.0,True,False,False,False,False,Beginner NBA Tiers $50 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,50.0,4
+189481190,145268,0.0,True,False,False,False,False,Beginner NBA Tiers $20 50-50,72.0,NBA,2026-04-07 23:00:00+00:00,20.0,4
+189481191,145268,0.0,True,False,False,False,False,Beginner NBA Tiers $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481192,145268,0.0,True,False,False,False,False,Beginner NBA Tiers $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481193,145268,0.0,True,False,False,False,False,Beginner NBA Tiers $3 50-50,27.0,NBA,2026-04-07 23:00:00+00:00,3.0,10
+189481194,145268,0.0,True,False,False,False,False,Beginner NBA Tiers $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481195,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $10 5-Player,45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189481196,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $5 5-Player,22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189481197,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189481198,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189481199,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189481200,145268,0.0,False,False,False,False,False,Beginner NBA Tiers $1 5-Player,4.5,NBA,2026-04-07 23:00:00+00:00,1.0,5
+189481201,145268,0.0,False,False,False,False,False,"NBA Tiers $10,600 3-Player",30000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,3
+189481202,145268,0.0,False,False,False,False,False,"NBA Tiers $5,300 3-Player",15000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,3
+189481203,145268,0.0,False,False,False,False,False,"NBA Tiers $1,060 3-Player",3000.0,NBA,2026-04-07 23:00:00+00:00,1060.0,3
+189481204,145268,0.0,False,False,False,False,False,NBA Tiers $530 3-Player,1500.0,NBA,2026-04-07 23:00:00+00:00,530.0,3
+189481205,145268,0.0,False,False,False,False,False,NBA Tiers $162 3-Player,450.0,NBA,2026-04-07 23:00:00+00:00,162.0,3
+189481206,145268,0.0,False,False,False,False,False,NBA Tiers $109 3-Player,300.0,NBA,2026-04-07 23:00:00+00:00,109.0,3
+189481207,145268,0.0,False,False,False,False,False,NBA Tiers $109 3-Player,300.0,NBA,2026-04-07 23:00:00+00:00,109.0,3
+189481208,145268,0.0,False,False,False,False,False,NBA Tiers $50 5-Player,225.0,NBA,2026-04-07 23:00:00+00:00,50.0,5
+189481209,145268,0.0,False,False,False,False,False,NBA Tiers $50 3-Player,135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189481210,145268,0.0,False,False,False,False,False,NBA Tiers $20 5-Player,90.0,NBA,2026-04-07 23:00:00+00:00,20.0,5
+189481211,145268,0.0,False,False,False,False,False,NBA Tiers $20 5-Player,90.0,NBA,2026-04-07 23:00:00+00:00,20.0,5
+189481212,145268,0.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189481213,145268,0.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189481214,145268,0.0,False,False,False,False,False,NBA Tiers $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189481215,145268,0.0,False,False,False,False,False,NBA Tiers $10 10-Player,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481216,145268,0.0,False,False,False,False,False,NBA Tiers $10 5-Player,45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189481217,145268,0.0,False,False,False,False,False,NBA Tiers $10 5-Player,45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189481219,145268,0.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189481220,145268,0.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189481221,145268,0.0,False,False,False,False,False,NBA Tiers $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189481222,145268,0.0,False,False,False,False,False,NBA Tiers $5 10-Player,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481223,145268,0.0,False,False,False,False,False,NBA Tiers $5 10-Player,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481224,145268,0.0,False,False,False,False,False,NBA Tiers $5 5-Player,22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189481225,145268,0.0,False,False,False,False,False,NBA Tiers $5 5-Player,22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189481226,145268,0.0,False,False,False,False,False,NBA Tiers $5 5-Player,22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189481227,145268,0.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189481228,145268,0.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189481229,145268,0.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189481230,145268,0.0,False,False,False,False,False,NBA Tiers $2 20-Player,36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189481231,145268,0.0,False,False,False,False,False,NBA Tiers $2 20-Player,36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189481232,145268,0.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481233,145268,0.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481234,145268,0.0,False,False,False,False,False,NBA Tiers $2 10-Player,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481235,145268,0.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189481236,145268,0.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189481237,145268,0.0,False,False,False,False,False,NBA Tiers $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189481238,145268,0.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189481239,145268,0.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189481240,145268,0.0,False,False,False,False,False,NBA Tiers $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189481241,145268,0.0,False,False,False,False,False,NBA Tiers $1 10-Player,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481242,145268,0.0,False,False,False,False,False,NBA Tiers $1 5-Player,4.5,NBA,2026-04-07 23:00:00+00:00,1.0,5
+189481243,145268,0.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189481244,145268,0.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189481245,145268,0.0,True,False,False,False,False,NBA Tiers $109 50-50,600.0,NBA,2026-04-07 23:00:00+00:00,109.0,6
+189481246,145268,0.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,4
+189481247,145268,0.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,4
+189481248,145268,0.0,False,False,False,False,False,"NBA Tiers $10,600 4-Player (Winner Takes All)",40000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,4
+189481249,145268,0.0,True,False,False,False,False,Casual NBA Tiers $50 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,50.0,4
+189481250,145268,0.0,True,False,False,False,False,Casual NBA Tiers $20 50-50,72.0,NBA,2026-04-07 23:00:00+00:00,20.0,4
+189481251,145268,0.0,True,False,False,False,False,Casual NBA Tiers $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481252,145268,0.0,True,False,False,False,False,Casual NBA Tiers $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481253,145268,0.0,True,False,False,False,False,Casual NBA Tiers $3 50-50,27.0,NBA,2026-04-07 23:00:00+00:00,3.0,10
+189481254,145268,0.0,True,False,False,False,False,Casual NBA Tiers $3 50-50,10.8,NBA,2026-04-07 23:00:00+00:00,3.0,4
+189481255,145268,0.0,True,False,False,False,False,Casual NBA Tiers $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481256,145268,0.0,False,False,False,False,False,Casual NBA Tiers $50 3-Player,135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189481257,145268,0.0,False,False,False,False,False,Casual NBA Tiers $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189481258,145268,0.0,False,False,False,False,False,Casual NBA Tiers $10 5-Player,45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189481259,145268,0.0,False,False,False,False,False,Casual NBA Tiers $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189481260,145268,0.0,False,False,False,False,False,Casual NBA Tiers $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189481261,145268,0.0,False,False,False,False,False,Casual NBA Tiers $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189481262,145268,0.0,False,False,False,False,False,Casual NBA Tiers $109 5-Player,500.0,NBA,2026-04-07 23:00:00+00:00,109.0,5
+189481263,145268,0.0,True,False,False,False,False,NBA Tiers $10 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,10.0,11
+189481264,145268,0.0,True,False,False,False,False,NBA Tiers $25 Double Up,250.0,NBA,2026-04-07 23:00:00+00:00,25.0,11
+189481265,145268,0.0,True,False,False,False,False,NBA Tiers $50 Double Up,500.0,NBA,2026-04-07 23:00:00+00:00,50.0,11
+189481266,145268,0.0,True,False,False,False,False,NBA Tiers $5 Double Up,50.0,NBA,2026-04-07 23:00:00+00:00,5.0,11
+189481267,145268,0.0,True,False,False,False,False,NBA Tiers $3 Double Up,30.0,NBA,2026-04-07 23:00:00+00:00,3.0,11
+189481268,145268,0.0,True,False,False,False,False,NBA Tiers $1 Double Up,10.0,NBA,2026-04-07 23:00:00+00:00,1.0,11
+189481269,145268,0.0,True,False,False,False,False,NBA Tiers $25 Double Up,500.0,NBA,2026-04-07 23:00:00+00:00,25.0,22
+189481270,145268,0.0,True,False,False,False,False,NBA Tiers $50 Double Up,1000.0,NBA,2026-04-07 23:00:00+00:00,50.0,22
+189481271,145268,0.0,False,False,False,False,True,NBA Tiers $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2026-04-07 23:00:00+00:00,1060.0,4
+189481272,145268,0.0,False,False,False,False,True,NBA Tiers $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2026-04-07 23:00:00+00:00,267.0,4
+189481273,145268,0.0,False,False,False,False,True,"NBA Tiers $408 Winner Take All [$1.5K to 1st, Must Fill]",1500.0,NBA,2026-04-07 23:00:00+00:00,408.0,4
+189481274,145268,0.0,False,False,False,False,True,NBA Tiers Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill],25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189481275,145268,0.0,False,False,False,False,True,NBA Tiers Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189481276,145268,0.0,False,False,False,False,True,NBA Tiers Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189481277,145268,0.0,False,False,False,False,True,NBA Tiers Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189481278,145271,0.0,False,False,False,False,False,Beginner NBA $20 3-Player (Turbo),54.0,NBA,2026-04-07 23:30:00+00:00,20.0,3
+189481279,145271,0.0,False,False,False,False,False,Beginner NBA $50 3-Player (Turbo),135.0,NBA,2026-04-07 23:30:00+00:00,50.0,3
+189481280,145271,0.0,False,False,False,False,False,Beginner NBA $10 3-Player (Turbo),27.0,NBA,2026-04-07 23:30:00+00:00,10.0,3
+189481281,145271,0.0,False,False,False,False,False,Beginner NBA $5 3-Player (Turbo),13.5,NBA,2026-04-07 23:30:00+00:00,5.0,3
+189481282,145271,0.0,False,False,False,False,False,Beginner NBA $1 3-Player (Turbo),2.7,NBA,2026-04-07 23:30:00+00:00,1.0,3
+189481283,145271,0.0,True,False,False,False,False,"NBA $5,300 50-50 (Turbo)",20000.0,NBA,2026-04-07 23:30:00+00:00,5300.0,4
+189481284,145271,0.0,True,False,False,False,False,"NBA $1,060 50-50 (Turbo)",4000.0,NBA,2026-04-07 23:30:00+00:00,1060.0,4
+189481285,145271,0.0,True,False,False,False,False,NBA $530 50-50 (Turbo),2000.0,NBA,2026-04-07 23:30:00+00:00,530.0,4
+189481286,145271,0.0,True,False,False,False,False,NBA $162 50-50 (Turbo),600.0,NBA,2026-04-07 23:30:00+00:00,162.0,4
+189481287,145271,0.0,True,False,False,False,False,NBA $109 50-50 (Turbo),400.0,NBA,2026-04-07 23:30:00+00:00,109.0,4
+189481288,145271,0.0,True,False,False,False,False,NBA $50 50-50 (Turbo),180.0,NBA,2026-04-07 23:30:00+00:00,50.0,4
+189481289,145271,0.0,True,False,False,False,False,NBA $20 50-50 (Turbo),360.0,NBA,2026-04-07 23:30:00+00:00,20.0,20
+189481290,145271,0.0,True,False,False,False,False,NBA $20 50-50 (Turbo),180.0,NBA,2026-04-07 23:30:00+00:00,20.0,10
+189481291,145271,0.0,True,False,False,False,False,NBA $20 50-50 (Turbo),72.0,NBA,2026-04-07 23:30:00+00:00,20.0,4
+189481292,145271,0.0,True,False,False,False,False,NBA $20 50-50 (Turbo),72.0,NBA,2026-04-07 23:30:00+00:00,20.0,4
+189481293,145271,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),180.0,NBA,2026-04-07 23:30:00+00:00,10.0,20
+189481294,145271,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),90.0,NBA,2026-04-07 23:30:00+00:00,10.0,10
+189481295,145271,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),90.0,NBA,2026-04-07 23:30:00+00:00,10.0,10
+189481296,145271,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),36.0,NBA,2026-04-07 23:30:00+00:00,10.0,4
+189481297,145271,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),36.0,NBA,2026-04-07 23:30:00+00:00,10.0,4
+189481298,145271,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),36.0,NBA,2026-04-07 23:30:00+00:00,10.0,4
+189481299,145271,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),90.0,NBA,2026-04-07 23:30:00+00:00,5.0,20
+189481300,145271,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),90.0,NBA,2026-04-07 23:30:00+00:00,5.0,20
+189481301,145271,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,5.0,10
+189481302,145271,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,5.0,10
+189481303,145271,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,5.0,10
+189481304,145271,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),36.0,NBA,2026-04-07 23:30:00+00:00,2.0,20
+189481305,145271,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),36.0,NBA,2026-04-07 23:30:00+00:00,2.0,20
+189481306,145271,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),18.0,NBA,2026-04-07 23:30:00+00:00,2.0,10
+189481307,145271,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),18.0,NBA,2026-04-07 23:30:00+00:00,2.0,10
+189481308,145271,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),18.0,NBA,2026-04-07 23:30:00+00:00,2.0,10
+189481309,145271,0.0,True,False,False,False,False,NBA $1 50-50 (Turbo),18.0,NBA,2026-04-07 23:30:00+00:00,1.0,20
+189481310,145271,0.0,True,False,False,False,False,NBA $1 50-50 (Turbo),18.0,NBA,2026-04-07 23:30:00+00:00,1.0,20
+189481311,145271,0.0,True,False,False,False,False,NBA $1 50-50 (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,1.0,10
+189481312,145271,0.0,True,False,False,False,False,NBA $1 50-50 (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,1.0,10
+189481313,145271,0.0,True,False,False,False,False,NBA $1 50-50 (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,1.0,10
+189481314,145271,0.0,True,False,False,False,False,Beginner NBA $50 50-50 (Turbo),180.0,NBA,2026-04-07 23:30:00+00:00,50.0,4
+189481315,145271,0.0,True,False,False,False,False,Beginner NBA $20 50-50 (Turbo),72.0,NBA,2026-04-07 23:30:00+00:00,20.0,4
+189481316,145271,0.0,True,False,False,False,False,Beginner NBA $10 50-50 (Turbo),90.0,NBA,2026-04-07 23:30:00+00:00,10.0,10
+189481317,145271,0.0,True,False,False,False,False,Beginner NBA $5 50-50 (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,5.0,10
+189481318,145271,0.0,True,False,False,False,False,Beginner NBA $3 50-50 (Turbo),27.0,NBA,2026-04-07 23:30:00+00:00,3.0,10
+189481319,145271,0.0,True,False,False,False,False,Beginner NBA $1 50-50 (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,1.0,10
+189481320,145271,0.0,False,False,False,False,False,Beginner NBA $10 5-Player (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,10.0,5
+189481321,145271,0.0,False,False,False,False,False,Beginner NBA $5 5-Player (Turbo),22.5,NBA,2026-04-07 23:30:00+00:00,5.0,5
+189481322,145271,0.0,False,False,False,False,False,Beginner NBA $5 3-Player (Turbo),13.5,NBA,2026-04-07 23:30:00+00:00,5.0,3
+189481323,145271,0.0,False,False,False,False,False,Beginner NBA $2 5-Player (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,2.0,5
+189481324,145271,0.0,False,False,False,False,False,Beginner NBA $2 3-Player (Turbo),5.4,NBA,2026-04-07 23:30:00+00:00,2.0,3
+189481325,145271,0.0,False,False,False,False,False,Beginner NBA $1 5-Player (Turbo),4.5,NBA,2026-04-07 23:30:00+00:00,1.0,5
+189481326,145271,0.0,False,False,False,False,False,"NBA $10,600 3-Player (Turbo)",30000.0,NBA,2026-04-07 23:30:00+00:00,10600.0,3
+189481327,145271,0.0,False,False,False,False,False,"NBA $5,300 3-Player (Turbo)",15000.0,NBA,2026-04-07 23:30:00+00:00,5300.0,3
+189481328,145271,0.0,False,False,False,False,False,"NBA $1,060 3-Player (Turbo)",3000.0,NBA,2026-04-07 23:30:00+00:00,1060.0,3
+189481329,145271,0.0,False,False,False,False,False,NBA $530 3-Player (Turbo),1500.0,NBA,2026-04-07 23:30:00+00:00,530.0,3
+189481330,145271,0.0,False,False,False,False,False,NBA $162 3-Player (Turbo),450.0,NBA,2026-04-07 23:30:00+00:00,162.0,3
+189481331,145271,0.0,False,False,False,False,False,NBA $109 3-Player (Turbo),300.0,NBA,2026-04-07 23:30:00+00:00,109.0,3
+189481332,145271,0.0,False,False,False,False,False,NBA $109 3-Player (Turbo),300.0,NBA,2026-04-07 23:30:00+00:00,109.0,3
+189481333,145271,0.0,False,False,False,False,False,NBA $50 5-Player (Turbo),225.0,NBA,2026-04-07 23:30:00+00:00,50.0,5
+189481334,145271,0.0,False,False,False,False,False,NBA $50 3-Player (Turbo),135.0,NBA,2026-04-07 23:30:00+00:00,50.0,3
+189481335,145271,0.0,False,False,False,False,False,NBA $20 5-Player (Turbo),90.0,NBA,2026-04-07 23:30:00+00:00,20.0,5
+189481336,145271,0.0,False,False,False,False,False,NBA $20 5-Player (Turbo),90.0,NBA,2026-04-07 23:30:00+00:00,20.0,5
+189481337,145271,0.0,False,False,False,False,False,NBA $20 3-Player (Turbo),54.0,NBA,2026-04-07 23:30:00+00:00,20.0,3
+189481338,145271,0.0,False,False,False,False,False,NBA $20 3-Player (Turbo),54.0,NBA,2026-04-07 23:30:00+00:00,20.0,3
+189481339,145271,0.0,False,False,False,False,False,NBA $20 3-Player (Turbo),54.0,NBA,2026-04-07 23:30:00+00:00,20.0,3
+189481340,145271,0.0,False,False,False,False,False,NBA $10 10-Player (Turbo),90.0,NBA,2026-04-07 23:30:00+00:00,10.0,10
+189481341,145271,0.0,False,False,False,False,False,NBA $10 5-Player (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,10.0,5
+189481342,145271,0.0,False,False,False,False,False,NBA $10 5-Player (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,10.0,5
+189481343,145271,0.0,False,False,False,False,False,NBA $10 3-Player (Turbo),27.0,NBA,2026-04-07 23:30:00+00:00,10.0,3
+189481344,145271,0.0,False,False,False,False,False,NBA $10 3-Player (Turbo),27.0,NBA,2026-04-07 23:30:00+00:00,10.0,3
+189481345,145271,0.0,False,False,False,False,False,NBA $10 3-Player (Turbo),27.0,NBA,2026-04-07 23:30:00+00:00,10.0,3
+189481346,145271,0.0,False,False,False,False,False,NBA $5 10-Player (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,5.0,10
+189481347,145271,0.0,False,False,False,False,False,NBA $5 10-Player (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,5.0,10
+189481348,145271,0.0,False,False,False,False,False,NBA $5 5-Player (Turbo),22.5,NBA,2026-04-07 23:30:00+00:00,5.0,5
+189481349,145271,0.0,False,False,False,False,False,NBA $5 5-Player (Turbo),22.5,NBA,2026-04-07 23:30:00+00:00,5.0,5
+189481350,145271,0.0,False,False,False,False,False,NBA $5 5-Player (Turbo),22.5,NBA,2026-04-07 23:30:00+00:00,5.0,5
+189481351,145271,0.0,False,False,False,False,False,NBA $5 3-Player (Turbo),13.5,NBA,2026-04-07 23:30:00+00:00,5.0,3
+189481352,145271,0.0,False,False,False,False,False,NBA $5 3-Player (Turbo),13.5,NBA,2026-04-07 23:30:00+00:00,5.0,3
+189481353,145271,0.0,False,False,False,False,False,NBA $5 3-Player (Turbo),13.5,NBA,2026-04-07 23:30:00+00:00,5.0,3
+189481354,145271,0.0,False,False,False,False,False,NBA $2 20-Player (Turbo),36.0,NBA,2026-04-07 23:30:00+00:00,2.0,20
+189481355,145271,0.0,False,False,False,False,False,NBA $2 20-Player (Turbo),36.0,NBA,2026-04-07 23:30:00+00:00,2.0,20
+189481356,145271,0.0,False,False,False,False,False,NBA $2 10-Player (Turbo),18.0,NBA,2026-04-07 23:30:00+00:00,2.0,10
+189481357,145271,0.0,False,False,False,False,False,NBA $2 10-Player (Turbo),18.0,NBA,2026-04-07 23:30:00+00:00,2.0,10
+189481358,145271,0.0,False,False,False,False,False,NBA $2 10-Player (Turbo),18.0,NBA,2026-04-07 23:30:00+00:00,2.0,10
+189481359,145271,0.0,False,False,False,False,False,NBA $2 5-Player (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,2.0,5
+189481360,145271,0.0,False,False,False,False,False,NBA $2 5-Player (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,2.0,5
+189481361,145271,0.0,False,False,False,False,False,NBA $2 5-Player (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,2.0,5
+189481362,145271,0.0,False,False,False,False,False,NBA $2 3-Player (Turbo),5.4,NBA,2026-04-07 23:30:00+00:00,2.0,3
+189481363,145271,0.0,False,False,False,False,False,NBA $2 3-Player (Turbo),5.4,NBA,2026-04-07 23:30:00+00:00,2.0,3
+189481364,145271,0.0,False,False,False,False,False,NBA $2 3-Player (Turbo),5.4,NBA,2026-04-07 23:30:00+00:00,2.0,3
+189481365,145271,0.0,False,False,False,False,False,NBA $1 10-Player (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,1.0,10
+189481366,145271,0.0,False,False,False,False,False,NBA $1 5-Player (Turbo),4.5,NBA,2026-04-07 23:30:00+00:00,1.0,5
+189481367,145271,0.0,False,False,False,False,False,NBA $1 3-Player (Turbo),2.7,NBA,2026-04-07 23:30:00+00:00,1.0,3
+189481368,145271,0.0,False,False,False,False,False,NBA $1 3-Player (Turbo),2.7,NBA,2026-04-07 23:30:00+00:00,1.0,3
+189481369,145271,0.0,True,False,False,False,False,NBA $109 50-50 (Turbo),600.0,NBA,2026-04-07 23:30:00+00:00,109.0,6
+189481370,145271,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Turbo)",40000.0,NBA,2026-04-07 23:30:00+00:00,10600.0,4
+189481371,145271,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Turbo)",40000.0,NBA,2026-04-07 23:30:00+00:00,10600.0,4
+189481372,145271,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Turbo)",40000.0,NBA,2026-04-07 23:30:00+00:00,10600.0,4
+189481373,145271,0.0,True,False,False,False,False,Casual NBA $50 50-50 (Turbo),180.0,NBA,2026-04-07 23:30:00+00:00,50.0,4
+189481374,145271,0.0,True,False,False,False,False,Casual NBA $20 50-50 (Turbo),72.0,NBA,2026-04-07 23:30:00+00:00,20.0,4
+189481375,145271,0.0,True,False,False,False,False,Casual NBA $10 50-50 (Turbo),90.0,NBA,2026-04-07 23:30:00+00:00,10.0,10
+189481376,145271,0.0,True,False,False,False,False,Casual NBA $5 50-50 (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,5.0,10
+189481377,145271,0.0,True,False,False,False,False,Casual NBA $3 50-50 (Turbo),27.0,NBA,2026-04-07 23:30:00+00:00,3.0,10
+189481378,145271,0.0,True,False,False,False,False,Casual NBA $3 50-50 (Turbo),10.8,NBA,2026-04-07 23:30:00+00:00,3.0,4
+189481379,145271,0.0,True,False,False,False,False,Casual NBA $1 50-50 (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,1.0,10
+189481380,145271,0.0,False,False,False,False,False,Casual NBA $50 3-Player (Turbo),135.0,NBA,2026-04-07 23:30:00+00:00,50.0,3
+189481381,145271,0.0,False,False,False,False,False,Casual NBA $20 3-Player (Turbo),54.0,NBA,2026-04-07 23:30:00+00:00,20.0,3
+189481382,145271,0.0,False,False,False,False,False,Casual NBA $10 5-Player (Turbo),45.0,NBA,2026-04-07 23:30:00+00:00,10.0,5
+189481383,145271,0.0,False,False,False,False,False,Casual NBA $10 3-Player (Turbo),27.0,NBA,2026-04-07 23:30:00+00:00,10.0,3
+189481384,145271,0.0,False,False,False,False,False,Casual NBA $2 5-Player (Turbo),9.0,NBA,2026-04-07 23:30:00+00:00,2.0,5
+189481385,145271,0.0,False,False,False,False,False,Casual NBA $2 3-Player (Turbo),5.4,NBA,2026-04-07 23:30:00+00:00,2.0,3
+189481386,145271,0.0,False,False,False,False,False,Casual NBA $109 5-Player (Turbo),500.0,NBA,2026-04-07 23:30:00+00:00,109.0,5
+189481387,145271,0.0,True,False,False,False,False,NBA $10 Double Up (Turbo),100.0,NBA,2026-04-07 23:30:00+00:00,10.0,11
+189481388,145271,0.0,True,False,False,False,False,NBA $25 Double Up (Turbo),250.0,NBA,2026-04-07 23:30:00+00:00,25.0,11
+189481389,145271,0.0,True,False,False,False,False,NBA $50 Double Up (Turbo),500.0,NBA,2026-04-07 23:30:00+00:00,50.0,11
+189481390,145271,0.0,True,False,False,False,False,NBA $5 Double Up (Turbo),50.0,NBA,2026-04-07 23:30:00+00:00,5.0,11
+189481391,145271,0.0,True,False,False,False,False,NBA $3 Double Up (Turbo),30.0,NBA,2026-04-07 23:30:00+00:00,3.0,11
+189481392,145271,0.0,True,False,False,False,False,NBA $1 Double Up (Turbo),10.0,NBA,2026-04-07 23:30:00+00:00,1.0,11
+189481393,145271,0.0,True,False,False,False,False,NBA $25 Double Up (Turbo),500.0,NBA,2026-04-07 23:30:00+00:00,25.0,22
+189481394,145271,0.0,True,False,False,False,False,NBA $50 Double Up (Turbo),1000.0,NBA,2026-04-07 23:30:00+00:00,50.0,22
+189481395,145271,0.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill) (Turbo),4000.0,NBA,2026-04-07 23:30:00+00:00,1060.0,4
+189481396,145271,0.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill) (Turbo),1000.0,NBA,2026-04-07 23:30:00+00:00,267.0,4
+189481397,145271,0.0,False,False,False,False,True,"NBA $408 Winner Take All [$1.5K to 1st, Must Fill] (Turbo)",1500.0,NBA,2026-04-07 23:30:00+00:00,408.0,4
+189481398,145271,0.0,False,False,False,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill] (Turbo),25.0,NBA,2026-04-07 23:30:00+00:00,9.0,3
+189481399,145271,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Turbo),25.0,NBA,2026-04-07 23:30:00+00:00,9.0,3
+189481400,145271,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Turbo),25.0,NBA,2026-04-07 23:30:00+00:00,9.0,3
+189481401,145271,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Turbo),25.0,NBA,2026-04-07 23:30:00+00:00,9.0,3
+189481402,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (CHA @ BOS),54.0,NBA,2026-04-08 00:00:00+00:00,20.0,3
+189481403,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (CHA @ BOS),135.0,NBA,2026-04-08 00:00:00+00:00,50.0,3
+189481404,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (CHA @ BOS),27.0,NBA,2026-04-08 00:00:00+00:00,10.0,3
+189481405,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (CHA @ BOS),13.5,NBA,2026-04-08 00:00:00+00:00,5.0,3
+189481406,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (CHA @ BOS),2.7,NBA,2026-04-08 00:00:00+00:00,1.0,3
+189481407,145272,0.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (CHA @ BOS)",20000.0,NBA,2026-04-08 00:00:00+00:00,5300.0,4
+189481408,145272,0.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (CHA @ BOS)",4000.0,NBA,2026-04-08 00:00:00+00:00,1060.0,4
+189481409,145272,0.0,True,False,False,False,False,NBA Showdown $530 50-50 (CHA @ BOS),2000.0,NBA,2026-04-08 00:00:00+00:00,530.0,4
+189481410,145272,0.0,True,False,False,False,False,NBA Showdown $162 50-50 (CHA @ BOS),600.0,NBA,2026-04-08 00:00:00+00:00,162.0,4
+189481411,145272,0.0,True,False,False,False,False,NBA Showdown $109 50-50 (CHA @ BOS),400.0,NBA,2026-04-08 00:00:00+00:00,109.0,4
+189481412,145272,0.0,True,False,False,False,False,NBA Showdown $50 50-50 (CHA @ BOS),180.0,NBA,2026-04-08 00:00:00+00:00,50.0,4
+189481413,145272,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (CHA @ BOS),360.0,NBA,2026-04-08 00:00:00+00:00,20.0,20
+189481414,145272,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (CHA @ BOS),180.0,NBA,2026-04-08 00:00:00+00:00,20.0,10
+189481415,145272,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (CHA @ BOS),72.0,NBA,2026-04-08 00:00:00+00:00,20.0,4
+189481416,145272,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (CHA @ BOS),72.0,NBA,2026-04-08 00:00:00+00:00,20.0,4
+189481417,145272,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (CHA @ BOS),180.0,NBA,2026-04-08 00:00:00+00:00,10.0,20
+189481418,145272,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (CHA @ BOS),90.0,NBA,2026-04-08 00:00:00+00:00,10.0,10
+189481419,145272,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (CHA @ BOS),90.0,NBA,2026-04-08 00:00:00+00:00,10.0,10
+189481420,145272,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (CHA @ BOS),36.0,NBA,2026-04-08 00:00:00+00:00,10.0,4
+189481421,145272,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (CHA @ BOS),36.0,NBA,2026-04-08 00:00:00+00:00,10.0,4
+189481422,145272,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (CHA @ BOS),36.0,NBA,2026-04-08 00:00:00+00:00,10.0,4
+189481423,145272,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (CHA @ BOS),90.0,NBA,2026-04-08 00:00:00+00:00,5.0,20
+189481424,145272,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (CHA @ BOS),90.0,NBA,2026-04-08 00:00:00+00:00,5.0,20
+189481425,145272,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481426,145272,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481427,145272,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481428,145272,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (CHA @ BOS),36.0,NBA,2026-04-08 00:00:00+00:00,2.0,20
+189481429,145272,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (CHA @ BOS),36.0,NBA,2026-04-08 00:00:00+00:00,2.0,20
+189481430,145272,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (CHA @ BOS),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481431,145272,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (CHA @ BOS),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481432,145272,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (CHA @ BOS),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481433,145272,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (CHA @ BOS),18.0,NBA,2026-04-08 00:00:00+00:00,1.0,20
+189481434,145272,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (CHA @ BOS),18.0,NBA,2026-04-08 00:00:00+00:00,1.0,20
+189481435,145272,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481436,145272,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481437,145272,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481438,145272,0.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (CHA @ BOS),180.0,NBA,2026-04-08 00:00:00+00:00,50.0,4
+189481439,145272,0.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (CHA @ BOS),72.0,NBA,2026-04-08 00:00:00+00:00,20.0,4
+189481440,145272,0.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (CHA @ BOS),90.0,NBA,2026-04-08 00:00:00+00:00,10.0,10
+189481441,145272,0.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481442,145272,0.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (CHA @ BOS),27.0,NBA,2026-04-08 00:00:00+00:00,3.0,10
+189481443,145272,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481444,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,10.0,5
+189481445,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (CHA @ BOS),22.5,NBA,2026-04-08 00:00:00+00:00,5.0,5
+189481446,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (CHA @ BOS),13.5,NBA,2026-04-08 00:00:00+00:00,5.0,3
+189481447,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,2.0,5
+189481448,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (CHA @ BOS),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189481449,145272,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (CHA @ BOS),4.5,NBA,2026-04-08 00:00:00+00:00,1.0,5
+189481450,145272,0.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (CHA @ BOS)",30000.0,NBA,2026-04-08 00:00:00+00:00,10600.0,3
+189481451,145272,0.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (CHA @ BOS)",15000.0,NBA,2026-04-08 00:00:00+00:00,5300.0,3
+189481452,145272,0.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (CHA @ BOS)",3000.0,NBA,2026-04-08 00:00:00+00:00,1060.0,3
+189481453,145272,0.0,False,False,False,False,False,NBA Showdown $530 3-Player (CHA @ BOS),1500.0,NBA,2026-04-08 00:00:00+00:00,530.0,3
+189481454,145272,0.0,False,False,False,False,False,NBA Showdown $162 3-Player (CHA @ BOS),450.0,NBA,2026-04-08 00:00:00+00:00,162.0,3
+189481455,145272,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (CHA @ BOS),300.0,NBA,2026-04-08 00:00:00+00:00,109.0,3
+189481456,145272,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (CHA @ BOS),300.0,NBA,2026-04-08 00:00:00+00:00,109.0,3
+189481457,145272,0.0,False,False,False,False,False,NBA Showdown $50 5-Player (CHA @ BOS),225.0,NBA,2026-04-08 00:00:00+00:00,50.0,5
+189481458,145272,0.0,False,False,False,False,False,NBA Showdown $50 3-Player (CHA @ BOS),135.0,NBA,2026-04-08 00:00:00+00:00,50.0,3
+189481459,145272,0.0,False,False,False,False,False,NBA Showdown $20 5-Player (CHA @ BOS),90.0,NBA,2026-04-08 00:00:00+00:00,20.0,5
+189481460,145272,0.0,False,False,False,False,False,NBA Showdown $20 5-Player (CHA @ BOS),90.0,NBA,2026-04-08 00:00:00+00:00,20.0,5
+189481461,145272,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (CHA @ BOS),54.0,NBA,2026-04-08 00:00:00+00:00,20.0,3
+189481462,145272,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (CHA @ BOS),54.0,NBA,2026-04-08 00:00:00+00:00,20.0,3
+189481463,145272,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (CHA @ BOS),54.0,NBA,2026-04-08 00:00:00+00:00,20.0,3
+189481464,145272,0.0,False,False,False,False,False,NBA Showdown $10 10-Player (CHA @ BOS),90.0,NBA,2026-04-08 00:00:00+00:00,10.0,10
+189481465,145272,0.0,False,False,False,False,False,NBA Showdown $10 5-Player (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,10.0,5
+189481466,145272,0.0,False,False,False,False,False,NBA Showdown $10 5-Player (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,10.0,5
+189481467,145272,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (CHA @ BOS),27.0,NBA,2026-04-08 00:00:00+00:00,10.0,3
+189481468,145272,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (CHA @ BOS),27.0,NBA,2026-04-08 00:00:00+00:00,10.0,3
+189481469,145272,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (CHA @ BOS),27.0,NBA,2026-04-08 00:00:00+00:00,10.0,3
+189481470,145272,0.0,False,False,False,False,False,NBA Showdown $5 10-Player (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481471,145272,0.0,False,False,False,False,False,NBA Showdown $5 10-Player (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481472,145272,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (CHA @ BOS),22.5,NBA,2026-04-08 00:00:00+00:00,5.0,5
+189481473,145272,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (CHA @ BOS),22.5,NBA,2026-04-08 00:00:00+00:00,5.0,5
+189481474,145272,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (CHA @ BOS),22.5,NBA,2026-04-08 00:00:00+00:00,5.0,5
+189481475,145272,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (CHA @ BOS),13.5,NBA,2026-04-08 00:00:00+00:00,5.0,3
+189481476,145272,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (CHA @ BOS),13.5,NBA,2026-04-08 00:00:00+00:00,5.0,3
+189481477,145272,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (CHA @ BOS),13.5,NBA,2026-04-08 00:00:00+00:00,5.0,3
+189481478,145272,0.0,False,False,False,False,False,NBA Showdown $2 20-Player (CHA @ BOS),36.0,NBA,2026-04-08 00:00:00+00:00,2.0,20
+189481479,145272,0.0,False,False,False,False,False,NBA Showdown $2 20-Player (CHA @ BOS),36.0,NBA,2026-04-08 00:00:00+00:00,2.0,20
+189481480,145272,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (CHA @ BOS),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481481,145272,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (CHA @ BOS),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481482,145272,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (CHA @ BOS),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481483,145272,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,2.0,5
+189481484,145272,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,2.0,5
+189481485,145272,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,2.0,5
+189481486,145272,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (CHA @ BOS),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189481487,145272,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (CHA @ BOS),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189481488,145272,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (CHA @ BOS),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189481489,145272,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481490,145272,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (CHA @ BOS),4.5,NBA,2026-04-08 00:00:00+00:00,1.0,5
+189481491,145272,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (CHA @ BOS),2.7,NBA,2026-04-08 00:00:00+00:00,1.0,3
+189481492,145272,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (CHA @ BOS),2.7,NBA,2026-04-08 00:00:00+00:00,1.0,3
+189481493,145272,0.0,True,False,False,False,False,NBA Showdown $109 50-50 (CHA @ BOS),600.0,NBA,2026-04-08 00:00:00+00:00,109.0,6
+189481494,145272,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (CHA @ BOS)",40000.0,NBA,2026-04-08 00:00:00+00:00,10600.0,4
+189481495,145272,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (CHA @ BOS)",40000.0,NBA,2026-04-08 00:00:00+00:00,10600.0,4
+189481496,145272,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (CHA @ BOS)",40000.0,NBA,2026-04-08 00:00:00+00:00,10600.0,4
+189481497,145272,0.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (CHA @ BOS),180.0,NBA,2026-04-08 00:00:00+00:00,50.0,4
+189481498,145272,0.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (CHA @ BOS),72.0,NBA,2026-04-08 00:00:00+00:00,20.0,4
+189481499,145272,0.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (CHA @ BOS),90.0,NBA,2026-04-08 00:00:00+00:00,10.0,10
+189481500,145272,0.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481501,145272,0.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (CHA @ BOS),27.0,NBA,2026-04-08 00:00:00+00:00,3.0,10
+189481502,145272,0.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (CHA @ BOS),10.8,NBA,2026-04-08 00:00:00+00:00,3.0,4
+189481503,145272,0.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481504,145272,0.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (CHA @ BOS),135.0,NBA,2026-04-08 00:00:00+00:00,50.0,3
+189481505,145272,0.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (CHA @ BOS),54.0,NBA,2026-04-08 00:00:00+00:00,20.0,3
+189481506,145272,0.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (CHA @ BOS),45.0,NBA,2026-04-08 00:00:00+00:00,10.0,5
+189481507,145272,0.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (CHA @ BOS),27.0,NBA,2026-04-08 00:00:00+00:00,10.0,3
+189481508,145272,0.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (CHA @ BOS),9.0,NBA,2026-04-08 00:00:00+00:00,2.0,5
+189481509,145272,0.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (CHA @ BOS),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189481510,145272,0.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (CHA @ BOS),500.0,NBA,2026-04-08 00:00:00+00:00,109.0,5
+189481511,145272,0.0,True,False,False,False,False,NBA Showdown $10 Double Up (CHA @ BOS),100.0,NBA,2026-04-08 00:00:00+00:00,10.0,11
+189481512,145272,0.0,True,False,False,False,False,NBA Showdown $25 Double Up (CHA @ BOS),250.0,NBA,2026-04-08 00:00:00+00:00,25.0,11
+189481513,145272,0.0,True,False,False,False,False,NBA Showdown $50 Double Up (CHA @ BOS),500.0,NBA,2026-04-08 00:00:00+00:00,50.0,11
+189481514,145272,0.0,True,False,False,False,False,NBA Showdown $5 Double Up (CHA @ BOS),50.0,NBA,2026-04-08 00:00:00+00:00,5.0,11
+189481515,145272,0.0,True,False,False,False,False,NBA Showdown $3 Double Up (CHA @ BOS),30.0,NBA,2026-04-08 00:00:00+00:00,3.0,11
+189481516,145272,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (CHA @ BOS),10.0,NBA,2026-04-08 00:00:00+00:00,1.0,11
+189481517,145272,0.0,True,False,False,False,False,NBA Showdown $25 Double Up (CHA @ BOS),500.0,NBA,2026-04-08 00:00:00+00:00,25.0,22
+189481518,145272,0.0,True,False,False,False,False,NBA Showdown $50 Double Up (CHA @ BOS),1000.0,NBA,2026-04-08 00:00:00+00:00,50.0,22
+189481519,145272,0.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (CHA @ BOS),4000.0,NBA,2026-04-08 00:00:00+00:00,1060.0,4
+189481520,145272,0.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (CHA @ BOS),1000.0,NBA,2026-04-08 00:00:00+00:00,267.0,4
+189481521,145272,0.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (CHA @ BOS)",1500.0,NBA,2026-04-08 00:00:00+00:00,408.0,4
+189481522,145272,0.0,False,False,False,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill] (CHA @ BOS),25.0,NBA,2026-04-08 00:00:00+00:00,9.0,3
+189481523,145272,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (CHA @ BOS),25.0,NBA,2026-04-08 00:00:00+00:00,9.0,3
+189481524,145272,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (CHA @ BOS),25.0,NBA,2026-04-08 00:00:00+00:00,9.0,3
+189481525,145272,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (CHA @ BOS),25.0,NBA,2026-04-08 00:00:00+00:00,9.0,3
+189481526,145273,0.0,False,False,False,False,False,Beginner NBA $20 3-Player (Turbo),54.0,NBA,2026-04-08 00:00:00+00:00,20.0,3
+189481527,145273,0.0,False,False,False,False,False,Beginner NBA $50 3-Player (Turbo),135.0,NBA,2026-04-08 00:00:00+00:00,50.0,3
+189481528,145273,0.0,False,False,False,False,False,Beginner NBA $10 3-Player (Turbo),27.0,NBA,2026-04-08 00:00:00+00:00,10.0,3
+189481529,145273,0.0,False,False,False,False,False,Beginner NBA $5 3-Player (Turbo),13.5,NBA,2026-04-08 00:00:00+00:00,5.0,3
+189481530,145273,0.0,False,False,False,False,False,Beginner NBA $1 3-Player (Turbo),2.7,NBA,2026-04-08 00:00:00+00:00,1.0,3
+189481531,145273,0.0,True,False,False,False,False,"NBA $5,300 50-50 (Turbo)",20000.0,NBA,2026-04-08 00:00:00+00:00,5300.0,4
+189481532,145273,0.0,True,False,False,False,False,"NBA $1,060 50-50 (Turbo)",4000.0,NBA,2026-04-08 00:00:00+00:00,1060.0,4
+189481533,145273,0.0,True,False,False,False,False,NBA $530 50-50 (Turbo),2000.0,NBA,2026-04-08 00:00:00+00:00,530.0,4
+189481534,145273,0.0,True,False,False,False,False,NBA $162 50-50 (Turbo),600.0,NBA,2026-04-08 00:00:00+00:00,162.0,4
+189481535,145273,0.0,True,False,False,False,False,NBA $109 50-50 (Turbo),400.0,NBA,2026-04-08 00:00:00+00:00,109.0,4
+189481536,145273,0.0,True,False,False,False,False,NBA $50 50-50 (Turbo),180.0,NBA,2026-04-08 00:00:00+00:00,50.0,4
+189481537,145273,0.0,True,False,False,False,False,NBA $20 50-50 (Turbo),360.0,NBA,2026-04-08 00:00:00+00:00,20.0,20
+189481538,145273,0.0,True,False,False,False,False,NBA $20 50-50 (Turbo),180.0,NBA,2026-04-08 00:00:00+00:00,20.0,10
+189481539,145273,0.0,True,False,False,False,False,NBA $20 50-50 (Turbo),72.0,NBA,2026-04-08 00:00:00+00:00,20.0,4
+189481540,145273,0.0,True,False,False,False,False,NBA $20 50-50 (Turbo),72.0,NBA,2026-04-08 00:00:00+00:00,20.0,4
+189481541,145273,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),180.0,NBA,2026-04-08 00:00:00+00:00,10.0,20
+189481542,145273,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),90.0,NBA,2026-04-08 00:00:00+00:00,10.0,10
+189481543,145273,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),90.0,NBA,2026-04-08 00:00:00+00:00,10.0,10
+189481544,145273,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),36.0,NBA,2026-04-08 00:00:00+00:00,10.0,4
+189481545,145273,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),36.0,NBA,2026-04-08 00:00:00+00:00,10.0,4
+189481546,145273,0.0,True,False,False,False,False,NBA $10 50-50 (Turbo),36.0,NBA,2026-04-08 00:00:00+00:00,10.0,4
+189481547,145273,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),90.0,NBA,2026-04-08 00:00:00+00:00,5.0,20
+189481548,145273,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),90.0,NBA,2026-04-08 00:00:00+00:00,5.0,20
+189481549,145273,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481550,145273,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481551,145273,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481552,145273,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),36.0,NBA,2026-04-08 00:00:00+00:00,2.0,20
+189481553,145273,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),36.0,NBA,2026-04-08 00:00:00+00:00,2.0,20
+189481554,145273,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481555,145273,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481556,145273,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481557,145273,0.0,True,False,False,False,False,NBA $1 50-50 (Turbo),18.0,NBA,2026-04-08 00:00:00+00:00,1.0,20
+189481558,145273,0.0,True,False,False,False,False,NBA $1 50-50 (Turbo),18.0,NBA,2026-04-08 00:00:00+00:00,1.0,20
+189481559,145273,0.0,True,False,False,False,False,NBA $1 50-50 (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481560,145273,0.0,True,False,False,False,False,NBA $1 50-50 (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481561,145273,0.0,True,False,False,False,False,NBA $1 50-50 (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481562,145273,0.0,True,False,False,False,False,Beginner NBA $50 50-50 (Turbo),180.0,NBA,2026-04-08 00:00:00+00:00,50.0,4
+189481563,145273,0.0,True,False,False,False,False,Beginner NBA $20 50-50 (Turbo),72.0,NBA,2026-04-08 00:00:00+00:00,20.0,4
+189481564,145273,0.0,True,False,False,False,False,Beginner NBA $10 50-50 (Turbo),90.0,NBA,2026-04-08 00:00:00+00:00,10.0,10
+189481565,145273,0.0,True,False,False,False,False,Beginner NBA $5 50-50 (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481566,145273,0.0,True,False,False,False,False,Beginner NBA $3 50-50 (Turbo),27.0,NBA,2026-04-08 00:00:00+00:00,3.0,10
+189481567,145273,0.0,True,False,False,False,False,Beginner NBA $1 50-50 (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481568,145273,0.0,False,False,False,False,False,Beginner NBA $10 5-Player (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,10.0,5
+189481569,145273,0.0,False,False,False,False,False,Beginner NBA $5 5-Player (Turbo),22.5,NBA,2026-04-08 00:00:00+00:00,5.0,5
+189481570,145273,0.0,False,False,False,False,False,Beginner NBA $5 3-Player (Turbo),13.5,NBA,2026-04-08 00:00:00+00:00,5.0,3
+189481571,145273,0.0,False,False,False,False,False,Beginner NBA $2 5-Player (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,2.0,5
+189481572,145273,0.0,False,False,False,False,False,Beginner NBA $2 3-Player (Turbo),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189481573,145273,0.0,False,False,False,False,False,Beginner NBA $1 5-Player (Turbo),4.5,NBA,2026-04-08 00:00:00+00:00,1.0,5
+189481574,145273,0.0,False,False,False,False,False,"NBA $10,600 3-Player (Turbo)",30000.0,NBA,2026-04-08 00:00:00+00:00,10600.0,3
+189481575,145273,0.0,False,False,False,False,False,"NBA $5,300 3-Player (Turbo)",15000.0,NBA,2026-04-08 00:00:00+00:00,5300.0,3
+189481576,145273,0.0,False,False,False,False,False,"NBA $1,060 3-Player (Turbo)",3000.0,NBA,2026-04-08 00:00:00+00:00,1060.0,3
+189481577,145273,0.0,False,False,False,False,False,NBA $530 3-Player (Turbo),1500.0,NBA,2026-04-08 00:00:00+00:00,530.0,3
+189481578,145273,0.0,False,False,False,False,False,NBA $162 3-Player (Turbo),450.0,NBA,2026-04-08 00:00:00+00:00,162.0,3
+189481579,145273,0.0,False,False,False,False,False,NBA $109 3-Player (Turbo),300.0,NBA,2026-04-08 00:00:00+00:00,109.0,3
+189481580,145273,0.0,False,False,False,False,False,NBA $109 3-Player (Turbo),300.0,NBA,2026-04-08 00:00:00+00:00,109.0,3
+189481581,145273,0.0,False,False,False,False,False,NBA $50 5-Player (Turbo),225.0,NBA,2026-04-08 00:00:00+00:00,50.0,5
+189481582,145273,0.0,False,False,False,False,False,NBA $50 3-Player (Turbo),135.0,NBA,2026-04-08 00:00:00+00:00,50.0,3
+189481583,145273,0.0,False,False,False,False,False,NBA $20 5-Player (Turbo),90.0,NBA,2026-04-08 00:00:00+00:00,20.0,5
+189481584,145273,0.0,False,False,False,False,False,NBA $20 5-Player (Turbo),90.0,NBA,2026-04-08 00:00:00+00:00,20.0,5
+189481585,145273,0.0,False,False,False,False,False,NBA $20 3-Player (Turbo),54.0,NBA,2026-04-08 00:00:00+00:00,20.0,3
+189481586,145273,0.0,False,False,False,False,False,NBA $20 3-Player (Turbo),54.0,NBA,2026-04-08 00:00:00+00:00,20.0,3
+189481587,145273,0.0,False,False,False,False,False,NBA $20 3-Player (Turbo),54.0,NBA,2026-04-08 00:00:00+00:00,20.0,3
+189481588,145273,0.0,False,False,False,False,False,NBA $10 10-Player (Turbo),90.0,NBA,2026-04-08 00:00:00+00:00,10.0,10
+189481589,145273,0.0,False,False,False,False,False,NBA $10 5-Player (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,10.0,5
+189481590,145273,0.0,False,False,False,False,False,NBA $10 5-Player (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,10.0,5
+189481591,145273,0.0,False,False,False,False,False,NBA $10 3-Player (Turbo),27.0,NBA,2026-04-08 00:00:00+00:00,10.0,3
+189481592,145273,0.0,False,False,False,False,False,NBA $10 3-Player (Turbo),27.0,NBA,2026-04-08 00:00:00+00:00,10.0,3
+189481593,145273,0.0,False,False,False,False,False,NBA $10 3-Player (Turbo),27.0,NBA,2026-04-08 00:00:00+00:00,10.0,3
+189481594,145273,0.0,False,False,False,False,False,NBA $5 10-Player (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481595,145273,0.0,False,False,False,False,False,NBA $5 10-Player (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481596,145273,0.0,False,False,False,False,False,NBA $5 5-Player (Turbo),22.5,NBA,2026-04-08 00:00:00+00:00,5.0,5
+189481597,145273,0.0,False,False,False,False,False,NBA $5 5-Player (Turbo),22.5,NBA,2026-04-08 00:00:00+00:00,5.0,5
+189481598,145273,0.0,False,False,False,False,False,NBA $5 5-Player (Turbo),22.5,NBA,2026-04-08 00:00:00+00:00,5.0,5
+189481599,145273,0.0,False,False,False,False,False,NBA $5 3-Player (Turbo),13.5,NBA,2026-04-08 00:00:00+00:00,5.0,3
+189481600,145273,0.0,False,False,False,False,False,NBA $5 3-Player (Turbo),13.5,NBA,2026-04-08 00:00:00+00:00,5.0,3
+189481601,145273,0.0,False,False,False,False,False,NBA $5 3-Player (Turbo),13.5,NBA,2026-04-08 00:00:00+00:00,5.0,3
+189481602,145273,0.0,False,False,False,False,False,NBA $2 20-Player (Turbo),36.0,NBA,2026-04-08 00:00:00+00:00,2.0,20
+189481603,145273,0.0,False,False,False,False,False,NBA $2 20-Player (Turbo),36.0,NBA,2026-04-08 00:00:00+00:00,2.0,20
+189481604,145273,0.0,False,False,False,False,False,NBA $2 10-Player (Turbo),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481605,145273,0.0,False,False,False,False,False,NBA $2 10-Player (Turbo),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481606,145273,0.0,False,False,False,False,False,NBA $2 10-Player (Turbo),18.0,NBA,2026-04-08 00:00:00+00:00,2.0,10
+189481607,145273,0.0,False,False,False,False,False,NBA $2 5-Player (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,2.0,5
+189481608,145273,0.0,False,False,False,False,False,NBA $2 5-Player (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,2.0,5
+189481609,145273,0.0,False,False,False,False,False,NBA $2 5-Player (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,2.0,5
+189481610,145273,0.0,False,False,False,False,False,NBA $2 3-Player (Turbo),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189481611,145273,0.0,False,False,False,False,False,NBA $2 3-Player (Turbo),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189481612,145273,0.0,False,False,False,False,False,NBA $2 3-Player (Turbo),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189481613,145273,0.0,False,False,False,False,False,NBA $1 10-Player (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481614,145273,0.0,False,False,False,False,False,NBA $1 5-Player (Turbo),4.5,NBA,2026-04-08 00:00:00+00:00,1.0,5
+189481615,145273,0.0,False,False,False,False,False,NBA $1 3-Player (Turbo),2.7,NBA,2026-04-08 00:00:00+00:00,1.0,3
+189481616,145273,0.0,False,False,False,False,False,NBA $1 3-Player (Turbo),2.7,NBA,2026-04-08 00:00:00+00:00,1.0,3
+189481617,145273,0.0,True,False,False,False,False,NBA $109 50-50 (Turbo),600.0,NBA,2026-04-08 00:00:00+00:00,109.0,6
+189481618,145273,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Turbo)",40000.0,NBA,2026-04-08 00:00:00+00:00,10600.0,4
+189481619,145273,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Turbo)",40000.0,NBA,2026-04-08 00:00:00+00:00,10600.0,4
+189481620,145273,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Turbo)",40000.0,NBA,2026-04-08 00:00:00+00:00,10600.0,4
+189481621,145273,0.0,True,False,False,False,False,Casual NBA $50 50-50 (Turbo),180.0,NBA,2026-04-08 00:00:00+00:00,50.0,4
+189481622,145273,0.0,True,False,False,False,False,Casual NBA $20 50-50 (Turbo),72.0,NBA,2026-04-08 00:00:00+00:00,20.0,4
+189481623,145273,0.0,True,False,False,False,False,Casual NBA $10 50-50 (Turbo),90.0,NBA,2026-04-08 00:00:00+00:00,10.0,10
+189481624,145273,0.0,True,False,False,False,False,Casual NBA $5 50-50 (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,5.0,10
+189481625,145273,0.0,True,False,False,False,False,Casual NBA $3 50-50 (Turbo),27.0,NBA,2026-04-08 00:00:00+00:00,3.0,10
+189481626,145273,0.0,True,False,False,False,False,Casual NBA $3 50-50 (Turbo),10.8,NBA,2026-04-08 00:00:00+00:00,3.0,4
+189481627,145273,0.0,True,False,False,False,False,Casual NBA $1 50-50 (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,1.0,10
+189481628,145273,0.0,False,False,False,False,False,Casual NBA $50 3-Player (Turbo),135.0,NBA,2026-04-08 00:00:00+00:00,50.0,3
+189481629,145273,0.0,False,False,False,False,False,Casual NBA $20 3-Player (Turbo),54.0,NBA,2026-04-08 00:00:00+00:00,20.0,3
+189481630,145273,0.0,False,False,False,False,False,Casual NBA $10 5-Player (Turbo),45.0,NBA,2026-04-08 00:00:00+00:00,10.0,5
+189481631,145273,0.0,False,False,False,False,False,Casual NBA $10 3-Player (Turbo),27.0,NBA,2026-04-08 00:00:00+00:00,10.0,3
+189481632,145273,0.0,False,False,False,False,False,Casual NBA $2 5-Player (Turbo),9.0,NBA,2026-04-08 00:00:00+00:00,2.0,5
+189481633,145273,0.0,False,False,False,False,False,Casual NBA $2 3-Player (Turbo),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189481634,145273,0.0,False,False,False,False,False,Casual NBA $109 5-Player (Turbo),500.0,NBA,2026-04-08 00:00:00+00:00,109.0,5
+189481635,145273,0.0,True,False,False,False,False,NBA $10 Double Up (Turbo),100.0,NBA,2026-04-08 00:00:00+00:00,10.0,11
+189481636,145273,0.0,True,False,False,False,False,NBA $25 Double Up (Turbo),250.0,NBA,2026-04-08 00:00:00+00:00,25.0,11
+189481637,145273,0.0,True,False,False,False,False,NBA $50 Double Up (Turbo),500.0,NBA,2026-04-08 00:00:00+00:00,50.0,11
+189481638,145273,0.0,True,False,False,False,False,NBA $5 Double Up (Turbo),50.0,NBA,2026-04-08 00:00:00+00:00,5.0,11
+189481639,145273,0.0,True,False,False,False,False,NBA $3 Double Up (Turbo),30.0,NBA,2026-04-08 00:00:00+00:00,3.0,11
+189481640,145273,0.0,True,False,False,False,False,NBA $1 Double Up (Turbo),10.0,NBA,2026-04-08 00:00:00+00:00,1.0,11
+189481641,145273,0.0,True,False,False,False,False,NBA $25 Double Up (Turbo),500.0,NBA,2026-04-08 00:00:00+00:00,25.0,22
+189481642,145273,0.0,True,False,False,False,False,NBA $50 Double Up (Turbo),1000.0,NBA,2026-04-08 00:00:00+00:00,50.0,22
+189481643,145273,0.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill) (Turbo),4000.0,NBA,2026-04-08 00:00:00+00:00,1060.0,4
+189481644,145273,0.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill) (Turbo),1000.0,NBA,2026-04-08 00:00:00+00:00,267.0,4
+189481645,145273,0.0,False,False,False,False,True,"NBA $408 Winner Take All [$1.5K to 1st, Must Fill] (Turbo)",1500.0,NBA,2026-04-08 00:00:00+00:00,408.0,4
+189481646,145273,0.0,False,False,False,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill] (Turbo),25.0,NBA,2026-04-08 00:00:00+00:00,9.0,3
+189481647,145273,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Turbo),25.0,NBA,2026-04-08 00:00:00+00:00,9.0,3
+189481648,145273,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Turbo),25.0,NBA,2026-04-08 00:00:00+00:00,9.0,3
+189481649,145273,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Turbo),25.0,NBA,2026-04-08 00:00:00+00:00,9.0,3
+189481651,145279,0.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H HOU @ PHX),100.0,NBA,2026-04-08 04:00:00+00:00,10.0,11
+189481652,145279,0.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H HOU @ PHX),20.0,NBA,2026-04-08 04:00:00+00:00,1.0,23
+189481653,145279,0.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H HOU @ PHX),300.0,NBA,2026-04-08 04:00:00+00:00,85.0,4
+189481654,145279,0.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H HOU @ PHX),110.0,NBA,2026-04-08 04:00:00+00:00,25.0,5
+189481656,145270,0.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIN @ IND),100.0,NBA,2026-04-07 23:00:00+00:00,10.0,11
+189481657,145270,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ IND),20.0,NBA,2026-04-07 23:00:00+00:00,1.0,23
+189481658,145270,0.0,False,False,True,False,True,NBA Showdown $85 Winner Take All [$300 to 1st] (MIN @ IND),300.0,NBA,2026-04-07 23:00:00+00:00,85.0,4
+189481659,145270,0.0,False,False,True,False,True,NBA Showdown $25 Winner Take All [$110 to 1st] (MIN @ IND),110.0,NBA,2026-04-07 23:00:00+00:00,25.0,5
+189481660,145271,0.0,True,False,True,False,False,NBA $10 Double Up (Turbo),100.0,NBA,2026-04-07 23:30:00+00:00,10.0,11
+189481661,145271,0.0,True,False,True,False,False,NBA $1 Double Up (Turbo),20.0,NBA,2026-04-07 23:30:00+00:00,1.0,23
+189481662,145271,0.0,False,False,True,False,True,NBA $85 Winner Take All [$300 to 1st] (Turbo),300.0,NBA,2026-04-07 23:30:00+00:00,85.0,4
+189481663,145271,0.0,False,False,True,False,True,NBA $25 Winner Take All [$110 to 1st] (Turbo),110.0,NBA,2026-04-07 23:30:00+00:00,25.0,5
+189481664,145272,0.0,True,False,True,False,False,NBA Showdown $10 Double Up (CHA @ BOS),100.0,NBA,2026-04-08 00:00:00+00:00,10.0,11
+189481665,145272,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (CHA @ BOS),20.0,NBA,2026-04-08 00:00:00+00:00,1.0,23
+189481666,145272,0.0,False,False,True,False,True,NBA Showdown $85 Winner Take All [$300 to 1st] (CHA @ BOS),300.0,NBA,2026-04-08 00:00:00+00:00,85.0,4
+189481667,145272,0.0,False,False,True,False,True,NBA Showdown $25 Winner Take All [$110 to 1st] (CHA @ BOS),110.0,NBA,2026-04-08 00:00:00+00:00,25.0,5
+189481668,145273,0.0,True,False,True,False,False,NBA $10 Double Up (Turbo),100.0,NBA,2026-04-08 00:00:00+00:00,10.0,11
+189481669,145273,0.0,True,False,True,False,False,NBA $1 Double Up (Turbo),20.0,NBA,2026-04-08 00:00:00+00:00,1.0,23
+189481670,145273,0.0,False,False,True,False,True,NBA $85 Winner Take All [$300 to 1st] (Turbo),300.0,NBA,2026-04-08 00:00:00+00:00,85.0,4
+189481671,145273,0.0,False,False,True,False,True,NBA $25 Winner Take All [$110 to 1st] (Turbo),110.0,NBA,2026-04-08 00:00:00+00:00,25.0,5
+189481674,145268,0.0,False,False,True,False,False,NBA Tiers $1 Triple Up [Top 9 Win $3],27.0,NBA,2026-04-07 23:00:00+00:00,1.0,31
+189481675,145268,0.0,False,False,True,False,False,NBA Tiers $5 Triple Up [Top 9 Win $15],135.0,NBA,2026-04-07 23:00:00+00:00,5.0,31
+189481676,145268,0.0,True,False,True,False,False,NBA Tiers $3 Double Up,60.0,NBA,2026-04-07 23:00:00+00:00,3.0,23
+189481677,145268,0.0,True,False,True,False,False,NBA Tiers $5 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,5.0,23
+189481678,145268,0.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2026-04-07 23:00:00+00:00,1.0,23
+189481679,145268,0.0,False,False,True,False,False,NBA Tiers $10 Triple Up [Top 3 Win $30],90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189481680,145268,0.0,True,False,True,False,False,NBA Tiers $3 Double Up,60.0,NBA,2026-04-07 23:00:00+00:00,3.0,23
+189481681,145268,0.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2026-04-07 23:00:00+00:00,1.0,23
+189481682,145268,0.0,True,False,True,False,False,NBA Tiers $1 Double Up,20.0,NBA,2026-04-07 23:00:00+00:00,1.0,23
+189481683,145268,0.0,False,False,True,False,True,NBA Tiers $85 Winner Take All [$300 to 1st],300.0,NBA,2026-04-07 23:00:00+00:00,85.0,4
+189481684,145268,0.0,False,False,True,False,True,NBA Tiers $25 Winner Take All [$110 to 1st],110.0,NBA,2026-04-07 23:00:00+00:00,25.0,5
+189481685,145268,0.0,False,False,True,False,True,NBA Tiers Satellite to NBA $25 Finals Tip-Off Special (6-3),25.0,NBA,2026-04-07 23:00:00+00:00,0.1,297
+189481686,145279,0.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H HOU @ PHX),5.4,NBA,2026-04-08 04:00:00+00:00,2.0,3
+189481687,145279,0.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H HOU @ PHX),27.0,NBA,2026-04-08 04:00:00+00:00,10.0,3
+189481688,145279,0.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H HOU @ PHX),13.5,NBA,2026-04-08 04:00:00+00:00,5.0,3
+189481689,145279,0.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H HOU @ PHX),2.7,NBA,2026-04-08 04:00:00+00:00,1.0,3
+189481690,145279,0.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H HOU @ PHX),9.0,NBA,2026-04-08 04:00:00+00:00,1.0,10
+189481691,145279,0.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H HOU @ PHX),4.5,NBA,2026-04-08 04:00:00+00:00,1.0,5
+189481692,145279,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H HOU @ PHX),2.7,NBA,2026-04-08 04:00:00+00:00,1.0,3
+189481693,145279,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H HOU @ PHX),2.7,NBA,2026-04-08 04:00:00+00:00,1.0,3
+189481694,145279,0.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H HOU @ PHX),180.0,NBA,2026-04-08 04:00:00+00:00,20.0,10
+189481695,145279,0.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H HOU @ PHX),90.0,NBA,2026-04-08 04:00:00+00:00,10.0,10
+189481696,145279,0.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H HOU @ PHX),45.0,NBA,2026-04-08 04:00:00+00:00,5.0,10
+189481697,145279,0.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H HOU @ PHX),27.0,NBA,2026-04-08 04:00:00+00:00,3.0,10
+189481698,145279,0.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H HOU @ PHX),9.0,NBA,2026-04-08 04:00:00+00:00,1.0,10
+189481699,145279,0.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H HOU @ PHX),13.5,NBA,2026-04-08 04:00:00+00:00,5.0,3
+189481700,145279,0.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H HOU @ PHX),5.4,NBA,2026-04-08 04:00:00+00:00,2.0,3
+189481701,145279,0.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H HOU @ PHX),5.4,NBA,2026-04-08 04:00:00+00:00,2.0,3
+189481702,145279,0.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H HOU @ PHX),5.4,NBA,2026-04-08 04:00:00+00:00,2.0,3
+189481703,145279,0.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H HOU @ PHX),9.0,NBA,2026-04-08 04:00:00+00:00,2.0,5
+189481704,145279,0.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H HOU @ PHX),18.0,NBA,2026-04-08 04:00:00+00:00,2.0,10
+189481705,145279,0.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H HOU @ PHX),13.5,NBA,2026-04-08 04:00:00+00:00,5.0,3
+189481706,145279,0.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H HOU @ PHX),22.5,NBA,2026-04-08 04:00:00+00:00,5.0,5
+189481707,145279,0.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H HOU @ PHX),45.0,NBA,2026-04-08 04:00:00+00:00,5.0,10
+189481708,145279,0.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H HOU @ PHX),45.0,NBA,2026-04-08 04:00:00+00:00,10.0,5
+189481709,145279,0.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H HOU @ PHX),27.0,NBA,2026-04-08 04:00:00+00:00,10.0,3
+189481710,145279,0.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H HOU @ PHX),54.0,NBA,2026-04-08 04:00:00+00:00,20.0,3
+189481711,145279,0.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H HOU @ PHX),225.0,NBA,2026-04-08 04:00:00+00:00,50.0,5
+189481712,145279,0.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H HOU @ PHX),135.0,NBA,2026-04-08 04:00:00+00:00,50.0,3
+189481713,145279,0.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H HOU @ PHX),300.0,NBA,2026-04-08 04:00:00+00:00,109.0,3
+189481714,145279,0.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H HOU @ PHX),450.0,NBA,2026-04-08 04:00:00+00:00,162.0,3
+189481715,145279,0.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H HOU @ PHX),1500.0,NBA,2026-04-08 04:00:00+00:00,530.0,3
+189481716,145279,0.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H HOU @ PHX)",3000.0,NBA,2026-04-08 04:00:00+00:00,1060.0,3
+189481717,145279,0.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H HOU @ PHX)",15000.0,NBA,2026-04-08 04:00:00+00:00,5300.0,3
+189481718,145279,0.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H HOU @ PHX)",30000.0,NBA,2026-04-08 04:00:00+00:00,10600.0,3
+189481719,145279,0.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H HOU @ PHX),72.0,NBA,2026-04-08 04:00:00+00:00,20.0,4
+189481720,145279,0.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H HOU @ PHX),90.0,NBA,2026-04-08 04:00:00+00:00,10.0,10
+189481721,145279,0.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H HOU @ PHX),9.0,NBA,2026-04-08 04:00:00+00:00,1.0,10
+189481722,145279,0.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H HOU @ PHX),27.0,NBA,2026-04-08 04:00:00+00:00,3.0,10
+189481723,145279,0.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H HOU @ PHX),45.0,NBA,2026-04-08 04:00:00+00:00,5.0,10
+189481724,145279,0.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H HOU @ PHX)",20000.0,NBA,2026-04-08 04:00:00+00:00,5300.0,4
+189481725,145279,0.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H HOU @ PHX)",4000.0,NBA,2026-04-08 04:00:00+00:00,1060.0,4
+189481726,145279,0.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H HOU @ PHX),2000.0,NBA,2026-04-08 04:00:00+00:00,530.0,4
+189481727,145279,0.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H HOU @ PHX),400.0,NBA,2026-04-08 04:00:00+00:00,109.0,4
+189481728,145279,0.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H HOU @ PHX),180.0,NBA,2026-04-08 04:00:00+00:00,50.0,4
+189481729,145279,0.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H HOU @ PHX),72.0,NBA,2026-04-08 04:00:00+00:00,20.0,4
+189481730,145279,0.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H HOU @ PHX),36.0,NBA,2026-04-08 04:00:00+00:00,10.0,4
+189481731,145279,0.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H HOU @ PHX),450.0,NBA,2026-04-08 04:00:00+00:00,50.0,10
+189481732,145279,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H HOU @ PHX),9.0,NBA,2026-04-08 04:00:00+00:00,1.0,10
+189481733,145279,0.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H HOU @ PHX),45.0,NBA,2026-04-08 04:00:00+00:00,5.0,10
+189481734,145279,0.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H HOU @ PHX),600.0,NBA,2026-04-08 04:00:00+00:00,109.0,6
+189481735,145279,0.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H HOU @ PHX),18.0,NBA,2026-04-08 04:00:00+00:00,2.0,10
+189481736,145279,0.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H HOU @ PHX),180.0,NBA,2026-04-08 04:00:00+00:00,20.0,10
+189481737,145279,0.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H HOU @ PHX),90.0,NBA,2026-04-08 04:00:00+00:00,10.0,10
+189481738,145279,0.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H HOU @ PHX),90.0,NBA,2026-04-08 04:00:00+00:00,5.0,20
+189481739,145279,0.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H HOU @ PHX),180.0,NBA,2026-04-08 04:00:00+00:00,10.0,20
+189481740,145279,0.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H HOU @ PHX),360.0,NBA,2026-04-08 04:00:00+00:00,20.0,20
+189481741,145279,0.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H HOU @ PHX),36.0,NBA,2026-04-08 04:00:00+00:00,2.0,20
+189481742,145279,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H HOU @ PHX),18.0,NBA,2026-04-08 04:00:00+00:00,1.0,20
+189481743,145279,0.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H HOU @ PHX),4000.0,NBA,2026-04-08 04:00:00+00:00,1060.0,4
+189481744,145279,0.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H HOU @ PHX),4000.0,NBA,2026-04-08 04:00:00+00:00,1060.0,4
+189481745,145279,0.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H HOU @ PHX),1000.0,NBA,2026-04-08 04:00:00+00:00,267.0,4
+189481746,145279,0.0,False,False,False,False,True,NBA In-Game $100 Winner Take All [$460 to 1st] (Must Fill) (2H HOU @ PHX),460.0,NBA,2026-04-08 04:00:00+00:00,100.0,5
+189481747,145279,0.0,False,False,False,False,True,NBA In-Game $5.7K Courtside Special [Single Entry] (Must Fill) (2H HOU @ PHX),5700.0,NBA,2026-04-08 04:00:00+00:00,1500.0,4
+189481751,145278,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (HOU @ PHX),2.7,NBA,2026-04-08 03:00:00+00:00,1.0,3
+189481752,145278,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (HOU @ PHX),2.7,NBA,2026-04-08 03:00:00+00:00,1.0,3
+189481753,145278,0.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (HOU @ PHX),13.5,NBA,2026-04-08 03:00:00+00:00,5.0,3
+189481754,145278,0.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (HOU @ PHX),13.5,NBA,2026-04-08 03:00:00+00:00,5.0,3
+189481755,145278,0.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (HOU @ PHX),27.0,NBA,2026-04-08 03:00:00+00:00,10.0,3
+189481756,145278,0.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (HOU @ PHX),27.0,NBA,2026-04-08 03:00:00+00:00,10.0,3
+189481757,145278,0.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (HOU @ PHX),27.0,NBA,2026-04-08 03:00:00+00:00,10.0,3
+189481758,145278,0.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (HOU @ PHX),54.0,NBA,2026-04-08 03:00:00+00:00,20.0,3
+189481759,145278,0.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (HOU @ PHX),300.0,NBA,2026-04-08 03:00:00+00:00,109.0,3
+189481760,145278,0.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (HOU @ PHX),1500.0,NBA,2026-04-08 03:00:00+00:00,530.0,3
+189481761,145278,0.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (HOU @ PHX),135.0,NBA,2026-04-08 03:00:00+00:00,50.0,3
+189481762,145278,0.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (HOU @ PHX)",3000.0,NBA,2026-04-08 03:00:00+00:00,1060.0,3
+189481763,145278,0.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (HOU @ PHX)",6000.0,NBA,2026-04-08 03:00:00+00:00,2120.0,3
+189481766,145269,0.0,False,False,True,False,False,NBA Single Stat $1 10-Player [Top 2 Win] (Points),9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481767,145269,0.0,False,False,True,False,False,NBA Single Stat $1 10-Player [Top 2 Win] (Points),9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189481768,145269,0.0,False,False,True,False,False,NBA Single Stat $2 10-Player [Top 2 Win] (Points),18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189481769,145269,0.0,False,False,True,False,False,NBA Single Stat $5 10-Player [Top 2 Win] (Points),45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189481770,145274,0.0,False,False,False,False,False,Beginner NBA $20 3-Player (Night),54.0,NBA,2026-04-08 02:00:00+00:00,20.0,3
+189481771,145274,0.0,False,False,False,False,False,Beginner NBA $50 3-Player (Night),135.0,NBA,2026-04-08 02:00:00+00:00,50.0,3
+189481772,145274,0.0,False,False,False,False,False,Beginner NBA $10 3-Player (Night),27.0,NBA,2026-04-08 02:00:00+00:00,10.0,3
+189481773,145274,0.0,False,False,False,False,False,Beginner NBA $5 3-Player (Night),13.5,NBA,2026-04-08 02:00:00+00:00,5.0,3
+189481774,145274,0.0,False,False,False,False,False,Beginner NBA $1 3-Player (Night),2.7,NBA,2026-04-08 02:00:00+00:00,1.0,3
+189481775,145274,0.0,True,False,False,False,False,"NBA $5,300 50-50 (Night)",20000.0,NBA,2026-04-08 02:00:00+00:00,5300.0,4
+189481776,145274,0.0,True,False,False,False,False,"NBA $1,060 50-50 (Night)",4000.0,NBA,2026-04-08 02:00:00+00:00,1060.0,4
+189481777,145274,0.0,True,False,False,False,False,NBA $530 50-50 (Night),2000.0,NBA,2026-04-08 02:00:00+00:00,530.0,4
+189481778,145274,0.0,True,False,False,False,False,NBA $162 50-50 (Night),600.0,NBA,2026-04-08 02:00:00+00:00,162.0,4
+189481779,145274,0.0,True,False,False,False,False,NBA $109 50-50 (Night),400.0,NBA,2026-04-08 02:00:00+00:00,109.0,4
+189481780,145274,0.0,True,False,False,False,False,NBA $50 50-50 (Night),180.0,NBA,2026-04-08 02:00:00+00:00,50.0,4
+189481781,145274,0.0,True,False,False,False,False,NBA $20 50-50 (Night),360.0,NBA,2026-04-08 02:00:00+00:00,20.0,20
+189481782,145274,0.0,True,False,False,False,False,NBA $20 50-50 (Night),180.0,NBA,2026-04-08 02:00:00+00:00,20.0,10
+189481783,145274,0.0,True,False,False,False,False,NBA $20 50-50 (Night),72.0,NBA,2026-04-08 02:00:00+00:00,20.0,4
+189481784,145274,0.0,True,False,False,False,False,NBA $20 50-50 (Night),72.0,NBA,2026-04-08 02:00:00+00:00,20.0,4
+189481785,145274,0.0,True,False,False,False,False,NBA $10 50-50 (Night),180.0,NBA,2026-04-08 02:00:00+00:00,10.0,20
+189481786,145274,0.0,True,False,False,False,False,NBA $10 50-50 (Night),90.0,NBA,2026-04-08 02:00:00+00:00,10.0,10
+189481787,145274,0.0,True,False,False,False,False,NBA $10 50-50 (Night),90.0,NBA,2026-04-08 02:00:00+00:00,10.0,10
+189481788,145274,0.0,True,False,False,False,False,NBA $10 50-50 (Night),36.0,NBA,2026-04-08 02:00:00+00:00,10.0,4
+189481789,145274,0.0,True,False,False,False,False,NBA $10 50-50 (Night),36.0,NBA,2026-04-08 02:00:00+00:00,10.0,4
+189481790,145274,0.0,True,False,False,False,False,NBA $10 50-50 (Night),36.0,NBA,2026-04-08 02:00:00+00:00,10.0,4
+189481791,145274,0.0,True,False,False,False,False,NBA $5 50-50 (Night),90.0,NBA,2026-04-08 02:00:00+00:00,5.0,20
+189481792,145274,0.0,True,False,False,False,False,NBA $5 50-50 (Night),90.0,NBA,2026-04-08 02:00:00+00:00,5.0,20
+189481793,145274,0.0,True,False,False,False,False,NBA $5 50-50 (Night),45.0,NBA,2026-04-08 02:00:00+00:00,5.0,10
+189481794,145274,0.0,True,False,False,False,False,NBA $5 50-50 (Night),45.0,NBA,2026-04-08 02:00:00+00:00,5.0,10
+189481795,145274,0.0,True,False,False,False,False,NBA $5 50-50 (Night),45.0,NBA,2026-04-08 02:00:00+00:00,5.0,10
+189481796,145274,0.0,True,False,False,False,False,NBA $2 50-50 (Night),36.0,NBA,2026-04-08 02:00:00+00:00,2.0,20
+189481797,145274,0.0,True,False,False,False,False,NBA $2 50-50 (Night),36.0,NBA,2026-04-08 02:00:00+00:00,2.0,20
+189481798,145274,0.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2026-04-08 02:00:00+00:00,2.0,10
+189481799,145274,0.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2026-04-08 02:00:00+00:00,2.0,10
+189481800,145274,0.0,True,False,False,False,False,NBA $2 50-50 (Night),18.0,NBA,2026-04-08 02:00:00+00:00,2.0,10
+189481801,145274,0.0,True,False,False,False,False,NBA $1 50-50 (Night),18.0,NBA,2026-04-08 02:00:00+00:00,1.0,20
+189481802,145274,0.0,True,False,False,False,False,NBA $1 50-50 (Night),18.0,NBA,2026-04-08 02:00:00+00:00,1.0,20
+189481803,145274,0.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2026-04-08 02:00:00+00:00,1.0,10
+189481804,145274,0.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2026-04-08 02:00:00+00:00,1.0,10
+189481805,145274,0.0,True,False,False,False,False,NBA $1 50-50 (Night),9.0,NBA,2026-04-08 02:00:00+00:00,1.0,10
+189481806,145274,0.0,True,False,False,False,False,Beginner NBA $50 50-50 (Night),180.0,NBA,2026-04-08 02:00:00+00:00,50.0,4
+189481807,145274,0.0,True,False,False,False,False,Beginner NBA $20 50-50 (Night),72.0,NBA,2026-04-08 02:00:00+00:00,20.0,4
+189481808,145274,0.0,True,False,False,False,False,Beginner NBA $10 50-50 (Night),90.0,NBA,2026-04-08 02:00:00+00:00,10.0,10
+189481809,145274,0.0,True,False,False,False,False,Beginner NBA $5 50-50 (Night),45.0,NBA,2026-04-08 02:00:00+00:00,5.0,10
+189481810,145274,0.0,True,False,False,False,False,Beginner NBA $3 50-50 (Night),27.0,NBA,2026-04-08 02:00:00+00:00,3.0,10
+189481811,145274,0.0,True,False,False,False,False,Beginner NBA $1 50-50 (Night),9.0,NBA,2026-04-08 02:00:00+00:00,1.0,10
+189481812,145274,0.0,False,False,False,False,False,Beginner NBA $10 5-Player (Night),45.0,NBA,2026-04-08 02:00:00+00:00,10.0,5
+189481813,145274,0.0,False,False,False,False,False,Beginner NBA $5 5-Player (Night),22.5,NBA,2026-04-08 02:00:00+00:00,5.0,5
+189481814,145274,0.0,False,False,False,False,False,Beginner NBA $5 3-Player (Night),13.5,NBA,2026-04-08 02:00:00+00:00,5.0,3
+189481815,145274,0.0,False,False,False,False,False,Beginner NBA $2 5-Player (Night),9.0,NBA,2026-04-08 02:00:00+00:00,2.0,5
+189481816,145274,0.0,False,False,False,False,False,Beginner NBA $2 3-Player (Night),5.4,NBA,2026-04-08 02:00:00+00:00,2.0,3
+189481817,145274,0.0,False,False,False,False,False,Beginner NBA $1 5-Player (Night),4.5,NBA,2026-04-08 02:00:00+00:00,1.0,5
+189481818,145274,0.0,False,False,False,False,False,"NBA $10,600 3-Player (Night)",30000.0,NBA,2026-04-08 02:00:00+00:00,10600.0,3
+189481819,145274,0.0,False,False,False,False,False,"NBA $5,300 3-Player (Night)",15000.0,NBA,2026-04-08 02:00:00+00:00,5300.0,3
+189481820,145274,0.0,False,False,False,False,False,"NBA $1,060 3-Player (Night)",3000.0,NBA,2026-04-08 02:00:00+00:00,1060.0,3
+189481821,145274,0.0,False,False,False,False,False,NBA $530 3-Player (Night),1500.0,NBA,2026-04-08 02:00:00+00:00,530.0,3
+189481822,145274,0.0,False,False,False,False,False,NBA $162 3-Player (Night),450.0,NBA,2026-04-08 02:00:00+00:00,162.0,3
+189481823,145274,0.0,False,False,False,False,False,NBA $109 3-Player (Night),300.0,NBA,2026-04-08 02:00:00+00:00,109.0,3
+189481824,145274,0.0,False,False,False,False,False,NBA $109 3-Player (Night),300.0,NBA,2026-04-08 02:00:00+00:00,109.0,3
+189481825,145274,0.0,False,False,False,False,False,NBA $50 5-Player (Night),225.0,NBA,2026-04-08 02:00:00+00:00,50.0,5
+189481826,145274,0.0,False,False,False,False,False,NBA $50 3-Player (Night),135.0,NBA,2026-04-08 02:00:00+00:00,50.0,3
+189481827,145274,0.0,False,False,False,False,False,NBA $20 5-Player (Night),90.0,NBA,2026-04-08 02:00:00+00:00,20.0,5
+189481828,145274,0.0,False,False,False,False,False,NBA $20 5-Player (Night),90.0,NBA,2026-04-08 02:00:00+00:00,20.0,5
+189481829,145274,0.0,False,False,False,False,False,NBA $20 3-Player (Night),54.0,NBA,2026-04-08 02:00:00+00:00,20.0,3
+189481830,145274,0.0,False,False,False,False,False,NBA $20 3-Player (Night),54.0,NBA,2026-04-08 02:00:00+00:00,20.0,3
+189481831,145274,0.0,False,False,False,False,False,NBA $20 3-Player (Night),54.0,NBA,2026-04-08 02:00:00+00:00,20.0,3
+189481832,145274,0.0,False,False,False,False,False,NBA $10 10-Player (Night),90.0,NBA,2026-04-08 02:00:00+00:00,10.0,10
+189481833,145274,0.0,False,False,False,False,False,NBA $10 5-Player (Night),45.0,NBA,2026-04-08 02:00:00+00:00,10.0,5
+189481834,145274,0.0,False,False,False,False,False,NBA $10 5-Player (Night),45.0,NBA,2026-04-08 02:00:00+00:00,10.0,5
+189481835,145274,0.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2026-04-08 02:00:00+00:00,10.0,3
+189481836,145274,0.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2026-04-08 02:00:00+00:00,10.0,3
+189481837,145274,0.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2026-04-08 02:00:00+00:00,10.0,3
+189481838,145274,0.0,False,False,False,False,False,NBA $5 10-Player (Night),45.0,NBA,2026-04-08 02:00:00+00:00,5.0,10
+189481839,145274,0.0,False,False,False,False,False,NBA $5 10-Player (Night),45.0,NBA,2026-04-08 02:00:00+00:00,5.0,10
+189481840,145274,0.0,False,False,False,False,False,NBA $5 5-Player (Night),22.5,NBA,2026-04-08 02:00:00+00:00,5.0,5
+189481841,145274,0.0,False,False,False,False,False,NBA $5 5-Player (Night),22.5,NBA,2026-04-08 02:00:00+00:00,5.0,5
+189481842,145274,0.0,False,False,False,False,False,NBA $5 5-Player (Night),22.5,NBA,2026-04-08 02:00:00+00:00,5.0,5
+189481843,145274,0.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2026-04-08 02:00:00+00:00,5.0,3
+189481844,145274,0.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2026-04-08 02:00:00+00:00,5.0,3
+189481845,145274,0.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2026-04-08 02:00:00+00:00,5.0,3
+189481846,145274,0.0,False,False,False,False,False,NBA $2 20-Player (Night),36.0,NBA,2026-04-08 02:00:00+00:00,2.0,20
+189481847,145274,0.0,False,False,False,False,False,NBA $2 20-Player (Night),36.0,NBA,2026-04-08 02:00:00+00:00,2.0,20
+189481848,145274,0.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2026-04-08 02:00:00+00:00,2.0,10
+189481849,145274,0.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2026-04-08 02:00:00+00:00,2.0,10
+189481850,145274,0.0,False,False,False,False,False,NBA $2 10-Player (Night),18.0,NBA,2026-04-08 02:00:00+00:00,2.0,10
+189481851,145274,0.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2026-04-08 02:00:00+00:00,2.0,5
+189481852,145274,0.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2026-04-08 02:00:00+00:00,2.0,5
+189481853,145274,0.0,False,False,False,False,False,NBA $2 5-Player (Night),9.0,NBA,2026-04-08 02:00:00+00:00,2.0,5
+189481854,145274,0.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2026-04-08 02:00:00+00:00,2.0,3
+189481855,145274,0.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2026-04-08 02:00:00+00:00,2.0,3
+189481856,145274,0.0,False,False,False,False,False,NBA $2 3-Player (Night),5.4,NBA,2026-04-08 02:00:00+00:00,2.0,3
+189481857,145274,0.0,False,False,False,False,False,NBA $1 10-Player (Night),9.0,NBA,2026-04-08 02:00:00+00:00,1.0,10
+189481858,145274,0.0,False,False,False,False,False,NBA $1 5-Player (Night),4.5,NBA,2026-04-08 02:00:00+00:00,1.0,5
+189481859,145274,0.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2026-04-08 02:00:00+00:00,1.0,3
+189481860,145274,0.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2026-04-08 02:00:00+00:00,1.0,3
+189481861,145274,0.0,True,False,False,False,False,NBA $109 50-50 (Night),600.0,NBA,2026-04-08 02:00:00+00:00,109.0,6
+189481862,145274,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2026-04-08 02:00:00+00:00,10600.0,4
+189481863,145274,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2026-04-08 02:00:00+00:00,10600.0,4
+189481864,145274,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All) (Night)",40000.0,NBA,2026-04-08 02:00:00+00:00,10600.0,4
+189481865,145274,0.0,True,False,False,False,False,Casual NBA $50 50-50 (Night),180.0,NBA,2026-04-08 02:00:00+00:00,50.0,4
+189481866,145274,0.0,True,False,False,False,False,Casual NBA $20 50-50 (Night),72.0,NBA,2026-04-08 02:00:00+00:00,20.0,4
+189481867,145274,0.0,True,False,False,False,False,Casual NBA $10 50-50 (Night),90.0,NBA,2026-04-08 02:00:00+00:00,10.0,10
+189481868,145274,0.0,True,False,False,False,False,Casual NBA $5 50-50 (Night),45.0,NBA,2026-04-08 02:00:00+00:00,5.0,10
+189481869,145274,0.0,True,False,False,False,False,Casual NBA $3 50-50 (Night),27.0,NBA,2026-04-08 02:00:00+00:00,3.0,10
+189481870,145274,0.0,True,False,False,False,False,Casual NBA $3 50-50 (Night),10.8,NBA,2026-04-08 02:00:00+00:00,3.0,4
+189481871,145274,0.0,True,False,False,False,False,Casual NBA $1 50-50 (Night),9.0,NBA,2026-04-08 02:00:00+00:00,1.0,10
+189481872,145274,0.0,False,False,False,False,False,Casual NBA $50 3-Player (Night),135.0,NBA,2026-04-08 02:00:00+00:00,50.0,3
+189481873,145274,0.0,False,False,False,False,False,Casual NBA $20 3-Player (Night),54.0,NBA,2026-04-08 02:00:00+00:00,20.0,3
+189481874,145274,0.0,False,False,False,False,False,Casual NBA $10 5-Player (Night),45.0,NBA,2026-04-08 02:00:00+00:00,10.0,5
+189481875,145274,0.0,False,False,False,False,False,Casual NBA $10 3-Player (Night),27.0,NBA,2026-04-08 02:00:00+00:00,10.0,3
+189481876,145274,0.0,False,False,False,False,False,Casual NBA $2 5-Player (Night),9.0,NBA,2026-04-08 02:00:00+00:00,2.0,5
+189481877,145274,0.0,False,False,False,False,False,Casual NBA $2 3-Player (Night),5.4,NBA,2026-04-08 02:00:00+00:00,2.0,3
+189481878,145274,0.0,False,False,False,False,False,Casual NBA $109 5-Player (Night),500.0,NBA,2026-04-08 02:00:00+00:00,109.0,5
+189481879,145274,0.0,True,False,False,False,False,NBA $10 Double Up (Night),100.0,NBA,2026-04-08 02:00:00+00:00,10.0,11
+189481880,145274,0.0,True,False,False,False,False,NBA $25 Double Up (Night),250.0,NBA,2026-04-08 02:00:00+00:00,25.0,11
+189481881,145274,0.0,True,False,False,False,False,NBA $50 Double Up (Night),500.0,NBA,2026-04-08 02:00:00+00:00,50.0,11
+189481882,145274,0.0,True,False,False,False,False,NBA $5 Double Up (Night),50.0,NBA,2026-04-08 02:00:00+00:00,5.0,11
+189481883,145274,0.0,True,False,False,False,False,NBA $3 Double Up (Night),30.0,NBA,2026-04-08 02:00:00+00:00,3.0,11
+189481884,145274,0.0,True,False,False,False,False,NBA $1 Double Up (Night),10.0,NBA,2026-04-08 02:00:00+00:00,1.0,11
+189481885,145274,0.0,True,False,False,False,False,NBA $25 Double Up (Night),500.0,NBA,2026-04-08 02:00:00+00:00,25.0,22
+189481886,145274,0.0,True,False,False,False,False,NBA $50 Double Up (Night),1000.0,NBA,2026-04-08 02:00:00+00:00,50.0,22
+189481887,145274,0.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill) (Night),4000.0,NBA,2026-04-08 02:00:00+00:00,1060.0,4
+189481888,145274,0.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill) (Night),1000.0,NBA,2026-04-08 02:00:00+00:00,267.0,4
+189481889,145274,0.0,False,False,False,False,True,"NBA $408 Winner Take All [$1.5K to 1st, Must Fill] (Night)",1500.0,NBA,2026-04-08 02:00:00+00:00,408.0,4
+189481890,145274,0.0,False,False,False,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill] (Night),25.0,NBA,2026-04-08 02:00:00+00:00,9.0,3
+189481891,145274,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Night),25.0,NBA,2026-04-08 02:00:00+00:00,9.0,3
+189481892,145274,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Night),25.0,NBA,2026-04-08 02:00:00+00:00,9.0,3
+189481893,145274,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Night),25.0,NBA,2026-04-08 02:00:00+00:00,9.0,3
+189481894,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (HOU @ PHX),54.0,NBA,2026-04-08 03:00:00+00:00,20.0,3
+189481895,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (HOU @ PHX),135.0,NBA,2026-04-08 03:00:00+00:00,50.0,3
+189481896,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (HOU @ PHX),27.0,NBA,2026-04-08 03:00:00+00:00,10.0,3
+189481897,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (HOU @ PHX),13.5,NBA,2026-04-08 03:00:00+00:00,5.0,3
+189481898,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (HOU @ PHX),2.7,NBA,2026-04-08 03:00:00+00:00,1.0,3
+189481899,145277,0.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (HOU @ PHX)",20000.0,NBA,2026-04-08 03:00:00+00:00,5300.0,4
+189481900,145277,0.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (HOU @ PHX)",4000.0,NBA,2026-04-08 03:00:00+00:00,1060.0,4
+189481901,145277,0.0,True,False,False,False,False,NBA Showdown $530 50-50 (HOU @ PHX),2000.0,NBA,2026-04-08 03:00:00+00:00,530.0,4
+189481902,145277,0.0,True,False,False,False,False,NBA Showdown $162 50-50 (HOU @ PHX),600.0,NBA,2026-04-08 03:00:00+00:00,162.0,4
+189481903,145277,0.0,True,False,False,False,False,NBA Showdown $109 50-50 (HOU @ PHX),400.0,NBA,2026-04-08 03:00:00+00:00,109.0,4
+189481904,145277,0.0,True,False,False,False,False,NBA Showdown $50 50-50 (HOU @ PHX),180.0,NBA,2026-04-08 03:00:00+00:00,50.0,4
+189481905,145277,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (HOU @ PHX),360.0,NBA,2026-04-08 03:00:00+00:00,20.0,20
+189481906,145277,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (HOU @ PHX),180.0,NBA,2026-04-08 03:00:00+00:00,20.0,10
+189481907,145277,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (HOU @ PHX),72.0,NBA,2026-04-08 03:00:00+00:00,20.0,4
+189481908,145277,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (HOU @ PHX),72.0,NBA,2026-04-08 03:00:00+00:00,20.0,4
+189481909,145277,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ PHX),180.0,NBA,2026-04-08 03:00:00+00:00,10.0,20
+189481910,145277,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,10.0,10
+189481911,145277,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,10.0,10
+189481912,145277,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ PHX),36.0,NBA,2026-04-08 03:00:00+00:00,10.0,4
+189481913,145277,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ PHX),36.0,NBA,2026-04-08 03:00:00+00:00,10.0,4
+189481914,145277,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (HOU @ PHX),36.0,NBA,2026-04-08 03:00:00+00:00,10.0,4
+189481915,145277,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,5.0,20
+189481916,145277,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,5.0,20
+189481917,145277,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,5.0,10
+189481918,145277,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,5.0,10
+189481919,145277,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,5.0,10
+189481920,145277,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ PHX),36.0,NBA,2026-04-08 03:00:00+00:00,2.0,20
+189481921,145277,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ PHX),36.0,NBA,2026-04-08 03:00:00+00:00,2.0,20
+189481922,145277,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ PHX),18.0,NBA,2026-04-08 03:00:00+00:00,2.0,10
+189481923,145277,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ PHX),18.0,NBA,2026-04-08 03:00:00+00:00,2.0,10
+189481924,145277,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (HOU @ PHX),18.0,NBA,2026-04-08 03:00:00+00:00,2.0,10
+189481925,145277,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ PHX),18.0,NBA,2026-04-08 03:00:00+00:00,1.0,20
+189481926,145277,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ PHX),18.0,NBA,2026-04-08 03:00:00+00:00,1.0,20
+189481927,145277,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,1.0,10
+189481928,145277,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,1.0,10
+189481929,145277,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,1.0,10
+189481930,145277,0.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (HOU @ PHX),180.0,NBA,2026-04-08 03:00:00+00:00,50.0,4
+189481931,145277,0.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (HOU @ PHX),72.0,NBA,2026-04-08 03:00:00+00:00,20.0,4
+189481932,145277,0.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,10.0,10
+189481933,145277,0.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,5.0,10
+189481934,145277,0.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (HOU @ PHX),27.0,NBA,2026-04-08 03:00:00+00:00,3.0,10
+189481935,145277,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,1.0,10
+189481936,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,10.0,5
+189481937,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (HOU @ PHX),22.5,NBA,2026-04-08 03:00:00+00:00,5.0,5
+189481938,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (HOU @ PHX),13.5,NBA,2026-04-08 03:00:00+00:00,5.0,3
+189481939,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,2.0,5
+189481940,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (HOU @ PHX),5.4,NBA,2026-04-08 03:00:00+00:00,2.0,3
+189481941,145277,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (HOU @ PHX),4.5,NBA,2026-04-08 03:00:00+00:00,1.0,5
+189481942,145277,0.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (HOU @ PHX)",30000.0,NBA,2026-04-08 03:00:00+00:00,10600.0,3
+189481943,145277,0.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (HOU @ PHX)",15000.0,NBA,2026-04-08 03:00:00+00:00,5300.0,3
+189481944,145277,0.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (HOU @ PHX)",3000.0,NBA,2026-04-08 03:00:00+00:00,1060.0,3
+189481945,145277,0.0,False,False,False,False,False,NBA Showdown $530 3-Player (HOU @ PHX),1500.0,NBA,2026-04-08 03:00:00+00:00,530.0,3
+189481946,145277,0.0,False,False,False,False,False,NBA Showdown $162 3-Player (HOU @ PHX),450.0,NBA,2026-04-08 03:00:00+00:00,162.0,3
+189481947,145277,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (HOU @ PHX),300.0,NBA,2026-04-08 03:00:00+00:00,109.0,3
+189481948,145277,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (HOU @ PHX),300.0,NBA,2026-04-08 03:00:00+00:00,109.0,3
+189481949,145277,0.0,False,False,False,False,False,NBA Showdown $50 5-Player (HOU @ PHX),225.0,NBA,2026-04-08 03:00:00+00:00,50.0,5
+189481950,145277,0.0,False,False,False,False,False,NBA Showdown $50 3-Player (HOU @ PHX),135.0,NBA,2026-04-08 03:00:00+00:00,50.0,3
+189481951,145277,0.0,False,False,False,False,False,NBA Showdown $20 5-Player (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,20.0,5
+189481952,145277,0.0,False,False,False,False,False,NBA Showdown $20 5-Player (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,20.0,5
+189481953,145277,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ PHX),54.0,NBA,2026-04-08 03:00:00+00:00,20.0,3
+189481954,145277,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ PHX),54.0,NBA,2026-04-08 03:00:00+00:00,20.0,3
+189481955,145277,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (HOU @ PHX),54.0,NBA,2026-04-08 03:00:00+00:00,20.0,3
+189481956,145277,0.0,False,False,False,False,False,NBA Showdown $10 10-Player (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,10.0,10
+189481957,145277,0.0,False,False,False,False,False,NBA Showdown $10 5-Player (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,10.0,5
+189481958,145277,0.0,False,False,False,False,False,NBA Showdown $10 5-Player (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,10.0,5
+189481959,145277,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ PHX),27.0,NBA,2026-04-08 03:00:00+00:00,10.0,3
+189481960,145277,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ PHX),27.0,NBA,2026-04-08 03:00:00+00:00,10.0,3
+189481961,145277,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (HOU @ PHX),27.0,NBA,2026-04-08 03:00:00+00:00,10.0,3
+189481962,145277,0.0,False,False,False,False,False,NBA Showdown $5 10-Player (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,5.0,10
+189481963,145277,0.0,False,False,False,False,False,NBA Showdown $5 10-Player (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,5.0,10
+189481964,145277,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (HOU @ PHX),22.5,NBA,2026-04-08 03:00:00+00:00,5.0,5
+189481965,145277,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (HOU @ PHX),22.5,NBA,2026-04-08 03:00:00+00:00,5.0,5
+189481966,145277,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (HOU @ PHX),22.5,NBA,2026-04-08 03:00:00+00:00,5.0,5
+189481967,145277,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ PHX),13.5,NBA,2026-04-08 03:00:00+00:00,5.0,3
+189481968,145277,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ PHX),13.5,NBA,2026-04-08 03:00:00+00:00,5.0,3
+189481969,145277,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (HOU @ PHX),13.5,NBA,2026-04-08 03:00:00+00:00,5.0,3
+189481970,145277,0.0,False,False,False,False,False,NBA Showdown $2 20-Player (HOU @ PHX),36.0,NBA,2026-04-08 03:00:00+00:00,2.0,20
+189481971,145277,0.0,False,False,False,False,False,NBA Showdown $2 20-Player (HOU @ PHX),36.0,NBA,2026-04-08 03:00:00+00:00,2.0,20
+189481972,145277,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (HOU @ PHX),18.0,NBA,2026-04-08 03:00:00+00:00,2.0,10
+189481973,145277,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (HOU @ PHX),18.0,NBA,2026-04-08 03:00:00+00:00,2.0,10
+189481974,145277,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (HOU @ PHX),18.0,NBA,2026-04-08 03:00:00+00:00,2.0,10
+189481975,145277,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,2.0,5
+189481976,145277,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,2.0,5
+189481977,145277,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,2.0,5
+189481978,145277,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (HOU @ PHX),5.4,NBA,2026-04-08 03:00:00+00:00,2.0,3
+189481979,145277,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (HOU @ PHX),5.4,NBA,2026-04-08 03:00:00+00:00,2.0,3
+189481980,145277,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (HOU @ PHX),5.4,NBA,2026-04-08 03:00:00+00:00,2.0,3
+189481981,145277,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,1.0,10
+189481982,145277,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (HOU @ PHX),4.5,NBA,2026-04-08 03:00:00+00:00,1.0,5
+189481983,145277,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (HOU @ PHX),2.7,NBA,2026-04-08 03:00:00+00:00,1.0,3
+189481984,145277,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (HOU @ PHX),2.7,NBA,2026-04-08 03:00:00+00:00,1.0,3
+189481985,145277,0.0,True,False,False,False,False,NBA Showdown $109 50-50 (HOU @ PHX),600.0,NBA,2026-04-08 03:00:00+00:00,109.0,6
+189481986,145277,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (HOU @ PHX)",40000.0,NBA,2026-04-08 03:00:00+00:00,10600.0,4
+189481987,145277,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (HOU @ PHX)",40000.0,NBA,2026-04-08 03:00:00+00:00,10600.0,4
+189481988,145277,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (HOU @ PHX)",40000.0,NBA,2026-04-08 03:00:00+00:00,10600.0,4
+189481989,145277,0.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (HOU @ PHX),180.0,NBA,2026-04-08 03:00:00+00:00,50.0,4
+189481990,145277,0.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (HOU @ PHX),72.0,NBA,2026-04-08 03:00:00+00:00,20.0,4
+189481991,145277,0.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,10.0,10
+189481992,145277,0.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,5.0,10
+189481993,145277,0.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (HOU @ PHX),27.0,NBA,2026-04-08 03:00:00+00:00,3.0,10
+189481994,145277,0.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (HOU @ PHX),10.8,NBA,2026-04-08 03:00:00+00:00,3.0,4
+189481995,145277,0.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,1.0,10
+189481996,145277,0.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (HOU @ PHX),135.0,NBA,2026-04-08 03:00:00+00:00,50.0,3
+189481997,145277,0.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (HOU @ PHX),54.0,NBA,2026-04-08 03:00:00+00:00,20.0,3
+189481998,145277,0.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (HOU @ PHX),45.0,NBA,2026-04-08 03:00:00+00:00,10.0,5
+189481999,145277,0.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (HOU @ PHX),27.0,NBA,2026-04-08 03:00:00+00:00,10.0,3
+189482000,145277,0.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (HOU @ PHX),9.0,NBA,2026-04-08 03:00:00+00:00,2.0,5
+189482001,145277,0.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (HOU @ PHX),5.4,NBA,2026-04-08 03:00:00+00:00,2.0,3
+189482002,145277,0.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (HOU @ PHX),500.0,NBA,2026-04-08 03:00:00+00:00,109.0,5
+189482003,145277,0.0,True,False,False,False,False,NBA Showdown $10 Double Up (HOU @ PHX),100.0,NBA,2026-04-08 03:00:00+00:00,10.0,11
+189482004,145277,0.0,True,False,False,False,False,NBA Showdown $25 Double Up (HOU @ PHX),250.0,NBA,2026-04-08 03:00:00+00:00,25.0,11
+189482005,145277,0.0,True,False,False,False,False,NBA Showdown $50 Double Up (HOU @ PHX),500.0,NBA,2026-04-08 03:00:00+00:00,50.0,11
+189482006,145277,0.0,True,False,False,False,False,NBA Showdown $5 Double Up (HOU @ PHX),50.0,NBA,2026-04-08 03:00:00+00:00,5.0,11
+189482007,145277,0.0,True,False,False,False,False,NBA Showdown $3 Double Up (HOU @ PHX),30.0,NBA,2026-04-08 03:00:00+00:00,3.0,11
+189482008,145277,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (HOU @ PHX),10.0,NBA,2026-04-08 03:00:00+00:00,1.0,11
+189482009,145277,0.0,True,False,False,False,False,NBA Showdown $25 Double Up (HOU @ PHX),500.0,NBA,2026-04-08 03:00:00+00:00,25.0,22
+189482010,145277,0.0,True,False,False,False,False,NBA Showdown $50 Double Up (HOU @ PHX),1000.0,NBA,2026-04-08 03:00:00+00:00,50.0,22
+189482011,145277,0.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (HOU @ PHX),4000.0,NBA,2026-04-08 03:00:00+00:00,1060.0,4
+189482012,145277,0.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (HOU @ PHX),1000.0,NBA,2026-04-08 03:00:00+00:00,267.0,4
+189482013,145277,0.0,False,False,False,False,True,"NBA Showdown $408 Winner Take All [$1.5K to 1st, Must Fill] (HOU @ PHX)",1500.0,NBA,2026-04-08 03:00:00+00:00,408.0,4
+189482014,145277,0.0,False,False,False,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill] (HOU @ PHX),25.0,NBA,2026-04-08 03:00:00+00:00,9.0,3
+189482015,145277,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (HOU @ PHX),25.0,NBA,2026-04-08 03:00:00+00:00,9.0,3
+189482016,145277,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (HOU @ PHX),25.0,NBA,2026-04-08 03:00:00+00:00,9.0,3
+189482017,145277,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (HOU @ PHX),25.0,NBA,2026-04-08 03:00:00+00:00,9.0,3
+189482019,145275,0.0,False,False,False,False,False,NBA $1 6-Player (Night),5.4,NBA,2026-04-08 02:00:00+00:00,1.0,6
+189482020,145275,0.0,False,False,False,False,False,NBA $1 6-Player (Night),5.4,NBA,2026-04-08 02:00:00+00:00,1.0,6
+189482021,145275,0.0,False,False,False,False,False,NBA $5 6-Player (Night),27.0,NBA,2026-04-08 02:00:00+00:00,5.0,6
+189482022,145275,0.0,False,False,False,False,False,NBA $10 6-Player (Night),54.0,NBA,2026-04-08 02:00:00+00:00,10.0,6
+189482024,145275,0.0,False,False,False,False,False,NBA $10 6-Player (Night),54.0,NBA,2026-04-08 02:00:00+00:00,10.0,6
+189482025,145275,0.0,False,False,False,False,False,NBA $20 6-Player (Night),108.0,NBA,2026-04-08 02:00:00+00:00,20.0,6
+189482026,145275,0.0,False,False,False,False,False,NBA $50 6-Player (Night),270.0,NBA,2026-04-08 02:00:00+00:00,50.0,6
+189482027,145275,0.0,False,False,False,False,False,NBA $109 6-Player (Night),600.0,NBA,2026-04-08 02:00:00+00:00,109.0,6
+189482028,145275,0.0,False,False,False,False,False,NBA $530 6-Player (Night),3000.0,NBA,2026-04-08 02:00:00+00:00,530.0,6
+189482029,145275,0.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2026-04-08 02:00:00+00:00,1.0,3
+189482030,145275,0.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2026-04-08 02:00:00+00:00,1.0,3
+189482031,145275,0.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2026-04-08 02:00:00+00:00,1.0,3
+189482032,145275,0.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2026-04-08 02:00:00+00:00,5.0,3
+189482033,145275,0.0,False,False,False,False,False,NBA $5 3-Player (Night),13.5,NBA,2026-04-08 02:00:00+00:00,5.0,3
+189482034,145275,0.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2026-04-08 02:00:00+00:00,10.0,3
+189482035,145275,0.0,False,False,False,False,False,NBA $10 3-Player (Night),27.0,NBA,2026-04-08 02:00:00+00:00,10.0,3
+189482036,145275,0.0,False,False,False,False,False,NBA $20 3-Player (Night),54.0,NBA,2026-04-08 02:00:00+00:00,20.0,3
+189482037,145275,0.0,False,False,False,False,False,NBA $50 3-Player (Night),135.0,NBA,2026-04-08 02:00:00+00:00,50.0,3
+189482038,145275,0.0,False,False,False,False,False,NBA $50 3-Player (Night),135.0,NBA,2026-04-08 02:00:00+00:00,50.0,3
+189482039,145275,0.0,False,False,False,False,False,NBA $109 3-Player (Night),300.0,NBA,2026-04-08 02:00:00+00:00,109.0,3
+189482040,145275,0.0,False,False,False,False,False,NBA $530 3-Player (Night),1500.0,NBA,2026-04-08 02:00:00+00:00,530.0,3
+189482041,145275,0.0,False,False,False,False,False,"NBA $2,120 3-Player (Night)",6000.0,NBA,2026-04-08 02:00:00+00:00,2120.0,3
+189482042,145275,0.0,False,False,False,False,False,"NBA $1,060 3-Player (Night)",3000.0,NBA,2026-04-08 02:00:00+00:00,1060.0,3
+189482043,145275,0.0,False,False,False,False,False,"NBA $5,300 3-Player (Night)",15000.0,NBA,2026-04-08 02:00:00+00:00,5300.0,3
+189482044,145275,0.0,False,False,False,False,False,"NBA $10,600 3-Player (Night)",30000.0,NBA,2026-04-08 02:00:00+00:00,10600.0,3
+189482048,145267,0.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189482049,145267,0.0,False,False,False,False,False,NBA Snake $50 3-Player,135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189482050,145267,0.0,False,False,False,False,False,NBA Snake $1 6-Player,5.4,NBA,2026-04-07 23:00:00+00:00,1.0,6
+189482051,145267,0.0,False,False,False,False,False,NBA Snake $1 6-Player,5.4,NBA,2026-04-07 23:00:00+00:00,1.0,6
+189482052,145267,0.0,False,False,False,False,False,NBA Snake $5 6-Player,27.0,NBA,2026-04-07 23:00:00+00:00,5.0,6
+189482053,145267,0.0,False,False,False,False,False,NBA Snake $5 6-Player,27.0,NBA,2026-04-07 23:00:00+00:00,5.0,6
+189482054,145267,0.0,False,False,False,False,False,NBA Snake $10 6-Player,54.0,NBA,2026-04-07 23:00:00+00:00,10.0,6
+189482055,145267,0.0,False,False,False,False,False,NBA Snake $10 6-Player,54.0,NBA,2026-04-07 23:00:00+00:00,10.0,6
+189482056,145267,0.0,False,False,False,False,False,NBA Snake $20 6-Player,108.0,NBA,2026-04-07 23:00:00+00:00,20.0,6
+189482057,145267,0.0,False,False,False,False,False,NBA Snake $20 6-Player,108.0,NBA,2026-04-07 23:00:00+00:00,20.0,6
+189482058,145267,0.0,False,False,False,False,False,NBA Snake $50 6-Player,270.0,NBA,2026-04-07 23:00:00+00:00,50.0,6
+189482059,145267,0.0,False,False,False,False,False,NBA Snake $109 6-Player,600.0,NBA,2026-04-07 23:00:00+00:00,109.0,6
+189482060,145267,0.0,False,False,False,False,False,NBA Snake $109 6-Player,600.0,NBA,2026-04-07 23:00:00+00:00,109.0,6
+189482061,145267,0.0,False,False,False,False,False,NBA Snake $530 6-Player,3000.0,NBA,2026-04-07 23:00:00+00:00,530.0,6
+189482065,145267,0.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189482067,145267,0.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189482068,145267,0.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189482069,145267,0.0,False,False,False,False,False,NBA Snake $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189482071,145267,0.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189482072,145267,0.0,False,False,False,False,False,NBA Snake $109 3-Player,300.0,NBA,2026-04-07 23:00:00+00:00,109.0,3
+189482073,145267,0.0,False,False,False,False,False,NBA Snake $109 3-Player,300.0,NBA,2026-04-07 23:00:00+00:00,109.0,3
+189482074,145267,0.0,False,False,False,False,False,NBA Snake $530 3-Player,1500.0,NBA,2026-04-07 23:00:00+00:00,530.0,3
+189482075,145267,0.0,False,False,False,False,False,"NBA Snake $2,120 3-Player",6000.0,NBA,2026-04-07 23:00:00+00:00,2120.0,3
+189482076,145267,0.0,False,False,False,False,False,"NBA Snake $1,060 3-Player",3000.0,NBA,2026-04-07 23:00:00+00:00,1060.0,3
+189482077,145267,0.0,False,False,False,False,False,"NBA Snake $5,300 3-Player",15000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,3
+189482078,145267,0.0,False,False,False,False,False,"NBA Snake $10,600 3-Player",30000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,3
+189482079,145277,0.0,False,False,True,False,True,NBA Showdown Satellite to $15 NBA Fadeaway (HOU @ PHX),15.0,NBA,2026-04-08 03:00:00+00:00,0.25,71
+189482080,145277,0.0,False,False,True,False,True,NBA Showdown Satellite to $15 NBA Fadeaway (HOU @ PHX),15.0,NBA,2026-04-08 03:00:00+00:00,0.1,178
+189482081,145277,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) (HOU @ PHX),25.0,NBA,2026-04-08 03:00:00+00:00,0.1,297
+189482082,145277,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) (HOU @ PHX),25.0,NBA,2026-04-08 03:00:00+00:00,0.25,118
+189482083,145277,0.0,False,False,True,False,False,NBA Showdown Satellite to NFL Early Bird Best Ball $10 Training Camp (HOU @ PHX),10.0,NBA,2026-04-08 03:00:00+00:00,0.25,47
+189482084,145277,0.0,False,False,True,False,False,NBA Showdown Satellite to NFL Early Bird Best Ball $10 Training Camp (HOU @ PHX),10.0,NBA,2026-04-08 03:00:00+00:00,0.5,23
+189482096,145274,0.0,False,False,True,False,False,NBA $5 Quintuple Up [Top 5 Win $25] (Night),125.0,NBA,2026-04-08 02:00:00+00:00,5.0,28
+189482097,145274,0.0,True,False,True,False,False,NBA $50 Double Up (Night),500.0,NBA,2026-04-08 02:00:00+00:00,50.0,11
+189482098,145274,0.0,True,False,True,False,False,NBA $3 Double Up (Night),60.0,NBA,2026-04-08 02:00:00+00:00,3.0,23
+189482099,145274,0.0,True,False,True,False,False,NBA $5 Double Up (Night),100.0,NBA,2026-04-08 02:00:00+00:00,5.0,23
+189482100,145274,0.0,True,False,True,False,False,NBA $5 Double Up (Night),100.0,NBA,2026-04-08 02:00:00+00:00,5.0,23
+189482101,145274,0.0,True,False,True,False,False,NBA $1 Double Up (Night),20.0,NBA,2026-04-08 02:00:00+00:00,1.0,23
+189482102,145274,0.0,True,False,True,False,False,NBA $1 Double Up (Night),20.0,NBA,2026-04-08 02:00:00+00:00,1.0,23
+189482103,145274,0.0,True,False,True,False,False,NBA $1 Double Up (Night),20.0,NBA,2026-04-08 02:00:00+00:00,1.0,23
+189482104,145274,0.0,True,False,True,False,False,NBA $1 Double Up (Night),20.0,NBA,2026-04-08 02:00:00+00:00,1.0,23
+189482105,145274,0.0,True,False,True,False,False,NBA $1 Double Up (Night),20.0,NBA,2026-04-08 02:00:00+00:00,1.0,23
+189482106,145274,0.0,True,False,True,False,False,NBA $5 Double Up (Night),100.0,NBA,2026-04-08 02:00:00+00:00,5.0,23
+189482107,145274,0.0,False,False,True,False,False,NBA $5 Triple Up [Top 6 Win $15] (Night),90.0,NBA,2026-04-08 02:00:00+00:00,5.0,20
+189482108,145274,0.0,True,False,True,False,False,NBA $25 Double Up (Night),250.0,NBA,2026-04-08 02:00:00+00:00,25.0,11
+189482109,145274,0.0,True,False,True,False,False,NBA $10 Double Up (Night),100.0,NBA,2026-04-08 02:00:00+00:00,10.0,11
+189482110,145274,0.0,True,False,True,False,False,NBA $10 Double Up (Night),100.0,NBA,2026-04-08 02:00:00+00:00,10.0,11
+189482111,145274,0.0,True,False,True,False,False,NBA $25 Double Up (Night),250.0,NBA,2026-04-08 02:00:00+00:00,25.0,11
+189482112,145274,0.0,True,False,True,False,False,NBA $10 Double Up (Night),100.0,NBA,2026-04-08 02:00:00+00:00,10.0,11
+189482113,145274,0.0,True,False,True,False,False,NBA $5 Double Up (Night),100.0,NBA,2026-04-08 02:00:00+00:00,5.0,23
+189482114,145274,0.0,True,False,True,False,False,NBA $1 Double Up (Night),20.0,NBA,2026-04-08 02:00:00+00:00,1.0,23
+189482115,145274,0.0,True,False,True,False,False,NBA $3 Double Up (Night),60.0,NBA,2026-04-08 02:00:00+00:00,3.0,23
+189482116,145274,0.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5] (Night),25.0,NBA,2026-04-08 02:00:00+00:00,1.0,28
+189482117,145274,0.0,False,False,True,False,False,NBA $10 Triple Up [Top 3 Win $30] (Night),90.0,NBA,2026-04-08 02:00:00+00:00,10.0,10
+189482118,145274,0.0,False,False,True,False,False,NBA $1 Triple Up [Top 6 Win $3] (Night),18.0,NBA,2026-04-08 02:00:00+00:00,1.0,20
+189482119,145274,0.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5] (Night),25.0,NBA,2026-04-08 02:00:00+00:00,1.0,28
+189482120,145274,0.0,False,False,True,False,True,NBA $85 Winner Take All [$300 to 1st] (Night),300.0,NBA,2026-04-08 02:00:00+00:00,85.0,4
+189482121,145274,0.0,False,False,True,False,True,NBA $25 Winner Take All [$110 to 1st] (Night),110.0,NBA,2026-04-08 02:00:00+00:00,25.0,5
+189482122,145274,0.0,False,False,True,False,True,NBA $85 Winner Take All [$300 to 1st] (Night),300.0,NBA,2026-04-08 02:00:00+00:00,85.0,4
+189482123,145274,0.0,False,False,True,False,True,NBA $25 Winner Take All [$110 to 1st] (Night),110.0,NBA,2026-04-08 02:00:00+00:00,25.0,5
+189482124,145274,0.0,False,False,True,False,True,NBA $150 Dime TIme [Just $0.10!] (Night),150.0,NBA,2026-04-08 02:00:00+00:00,0.1,1783
+189482125,145274,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3) (Night),25.0,NBA,2026-04-08 02:00:00+00:00,0.1,297
+189482126,145274,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3) (Night),25.0,NBA,2026-04-08 02:00:00+00:00,0.25,118
+189482127,145274,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3) (Night),25.0,NBA,2026-04-08 02:00:00+00:00,1.0,29
+189482128,145274,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3) (Night),25.0,NBA,2026-04-08 02:00:00+00:00,2.0,14
+189482130,145277,0.0,False,False,True,False,False,NBA Showdown $5 Quintuple Up [Top 5 Win $25] (HOU @ PHX),125.0,NBA,2026-04-08 03:00:00+00:00,5.0,28
+189482131,145277,0.0,True,False,True,False,False,NBA Showdown $50 Double Up (HOU @ PHX),500.0,NBA,2026-04-08 03:00:00+00:00,50.0,11
+189482132,145277,0.0,True,False,True,False,False,NBA Showdown $3 Double Up (HOU @ PHX),60.0,NBA,2026-04-08 03:00:00+00:00,3.0,23
+189482133,145277,0.0,True,False,True,False,False,NBA Showdown $5 Double Up (HOU @ PHX),100.0,NBA,2026-04-08 03:00:00+00:00,5.0,23
+189482134,145277,0.0,True,False,True,False,False,NBA Showdown $5 Double Up (HOU @ PHX),100.0,NBA,2026-04-08 03:00:00+00:00,5.0,23
+189482135,145277,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ PHX),20.0,NBA,2026-04-08 03:00:00+00:00,1.0,23
+189482136,145277,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ PHX),20.0,NBA,2026-04-08 03:00:00+00:00,1.0,23
+189482137,145277,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ PHX),20.0,NBA,2026-04-08 03:00:00+00:00,1.0,23
+189482138,145277,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ PHX),20.0,NBA,2026-04-08 03:00:00+00:00,1.0,23
+189482139,145277,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ PHX),20.0,NBA,2026-04-08 03:00:00+00:00,1.0,23
+189482140,145277,0.0,True,False,True,False,False,NBA Showdown $5 Double Up (HOU @ PHX),100.0,NBA,2026-04-08 03:00:00+00:00,5.0,23
+189482141,145277,0.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 6 Win $15] (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,5.0,20
+189482142,145277,0.0,True,False,True,False,False,NBA Showdown $25 Double Up (HOU @ PHX),250.0,NBA,2026-04-08 03:00:00+00:00,25.0,11
+189482143,145277,0.0,True,False,True,False,False,NBA Showdown $10 Double Up (HOU @ PHX),100.0,NBA,2026-04-08 03:00:00+00:00,10.0,11
+189482144,145277,0.0,True,False,True,False,False,NBA Showdown $10 Double Up (HOU @ PHX),100.0,NBA,2026-04-08 03:00:00+00:00,10.0,11
+189482145,145277,0.0,True,False,True,False,False,NBA Showdown $25 Double Up (HOU @ PHX),250.0,NBA,2026-04-08 03:00:00+00:00,25.0,11
+189482146,145277,0.0,True,False,True,False,False,NBA Showdown $10 Double Up (HOU @ PHX),100.0,NBA,2026-04-08 03:00:00+00:00,10.0,11
+189482147,145277,0.0,True,False,True,False,False,NBA Showdown $5 Double Up (HOU @ PHX),100.0,NBA,2026-04-08 03:00:00+00:00,5.0,23
+189482148,145277,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (HOU @ PHX),20.0,NBA,2026-04-08 03:00:00+00:00,1.0,23
+189482149,145277,0.0,True,False,True,False,False,NBA Showdown $3 Double Up (HOU @ PHX),60.0,NBA,2026-04-08 03:00:00+00:00,3.0,23
+189482150,145277,0.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (HOU @ PHX),25.0,NBA,2026-04-08 03:00:00+00:00,1.0,28
+189482151,145277,0.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 3 Win $30] (HOU @ PHX),90.0,NBA,2026-04-08 03:00:00+00:00,10.0,10
+189482152,145277,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 6 Win $3] (HOU @ PHX),18.0,NBA,2026-04-08 03:00:00+00:00,1.0,20
+189482153,145277,0.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (HOU @ PHX),25.0,NBA,2026-04-08 03:00:00+00:00,1.0,28
+189482154,145277,0.0,False,False,True,False,True,NBA Showdown $85 Winner Take All [$300 to 1st] (HOU @ PHX),300.0,NBA,2026-04-08 03:00:00+00:00,85.0,4
+189482155,145277,0.0,False,False,True,False,True,NBA Showdown $25 Winner Take All [$110 to 1st] (HOU @ PHX),110.0,NBA,2026-04-08 03:00:00+00:00,25.0,5
+189482156,145277,0.0,False,False,True,False,True,NBA Showdown $85 Winner Take All [$300 to 1st] (HOU @ PHX),300.0,NBA,2026-04-08 03:00:00+00:00,85.0,4
+189482157,145277,0.0,False,False,True,False,True,NBA Showdown $25 Winner Take All [$110 to 1st] (HOU @ PHX),110.0,NBA,2026-04-08 03:00:00+00:00,25.0,5
+189482158,145277,0.0,False,False,True,False,True,NBA Showdown $150 Dime TIme [Just $0.10!] (HOU @ PHX),150.0,NBA,2026-04-08 03:00:00+00:00,0.1,1783
+189482159,145277,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) (HOU @ PHX),25.0,NBA,2026-04-08 03:00:00+00:00,1.0,29
+189482160,145277,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) (HOU @ PHX),25.0,NBA,2026-04-08 03:00:00+00:00,2.0,14
+189482161,145266,0.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,50.0,4
+189482162,145266,0.0,True,False,False,False,False,NBA $50 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,50.0,4
+189482163,145266,0.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2026-04-07 23:00:00+00:00,109.0,4
+189482164,145266,0.0,True,False,False,False,False,NBA $109 50-50,400.0,NBA,2026-04-07 23:00:00+00:00,109.0,4
+189482165,145266,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189482166,145266,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189482167,145266,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189482168,145266,0.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189482169,145266,0.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189482170,145266,0.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189482171,145266,0.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189482172,145266,0.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189482173,145266,0.0,False,False,False,False,False,NBA $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189482174,145266,0.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189482175,145266,0.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189482176,145266,0.0,False,False,False,False,False,NBA $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189482177,145266,0.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189482178,145266,0.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189482179,145266,0.0,False,False,False,False,False,NBA $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189482180,145266,0.0,False,False,False,False,False,NBA $530 3-Player,1500.0,NBA,2026-04-07 23:00:00+00:00,530.0,3
+189482181,145266,0.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2026-04-07 23:00:00+00:00,109.0,3
+189482182,145266,0.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2026-04-07 23:00:00+00:00,109.0,3
+189482183,145266,0.0,False,False,False,False,False,NBA $109 3-Player,300.0,NBA,2026-04-07 23:00:00+00:00,109.0,3
+189482184,145266,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2026-04-07 23:00:00+00:00,1.0,5
+189482185,145266,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2026-04-07 23:00:00+00:00,1.0,5
+189482186,145266,0.0,False,False,False,False,False,NBA $1 5-Player,4.5,NBA,2026-04-07 23:00:00+00:00,1.0,5
+189482187,145266,0.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189482188,145266,0.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189482189,145266,0.0,False,False,False,False,False,NBA $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189482190,145266,0.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189482191,145266,0.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189482192,145266,0.0,False,False,False,False,False,NBA $5 5-Player,22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189482193,145266,0.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189482194,145266,0.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189482195,145266,0.0,False,False,False,False,False,NBA $10 5-Player,45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189482196,145266,0.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2026-04-07 23:00:00+00:00,20.0,5
+189482197,145266,0.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2026-04-07 23:00:00+00:00,20.0,5
+189482198,145266,0.0,False,False,False,False,False,NBA $20 5-Player,90.0,NBA,2026-04-07 23:00:00+00:00,20.0,5
+189482199,145266,0.0,False,False,False,False,False,NBA $109 5-Player,500.0,NBA,2026-04-07 23:00:00+00:00,109.0,5
+189482200,145266,0.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189482201,145266,0.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189482202,145266,0.0,False,False,False,False,False,NBA $1 10-Player,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189482203,145266,0.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189482204,145266,0.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189482205,145266,0.0,False,False,False,False,False,NBA $2 10-Player,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189482206,145266,0.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189482207,145266,0.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189482208,145266,0.0,False,False,False,False,False,NBA $5 10-Player,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189482209,145266,0.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189482210,145266,0.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189482211,145266,0.0,True,False,False,False,False,NBA $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189482212,145266,0.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189482213,145266,0.0,False,False,False,False,False,NBA $10 10-Player,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189482214,145266,0.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189482215,145266,0.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189482216,145266,0.0,True,False,False,False,False,NBA $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189482217,145266,0.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,20.0,10
+189482218,145266,0.0,True,False,False,False,False,NBA $20 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,20.0,10
+189482219,145266,0.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189482220,145266,0.0,False,False,False,False,False,NBA $50 3-Player,135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189482221,145266,0.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2026-04-07 23:00:00+00:00,50.0,5
+189482222,145266,0.0,False,False,False,False,False,NBA $50 5-Player,225.0,NBA,2026-04-07 23:00:00+00:00,50.0,5
+189482223,145266,0.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,4
+189482224,145266,0.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,4
+189482225,145266,0.0,False,False,False,False,False,"NBA $5,300 4-Player (Winner Takes All)",20000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,4
+189482226,145266,0.0,False,False,False,False,False,"NBA $1,060 3-Player",3000.0,NBA,2026-04-07 23:00:00+00:00,1060.0,3
+189482227,145266,0.0,True,False,False,False,False,NBA $530 50-50,2000.0,NBA,2026-04-07 23:00:00+00:00,530.0,4
+189482228,145266,0.0,True,False,False,False,False,"NBA $1,060 50-50",4000.0,NBA,2026-04-07 23:00:00+00:00,1060.0,4
+189482229,145266,0.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2026-04-07 23:00:00+00:00,20.0,10
+189482230,145266,0.0,False,False,False,False,False,NBA $20 10-Player,180.0,NBA,2026-04-07 23:00:00+00:00,20.0,10
+189482231,145266,0.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189482232,145266,0.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189482233,145266,0.0,False,False,False,False,False,NBA $1 20-Player,18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189482234,145266,0.0,False,False,False,False,False,NBA $2 20 Player,36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189482235,145266,0.0,False,False,False,False,False,NBA $2 20 Player,36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189482236,145266,0.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,1.0,50
+189482237,145266,0.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,1.0,50
+189482238,145266,0.0,True,False,False,False,False,NBA $1 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,1.0,50
+189482239,145266,0.0,False,False,False,False,False,Beginner NBA $50 3-Player,135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189482240,145266,0.0,False,False,False,False,False,Beginner NBA $50 3-Player,135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189482241,145266,0.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2026-04-07 23:00:00+00:00,1.0,5
+189482242,145266,0.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2026-04-07 23:00:00+00:00,1.0,5
+189482243,145266,0.0,False,False,False,False,False,Beginner NBA $1 5-Player,4.5,NBA,2026-04-07 23:00:00+00:00,1.0,5
+189482244,145266,0.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2026-04-07 23:00:00+00:00,50.0,10
+189482245,145266,0.0,True,False,False,False,False,NBA $50 50-50,450.0,NBA,2026-04-07 23:00:00+00:00,50.0,10
+189482246,145266,0.0,False,False,False,False,False,NBA $50 10-Player,450.0,NBA,2026-04-07 23:00:00+00:00,50.0,10
+189482247,145266,0.0,True,False,False,False,False,"NBA $5,300 50-50",20000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,4
+189482248,145266,0.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,3
+189482249,145266,0.0,False,False,False,False,False,"NBA $5,300 3-Player",15000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,3
+189482250,145266,0.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,5.0,20
+189482251,145266,0.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,5.0,20
+189482252,145266,0.0,True,False,False,False,False,NBA $5 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,5.0,20
+189482253,145266,0.0,False,False,False,False,False,NBA $5 20-Player,90.0,NBA,2026-04-07 23:00:00+00:00,5.0,20
+189482254,145266,0.0,True,False,False,False,False,NBA $20 50-50,360.0,NBA,2026-04-07 23:00:00+00:00,20.0,20
+189482255,145266,0.0,False,False,False,False,False,NBA $20 20-Player,360.0,NBA,2026-04-07 23:00:00+00:00,20.0,20
+189482256,145266,0.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189482257,145266,0.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189482258,145266,0.0,True,False,False,False,False,NBA $2 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,2.0,10
+189482259,145266,0.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189482260,145266,0.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189482261,145266,0.0,True,False,False,False,False,NBA $2 50-50,36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189482262,145266,0.0,False,False,False,False,False,NBA $2 40-Player,72.0,NBA,2026-04-07 23:00:00+00:00,2.0,40
+189482263,145266,0.0,False,False,False,False,False,NBA $2 40-Player,72.0,NBA,2026-04-07 23:00:00+00:00,2.0,40
+189482264,145266,0.0,True,False,False,False,False,NBA $162 50-50,600.0,NBA,2026-04-07 23:00:00+00:00,162.0,4
+189482265,145266,0.0,False,False,False,False,False,NBA $162 5-Player,750.0,NBA,2026-04-07 23:00:00+00:00,162.0,5
+189482266,145266,0.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2026-04-07 23:00:00+00:00,162.0,3
+189482267,145266,0.0,False,False,False,False,False,NBA $162 3-Player,450.0,NBA,2026-04-07 23:00:00+00:00,162.0,3
+189482268,145266,0.0,False,False,False,False,False,"NBA $10,600 3-Player",30000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,3
+189482269,145266,0.0,True,False,False,False,False,NBA $10 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,10.0,20
+189482270,145266,0.0,False,False,False,False,False,NBA $10 20-Player,180.0,NBA,2026-04-07 23:00:00+00:00,10.0,20
+189482271,145266,0.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189482272,145266,0.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189482273,145266,0.0,True,False,False,False,False,NBA $1 50-50,18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189482274,145266,0.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189482275,145266,0.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189482276,145266,0.0,True,False,False,False,False,NBA $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189482277,145266,0.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2026-04-07 23:00:00+00:00,1.0,40
+189482278,145266,0.0,False,False,False,False,False,NBA $1 40-Player,36.0,NBA,2026-04-07 23:00:00+00:00,1.0,40
+189482279,145266,0.0,True,False,False,False,False,Beginner NBA $50 50-50,450.0,NBA,2026-04-07 23:00:00+00:00,50.0,10
+189482280,145266,0.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189482281,145266,0.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189482282,145266,0.0,True,False,False,False,False,Beginner NBA $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189482283,145266,0.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189482284,145266,0.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189482285,145266,0.0,False,False,False,False,False,Beginner NBA $5 5-Player,22.5,NBA,2026-04-07 23:00:00+00:00,5.0,5
+189482286,145266,0.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189482287,145266,0.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189482288,145266,0.0,False,False,False,False,False,Beginner NBA $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189482289,145266,0.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2026-04-07 23:00:00+00:00,3.0,10
+189482290,145266,0.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2026-04-07 23:00:00+00:00,3.0,10
+189482291,145266,0.0,True,False,False,False,False,Beginner NBA $3 50-50,27.0,NBA,2026-04-07 23:00:00+00:00,3.0,10
+189482292,145266,0.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,20.0,10
+189482293,145266,0.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,20.0,10
+189482294,145266,0.0,True,False,False,False,False,Beginner NBA $20 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,20.0,10
+189482295,145266,0.0,False,False,False,False,False,Beginner NBA $20 5-Player,90.0,NBA,2026-04-07 23:00:00+00:00,20.0,5
+189482296,145266,0.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189482297,145266,0.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189482298,145266,0.0,False,False,False,False,False,Beginner NBA $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189482299,145266,0.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189482300,145266,0.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189482301,145266,0.0,False,False,False,False,False,Beginner NBA $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189482302,145266,0.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189482303,145266,0.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189482304,145266,0.0,False,False,False,False,False,Beginner NBA $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189482305,145266,0.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189482306,145266,0.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189482307,145266,0.0,True,False,False,False,False,Beginner NBA $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189482308,145266,0.0,False,False,False,False,False,Beginner NBA $10 5-Player,45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189482309,145266,0.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189482310,145266,0.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189482311,145266,0.0,False,False,False,False,False,Beginner NBA $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189482312,145266,0.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189482313,145266,0.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189482314,145266,0.0,True,False,False,False,False,Beginner NBA $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189482315,145266,0.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189482316,145266,0.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189482317,145266,0.0,False,False,False,False,False,Beginner NBA $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189482318,145266,0.0,True,False,False,False,False,NBA $109 50-50,600.0,NBA,2026-04-07 23:00:00+00:00,109.0,6
+189482319,145266,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,4
+189482320,145266,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,4
+189482321,145266,0.0,False,False,False,False,False,"NBA $10,600 4-Player (Winner Takes All)",40000.0,NBA,2026-04-07 23:00:00+00:00,10600.0,4
+189482322,145266,0.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2026-04-07 23:00:00+00:00,2120.0,3
+189482323,145266,0.0,False,False,False,False,False,"NBA $2,120 3-Player",6000.0,NBA,2026-04-07 23:00:00+00:00,2120.0,3
+189482324,145266,0.0,False,False,False,False,False,"NBA $2,120 5-Player",10000.0,NBA,2026-04-07 23:00:00+00:00,2120.0,5
+189482325,145266,0.0,False,False,False,False,False,"NBA $2,120 5-Player",10000.0,NBA,2026-04-07 23:00:00+00:00,2120.0,5
+189482326,145266,0.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2026-04-07 23:00:00+00:00,2120.0,4
+189482327,145266,0.0,True,False,False,False,False,"NBA $2,120 50-50",8000.0,NBA,2026-04-07 23:00:00+00:00,2120.0,4
+189482328,145266,0.0,True,False,False,False,False,Casual NBA $50 50-50,180.0,NBA,2026-04-07 23:00:00+00:00,50.0,4
+189482329,145266,0.0,True,False,False,False,False,Casual NBA $20 50-50,72.0,NBA,2026-04-07 23:00:00+00:00,20.0,4
+189482330,145266,0.0,True,False,False,False,False,Casual NBA $10 50-50,90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189482331,145266,0.0,True,False,False,False,False,Casual NBA $5 50-50,45.0,NBA,2026-04-07 23:00:00+00:00,5.0,10
+189482332,145266,0.0,True,False,False,False,False,Casual NBA $3 50-50,27.0,NBA,2026-04-07 23:00:00+00:00,3.0,10
+189482333,145266,0.0,True,False,False,False,False,Casual NBA $3 50-50,10.8,NBA,2026-04-07 23:00:00+00:00,3.0,4
+189482334,145266,0.0,True,False,False,False,False,Casual NBA $1 50-50,9.0,NBA,2026-04-07 23:00:00+00:00,1.0,10
+189482335,145266,0.0,False,False,False,False,False,Casual NBA $50 3-Player,135.0,NBA,2026-04-07 23:00:00+00:00,50.0,3
+189482336,145266,0.0,False,False,False,False,False,Casual NBA $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189482337,145266,0.0,False,False,False,False,False,Casual NBA $10 5-Player,45.0,NBA,2026-04-07 23:00:00+00:00,10.0,5
+189482338,145266,0.0,False,False,False,False,False,Casual NBA $10 3-Player,27.0,NBA,2026-04-07 23:00:00+00:00,10.0,3
+189482339,145266,0.0,False,False,False,False,False,Casual NBA $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189482340,145266,0.0,False,False,False,False,False,Casual NBA $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189482341,145266,0.0,False,False,False,False,False,Casual NBA $109 5-Player,500.0,NBA,2026-04-07 23:00:00+00:00,109.0,5
+189482342,145266,0.0,True,False,False,False,False,NBA $10 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,10.0,11
+189482343,145266,0.0,True,False,False,False,False,NBA $25 Double Up,250.0,NBA,2026-04-07 23:00:00+00:00,25.0,11
+189482344,145266,0.0,True,False,False,False,False,NBA $50 Double Up,500.0,NBA,2026-04-07 23:00:00+00:00,50.0,11
+189482345,145266,0.0,True,False,False,False,False,NBA $5 Double Up,50.0,NBA,2026-04-07 23:00:00+00:00,5.0,11
+189482346,145266,0.0,True,False,False,False,False,NBA $3 Double Up,30.0,NBA,2026-04-07 23:00:00+00:00,3.0,11
+189482347,145266,0.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2026-04-07 23:00:00+00:00,1.0,11
+189482348,145266,0.0,True,False,False,False,False,NBA $25 Double Up,500.0,NBA,2026-04-07 23:00:00+00:00,25.0,22
+189482349,145266,0.0,True,False,False,False,False,NBA $50 Double Up,1000.0,NBA,2026-04-07 23:00:00+00:00,50.0,22
+189482350,145266,0.0,False,False,False,False,True,NBA $100K Heavy Hitter [Must Fill],100000.0,NBA,2026-04-07 23:00:00+00:00,26200.0,4
+189482351,145266,0.0,False,False,False,False,True,NBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2026-04-07 23:00:00+00:00,1060.0,4
+189482352,145266,0.0,False,False,False,False,True,NBA $20K Thunderdome [Must Fill],20000.0,NBA,2026-04-07 23:00:00+00:00,5300.0,4
+189482353,145266,0.0,False,False,False,False,True,NBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2026-04-07 23:00:00+00:00,267.0,4
+189482354,145266,0.0,False,False,False,False,True,NBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2026-04-07 23:00:00+00:00,100.0,5
+189482355,145266,0.0,False,False,False,False,True,NBA $75K Heavy Hitter [Must Fill],75000.0,NBA,2026-04-07 23:00:00+00:00,26200.0,3
+189482356,145266,0.0,False,False,False,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill],25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189482413,145266,0.0,False,False,True,False,False,NBA $5 Quintuple Up [Top 5 Win $25],125.0,NBA,2026-04-07 23:00:00+00:00,5.0,28
+189482414,145266,0.0,False,False,True,False,False,NBA $1 Contest,200.0,NBA,2026-04-07 23:00:00+00:00,1.0,237
+189482415,145266,0.0,False,False,True,False,False,NBA $1 Contest,50.0,NBA,2026-04-07 23:00:00+00:00,1.0,59
+189482416,145266,0.0,True,False,True,False,False,NBA $50 Double Up,500.0,NBA,2026-04-07 23:00:00+00:00,50.0,11
+189482417,145266,0.0,False,False,True,False,False,NBA 10x Booster [Top 3 Win $50],150.0,NBA,2026-04-07 23:00:00+00:00,5.0,35
+189482418,145266,0.0,False,False,True,False,False,NBA $0.25 Winner Take All [$50 to 1st],50.0,NBA,2026-04-07 23:00:00+00:00,0.25,237
+189482419,145266,0.0,False,False,True,False,False,NBA $0.25 Winner Take All [$50 to 1st],50.0,NBA,2026-04-07 23:00:00+00:00,0.25,237
+189482420,145266,0.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2026-04-07 23:00:00+00:00,10.0,23
+189482421,145266,0.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2026-04-07 23:00:00+00:00,3.0,23
+189482422,145266,0.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2026-04-07 23:00:00+00:00,3.0,23
+189482423,145266,0.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,5.0,23
+189482424,145266,0.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,5.0,23
+189482425,145266,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2026-04-07 23:00:00+00:00,1.0,23
+189482426,145266,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2026-04-07 23:00:00+00:00,1.0,23
+189482427,145266,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2026-04-07 23:00:00+00:00,1.0,23
+189482428,145266,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2026-04-07 23:00:00+00:00,1.0,23
+189482429,145266,0.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2026-04-07 23:00:00+00:00,3.0,23
+189482430,145266,0.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,5.0,23
+189482431,145266,0.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,5.0,23
+189482432,145266,0.0,False,False,True,False,False,NBA $5 Winner Take All [$100 to 1st],100.0,NBA,2026-04-07 23:00:00+00:00,5.0,23
+189482433,145266,0.0,False,False,True,False,False,NBA $1 Winner Take All [$100 to 1st],100.0,NBA,2026-04-07 23:00:00+00:00,1.0,118
+189482434,145266,0.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2026-04-07 23:00:00+00:00,25.0,11
+189482435,145266,0.0,True,False,True,False,False,NBA $10 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,10.0,11
+189482436,145266,0.0,True,False,True,False,False,NBA $10 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,10.0,11
+189482437,145266,0.0,True,False,True,False,False,NBA $1 Double Up,34.0,NBA,2026-04-07 23:00:00+00:00,1.0,39
+189482438,145266,0.0,True,False,True,False,False,NBA $1 Double Up,34.0,NBA,2026-04-07 23:00:00+00:00,1.0,39
+189482439,145266,0.0,True,False,True,False,False,NBA $10 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,10.0,11
+189482440,145266,0.0,True,False,True,False,False,NBA $5 Double Up,100.0,NBA,2026-04-07 23:00:00+00:00,5.0,23
+189482441,145266,0.0,True,False,True,False,False,NBA $1 Double Up,20.0,NBA,2026-04-07 23:00:00+00:00,1.0,23
+189482442,145266,0.0,True,False,True,False,False,NBA $3 Double Up,60.0,NBA,2026-04-07 23:00:00+00:00,3.0,23
+189482443,145266,0.0,True,False,True,False,False,NBA $10 Double Up,200.0,NBA,2026-04-07 23:00:00+00:00,10.0,23
+189482444,145266,0.0,False,False,True,False,False,NBA $0.25 Winner Take All [$50 to 1st],50.0,NBA,2026-04-07 23:00:00+00:00,0.25,237
+189482445,145266,0.0,False,False,True,False,False,NBA $25 Triple Up [Top 3 Win $75],225.0,NBA,2026-04-07 23:00:00+00:00,25.0,10
+189482446,145266,0.0,True,False,True,False,False,NBA $1 Double Up,34.0,NBA,2026-04-07 23:00:00+00:00,1.0,39
+189482447,145266,0.0,True,False,True,False,False,NBA $5 Double Up,170.0,NBA,2026-04-07 23:00:00+00:00,5.0,39
+189482448,145266,0.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2026-04-07 23:00:00+00:00,1.0,28
+189482449,145266,0.0,False,False,True,False,False,NBA $10 Triple Up [Top 3 Win $30],90.0,NBA,2026-04-07 23:00:00+00:00,10.0,10
+189482450,145266,0.0,False,False,True,False,False,NBA $1 Quintuple Up [Top 5 Win $5],25.0,NBA,2026-04-07 23:00:00+00:00,1.0,28
+189482451,145266,0.0,True,False,True,False,False,NBA $1 Double Up,34.0,NBA,2026-04-07 23:00:00+00:00,1.0,39
+189482452,145266,0.0,False,False,True,False,True,NBA $85 Winner Take All [$300 to 1st],300.0,NBA,2026-04-07 23:00:00+00:00,85.0,4
+189482453,145266,0.0,False,False,True,False,True,NBA $85 Winner Take All [$300 to 1st],300.0,NBA,2026-04-07 23:00:00+00:00,85.0,4
+189482455,145266,0.0,True,False,True,False,False,NBA $25 Double Up,250.0,NBA,2026-04-07 23:00:00+00:00,25.0,11
+189482456,145266,0.0,False,False,False,False,True,NBA $75K Heavy Hitter [Must Fill],75000.0,NBA,2026-04-07 23:00:00+00:00,26200.0,3
+189482457,145266,0.0,False,False,True,False,False,NBA $1 Winner Take All [$100 to 1st],100.0,NBA,2026-04-07 23:00:00+00:00,1.0,118
+189482458,145266,0.0,False,False,True,False,False,NBA $1 Winner Take All [$100 to 1st],100.0,NBA,2026-04-07 23:00:00+00:00,1.0,118
+189482459,145266,0.0,False,False,True,False,True,NBA $250 Dime Time [Just $0.10!],250.0,NBA,2026-04-07 23:00:00+00:00,0.1,2972
+189482460,145266,0.0,False,False,True,False,True,NBA $250 Dime Time [Just $0.10!],250.0,NBA,2026-04-07 23:00:00+00:00,0.1,2972
+189482462,145266,0.0,False,False,True,False,True,NBA Satellite to $15 NBA Fadeaway,15.0,NBA,2026-04-07 23:00:00+00:00,0.25,71
+189482463,145266,0.0,False,False,True,False,True,NBA Satellite to $15 NBA Fadeaway,15.0,NBA,2026-04-07 23:00:00+00:00,1.0,17
+189482464,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop,555.0,NBA,2026-04-07 23:00:00+00:00,5.0,131
+189482465,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop,555.0,NBA,2026-04-07 23:00:00+00:00,9.0,72
+189482466,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop,555.0,NBA,2026-04-07 23:00:00+00:00,34.0,19
+189482467,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop,555.0,NBA,2026-04-07 23:00:00+00:00,63.0,10
+189482468,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $555 Alley-Oop,555.0,NBA,2026-04-07 23:00:00+00:00,90.0,7
+189482469,145266,0.0,False,False,True,False,True,NBA Satellite to $15 NBA Fadeaway,15.0,NBA,2026-04-07 23:00:00+00:00,0.1,178
+189482470,145266,0.0,False,False,False,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill],25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189482471,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3),25.0,NBA,2026-04-07 23:00:00+00:00,0.1,297
+189482472,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3),25.0,NBA,2026-04-07 23:00:00+00:00,0.25,118
+189482473,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3),25.0,NBA,2026-04-07 23:00:00+00:00,0.25,118
+189482474,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3),25.0,NBA,2026-04-07 23:00:00+00:00,1.0,29
+189482475,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3),25.0,NBA,2026-04-07 23:00:00+00:00,1.0,29
+189482476,145266,0.0,False,False,True,False,True,NBA Satellite to NBA $25 Finals Tip-Off Special (6-3),25.0,NBA,2026-04-07 23:00:00+00:00,2.0,14
+189482477,145266,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-3) [2x],50.0,NBA,2026-04-07 23:00:00+00:00,0.25,237
+189482478,145266,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-3) [2x],50.0,NBA,2026-04-07 23:00:00+00:00,1.0,59
+189482479,145266,0.0,False,False,True,False,True,NBA SUPERSatellite to NBA $25 Finals Tip-Off Special (6-3) [4x],100.0,NBA,2026-04-07 23:00:00+00:00,3.0,39
+189482480,145266,0.0,False,False,True,False,False,NBA Satellite to NFL Early Bird Best Ball $10 Training Camp,10.0,NBA,2026-04-07 23:00:00+00:00,0.25,47
+189482481,145266,0.0,False,False,True,False,False,NBA Satellite to NFL Early Bird Best Ball $10 Training Camp,10.0,NBA,2026-04-07 23:00:00+00:00,0.5,23
+189482482,145266,0.0,False,False,False,False,False,NBA Satellite to NFL Early Bird Best Ball $10 Training Camp [Must Fill],10.0,NBA,2026-04-07 23:00:00+00:00,3.7,3
+189482483,145266,0.0,False,False,False,False,False,NBA Satellite to NFL Early Bird Best Ball $10 Training Camp [Must Fill],10.0,NBA,2026-04-07 23:00:00+00:00,3.7,3
+189482484,145266,0.0,False,False,False,False,True,NBA Satellite to NAS 5-24 $600 Soda Fountain [Must Fill],600.0,NBA,2026-04-07 23:00:00+00:00,163.0,4
+189482485,145266,0.0,False,False,True,False,True,NBA Satellite to NHL $15 Playoff Puck Drop (4-20),15.0,NBA,2026-04-07 23:00:00+00:00,0.1,178
+189482486,145266,0.0,False,False,True,False,True,NBA Satellite to NHL $15 Playoff Puck Drop (4-20),15.0,NBA,2026-04-07 23:00:00+00:00,0.25,71
+189482487,145266,0.0,False,False,False,False,True,NBA Satellite to NHL $15 Playoff Puck Drop (4-20) [Must Fill],15.0,NBA,2026-04-07 23:00:00+00:00,5.55,3
+189482488,145266,0.0,False,False,True,False,True,NBA Satellite to 4-9 $10 Golf Millionaire,10.0,NBA,2026-04-07 23:00:00+00:00,0.25,47
+189482490,145266,0.0,False,False,False,False,True,NBA Satellite to UFC 327 $555 Knockout Special (4-11) [Must Fill],555.0,NBA,2026-04-07 23:00:00+00:00,201.0,3
+189482491,145266,0.0,False,False,True,False,True,NBA Satellite to UFC 327 $25 Special (4-11),25.0,NBA,2026-04-07 23:00:00+00:00,0.1,297
+189482492,145266,0.0,False,False,True,False,True,NBA Satellite to UFC 327 $25 Special (4-11),25.0,NBA,2026-04-07 23:00:00+00:00,0.25,118
+189482493,145266,0.0,False,False,True,False,True,NBA Satellite to UFC 327 $25 Special (4-11),25.0,NBA,2026-04-07 23:00:00+00:00,0.5,59
+189482494,145266,0.0,False,False,True,False,True,NBA Satellite to UFC 327 $25 Special (4-11),25.0,NBA,2026-04-07 23:00:00+00:00,1.0,29
+189482495,145266,0.0,False,False,True,False,True,NBA SUPERSatellite to UFC 327 $25 Special (4-11) [2x],50.0,NBA,2026-04-07 23:00:00+00:00,3.0,19
+189482496,145266,0.0,False,False,True,False,True,NBA Satellite to MLB 4-13 MEGA Walk-Off Home Run,555.0,NBA,2026-04-07 23:00:00+00:00,90.0,7
+189482497,145266,0.0,False,False,True,False,True,NBA Satellite to MLB 4-13 MEGA Walk-Off Home Run,555.0,NBA,2026-04-07 23:00:00+00:00,9.0,72
+189482498,145266,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $25 Millionaire,25.0,NBA,2026-04-07 23:00:00+00:00,0.1,297
+189482499,145266,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $25 Millionaire,25.0,NBA,2026-04-07 23:00:00+00:00,0.1,297
+189482500,145266,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $25 Millionaire,25.0,NBA,2026-04-07 23:00:00+00:00,0.25,118
+189482501,145266,0.0,False,False,True,False,True,NBA Satellite to NFL Best Ball $25 Millionaire,25.0,NBA,2026-04-07 23:00:00+00:00,0.25,118
+189482502,145266,0.0,False,False,True,False,True,NBA SUPERSatellite to NFL Best Ball $25 Millionaire [2x],50.0,NBA,2026-04-07 23:00:00+00:00,1.0,59
+189482503,145266,0.0,False,False,True,False,True,NBA SUPERSatellite to NFL Best Ball $25 Millionaire [2x],50.0,NBA,2026-04-07 23:00:00+00:00,1.0,59
+189482504,145266,0.0,False,False,True,False,True,NBA SUPERSatellite to NFL Best Ball $25 Millionaire [5x],125.0,NBA,2026-04-07 23:00:00+00:00,3.0,49
+189482505,145266,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189482506,145266,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189482507,145266,0.0,False,False,False,False,True,NBA Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-04-07 23:00:00+00:00,9.0,3
+189482508,145266,0.0,False,False,True,False,True,NBA Satellite to 4-9 $10 Golf Millionaire,10.0,NBA,2026-04-07 23:00:00+00:00,0.25,47
+189482509,145266,0.0,False,False,True,False,True,NBA Satellite to 4-9 $10 Golf Millionaire,10.0,NBA,2026-04-07 23:00:00+00:00,0.1,118
+189482510,145266,0.0,False,False,True,False,True,NBA Satellite to 4-9 $100 Golf Millionaire,100.0,NBA,2026-04-07 23:00:00+00:00,1.0,118
+189482511,145266,0.0,False,False,True,False,True,NBA Satellite to 4-9 $100 Golf Millionaire,100.0,NBA,2026-04-07 23:00:00+00:00,3.0,39
+189482736,145266,0.0,False,False,False,False,False,NBA $1 20-Player (Winner Takes All),18.0,NBA,2026-04-07 23:00:00+00:00,1.0,20
+189482738,145266,0.0,False,False,False,False,False,NBA $2 20-Player (Winner Takes All),36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189482741,145266,0.0,False,False,False,False,False,NBA $3 20-Player (Winner Takes All),54.0,NBA,2026-04-07 23:00:00+00:00,3.0,20
+189484116,145266,0.0,False,False,True,False,True,NBA Satellite to 4-9 $5M Golf Main Event,3333.0,NBA,2026-04-07 23:00:00+00:00,370.0,10
+189484157,145268,0.0,False,False,False,False,False,Casual NBA Tiers $2 5-Player,9.0,NBA,2026-04-07 23:00:00+00:00,2.0,5
+189488979,145266,0.0,False,False,True,False,True,NBA $11.35K Courtside Special [Single Entry],11350.0,NBA,2026-04-07 23:00:00+00:00,1500.0,8
+189488981,145266,0.0,False,False,True,False,True,NBA $50K Alley Oop [$10K to 1st],50000.0,NBA,2026-04-07 23:00:00+00:00,555.0,100
+189488990,145266,0.0,False,False,True,False,True,NBA $100K Fadeaway [$20K to 1st],100000.0,NBA,2026-04-07 23:00:00+00:00,18.0,6535
+189488994,145266,0.0,False,False,True,False,True,NBA $13.5K Posterizer [3 Entry Max],13500.0,NBA,2026-04-07 23:00:00+00:00,150.0,100
+189489016,145266,0.0,False,False,True,False,True,NBA $3.25K Finger Wag [$1K to 1st],3250.0,NBA,2026-04-07 23:00:00+00:00,55.0,67
+189489020,145266,0.0,False,False,True,False,True,NBA $10K Four Point Play [20 Entry Max],10000.0,NBA,2026-04-07 23:00:00+00:00,4.0,2972
+189489074,145266,0.0,False,False,True,False,True,NBA $10K And-One,10000.0,NBA,2026-04-07 23:00:00+00:00,1.0,11890
+189489100,145266,0.0,False,False,True,False,True,NBA $100K Basketball Pocket Cup Qualifier #193,600.0,NBA,2026-04-07 23:00:00+00:00,1.0,713
+189489105,145266,0.0,False,False,True,False,True,NBA $100K Basketball Pocket Cup mini-MAX Qualifier #194 [150 Entry Max],675.0,NBA,2026-04-07 23:00:00+00:00,0.1,8026
+189489109,145266,0.0,False,False,True,False,True,NBA $40K Zone [$10K to 1st],40000.0,NBA,2026-04-07 23:00:00+00:00,5.0,9512
+189489125,145268,0.0,False,False,True,False,True,NBA Tiers $6K Zone [$2K to 1st],6000.0,NBA,2026-04-07 23:00:00+00:00,5.0,1426
+189489782,145277,0.0,False,False,False,False,False,NBA Showdown $2 20-Player (HOU @ PHX),36.0,NBA,2026-04-08 03:00:00+00:00,2.0,20
+189489800,145266,0.0,False,False,True,False,False,NBA FREE 25-Player,0.0,NBA,2026-04-07 23:00:00+00:00,0.0,25
+189490059,145266,0.0,False,False,True,False,False,NBA FREE 50-Player,0.0,NBA,2026-04-07 23:00:00+00:00,0.0,50
+189490559,145268,0.0,True,False,False,False,False,NBA Tiers $2 50-50,36.0,NBA,2026-04-07 23:00:00+00:00,2.0,20
+189490687,145266,0.0,False,False,True,False,False,NBA FREE 15-Player,0.0,NBA,2026-04-07 23:00:00+00:00,0.0,15
+189490689,145266,0.0,False,False,True,False,False,NBA FREE 30-Player,0.0,NBA,2026-04-07 23:00:00+00:00,0.0,30
+189492149,145271,0.0,False,False,False,False,False,Casual NBA $2 3-Player (Turbo),5.4,NBA,2026-04-07 23:30:00+00:00,2.0,3
+189492209,145271,0.0,True,False,False,False,False,NBA $2 50-50 (Turbo),36.0,NBA,2026-04-07 23:30:00+00:00,2.0,20
+189492461,145266,0.0,False,False,False,False,False,NBA $20 3-Player (Winner Takes All),54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189492559,145266,0.0,False,False,False,False,False,NBA $20 5-Player (Winner Takes All),90.0,NBA,2026-04-07 23:00:00+00:00,20.0,5
+189492604,145266,0.0,False,False,False,False,False,NBA $3 6-Player (Top 3 Win),16.2,NBA,2026-04-07 23:00:00+00:00,3.0,6
+189493001,145266,0.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189493003,145266,0.0,False,False,False,False,False,NBA $2 3-Player,5.4,NBA,2026-04-07 23:00:00+00:00,2.0,3
+189493006,145274,0.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2026-04-08 02:00:00+00:00,1.0,3
+189493115,145274,0.0,False,False,False,False,False,NBA $1 3-Player (Night),2.7,NBA,2026-04-08 02:00:00+00:00,1.0,3
+189493429,145268,0.0,True,False,False,False,False,NBA Tiers $20 50-50,360.0,NBA,2026-04-07 23:00:00+00:00,20.0,20
+189493514,145267,0.0,False,False,False,False,False,NBA Snake $20 3-Player,54.0,NBA,2026-04-07 23:00:00+00:00,20.0,3
+189493529,145266,0.0,False,False,False,False,False,NBA $1 7-Player (Top 3 Win),6.3,NBA,2026-04-07 23:00:00+00:00,1.0,7
+189493531,145266,0.0,False,False,False,False,False,NBA $2 7-Player (Top 3 Win),12.6,NBA,2026-04-07 23:00:00+00:00,2.0,7
+189493535,145266,0.0,False,False,False,False,False,NBA $1 12-Player (Top 5 Win),10.8,NBA,2026-04-07 23:00:00+00:00,1.0,12
+189493572,145267,0.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189493597,145268,0.0,True,False,False,False,False,Casual NBA Tiers $20 50-50,72.0,NBA,2026-04-07 23:00:00+00:00,20.0,4
+189493651,145266,0.0,False,False,False,False,False,NBA $3 5-Player (Top 2 Win),13.5,NBA,2026-04-07 23:00:00+00:00,3.0,5
+189493709,145266,0.0,False,False,True,False,False,NBA FREE 7-Player x4,0.0,NBA,2026-04-07 23:00:00+00:00,0.0,7
+189493934,145271,0.0,True,False,False,False,False,NBA $5 50-50 (Turbo),90.0,NBA,2026-04-07 23:30:00+00:00,5.0,20
+189494001,145267,0.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189494166,145266,0.0,False,False,False,False,False,NBA $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189494221,145277,0.0,False,False,False,False,False,NBA Showdown $2 20-Player (HOU @ PHX),36.0,NBA,2026-04-08 03:00:00+00:00,2.0,20
+189494564,145278,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (HOU @ PHX),2.7,NBA,2026-04-08 03:00:00+00:00,1.0,3
+189494598,145272,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (CHA @ BOS),90.0,NBA,2026-04-08 00:00:00+00:00,5.0,20
+189494650,145266,0.0,False,False,False,False,False,NBA $3 18-Player (Winner Takes All),48.6,NBA,2026-04-07 23:00:00+00:00,3.0,18
+189494670,145270,0.0,False,False,True,False,False,NBA Showdown FREE 30-Player (MIN @ IND),0.0,NBA,2026-04-07 23:00:00+00:00,0.0,30
+189494691,145272,0.0,False,False,True,False,False,NBA Showdown FREE 18-Player (CHA @ BOS),0.0,NBA,2026-04-08 00:00:00+00:00,0.0,18
+189494692,145277,0.0,False,False,True,False,False,NBA Showdown FREE 75-Player (HOU @ PHX),0.0,NBA,2026-04-08 03:00:00+00:00,0.0,75
+189494750,145266,0.0,True,False,False,False,False,NBA $1 Double Up,10.0,NBA,2026-04-07 23:00:00+00:00,1.0,11
+189494821,145266,0.0,False,False,True,False,True,NBA $25 Winner Take All [$110 to 1st],110.0,NBA,2026-04-07 23:00:00+00:00,25.0,5
+189494901,145267,0.0,False,False,False,False,False,NBA Snake $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189494902,145268,0.0,False,False,False,False,False,NBA Tiers $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189494905,145273,0.0,False,False,False,False,False,NBA $2 3-Player (Turbo),5.4,NBA,2026-04-08 00:00:00+00:00,2.0,3
+189494908,145267,0.0,False,False,False,False,False,NBA Snake $5 3-Player,13.5,NBA,2026-04-07 23:00:00+00:00,5.0,3
+189494938,145268,0.0,False,False,False,False,False,NBA Tiers $1 3-Player,2.7,NBA,2026-04-07 23:00:00+00:00,1.0,3
+189494962,145266,0.0,False,False,False,False,True,NBA Satellite to 4-9 $100 Golf Millionaire [Must Fill],100.0,NBA,2026-04-07 23:00:00+00:00,37.0,3
