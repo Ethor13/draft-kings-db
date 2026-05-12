@@ -1,0 +1,701 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+190400205,147405,0.0,False,False,True,False,True,WNBA $1K High Five [Single Entry],1000.0,NBA,2026-05-13 00:00:00+00:00,5.0,237
+190400206,147405,0.0,False,False,True,False,True,WNBA $400 Quarter Jukebox [Just $0.25!],400.0,NBA,2026-05-13 00:00:00+00:00,0.25,1902
+190400207,147405,0.0,False,False,True,False,True,WNBA $500 Pick and Roll [Single Entry],500.0,NBA,2026-05-13 00:00:00+00:00,12.0,49
+190400208,147405,0.0,False,False,True,False,True,WNBA $1.5K And-One [20 Entry Max],1500.0,NBA,2026-05-13 00:00:00+00:00,1.0,1783
+190400209,147405,0.0,False,False,True,False,True,WNBA $500 Ankle Breaker [Single Entry],500.0,NBA,2026-05-13 00:00:00+00:00,50.0,11
+190400210,147405,0.0,False,False,True,False,True,WNBA $750 Triple Threat [Single Entry],750.0,NBA,2026-05-13 00:00:00+00:00,33.0,26
+190400211,147405,0.0,False,False,True,False,True,WNBA $250 Daily Dollar [Single Entry],250.0,NBA,2026-05-13 00:00:00+00:00,1.0,297
+190400212,147405,0.0,False,False,True,False,True,WNBA $10.9K Windmill [$3K to 1st],10900.0,NBA,2026-05-13 00:00:00+00:00,180.0,67
+190400213,147405,0.0,True,False,True,False,True,WNBA Single Entry $5 Double Up,500.0,NBA,2026-05-13 00:00:00+00:00,5.0,114
+190400214,147405,0.0,False,False,True,False,True,WNBA $3K mini-MAX [150 Entry Max],3000.0,NBA,2026-05-13 00:00:00+00:00,0.5,7134
+190400215,147405,0.0,False,False,True,False,True,"WNBA $720 Showtime [Single Entry, Top 2 Win]",720.0,NBA,2026-05-13 00:00:00+00:00,100.0,8
+190400216,147405,0.0,True,False,True,False,True,WNBA Single Entry $25 Double Up,750.0,NBA,2026-05-13 00:00:00+00:00,25.0,34
+190400217,147405,0.0,False,False,True,False,True,WNBA $1.5K Money Ball [Single Entry],1500.0,NBA,2026-05-13 00:00:00+00:00,333.0,5
+190400218,147405,0.0,False,False,True,False,True,WNBA $40K Fadeaway [$10K to 1st] ,40000.0,NBA,2026-05-13 00:00:00+00:00,15.0,3137
+190400219,147405,0.0,False,False,True,False,True,WNBA $500 Hot Shot [5 Entry Max],500.0,NBA,2026-05-13 00:00:00+00:00,3.0,198
+190400220,147405,0.0,False,False,True,False,True,WNBA $200 Dime Time [Just $0.10!],200.0,NBA,2026-05-13 00:00:00+00:00,0.1,2378
+190400221,147405,0.0,False,False,True,False,True,WNBA $8K Zone [$1K to 1st],8000.0,NBA,2026-05-13 00:00:00+00:00,5.0,1902
+190400242,147405,0.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2026-05-13 00:00:00+00:00,3.0,23
+190400243,147405,0.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2026-05-13 00:00:00+00:00,1.0,31
+190400244,147405,0.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2026-05-13 00:00:00+00:00,1.0,31
+190400245,147405,0.0,False,False,True,False,False,WNBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2026-05-13 00:00:00+00:00,5.0,31
+190400246,147405,0.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2026-05-13 00:00:00+00:00,25.0,11
+190400247,147405,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-05-13 00:00:00+00:00,10.0,11
+190400248,147405,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-05-13 00:00:00+00:00,10.0,11
+190400249,147405,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-05-13 00:00:00+00:00,10.0,11
+190400250,147405,0.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2026-05-13 00:00:00+00:00,5.0,34
+190400251,147405,0.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2026-05-13 00:00:00+00:00,5.0,23
+190400252,147405,0.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2026-05-13 00:00:00+00:00,3.0,34
+190400253,147405,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2026-05-13 00:00:00+00:00,1.0,34
+190400254,147405,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2026-05-13 00:00:00+00:00,1.0,34
+190400255,147405,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2026-05-13 00:00:00+00:00,1.0,34
+190400256,147405,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190400257,147405,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190400258,147405,0.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2026-05-13 00:00:00+00:00,3.0,23
+190400259,147405,0.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2026-05-13 00:00:00+00:00,5.0,23
+190400260,147405,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-05-13 00:00:00+00:00,10.0,11
+190400261,147405,0.0,False,False,True,False,False,WNBA $50 Winner Take All [$220 to 1st],220.0,NBA,2026-05-13 00:00:00+00:00,50.0,5
+190400264,147405,0.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190400265,147405,0.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190400266,147405,0.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190400267,147405,0.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190400268,147405,0.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190400269,147405,0.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2026-05-13 00:00:00+00:00,1.0,5
+190400270,147405,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190400271,147405,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190400272,147405,0.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2026-05-13 00:00:00+00:00,20.0,10
+190400273,147405,0.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190400274,147405,0.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190400275,147405,0.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2026-05-13 00:00:00+00:00,3.0,10
+190400276,147405,0.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190400277,147405,0.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190400278,147405,0.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190400279,147405,0.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190400280,147405,0.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190400281,147405,0.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2026-05-13 00:00:00+00:00,2.0,5
+190400282,147405,0.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2026-05-13 00:00:00+00:00,2.0,10
+190400283,147405,0.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190400284,147405,0.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2026-05-13 00:00:00+00:00,5.0,5
+190400285,147405,0.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190400286,147405,0.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2026-05-13 00:00:00+00:00,10.0,5
+190400287,147405,0.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190400288,147405,0.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190400289,147405,0.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2026-05-13 00:00:00+00:00,50.0,5
+190400290,147405,0.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190400291,147405,0.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2026-05-13 00:00:00+00:00,109.0,3
+190400292,147405,0.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2026-05-13 00:00:00+00:00,162.0,3
+190400293,147405,0.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2026-05-13 00:00:00+00:00,530.0,3
+190400294,147405,0.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2026-05-13 00:00:00+00:00,1060.0,3
+190400295,147405,0.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,3
+190400296,147405,0.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2026-05-13 00:00:00+00:00,10600.0,3
+190400297,147405,0.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2026-05-13 00:00:00+00:00,20.0,4
+190400298,147405,0.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190400299,147405,0.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190400300,147405,0.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2026-05-13 00:00:00+00:00,3.0,10
+190400301,147405,0.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190400302,147405,0.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,4
+190400303,147405,0.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2026-05-13 00:00:00+00:00,1060.0,4
+190400304,147405,0.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2026-05-13 00:00:00+00:00,530.0,4
+190400305,147405,0.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2026-05-13 00:00:00+00:00,109.0,4
+190400306,147405,0.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2026-05-13 00:00:00+00:00,50.0,4
+190400307,147405,0.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2026-05-13 00:00:00+00:00,20.0,4
+190400308,147405,0.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2026-05-13 00:00:00+00:00,10.0,4
+190400309,147405,0.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2026-05-13 00:00:00+00:00,50.0,10
+190400310,147405,0.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190400311,147405,0.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190400312,147405,0.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2026-05-13 00:00:00+00:00,109.0,6
+190400313,147405,0.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2026-05-13 00:00:00+00:00,2.0,10
+190400314,147405,0.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2026-05-13 00:00:00+00:00,20.0,10
+190400315,147405,0.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190400316,147405,0.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2026-05-13 00:00:00+00:00,5.0,20
+190400317,147405,0.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2026-05-13 00:00:00+00:00,10.0,20
+190400318,147405,0.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2026-05-13 00:00:00+00:00,20.0,20
+190400319,147405,0.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2026-05-13 00:00:00+00:00,2.0,20
+190400320,147405,0.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2026-05-13 00:00:00+00:00,1.0,20
+190400321,147405,0.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2026-05-13 00:00:00+00:00,1060.0,4
+190400322,147405,0.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2026-05-13 00:00:00+00:00,1060.0,4
+190400323,147405,0.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2026-05-13 00:00:00+00:00,267.0,4
+190400324,147405,0.0,False,False,False,False,True,WNBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2026-05-13 00:00:00+00:00,100.0,5
+190400325,147405,0.0,False,False,False,False,True,WNBA $5.7K Courtside Special [Single Entry] (Must Fill),5700.0,NBA,2026-05-13 00:00:00+00:00,1500.0,4
+190400340,147407,0.0,False,False,True,False,True,WNBA Single Stat $1 Winner Take All [$100 to 1st] (Points),100.0,NBA,2026-05-13 00:00:00+00:00,1.0,118
+190400376,147406,0.0,False,False,False,False,False,WNBA Snake $1 6-Player,5.4,NBA,2026-05-13 00:00:00+00:00,1.0,6
+190400377,147406,0.0,False,False,False,False,False,WNBA Snake $1 6-Player,5.4,NBA,2026-05-13 00:00:00+00:00,1.0,6
+190400378,147406,0.0,False,False,False,False,False,WNBA Snake $5 6-Player,27.0,NBA,2026-05-13 00:00:00+00:00,5.0,6
+190400379,147406,0.0,False,False,False,False,False,WNBA Snake $10 6-Player,54.0,NBA,2026-05-13 00:00:00+00:00,10.0,6
+190400380,147406,0.0,False,False,False,False,False,WNBA Snake $10 6-Player,54.0,NBA,2026-05-13 00:00:00+00:00,10.0,6
+190400381,147406,0.0,False,False,False,False,False,WNBA Snake $20 6-Player,108.0,NBA,2026-05-13 00:00:00+00:00,20.0,6
+190400382,147406,0.0,False,False,False,False,False,WNBA Snake $50 6-Player,270.0,NBA,2026-05-13 00:00:00+00:00,50.0,6
+190400383,147406,0.0,False,False,False,False,False,WNBA Snake $109 6-Player,600.0,NBA,2026-05-13 00:00:00+00:00,109.0,6
+190400384,147406,0.0,False,False,False,False,False,WNBA Snake $530 6-Player,3000.0,NBA,2026-05-13 00:00:00+00:00,530.0,6
+190400390,147406,0.0,False,False,False,False,False,WNBA Snake $10 3-Player,27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190400391,147406,0.0,False,False,False,False,False,WNBA Snake $10 3-Player,27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190400392,147406,0.0,False,False,False,False,False,WNBA Snake $20 3-Player,54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190400393,147406,0.0,False,False,False,False,False,WNBA Snake $50 3-Player,135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190400394,147406,0.0,False,False,False,False,False,WNBA Snake $50 3-Player,135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190400395,147406,0.0,False,False,False,False,False,WNBA Snake $109 3-Player,300.0,NBA,2026-05-13 00:00:00+00:00,109.0,3
+190400396,147406,0.0,False,False,False,False,False,WNBA Snake $530 3-Player,1500.0,NBA,2026-05-13 00:00:00+00:00,530.0,3
+190400397,147406,0.0,False,False,False,False,False,"WNBA Snake $2,120 3-Player",6000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,3
+190400398,147406,0.0,False,False,False,False,False,"WNBA Snake $1,060 3-Player",3000.0,NBA,2026-05-13 00:00:00+00:00,1060.0,3
+190400399,147406,0.0,False,False,False,False,False,"WNBA Snake $5,300 3-Player",15000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,3
+190400400,147406,0.0,False,False,False,False,False,"WNBA Snake $10,600 3-Player",30000.0,NBA,2026-05-13 00:00:00+00:00,10600.0,3
+190400402,147408,0.0,False,False,False,False,False,Beginner WNBA $2 3-Player (Late),5.4,NBA,2026-05-13 02:00:00+00:00,2.0,3
+190400403,147408,0.0,False,False,False,False,False,Beginner WNBA $10 3-Player (Late),27.0,NBA,2026-05-13 02:00:00+00:00,10.0,3
+190400404,147408,0.0,False,False,False,False,False,Beginner WNBA $5 3-Player (Late),13.5,NBA,2026-05-13 02:00:00+00:00,5.0,3
+190400405,147408,0.0,False,False,False,False,False,Beginner WNBA $1 3-Player (Late),2.7,NBA,2026-05-13 02:00:00+00:00,1.0,3
+190400406,147408,0.0,False,False,False,False,False,WNBA $1 10-Player (Late),9.0,NBA,2026-05-13 02:00:00+00:00,1.0,10
+190400407,147408,0.0,False,False,False,False,False,WNBA $1 5-Player (Late),4.5,NBA,2026-05-13 02:00:00+00:00,1.0,5
+190400408,147408,0.0,False,False,False,False,False,WNBA $1 3-Player (Late),2.7,NBA,2026-05-13 02:00:00+00:00,1.0,3
+190400409,147408,0.0,False,False,False,False,False,WNBA $1 3-Player (Late),2.7,NBA,2026-05-13 02:00:00+00:00,1.0,3
+190400410,147408,0.0,True,False,False,False,False,Casual WNBA $20 50-50 (Late),180.0,NBA,2026-05-13 02:00:00+00:00,20.0,10
+190400411,147408,0.0,True,False,False,False,False,Casual WNBA $10 50-50 (Late),90.0,NBA,2026-05-13 02:00:00+00:00,10.0,10
+190400412,147408,0.0,True,False,False,False,False,Casual WNBA $5 50-50 (Late),45.0,NBA,2026-05-13 02:00:00+00:00,5.0,10
+190400413,147408,0.0,True,False,False,False,False,Casual WNBA $3 50-50 (Late),27.0,NBA,2026-05-13 02:00:00+00:00,3.0,10
+190400414,147408,0.0,True,False,False,False,False,Casual WNBA $1 50-50 (Late),9.0,NBA,2026-05-13 02:00:00+00:00,1.0,10
+190400415,147408,0.0,False,False,False,False,False,Casual WNBA $5 3-Player (Late),13.5,NBA,2026-05-13 02:00:00+00:00,5.0,3
+190400416,147408,0.0,False,False,False,False,False,Casual WNBA $2 3-Player (Late),5.4,NBA,2026-05-13 02:00:00+00:00,2.0,3
+190400417,147408,0.0,False,False,False,False,False,WNBA $2 3-Player (Late),5.4,NBA,2026-05-13 02:00:00+00:00,2.0,3
+190400418,147408,0.0,False,False,False,False,False,WNBA $2 3-Player (Late),5.4,NBA,2026-05-13 02:00:00+00:00,2.0,3
+190400419,147408,0.0,False,False,False,False,False,WNBA $2 5-Player (Late),9.0,NBA,2026-05-13 02:00:00+00:00,2.0,5
+190400420,147408,0.0,False,False,False,False,False,WNBA $2 10-Player (Late),18.0,NBA,2026-05-13 02:00:00+00:00,2.0,10
+190400421,147408,0.0,False,False,False,False,False,WNBA $5 3-Player (Late),13.5,NBA,2026-05-13 02:00:00+00:00,5.0,3
+190400422,147408,0.0,False,False,False,False,False,WNBA $5 5-Player (Late),22.5,NBA,2026-05-13 02:00:00+00:00,5.0,5
+190400423,147408,0.0,False,False,False,False,False,WNBA $5 10-Player (Late),45.0,NBA,2026-05-13 02:00:00+00:00,5.0,10
+190400424,147408,0.0,False,False,False,False,False,WNBA $10 5-Player (Late),45.0,NBA,2026-05-13 02:00:00+00:00,10.0,5
+190400425,147408,0.0,False,False,False,False,False,WNBA $10 3-Player (Late),27.0,NBA,2026-05-13 02:00:00+00:00,10.0,3
+190400426,147408,0.0,False,False,False,False,False,WNBA $20 3-Player (Late),54.0,NBA,2026-05-13 02:00:00+00:00,20.0,3
+190400427,147408,0.0,False,False,False,False,False,WNBA $50 5-Player (Late),225.0,NBA,2026-05-13 02:00:00+00:00,50.0,5
+190400428,147408,0.0,False,False,False,False,False,WNBA $50 3-Player (Late),135.0,NBA,2026-05-13 02:00:00+00:00,50.0,3
+190400429,147408,0.0,False,False,False,False,False,WNBA $109 3-Player (Late),300.0,NBA,2026-05-13 02:00:00+00:00,109.0,3
+190400430,147408,0.0,False,False,False,False,False,WNBA $162 3-Player (Late),450.0,NBA,2026-05-13 02:00:00+00:00,162.0,3
+190400431,147408,0.0,False,False,False,False,False,WNBA $530 3-Player (Late),1500.0,NBA,2026-05-13 02:00:00+00:00,530.0,3
+190400432,147408,0.0,False,False,False,False,False,"WNBA $1,060 3-Player (Late)",3000.0,NBA,2026-05-13 02:00:00+00:00,1060.0,3
+190400433,147408,0.0,False,False,False,False,False,"WNBA $5,300 3-Player (Late)",15000.0,NBA,2026-05-13 02:00:00+00:00,5300.0,3
+190400434,147408,0.0,False,False,False,False,False,"WNBA $10,600 3-Player (Late)",30000.0,NBA,2026-05-13 02:00:00+00:00,10600.0,3
+190400435,147408,0.0,True,False,False,False,False,Beginner WNBA $20 50-50 (Late),72.0,NBA,2026-05-13 02:00:00+00:00,20.0,4
+190400436,147408,0.0,True,False,False,False,False,Beginner WNBA $10 50-50 (Late),90.0,NBA,2026-05-13 02:00:00+00:00,10.0,10
+190400437,147408,0.0,True,False,False,False,False,Beginner WNBA $1 50-50 (Late),9.0,NBA,2026-05-13 02:00:00+00:00,1.0,10
+190400438,147408,0.0,True,False,False,False,False,Beginner WNBA $3 50-50 (Late),27.0,NBA,2026-05-13 02:00:00+00:00,3.0,10
+190400439,147408,0.0,True,False,False,False,False,Beginner WNBA $5 50-50 (Late),45.0,NBA,2026-05-13 02:00:00+00:00,5.0,10
+190400440,147408,0.0,True,False,False,False,False,"WNBA $5,300 50-50 (Late)",20000.0,NBA,2026-05-13 02:00:00+00:00,5300.0,4
+190400441,147408,0.0,True,False,False,False,False,"WNBA $1,060 50-50 (Late)",4000.0,NBA,2026-05-13 02:00:00+00:00,1060.0,4
+190400442,147408,0.0,True,False,False,False,False,WNBA $530 50-50 (Late),2000.0,NBA,2026-05-13 02:00:00+00:00,530.0,4
+190400443,147408,0.0,True,False,False,False,False,WNBA $109 50-50 (Late),400.0,NBA,2026-05-13 02:00:00+00:00,109.0,4
+190400444,147408,0.0,True,False,False,False,False,WNBA $50 50-50 (Late),180.0,NBA,2026-05-13 02:00:00+00:00,50.0,4
+190400445,147408,0.0,True,False,False,False,False,WNBA $20 50-50 (Late),72.0,NBA,2026-05-13 02:00:00+00:00,20.0,4
+190400446,147408,0.0,True,False,False,False,False,WNBA $10 50-50 (Late),36.0,NBA,2026-05-13 02:00:00+00:00,10.0,4
+190400447,147408,0.0,True,False,False,False,False,WNBA $50 50-50 (Late),450.0,NBA,2026-05-13 02:00:00+00:00,50.0,10
+190400448,147408,0.0,True,False,False,False,False,WNBA $1 50-50 (Late),9.0,NBA,2026-05-13 02:00:00+00:00,1.0,10
+190400449,147408,0.0,True,False,False,False,False,WNBA $5 50-50 (Late),45.0,NBA,2026-05-13 02:00:00+00:00,5.0,10
+190400450,147408,0.0,True,False,False,False,False,WNBA $109 50-50 (Late),600.0,NBA,2026-05-13 02:00:00+00:00,109.0,6
+190400451,147408,0.0,True,False,False,False,False,WNBA $2 50-50 (Late),18.0,NBA,2026-05-13 02:00:00+00:00,2.0,10
+190400452,147408,0.0,True,False,False,False,False,WNBA $20 50-50 (Late),180.0,NBA,2026-05-13 02:00:00+00:00,20.0,10
+190400453,147408,0.0,True,False,False,False,False,WNBA $10 50-50 (Late),90.0,NBA,2026-05-13 02:00:00+00:00,10.0,10
+190400454,147408,0.0,True,False,False,False,False,WNBA $5 50-50 (Late),90.0,NBA,2026-05-13 02:00:00+00:00,5.0,20
+190400455,147408,0.0,True,False,False,False,False,WNBA $10 50-50 (Late),180.0,NBA,2026-05-13 02:00:00+00:00,10.0,20
+190400456,147408,0.0,True,False,False,False,False,WNBA $20 50-50 (Late),360.0,NBA,2026-05-13 02:00:00+00:00,20.0,20
+190400457,147408,0.0,True,False,False,False,False,WNBA $2 50-50 (Late),36.0,NBA,2026-05-13 02:00:00+00:00,2.0,20
+190400458,147408,0.0,True,False,False,False,False,WNBA $1 50-50 (Late),18.0,NBA,2026-05-13 02:00:00+00:00,1.0,20
+190400459,147408,0.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill) (Late),4000.0,NBA,2026-05-13 02:00:00+00:00,1060.0,4
+190400460,147408,0.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill) (Late),4000.0,NBA,2026-05-13 02:00:00+00:00,1060.0,4
+190400461,147408,0.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill) (Late),1000.0,NBA,2026-05-13 02:00:00+00:00,267.0,4
+190400462,147408,0.0,False,False,False,False,True,WNBA $100 Winner Take All [$460 to 1st] (Must Fill) (Late),460.0,NBA,2026-05-13 02:00:00+00:00,100.0,5
+190400463,147408,0.0,False,False,False,False,True,WNBA $5.7K Courtside Special [Single Entry] (Must Fill) (Late),5700.0,NBA,2026-05-13 02:00:00+00:00,1500.0,4
+190400464,147408,0.0,True,False,True,False,False,WNBA $1 Double Up (Late),20.0,NBA,2026-05-13 02:00:00+00:00,1.0,23
+190400465,147408,0.0,True,False,True,False,False,WNBA $3 Double Up (Late),60.0,NBA,2026-05-13 02:00:00+00:00,3.0,23
+190400466,147408,0.0,True,False,True,False,False,WNBA $5 Double Up (Late),100.0,NBA,2026-05-13 02:00:00+00:00,5.0,23
+190400467,147408,0.0,True,False,True,False,False,WNBA $10 Double Up (Late),100.0,NBA,2026-05-13 02:00:00+00:00,10.0,11
+190400468,147408,0.0,True,False,True,False,False,WNBA $25 Double Up (Late),250.0,NBA,2026-05-13 02:00:00+00:00,25.0,11
+190400469,147408,0.0,False,False,True,False,True,WNBA $25 Winner Take All [$110 to 1st] (Late),110.0,NBA,2026-05-13 02:00:00+00:00,25.0,5
+190403635,147462,0.0,False,False,True,False,True,NBA Showdown $10K Mid Range Jumper [Single Entry] (MIN @ SAS),10000.0,NBA,2026-05-13 00:00:00+00:00,40.0,291
+190403636,147462,0.0,False,False,True,False,True,NBA Showdown $2K Quarter Jukebox [Just $0.25!] (MIN @ SAS),2000.0,NBA,2026-05-13 00:00:00+00:00,0.25,9512
+190403637,147462,0.0,False,False,True,False,True,NBA Showdown $5K Showtime [Single Entry] (MIN @ SAS),5000.0,NBA,2026-05-13 00:00:00+00:00,100.0,55
+190403638,147462,0.0,False,False,True,False,True,NBA Showdown $3K Hot Shot [3 Entry Max] (MIN @ SAS),3000.0,NBA,2026-05-13 00:00:00+00:00,3.0,1189
+190403639,147462,0.0,False,False,True,False,True,NBA Showdown $20K mini-MAX [150 Max Entry] (MIN @ SAS),20000.0,NBA,2026-05-13 00:00:00+00:00,0.5,47562
+190403640,147462,0.0,False,False,True,False,True,NBA Showdown $20K Showtime [Single Entry] (MIN @ SAS),20000.0,NBA,2026-05-13 00:00:00+00:00,100.0,222
+190403641,147462,0.0,False,False,True,False,True,NBA Showdown $1.5K Fast Break [Single Entry] (MIN @ SAS),1500.0,NBA,2026-05-13 00:00:00+00:00,27.0,64
+190403642,147462,0.0,False,False,True,False,True,NBA Showdown $6K Pick and Roll [Single Entry] (MIN @ SAS),6000.0,NBA,2026-05-13 00:00:00+00:00,12.0,588
+190403643,147462,0.0,False,False,True,False,True,NBA Showdown $6K High Five [Single Entry] (MIN @ SAS),6000.0,NBA,2026-05-13 00:00:00+00:00,5.0,1426
+190403644,147462,0.0,False,False,True,False,True,NBA Showdown $1K Elbow Shot [Single Entry]  (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,2.0,594
+190403645,147462,0.0,False,False,True,False,True,NBA Showdown $1K Daily Dollar [Single Entry] (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,1.0,1189
+190403646,147462,0.0,True,False,True,False,True,NBA Showdown Single Entry $25 Double Up (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,25.0,45
+190403647,147462,0.0,True,False,True,False,True,NBA Showdown $25 Double Up (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,25.0,45
+190403648,147462,0.0,True,False,True,False,True,NBA Showdown Single Entry $10 Double Up (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,10.0,114
+190403649,147462,0.0,True,False,True,False,True,NBA Showdown Single Entry $5 Double Up (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,5.0,229
+190403650,147462,0.0,True,False,True,False,True,NBA Showdown $2 Double Up (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,2.0,574
+190403651,147464,0.0,False,False,True,False,True,NBA In-Game $6K Pull Up Jumper [$2K to 1st] (2H MIN @ SAS),6000.0,NBA,2026-05-13 01:00:00+00:00,10.0,705
+190403652,147464,0.0,False,False,True,False,True,"NBA In-Game $720 Showtime [Single Entry, Top 2 Win] (2H MIN @ SAS)",720.0,NBA,2026-05-13 01:00:00+00:00,100.0,8
+190403653,147464,0.0,False,False,True,False,True,NBA In-Game $150 High Five [Single Entry] (2H MIN @ SAS),150.0,NBA,2026-05-13 01:00:00+00:00,5.0,35
+190403654,147464,0.0,False,False,True,False,True,NBA In-Game $1.35K 3-Ball [Single Entry] (2H MIN @ SAS),1350.0,NBA,2026-05-13 01:00:00+00:00,300.0,5
+190403655,147464,0.0,False,False,True,False,True,NBA In-Game $20 Quarter Jukebox [Just $0.25!] (2H MIN @ SAS),20.0,NBA,2026-05-13 01:00:00+00:00,0.25,95
+190403656,147464,0.0,False,False,True,False,True,NBA In-Game $265 Ankle Breaker [Single Entry] (2H MIN @ SAS),265.0,NBA,2026-05-13 01:00:00+00:00,50.0,6
+190403657,147464,0.0,False,False,True,False,True,NBA In-Game $150 And-One (2H MIN @ SAS),150.0,NBA,2026-05-13 01:00:00+00:00,1.0,178
+190403779,147462,0.0,True,False,False,False,False,NBA Showdown $50 50-50 (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,50.0,4
+190403780,147462,0.0,True,False,False,False,False,NBA Showdown $50 50-50 (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,50.0,4
+190403781,147462,0.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIN @ SAS),400.0,NBA,2026-05-13 00:00:00+00:00,109.0,4
+190403782,147462,0.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIN @ SAS),400.0,NBA,2026-05-13 00:00:00+00:00,109.0,4
+190403783,147462,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ SAS),2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190403784,147462,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ SAS),2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190403785,147462,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ SAS),2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190403786,147462,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ SAS),5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190403787,147462,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ SAS),5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190403788,147462,0.0,False,False,False,False,False,NBA Showdown $2 3-Player (MIN @ SAS),5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190403789,147462,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190403790,147462,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190403791,147462,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190403792,147462,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190403793,147462,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190403794,147462,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190403795,147462,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190403796,147462,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190403797,147462,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190403798,147462,0.0,False,False,False,False,False,NBA Showdown $530 3-Player (MIN @ SAS),1500.0,NBA,2026-05-13 00:00:00+00:00,530.0,3
+190403799,147462,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ SAS),300.0,NBA,2026-05-13 00:00:00+00:00,109.0,3
+190403800,147462,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ SAS),300.0,NBA,2026-05-13 00:00:00+00:00,109.0,3
+190403801,147462,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ SAS),300.0,NBA,2026-05-13 00:00:00+00:00,109.0,3
+190403802,147462,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (MIN @ SAS),4.5,NBA,2026-05-13 00:00:00+00:00,1.0,5
+190403803,147462,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (MIN @ SAS),4.5,NBA,2026-05-13 00:00:00+00:00,1.0,5
+190403804,147462,0.0,False,False,False,False,False,NBA Showdown $1 5-Player (MIN @ SAS),4.5,NBA,2026-05-13 00:00:00+00:00,1.0,5
+190403805,147462,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,2.0,5
+190403806,147462,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,2.0,5
+190403807,147462,0.0,False,False,False,False,False,NBA Showdown $2 5-Player (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,2.0,5
+190403808,147462,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN @ SAS),22.5,NBA,2026-05-13 00:00:00+00:00,5.0,5
+190403809,147462,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN @ SAS),22.5,NBA,2026-05-13 00:00:00+00:00,5.0,5
+190403810,147462,0.0,False,False,False,False,False,NBA Showdown $5 5-Player (MIN @ SAS),22.5,NBA,2026-05-13 00:00:00+00:00,5.0,5
+190403811,147462,0.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,10.0,5
+190403812,147462,0.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,10.0,5
+190403813,147462,0.0,False,False,False,False,False,NBA Showdown $10 5-Player (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,10.0,5
+190403814,147462,0.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,20.0,5
+190403815,147462,0.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,20.0,5
+190403816,147462,0.0,False,False,False,False,False,NBA Showdown $20 5-Player (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,20.0,5
+190403817,147462,0.0,False,False,False,False,False,NBA Showdown $109 5-Player (MIN @ SAS),500.0,NBA,2026-05-13 00:00:00+00:00,109.0,5
+190403818,147462,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190403819,147462,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190403820,147462,0.0,False,False,False,False,False,NBA Showdown $1 10-Player (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190403821,147462,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,2.0,10
+190403822,147462,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,2.0,10
+190403823,147462,0.0,False,False,False,False,False,NBA Showdown $2 10-Player (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,2.0,10
+190403824,147462,0.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190403825,147462,0.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190403826,147462,0.0,False,False,False,False,False,NBA Showdown $5 10-Player (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190403827,147462,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190403828,147462,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190403829,147462,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190403830,147462,0.0,False,False,False,False,False,NBA Showdown $10 10-Player (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190403831,147462,0.0,False,False,False,False,False,NBA Showdown $10 10-Player (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190403832,147462,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190403833,147462,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190403834,147462,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190403835,147462,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,20.0,10
+190403836,147462,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,20.0,10
+190403837,147462,0.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIN @ SAS),135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190403838,147462,0.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIN @ SAS),135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190403839,147462,0.0,False,False,False,False,False,NBA Showdown $50 5-Player (MIN @ SAS),225.0,NBA,2026-05-13 00:00:00+00:00,50.0,5
+190403840,147462,0.0,False,False,False,False,False,NBA Showdown $50 5-Player (MIN @ SAS),225.0,NBA,2026-05-13 00:00:00+00:00,50.0,5
+190403841,147462,0.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (MIN @ SAS)",20000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,4
+190403842,147462,0.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (MIN @ SAS)",20000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,4
+190403843,147462,0.0,False,False,False,False,False,"NBA Showdown $5,300 4-Player (Winner Takes All) (MIN @ SAS)",20000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,4
+190403844,147462,0.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MIN @ SAS)",3000.0,NBA,2026-05-13 00:00:00+00:00,1060.0,3
+190403845,147462,0.0,True,False,False,False,False,NBA Showdown $530 50-50 (MIN @ SAS),2000.0,NBA,2026-05-13 00:00:00+00:00,530.0,4
+190403846,147462,0.0,True,False,False,False,False,"NBA Showdown $1,060 50-50 (MIN @ SAS)",4000.0,NBA,2026-05-13 00:00:00+00:00,1060.0,4
+190403847,147462,0.0,False,False,False,False,False,NBA Showdown $20 10-Player (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,20.0,10
+190403848,147462,0.0,False,False,False,False,False,NBA Showdown $20 10-Player (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,20.0,10
+190403849,147462,0.0,False,False,False,False,False,NBA Showdown $1 20-Player (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,1.0,20
+190403850,147462,0.0,False,False,False,False,False,NBA Showdown $1 20-Player (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,1.0,20
+190403851,147462,0.0,False,False,False,False,False,NBA Showdown $1 20-Player (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,1.0,20
+190403852,147462,0.0,False,False,False,False,False,NBA Showdown $2 20 Player (MIN @ SAS),36.0,NBA,2026-05-13 00:00:00+00:00,2.0,20
+190403853,147462,0.0,False,False,False,False,False,NBA Showdown $2 20 Player (MIN @ SAS),36.0,NBA,2026-05-13 00:00:00+00:00,2.0,20
+190403854,147462,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,1.0,50
+190403855,147462,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,1.0,50
+190403856,147462,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,1.0,50
+190403857,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (MIN @ SAS),135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190403858,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $50 3-Player (MIN @ SAS),135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190403859,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (MIN @ SAS),4.5,NBA,2026-05-13 00:00:00+00:00,1.0,5
+190403860,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (MIN @ SAS),4.5,NBA,2026-05-13 00:00:00+00:00,1.0,5
+190403861,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $1 5-Player (MIN @ SAS),4.5,NBA,2026-05-13 00:00:00+00:00,1.0,5
+190403862,147462,0.0,True,False,False,False,False,NBA Showdown $50 50-50 (MIN @ SAS),450.0,NBA,2026-05-13 00:00:00+00:00,50.0,10
+190403863,147462,0.0,True,False,False,False,False,NBA Showdown $50 50-50 (MIN @ SAS),450.0,NBA,2026-05-13 00:00:00+00:00,50.0,10
+190403864,147462,0.0,False,False,False,False,False,NBA Showdown $50 10-Player (MIN @ SAS),450.0,NBA,2026-05-13 00:00:00+00:00,50.0,10
+190403865,147462,0.0,True,False,False,False,False,"NBA Showdown $5,300 50-50 (MIN @ SAS)",20000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,4
+190403866,147462,0.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MIN @ SAS)",15000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,3
+190403867,147462,0.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MIN @ SAS)",15000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,3
+190403868,147462,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,5.0,20
+190403869,147462,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,5.0,20
+190403870,147462,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,5.0,20
+190403871,147462,0.0,False,False,False,False,False,NBA Showdown $5 20-Player (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,5.0,20
+190403872,147462,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ SAS),360.0,NBA,2026-05-13 00:00:00+00:00,20.0,20
+190403873,147462,0.0,False,False,False,False,False,NBA Showdown $20 20-Player (MIN @ SAS),360.0,NBA,2026-05-13 00:00:00+00:00,20.0,20
+190403874,147462,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,2.0,10
+190403875,147462,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,2.0,10
+190403876,147462,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,2.0,10
+190403877,147462,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ SAS),36.0,NBA,2026-05-13 00:00:00+00:00,2.0,20
+190403878,147462,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ SAS),36.0,NBA,2026-05-13 00:00:00+00:00,2.0,20
+190403879,147462,0.0,True,False,False,False,False,NBA Showdown $2 50-50 (MIN @ SAS),36.0,NBA,2026-05-13 00:00:00+00:00,2.0,20
+190403880,147462,0.0,False,False,False,False,False,NBA Showdown $2 40-Player (MIN @ SAS),72.0,NBA,2026-05-13 00:00:00+00:00,2.0,40
+190403881,147462,0.0,False,False,False,False,False,NBA Showdown $2 40-Player (MIN @ SAS),72.0,NBA,2026-05-13 00:00:00+00:00,2.0,40
+190403882,147462,0.0,True,False,False,False,False,NBA Showdown $162 50-50 (MIN @ SAS),600.0,NBA,2026-05-13 00:00:00+00:00,162.0,4
+190403883,147462,0.0,False,False,False,False,False,NBA Showdown $162 5-Player (MIN @ SAS),750.0,NBA,2026-05-13 00:00:00+00:00,162.0,5
+190403884,147462,0.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIN @ SAS),450.0,NBA,2026-05-13 00:00:00+00:00,162.0,3
+190403885,147462,0.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIN @ SAS),450.0,NBA,2026-05-13 00:00:00+00:00,162.0,3
+190403886,147462,0.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (MIN @ SAS)",30000.0,NBA,2026-05-13 00:00:00+00:00,10600.0,3
+190403887,147462,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,10.0,20
+190403888,147462,0.0,False,False,False,False,False,NBA Showdown $10 20-Player (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,10.0,20
+190403889,147462,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,1.0,20
+190403890,147462,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,1.0,20
+190403891,147462,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ SAS),18.0,NBA,2026-05-13 00:00:00+00:00,1.0,20
+190403892,147462,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190403893,147462,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190403894,147462,0.0,True,False,False,False,False,NBA Showdown $1 50-50 (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190403895,147462,0.0,False,False,False,False,False,NBA Showdown $1 40-Player (MIN @ SAS),36.0,NBA,2026-05-13 00:00:00+00:00,1.0,40
+190403896,147462,0.0,False,False,False,False,False,NBA Showdown $1 40-Player (MIN @ SAS),36.0,NBA,2026-05-13 00:00:00+00:00,1.0,40
+190403897,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $50 50-50 (MIN @ SAS),450.0,NBA,2026-05-13 00:00:00+00:00,50.0,10
+190403898,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190403899,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190403900,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $5 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190403901,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (MIN @ SAS),22.5,NBA,2026-05-13 00:00:00+00:00,5.0,5
+190403902,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (MIN @ SAS),22.5,NBA,2026-05-13 00:00:00+00:00,5.0,5
+190403903,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $5 5-Player (MIN @ SAS),22.5,NBA,2026-05-13 00:00:00+00:00,5.0,5
+190403904,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190403905,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190403906,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190403907,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,3.0,10
+190403908,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,3.0,10
+190403909,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $3 50-50 (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,3.0,10
+190403910,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,20.0,10
+190403911,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,20.0,10
+190403912,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $20 50-50 (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,20.0,10
+190403913,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $20 5-Player (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,20.0,5
+190403914,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190403915,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190403916,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190403917,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,2.0,5
+190403918,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,2.0,5
+190403919,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $2 5-Player (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,2.0,5
+190403920,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (MIN @ SAS),5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190403921,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (MIN @ SAS),5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190403922,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $2 3-Player (MIN @ SAS),5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190403923,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190403924,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190403925,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $10 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190403926,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $10 5-Player (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,10.0,5
+190403927,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190403928,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190403929,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190403930,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190403931,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190403932,147462,0.0,True,False,False,False,False,Beginner NBA Showdown $1 50-50 (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190403933,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (MIN @ SAS),2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190403934,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (MIN @ SAS),2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190403935,147462,0.0,False,False,False,False,False,Beginner NBA Showdown $1 3-Player (MIN @ SAS),2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190403936,147462,0.0,True,False,False,False,False,NBA Showdown $109 50-50 (MIN @ SAS),600.0,NBA,2026-05-13 00:00:00+00:00,109.0,6
+190403937,147462,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN @ SAS)",40000.0,NBA,2026-05-13 00:00:00+00:00,10600.0,4
+190403938,147462,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN @ SAS)",40000.0,NBA,2026-05-13 00:00:00+00:00,10600.0,4
+190403939,147462,0.0,False,False,False,False,False,"NBA Showdown $10,600 4-Player (Winner Takes All) (MIN @ SAS)",40000.0,NBA,2026-05-13 00:00:00+00:00,10600.0,4
+190403940,147462,0.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (MIN @ SAS)",6000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,3
+190403941,147462,0.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (MIN @ SAS)",6000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,3
+190403942,147462,0.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (MIN @ SAS)",10000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,5
+190403943,147462,0.0,False,False,False,False,False,"NBA Showdown $2,120 5-Player (MIN @ SAS)",10000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,5
+190403944,147462,0.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (MIN @ SAS)",8000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,4
+190403945,147462,0.0,True,False,False,False,False,"NBA Showdown $2,120 50-50 (MIN @ SAS)",8000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,4
+190403946,147462,0.0,True,False,False,False,False,Casual NBA Showdown $50 50-50 (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,50.0,4
+190403947,147462,0.0,True,False,False,False,False,Casual NBA Showdown $20 50-50 (MIN @ SAS),72.0,NBA,2026-05-13 00:00:00+00:00,20.0,4
+190403948,147462,0.0,True,False,False,False,False,Casual NBA Showdown $10 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,10.0,10
+190403949,147462,0.0,True,False,False,False,False,Casual NBA Showdown $5 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190403950,147462,0.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,3.0,10
+190403951,147462,0.0,True,False,False,False,False,Casual NBA Showdown $3 50-50 (MIN @ SAS),10.8,NBA,2026-05-13 00:00:00+00:00,3.0,4
+190403952,147462,0.0,True,False,False,False,False,Casual NBA Showdown $1 50-50 (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,1.0,10
+190403953,147462,0.0,False,False,False,False,False,Casual NBA Showdown $50 3-Player (MIN @ SAS),135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190403954,147462,0.0,False,False,False,False,False,Casual NBA Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190403955,147462,0.0,False,False,False,False,False,Casual NBA Showdown $10 5-Player (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,10.0,5
+190403956,147462,0.0,False,False,False,False,False,Casual NBA Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190403957,147462,0.0,False,False,False,False,False,Casual NBA Showdown $2 5-Player (MIN @ SAS),9.0,NBA,2026-05-13 00:00:00+00:00,2.0,5
+190403958,147462,0.0,False,False,False,False,False,Casual NBA Showdown $2 3-Player (MIN @ SAS),5.4,NBA,2026-05-13 00:00:00+00:00,2.0,3
+190403959,147462,0.0,False,False,False,False,False,Casual NBA Showdown $109 5-Player (MIN @ SAS),500.0,NBA,2026-05-13 00:00:00+00:00,109.0,5
+190403960,147462,0.0,True,False,False,False,False,NBA Showdown $10 Double Up (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,10.0,11
+190403961,147462,0.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN @ SAS),250.0,NBA,2026-05-13 00:00:00+00:00,25.0,11
+190403962,147462,0.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIN @ SAS),500.0,NBA,2026-05-13 00:00:00+00:00,50.0,11
+190403963,147462,0.0,True,False,False,False,False,NBA Showdown $5 Double Up (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,5.0,11
+190403964,147462,0.0,True,False,False,False,False,NBA Showdown $3 Double Up (MIN @ SAS),30.0,NBA,2026-05-13 00:00:00+00:00,3.0,11
+190403965,147462,0.0,True,False,False,False,False,NBA Showdown $1 Double Up (MIN @ SAS),10.0,NBA,2026-05-13 00:00:00+00:00,1.0,11
+190403966,147462,0.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN @ SAS),500.0,NBA,2026-05-13 00:00:00+00:00,25.0,22
+190403967,147462,0.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,50.0,22
+190403968,147462,0.0,False,False,False,False,True,NBA Showdown $100K Heavy Hitter [Must Fill] (MIN @ SAS),100000.0,NBA,2026-05-13 00:00:00+00:00,26200.0,4
+190403969,147462,0.0,False,False,False,False,True,NBA Showdown $4K All Star [Single Entry] (Must Fill) (MIN @ SAS),4000.0,NBA,2026-05-13 00:00:00+00:00,1060.0,4
+190403970,147462,0.0,False,False,False,False,True,NBA Showdown $20K Thunderdome [Must Fill] (MIN @ SAS),20000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,4
+190403972,147462,0.0,False,False,False,False,True,NBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (MIN @ SAS),460.0,NBA,2026-05-13 00:00:00+00:00,100.0,5
+190403973,147462,0.0,False,False,False,False,True,NBA Showdown $75K Heavy Hitter [Must Fill] (MIN @ SAS),75000.0,NBA,2026-05-13 00:00:00+00:00,26200.0,3
+190403974,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,9.0,3
+190403975,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to UFL $333 Three Point Conversion (5-29) [MUST FILL] (MIN @ SAS),333.0,NBA,2026-05-13 00:00:00+00:00,121.0,3
+190403976,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to MLB 9-1 $4M Ultimate Main Event [Must Fill] (MIN @ SAS),3333.0,NBA,2026-05-13 00:00:00+00:00,1177.0,3
+190403978,147462,0.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (Winner Takes All) (MIN @ SAS)",15000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,3
+190403979,147462,0.0,False,False,True,False,False,NBA Showdown $5 Quintuple Up [Top 5 Win $25] (MIN @ SAS),125.0,NBA,2026-05-13 00:00:00+00:00,5.0,28
+190403980,147462,0.0,True,False,True,False,False,NBA Showdown $250 Double Up (MIN @ SAS),2500.0,NBA,2026-05-13 00:00:00+00:00,250.0,11
+190403981,147462,0.0,False,False,True,False,False,NBA Showdown $50 Triple Up [Top 3 Win $150] (MIN @ SAS),450.0,NBA,2026-05-13 00:00:00+00:00,50.0,10
+190403982,147462,0.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (MIN @ SAS),300.0,NBA,2026-05-13 00:00:00+00:00,10.0,35
+190403983,147462,0.0,False,False,True,False,False,NBA Showdown $5 Contest (MIN @ SAS),200.0,NBA,2026-05-13 00:00:00+00:00,5.0,47
+190403984,147462,0.0,False,False,True,False,False,NBA Showdown $1 Contest (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,1.0,59
+190403985,147462,0.0,False,False,True,False,False,NBA Showdown $0.25 Contest (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,0.25,237
+190403986,147462,0.0,True,False,True,False,False,NBA Showdown $50 Double Up (MIN @ SAS),500.0,NBA,2026-05-13 00:00:00+00:00,50.0,11
+190403987,147462,0.0,True,False,True,False,False,NBA Showdown $100 Double Up (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,100.0,11
+190403988,147462,0.0,False,False,True,False,False,NBA Showdown $10 Triple Up [Top 6 Win $30] (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,10.0,20
+190403989,147462,0.0,True,False,True,False,False,Beginner NBA Showdown $1 Double Up (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190403990,147462,0.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $50] (MIN @ SAS),150.0,NBA,2026-05-13 00:00:00+00:00,5.0,35
+190403991,147462,0.0,False,False,True,False,False,NBA Showdown $20 Winner Take All [$175 to 1st] (MIN @ SAS),175.0,NBA,2026-05-13 00:00:00+00:00,20.0,10
+190403992,147462,0.0,False,False,True,False,False,NBA Showdown $2 Winner Take All [$120 to 1st] (MIN @ SAS),120.0,NBA,2026-05-13 00:00:00+00:00,2.0,71
+190403993,147462,0.0,False,False,True,False,False,NBA Showdown $0.25 Winner Take All [$50 to 1st] (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,0.25,237
+190403994,147462,0.0,False,False,True,False,False,NBA Showdown $0.25 Winner Take All [$50 to 1st] (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,0.25,237
+190403995,147462,0.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ SAS),500.0,NBA,2026-05-13 00:00:00+00:00,25.0,22
+190403996,147462,0.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIN @ SAS),200.0,NBA,2026-05-13 00:00:00+00:00,10.0,23
+190403997,147462,0.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN @ SAS),60.0,NBA,2026-05-13 00:00:00+00:00,3.0,23
+190403998,147462,0.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $100] (MIN @ SAS),300.0,NBA,2026-05-13 00:00:00+00:00,10.0,35
+190403999,147462,0.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ SAS),500.0,NBA,2026-05-13 00:00:00+00:00,25.0,22
+190404000,147462,0.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,5.0,23
+190404001,147462,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190404002,147462,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190404003,147462,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190404004,147462,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190404005,147462,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190404006,147462,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190404007,147462,0.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN @ SAS),60.0,NBA,2026-05-13 00:00:00+00:00,3.0,23
+190404008,147462,0.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,5.0,23
+190404009,147462,0.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,5.0,23
+190404010,147462,0.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (Winner Takes All) (MIN @ SAS)",30000.0,NBA,2026-05-13 00:00:00+00:00,10600.0,3
+190404011,147462,0.0,False,False,True,False,False,NBA Showdown $3 Winner Take All [$100 to 1st] (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,3.0,39
+190404012,147462,0.0,False,False,True,False,False,NBA Showdown $1 Winner Take All [$100 to 1st] (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,1.0,118
+190404013,147462,0.0,False,False,True,False,False,NBA Showdown $1 Winner Take All [$100 to 1st] (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,1.0,118
+190404014,147462,0.0,False,False,True,False,False,NBA Showdown $50 Winner Take All [$500 to 1st] (MIN @ SAS),500.0,NBA,2026-05-13 00:00:00+00:00,50.0,11
+190404015,147462,0.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 6 Win $15] (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,5.0,20
+190404016,147462,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,1.0,31
+190404017,147462,0.0,False,False,True,False,False,NBA Showdown $5 Triple Up [Top 9 Win $15] (MIN @ SAS),135.0,NBA,2026-05-13 00:00:00+00:00,5.0,31
+190404018,147462,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 18 Win $3] (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,1.0,62
+190404019,147462,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,1.0,31
+190404020,147462,0.0,False,False,True,False,False,NBA Showdown $1 Triple Up [Top 9 Win $3] (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,1.0,31
+190404021,147462,0.0,False,False,True,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,267.0,4
+190404022,147462,0.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $50] (MIN @ SAS),150.0,NBA,2026-05-13 00:00:00+00:00,5.0,35
+190404023,147462,0.0,False,False,True,False,False,NBA Showdown 10x Booster [Top 3 Win $20] (MIN @ SAS),60.0,NBA,2026-05-13 00:00:00+00:00,2.0,35
+190404024,147462,0.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ SAS),250.0,NBA,2026-05-13 00:00:00+00:00,25.0,11
+190404025,147462,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,1.0,62
+190404026,147462,0.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN @ SAS),162.0,NBA,2026-05-13 00:00:00+00:00,3.0,62
+190404027,147462,0.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN @ SAS),270.0,NBA,2026-05-13 00:00:00+00:00,5.0,62
+190404028,147462,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ SAS),108.0,NBA,2026-05-13 00:00:00+00:00,1.0,124
+190404029,147462,0.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ SAS),250.0,NBA,2026-05-13 00:00:00+00:00,25.0,11
+190404030,147462,0.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,5.0,23
+190404031,147462,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190404032,147462,0.0,True,False,True,False,False,NBA Showdown $3 Double Up (MIN @ SAS),60.0,NBA,2026-05-13 00:00:00+00:00,3.0,23
+190404033,147462,0.0,True,False,True,False,False,NBA Showdown $10 Double Up (MIN @ SAS),200.0,NBA,2026-05-13 00:00:00+00:00,10.0,23
+190404034,147462,0.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,1.0,28
+190404035,147462,0.0,False,False,True,False,False,NBA Showdown $5 Quintuple Up [Top 5 Win $25] (MIN @ SAS),125.0,NBA,2026-05-13 00:00:00+00:00,5.0,28
+190404036,147462,0.0,False,False,True,False,False,NBA Showdown $2 Winner Take All [$120 to 1st] (MIN @ SAS),120.0,NBA,2026-05-13 00:00:00+00:00,2.0,71
+190404037,147462,0.0,False,False,True,False,False,NBA Showdown $0.25 Winner Take All [$50 to 1st] (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,0.25,237
+190404038,147462,0.0,False,False,True,False,False,NBA Showdown $2 Contest (MIN @ SAS),200.0,NBA,2026-05-13 00:00:00+00:00,2.0,118
+190404039,147462,0.0,False,False,True,False,False,NBA Showdown $5 Winner Take All [$100 to 1st] (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,5.0,23
+190404040,147462,0.0,True,False,True,False,False,NBA Showdown $1 Double Up (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,1.0,62
+190404041,147462,0.0,True,False,True,False,False,NBA Showdown $5 Double Up (MIN @ SAS),270.0,NBA,2026-05-13 00:00:00+00:00,5.0,62
+190404042,147462,0.0,False,False,True,False,False,NBA Showdown $25 Triple Up [Top 6 Win $75] (MIN @ SAS),450.0,NBA,2026-05-13 00:00:00+00:00,25.0,20
+190404043,147462,0.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,1.0,28
+190404044,147462,0.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,1.0,28
+190404045,147462,0.0,False,False,True,False,False,NBA Showdown $1 Quintuple Up [Top 5 Win $5] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,1.0,28
+190404046,147462,0.0,False,False,True,False,False,NBA Showdown $1 Hundo [Single Entry] (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,1.0,100
+190404047,147462,0.0,True,False,True,False,False,NBA Showdown $25 Double Up (MIN @ SAS),250.0,NBA,2026-05-13 00:00:00+00:00,25.0,11
+190404048,147462,0.0,False,False,False,False,True,NBA Showdown $15K Thunderdome [Must Fill] (MIN @ SAS),15000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,3
+190404049,147462,0.0,False,False,True,False,False,NBA Showdown $0.25 Winner Take All [$50 to 1st] (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,0.25,237
+190404050,147462,0.0,False,False,True,False,False,NBA Showdown $1 Winner Take All [$100 to 1st] (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,1.0,118
+190404051,147462,0.0,False,False,True,False,False,NBA Showdown $1 Winner Take All [$100 to 1st] (MIN @ SAS),100.0,NBA,2026-05-13 00:00:00+00:00,1.0,118
+190404052,147462,0.0,False,False,True,False,True,NBA Showdown $250 Dime Time [Just $0.10!] (MIN @ SAS),250.0,NBA,2026-05-13 00:00:00+00:00,0.1,2972
+190404053,147462,0.0,False,False,True,False,True,NBA Showdown $250 Dime Time [Just $0.10!] (MIN @ SAS),250.0,NBA,2026-05-13 00:00:00+00:00,0.1,2972
+190404068,147464,0.0,True,False,True,False,False,NBA In-Game $10 Double Up (2H MIN @ SAS),100.0,NBA,2026-05-13 01:00:00+00:00,10.0,11
+190404069,147464,0.0,True,False,True,False,False,NBA In-Game $1 Double Up (2H MIN @ SAS),20.0,NBA,2026-05-13 01:00:00+00:00,1.0,23
+190404070,147464,0.0,False,False,True,False,True,NBA In-Game $85 Winner Take All [$300 to 1st] (2H MIN @ SAS),300.0,NBA,2026-05-13 01:00:00+00:00,85.0,4
+190404071,147464,0.0,False,False,True,False,True,NBA In-Game $25 Winner Take All [$110 to 1st] (2H MIN @ SAS),110.0,NBA,2026-05-13 01:00:00+00:00,25.0,5
+190404073,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop (MIN @ SAS),555.0,NBA,2026-05-13 00:00:00+00:00,5.0,131
+190404074,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop (MIN @ SAS),555.0,NBA,2026-05-13 00:00:00+00:00,9.0,72
+190404075,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $555 Alley-Oop (MIN @ SAS),555.0,NBA,2026-05-13 00:00:00+00:00,63.0,10
+190404076,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) [Must Fill] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,9.0,3
+190404077,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.1,297
+190404078,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.25,118
+190404079,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,1.0,29
+190404080,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NBA $25 Finals Tip-Off Special (6-3) (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,2.0,14
+190404081,147462,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NBA $25 Finals Tip-Off Special (6-3) [2x] (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,1.0,59
+190404082,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to NAS 5-24 $600 Soda Fountain [Must Fill] (MIN @ SAS),600.0,NBA,2026-05-13 00:00:00+00:00,163.0,4
+190404083,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.1,297
+190404084,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.1,297
+190404085,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.1,297
+190404086,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.1,297
+190404087,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.1,297
+190404088,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.25,118
+190404089,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.25,118
+190404090,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.25,118
+190404091,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.25,118
+190404092,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.25,118
+190404093,147462,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $25 Millionaire [2x] (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,1.0,59
+190404094,147462,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $25 Millionaire [2x] (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,1.0,59
+190404095,147462,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $25 Millionaire [2x] (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,1.0,59
+190404096,147462,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $25 Millionaire [5x] (MIN @ SAS),125.0,NBA,2026-05-13 00:00:00+00:00,3.0,49
+190404097,147462,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to NFL Best Ball $25 Millionaire [5x] (MIN @ SAS),125.0,NBA,2026-05-13 00:00:00+00:00,3.0,49
+190404098,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,9.0,3
+190404099,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,9.0,3
+190404100,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,9.0,3
+190404101,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to UFL $333 Three Point Conversion (5-29) (MIN @ SAS),333.0,NBA,2026-05-13 00:00:00+00:00,54.0,7
+190404102,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to 5-30 UCL Championship Clash (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.25,118
+190404103,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to 5-30 UCL Championship Clash (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,1.0,29
+190404104,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to 5-14 Golf MEGA Millionaire (MIN @ SAS),4444.0,NBA,2026-05-13 00:00:00+00:00,448.0,11
+190404105,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to 5-14 Golf MEGA Millionaire [MUST FILL] (MIN @ SAS),4444.0,NBA,2026-05-13 00:00:00+00:00,1570.0,3
+190404106,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to 5-14 $25 Golf Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.1,297
+190404107,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to 5-14 $25 Golf Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.25,118
+190404108,147462,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to 5-14 $25 Golf Millionaire [2x] (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,0.5,118
+190404109,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to 5-14 $25 Golf Millionaire (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,1.0,29
+190404110,147462,0.0,False,False,True,False,True,NBA Showdown SUPERSatellite to UFC 250 $25 Special (6-14) [2x] (MIN @ SAS),50.0,NBA,2026-05-13 00:00:00+00:00,3.0,19
+190404111,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 250 $25 Special (6-14) (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,1.0,29
+190404112,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 250 $25 Special (6-14) (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.5,59
+190404113,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 250 $25 Special (6-14) (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.25,118
+190404114,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to UFC 250 $25 Special (6-14) (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.1,297
+190404115,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to 5-14 $25 Golf Millionaire [MUST FILL] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,9.0,3
+190404116,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NHL $25 Finals Face-Off (Game 1) (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,1.0,29
+190404117,147462,0.0,False,False,False,False,False,NBA Showdown Satellite to NHL $25 Finals Face-Off (Game 1) [Must Fill] (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,9.0,3
+190404118,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to NHL $25 Finals Face-Off (Game 1) (MIN @ SAS),25.0,NBA,2026-05-13 00:00:00+00:00,0.25,118
+190404119,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to TEN $333 Clay Smash (5-27) (MIN @ SAS),333.0,NBA,2026-05-13 00:00:00+00:00,75.0,5
+190404121,147464,0.0,False,False,False,False,False,Beginner NBA In-Game $2 3-Player (2H MIN @ SAS),5.4,NBA,2026-05-13 01:00:00+00:00,2.0,3
+190404122,147464,0.0,False,False,False,False,False,Beginner NBA In-Game $10 3-Player (2H MIN @ SAS),27.0,NBA,2026-05-13 01:00:00+00:00,10.0,3
+190404123,147464,0.0,False,False,False,False,False,Beginner NBA In-Game $5 3-Player (2H MIN @ SAS),13.5,NBA,2026-05-13 01:00:00+00:00,5.0,3
+190404124,147464,0.0,False,False,False,False,False,Beginner NBA In-Game $1 3-Player (2H MIN @ SAS),2.7,NBA,2026-05-13 01:00:00+00:00,1.0,3
+190404125,147464,0.0,False,False,False,False,False,NBA In-Game $1 10-Player (2H MIN @ SAS),9.0,NBA,2026-05-13 01:00:00+00:00,1.0,10
+190404126,147464,0.0,False,False,False,False,False,NBA In-Game $1 5-Player (2H MIN @ SAS),4.5,NBA,2026-05-13 01:00:00+00:00,1.0,5
+190404127,147464,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H MIN @ SAS),2.7,NBA,2026-05-13 01:00:00+00:00,1.0,3
+190404128,147464,0.0,False,False,False,False,False,NBA In-Game $1 3-Player (2H MIN @ SAS),2.7,NBA,2026-05-13 01:00:00+00:00,1.0,3
+190404129,147464,0.0,True,False,False,False,False,Casual NBA In-Game $20 50-50 (2H MIN @ SAS),180.0,NBA,2026-05-13 01:00:00+00:00,20.0,10
+190404130,147464,0.0,True,False,False,False,False,Casual NBA In-Game $10 50-50 (2H MIN @ SAS),90.0,NBA,2026-05-13 01:00:00+00:00,10.0,10
+190404131,147464,0.0,True,False,False,False,False,Casual NBA In-Game $5 50-50 (2H MIN @ SAS),45.0,NBA,2026-05-13 01:00:00+00:00,5.0,10
+190404132,147464,0.0,True,False,False,False,False,Casual NBA In-Game $3 50-50 (2H MIN @ SAS),27.0,NBA,2026-05-13 01:00:00+00:00,3.0,10
+190404133,147464,0.0,True,False,False,False,False,Casual NBA In-Game $1 50-50 (2H MIN @ SAS),9.0,NBA,2026-05-13 01:00:00+00:00,1.0,10
+190404134,147464,0.0,False,False,False,False,False,Casual NBA In-Game $5 3-Player (2H MIN @ SAS),13.5,NBA,2026-05-13 01:00:00+00:00,5.0,3
+190404135,147464,0.0,False,False,False,False,False,Casual NBA In-Game $2 3-Player (2H MIN @ SAS),5.4,NBA,2026-05-13 01:00:00+00:00,2.0,3
+190404136,147464,0.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H MIN @ SAS),5.4,NBA,2026-05-13 01:00:00+00:00,2.0,3
+190404137,147464,0.0,False,False,False,False,False,NBA In-Game $2 3-Player (2H MIN @ SAS),5.4,NBA,2026-05-13 01:00:00+00:00,2.0,3
+190404138,147464,0.0,False,False,False,False,False,NBA In-Game $2 5-Player (2H MIN @ SAS),9.0,NBA,2026-05-13 01:00:00+00:00,2.0,5
+190404139,147464,0.0,False,False,False,False,False,NBA In-Game $2 10-Player (2H MIN @ SAS),18.0,NBA,2026-05-13 01:00:00+00:00,2.0,10
+190404140,147464,0.0,False,False,False,False,False,NBA In-Game $5 3-Player (2H MIN @ SAS),13.5,NBA,2026-05-13 01:00:00+00:00,5.0,3
+190404141,147464,0.0,False,False,False,False,False,NBA In-Game $5 5-Player (2H MIN @ SAS),22.5,NBA,2026-05-13 01:00:00+00:00,5.0,5
+190404142,147464,0.0,False,False,False,False,False,NBA In-Game $5 10-Player (2H MIN @ SAS),45.0,NBA,2026-05-13 01:00:00+00:00,5.0,10
+190404143,147464,0.0,False,False,False,False,False,NBA In-Game $10 5-Player (2H MIN @ SAS),45.0,NBA,2026-05-13 01:00:00+00:00,10.0,5
+190404144,147464,0.0,False,False,False,False,False,NBA In-Game $10 3-Player (2H MIN @ SAS),27.0,NBA,2026-05-13 01:00:00+00:00,10.0,3
+190404145,147464,0.0,False,False,False,False,False,NBA In-Game $20 3-Player (2H MIN @ SAS),54.0,NBA,2026-05-13 01:00:00+00:00,20.0,3
+190404146,147464,0.0,False,False,False,False,False,NBA In-Game $50 5-Player (2H MIN @ SAS),225.0,NBA,2026-05-13 01:00:00+00:00,50.0,5
+190404147,147464,0.0,False,False,False,False,False,NBA In-Game $50 3-Player (2H MIN @ SAS),135.0,NBA,2026-05-13 01:00:00+00:00,50.0,3
+190404148,147464,0.0,False,False,False,False,False,NBA In-Game $109 3-Player (2H MIN @ SAS),300.0,NBA,2026-05-13 01:00:00+00:00,109.0,3
+190404149,147464,0.0,False,False,False,False,False,NBA In-Game $162 3-Player (2H MIN @ SAS),450.0,NBA,2026-05-13 01:00:00+00:00,162.0,3
+190404150,147464,0.0,False,False,False,False,False,NBA In-Game $530 3-Player (2H MIN @ SAS),1500.0,NBA,2026-05-13 01:00:00+00:00,530.0,3
+190404151,147464,0.0,False,False,False,False,False,"NBA In-Game $1,060 3-Player (2H MIN @ SAS)",3000.0,NBA,2026-05-13 01:00:00+00:00,1060.0,3
+190404152,147464,0.0,False,False,False,False,False,"NBA In-Game $5,300 3-Player (2H MIN @ SAS)",15000.0,NBA,2026-05-13 01:00:00+00:00,5300.0,3
+190404153,147464,0.0,False,False,False,False,False,"NBA In-Game $10,600 3-Player (2H MIN @ SAS)",30000.0,NBA,2026-05-13 01:00:00+00:00,10600.0,3
+190404154,147464,0.0,True,False,False,False,False,Beginner NBA In-Game $20 50-50 (2H MIN @ SAS),72.0,NBA,2026-05-13 01:00:00+00:00,20.0,4
+190404155,147464,0.0,True,False,False,False,False,Beginner NBA In-Game $10 50-50 (2H MIN @ SAS),90.0,NBA,2026-05-13 01:00:00+00:00,10.0,10
+190404156,147464,0.0,True,False,False,False,False,Beginner NBA In-Game $1 50-50 (2H MIN @ SAS),9.0,NBA,2026-05-13 01:00:00+00:00,1.0,10
+190404157,147464,0.0,True,False,False,False,False,Beginner NBA In-Game $3 50-50 (2H MIN @ SAS),27.0,NBA,2026-05-13 01:00:00+00:00,3.0,10
+190404158,147464,0.0,True,False,False,False,False,Beginner NBA In-Game $5 50-50 (2H MIN @ SAS),45.0,NBA,2026-05-13 01:00:00+00:00,5.0,10
+190404159,147464,0.0,True,False,False,False,False,"NBA In-Game $5,300 50-50 (2H MIN @ SAS)",20000.0,NBA,2026-05-13 01:00:00+00:00,5300.0,4
+190404160,147464,0.0,True,False,False,False,False,"NBA In-Game $1,060 50-50 (2H MIN @ SAS)",4000.0,NBA,2026-05-13 01:00:00+00:00,1060.0,4
+190404161,147464,0.0,True,False,False,False,False,NBA In-Game $530 50-50 (2H MIN @ SAS),2000.0,NBA,2026-05-13 01:00:00+00:00,530.0,4
+190404162,147464,0.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H MIN @ SAS),400.0,NBA,2026-05-13 01:00:00+00:00,109.0,4
+190404163,147464,0.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H MIN @ SAS),180.0,NBA,2026-05-13 01:00:00+00:00,50.0,4
+190404164,147464,0.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H MIN @ SAS),72.0,NBA,2026-05-13 01:00:00+00:00,20.0,4
+190404165,147464,0.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H MIN @ SAS),36.0,NBA,2026-05-13 01:00:00+00:00,10.0,4
+190404166,147464,0.0,True,False,False,False,False,NBA In-Game $50 50-50 (2H MIN @ SAS),450.0,NBA,2026-05-13 01:00:00+00:00,50.0,10
+190404167,147464,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H MIN @ SAS),9.0,NBA,2026-05-13 01:00:00+00:00,1.0,10
+190404168,147464,0.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H MIN @ SAS),45.0,NBA,2026-05-13 01:00:00+00:00,5.0,10
+190404169,147464,0.0,True,False,False,False,False,NBA In-Game $109 50-50 (2H MIN @ SAS),600.0,NBA,2026-05-13 01:00:00+00:00,109.0,6
+190404170,147464,0.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H MIN @ SAS),18.0,NBA,2026-05-13 01:00:00+00:00,2.0,10
+190404171,147464,0.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H MIN @ SAS),180.0,NBA,2026-05-13 01:00:00+00:00,20.0,10
+190404172,147464,0.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H MIN @ SAS),90.0,NBA,2026-05-13 01:00:00+00:00,10.0,10
+190404173,147464,0.0,True,False,False,False,False,NBA In-Game $5 50-50 (2H MIN @ SAS),90.0,NBA,2026-05-13 01:00:00+00:00,5.0,20
+190404174,147464,0.0,True,False,False,False,False,NBA In-Game $10 50-50 (2H MIN @ SAS),180.0,NBA,2026-05-13 01:00:00+00:00,10.0,20
+190404175,147464,0.0,True,False,False,False,False,NBA In-Game $20 50-50 (2H MIN @ SAS),360.0,NBA,2026-05-13 01:00:00+00:00,20.0,20
+190404176,147464,0.0,True,False,False,False,False,NBA In-Game $2 50-50 (2H MIN @ SAS),36.0,NBA,2026-05-13 01:00:00+00:00,2.0,20
+190404177,147464,0.0,True,False,False,False,False,NBA In-Game $1 50-50 (2H MIN @ SAS),18.0,NBA,2026-05-13 01:00:00+00:00,1.0,20
+190404178,147464,0.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H MIN @ SAS),4000.0,NBA,2026-05-13 01:00:00+00:00,1060.0,4
+190404179,147464,0.0,False,False,False,False,True,NBA In-Game $4K All Star [Single Entry] (Must Fill) (2H MIN @ SAS),4000.0,NBA,2026-05-13 01:00:00+00:00,1060.0,4
+190404180,147464,0.0,False,False,False,False,True,NBA In-Game $267 Winner Take All [$1K to 1st] (Must Fill) (2H MIN @ SAS),1000.0,NBA,2026-05-13 01:00:00+00:00,267.0,4
+190404181,147464,0.0,False,False,False,False,True,NBA In-Game $100 Winner Take All [$460 to 1st] (Must Fill) (2H MIN @ SAS),460.0,NBA,2026-05-13 01:00:00+00:00,100.0,5
+190404182,147464,0.0,False,False,False,False,True,NBA In-Game $5.7K Courtside Special [Single Entry] (Must Fill) (2H MIN @ SAS),5700.0,NBA,2026-05-13 01:00:00+00:00,1500.0,4
+190404186,147463,0.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190404187,147463,0.0,False,False,False,False,False,NBA Snake Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190404190,147463,0.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190404191,147463,0.0,False,False,False,False,False,NBA Snake Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190404192,147463,0.0,False,False,False,False,False,NBA Snake Showdown $109 3-Player (MIN @ SAS),300.0,NBA,2026-05-13 00:00:00+00:00,109.0,3
+190404193,147463,0.0,False,False,False,False,False,NBA Snake Showdown $530 3-Player (MIN @ SAS),1500.0,NBA,2026-05-13 00:00:00+00:00,530.0,3
+190404194,147463,0.0,False,False,False,False,False,NBA Snake Showdown $50 3-Player (MIN @ SAS),135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190404195,147463,0.0,False,False,False,False,False,"NBA Snake Showdown $1,060 3-Player (MIN @ SAS)",3000.0,NBA,2026-05-13 00:00:00+00:00,1060.0,3
+190404196,147463,0.0,False,False,False,False,False,"NBA Snake Showdown $2,120 3-Player (MIN @ SAS)",6000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,3
+190406590,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 6-17 $333 Money Ball Special (MIN @ SAS),333.0,NBA,2026-05-13 00:00:00+00:00,35.0,11
+190406591,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to WNBA 6-17 $333 Money Ball Special [Must Fill] (MIN @ SAS),333.0,NBA,2026-05-13 00:00:00+00:00,121.0,3
+190406592,147462,0.0,False,False,False,False,True,NBA Showdown Satellite to WNBA 6-17 $333 Money Ball Special [Must Fill] (MIN @ SAS),333.0,NBA,2026-05-13 00:00:00+00:00,121.0,3
+190406593,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 6-17 $20 Shootaround Special (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,0.1,237
+190406594,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 6-17 $20 Shootaround Special (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,0.1,237
+190406595,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 6-17 $20 Shootaround Special (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,0.25,95
+190406596,147462,0.0,False,False,True,False,True,NBA Showdown Satellite to WNBA 6-17 $20 Shootaround Special (MIN @ SAS),20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190406597,147462,0.0,False,False,True,False,True,NBA Showdown SUPERSat to WNBA 6-17 $20 Shootaround Special [2x] (MIN @ SAS),40.0,NBA,2026-05-13 00:00:00+00:00,5.0,9
+190406602,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $333 Money Ball Special,333.0,NBA,2026-05-13 00:00:00+00:00,35.0,11
+190406603,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $333 Money Ball Special,333.0,NBA,2026-05-13 00:00:00+00:00,17.0,23
+190406604,147405,0.0,False,False,False,False,True,WNBA Satellite to WNBA 6-17 $333 Money Ball Special [Must Fill],333.0,NBA,2026-05-13 00:00:00+00:00,121.0,3
+190406605,147405,0.0,False,False,False,False,True,WNBA Satellite to WNBA 6-17 $333 Money Ball Special [Must Fill],333.0,NBA,2026-05-13 00:00:00+00:00,121.0,3
+190406606,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $20 Shootaround Special,20.0,NBA,2026-05-13 00:00:00+00:00,0.1,237
+190406607,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $20 Shootaround Special,20.0,NBA,2026-05-13 00:00:00+00:00,0.1,237
+190406608,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $20 Shootaround Special,20.0,NBA,2026-05-13 00:00:00+00:00,0.25,95
+190406609,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $20 Shootaround Special,20.0,NBA,2026-05-13 00:00:00+00:00,0.25,95
+190406610,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $20 Shootaround Special,20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190406611,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $20 Shootaround Special,20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190406612,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $20 Shootaround Special,20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190406613,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $20 Shootaround Special,20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190406614,147405,0.0,False,False,True,False,True,WNBA Satellite to WNBA 6-17 $20 Shootaround Special,20.0,NBA,2026-05-13 00:00:00+00:00,1.0,23
+190406615,147405,0.0,False,False,True,False,True,WNBA SUPERSat to WNBA 6-17 $20 Shootaround Special [2x],40.0,NBA,2026-05-13 00:00:00+00:00,5.0,9
+190406616,147405,0.0,False,False,True,False,True,WNBA SUPERSat to WNBA 6-17 $20 Shootaround Special [10x],100.0,NBA,2026-05-13 00:00:00+00:00,1.0,118
+190407457,147408,0.0,False,False,True,False,True,WNBA $100 Quarter Jukebox [Just $0.25!] (Late),100.0,NBA,2026-05-13 02:00:00+00:00,0.25,475
+190407458,147408,0.0,False,False,True,False,True,WNBA $300 And-One (Late),300.0,NBA,2026-05-13 02:00:00+00:00,1.0,356
+190407459,147408,0.0,False,False,True,False,True,WNBA $4K Fadeaway [$1K to 1st] (Late),4000.0,NBA,2026-05-13 02:00:00+00:00,15.0,313
+190407460,147408,0.0,False,False,True,False,True,WNBA $150 High Five [Single Entry] (Late),150.0,NBA,2026-05-13 02:00:00+00:00,5.0,35
+190414752,147405,0.0,False,False,True,False,False,WNBA FREE 200-Player,0.0,NBA,2026-05-13 00:00:00+00:00,0.0,200
+190414769,147408,0.0,False,False,True,False,False,WNBA FREE 200-Player (Late),0.0,NBA,2026-05-13 02:00:00+00:00,0.0,200
+190414792,147407,0.0,False,False,True,False,False,WNBA Single Stat FREE 200-Player (Points),0.0,NBA,2026-05-13 00:00:00+00:00,0.0,200
+190417752,147462,0.0,False,False,True,False,True,NBA Showdown $20K Hall of Famer [$10K to 1st] (MIN @ SAS),20000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,10
+190417755,147462,0.0,False,False,True,False,True,NBA Showdown $100K Alley-Oop [$20K to 1st] (MIN @ SAS),100000.0,NBA,2026-05-13 00:00:00+00:00,555.0,200
+190417770,147462,0.0,False,False,True,False,True,NBA Showdown $400K Shootaround [$100K to 1st] (MIN @ SAS),400000.0,NBA,2026-05-13 00:00:00+00:00,20.0,23529
+190417786,147462,0.0,False,False,True,False,True,NBA Showdown $25K Splash [3 Entry Max] (MIN @ SAS),25000.0,NBA,2026-05-13 00:00:00+00:00,200.0,138
+190417789,147462,0.0,False,False,True,False,True,"NBA Showdown $8K Box Out [3 Entry Max, $2K to 1st] (MIN @ SAS)",8000.0,NBA,2026-05-13 00:00:00+00:00,88.0,103
+190417808,147462,0.0,False,False,True,False,True,NBA Showdown $40K Four Point Play [20 Entry Max] (MIN @ SAS),40000.0,NBA,2026-05-13 00:00:00+00:00,4.0,11890
+190417837,147462,0.0,False,False,True,False,True,NBA Showdown $15K And-One (MIN @ SAS),15000.0,NBA,2026-05-13 00:00:00+00:00,1.0,17835
+190417907,147462,0.0,False,False,True,False,True,NBA Showdown $80K Zone [$20K to 1st] (MIN @ SAS),80000.0,NBA,2026-05-13 00:00:00+00:00,5.0,19024
+190419943,147405,0.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2026-05-13 00:00:00+00:00,38.0,3
+190420881,147406,0.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190421934,147462,0.0,False,False,True,False,False,NBA Showdown FREE 17-Player (MIN @ SAS),0.0,NBA,2026-05-13 00:00:00+00:00,0.0,17
+190421953,147462,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,5.0,20
+190421954,147462,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,5.0,20
+190421955,147462,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ SAS),90.0,NBA,2026-05-13 00:00:00+00:00,5.0,20
+190421956,147462,0.0,True,False,False,False,False,NBA Showdown $20 50-50 (MIN @ SAS),360.0,NBA,2026-05-13 00:00:00+00:00,20.0,20
+190421957,147462,0.0,True,False,False,False,False,NBA Showdown $10 50-50 (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,10.0,20
+190421958,147462,0.0,True,False,False,False,False,NBA Showdown $25 Double Up (MIN @ SAS),500.0,NBA,2026-05-13 00:00:00+00:00,25.0,22
+190421959,147462,0.0,True,False,False,False,False,NBA Showdown $50 Double Up (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,50.0,22
+190422656,147463,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIN @ SAS),2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190422676,147406,0.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190422859,147406,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190422893,147463,0.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190423013,147462,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190423014,147462,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190423015,147462,0.0,False,False,False,False,False,NBA Showdown $5 3-Player (MIN @ SAS),13.5,NBA,2026-05-13 00:00:00+00:00,5.0,3
+190423016,147462,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190423017,147462,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190423018,147462,0.0,False,False,False,False,False,NBA Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190423019,147462,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190423020,147462,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190423021,147462,0.0,False,False,False,False,False,NBA Showdown $20 3-Player (MIN @ SAS),54.0,NBA,2026-05-13 00:00:00+00:00,20.0,3
+190423022,147462,0.0,False,False,False,False,False,NBA Showdown $530 3-Player (MIN @ SAS),1500.0,NBA,2026-05-13 00:00:00+00:00,530.0,3
+190423023,147462,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ SAS),300.0,NBA,2026-05-13 00:00:00+00:00,109.0,3
+190423024,147462,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ SAS),300.0,NBA,2026-05-13 00:00:00+00:00,109.0,3
+190423025,147462,0.0,False,False,False,False,False,NBA Showdown $109 3-Player (MIN @ SAS),300.0,NBA,2026-05-13 00:00:00+00:00,109.0,3
+190423026,147462,0.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIN @ SAS),135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190423027,147462,0.0,False,False,False,False,False,NBA Showdown $50 3-Player (MIN @ SAS),135.0,NBA,2026-05-13 00:00:00+00:00,50.0,3
+190423028,147462,0.0,False,False,False,False,False,"NBA Showdown $1,060 3-Player (MIN @ SAS)",3000.0,NBA,2026-05-13 00:00:00+00:00,1060.0,3
+190423029,147462,0.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MIN @ SAS)",15000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,3
+190423030,147462,0.0,False,False,False,False,False,"NBA Showdown $5,300 3-Player (MIN @ SAS)",15000.0,NBA,2026-05-13 00:00:00+00:00,5300.0,3
+190423031,147462,0.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIN @ SAS),450.0,NBA,2026-05-13 00:00:00+00:00,162.0,3
+190423032,147462,0.0,False,False,False,False,False,NBA Showdown $162 3-Player (MIN @ SAS),450.0,NBA,2026-05-13 00:00:00+00:00,162.0,3
+190423033,147462,0.0,False,False,False,False,False,"NBA Showdown $10,600 3-Player (MIN @ SAS)",30000.0,NBA,2026-05-13 00:00:00+00:00,10600.0,3
+190423034,147462,0.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (MIN @ SAS)",6000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,3
+190423035,147462,0.0,False,False,False,False,False,"NBA Showdown $2,120 3-Player (MIN @ SAS)",6000.0,NBA,2026-05-13 00:00:00+00:00,2120.0,3
+190423036,147462,0.0,True,False,False,False,False,NBA Showdown $5 50-50 (MIN @ SAS),45.0,NBA,2026-05-13 00:00:00+00:00,5.0,10
+190423277,147408,0.0,False,False,False,False,False,WNBA $1 3-Player (Winner Takes All) (Late),2.7,NBA,2026-05-13 02:00:00+00:00,1.0,3
+190423313,147463,0.0,False,False,False,False,False,NBA Snake Showdown $10 3-Player (MIN @ SAS),27.0,NBA,2026-05-13 00:00:00+00:00,10.0,3
+190423359,147462,0.0,False,False,False,False,False,NBA Showdown $1 40-Player (Top 2 Win) (MIN @ SAS),36.0,NBA,2026-05-13 00:00:00+00:00,1.0,40
+190423392,147462,0.0,False,False,False,False,True,NBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (MIN @ SAS),1000.0,NBA,2026-05-13 00:00:00+00:00,267.0,4
+190423481,147463,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIN @ SAS),2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190423487,147462,0.0,False,False,False,False,False,NBA Showdown $10 7-Player (Winner Takes All) (MIN @ SAS),63.0,NBA,2026-05-13 00:00:00+00:00,10.0,7
+190423488,147406,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190423544,147462,0.0,False,False,False,False,False,NBA Showdown $1 3-Player (MIN @ SAS),2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190423565,147462,0.0,False,False,False,False,False,NBA Showdown $1 200-Player (Top 15 Win) (MIN @ SAS),180.0,NBA,2026-05-13 00:00:00+00:00,1.0,200
+190423643,147405,0.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2026-05-13 00:00:00+00:00,38.0,3
+190423912,147464,0.0,False,False,True,False,False,NBA In-Game FREE 20-Player (2H MIN @ SAS),0.0,NBA,2026-05-13 01:00:00+00:00,0.0,20
+190423913,147464,0.0,False,False,True,False,False,NBA In-Game FREE 10-Player (2H MIN @ SAS),0.0,NBA,2026-05-13 01:00:00+00:00,0.0,10
+190423914,147464,0.0,False,False,True,False,False,NBA In-Game FREE 5-Player (2H MIN @ SAS),0.0,NBA,2026-05-13 01:00:00+00:00,0.0,5
+190423915,147464,0.0,False,False,True,False,False,NBA In-Game FREE 3-Player (2H MIN @ SAS),0.0,NBA,2026-05-13 01:00:00+00:00,0.0,3
+190423918,147406,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
+190423926,147462,0.0,False,False,True,False,False,NBA Showdown FREE 20-Player (MIN @ SAS),0.0,NBA,2026-05-13 00:00:00+00:00,0.0,20
+190423927,147462,0.0,False,False,True,False,False,NBA Showdown FREE 10-Player (MIN @ SAS),0.0,NBA,2026-05-13 00:00:00+00:00,0.0,10
+190423966,147463,0.0,False,False,False,False,False,NBA Snake Showdown $1 3-Player (MIN @ SAS),2.7,NBA,2026-05-13 00:00:00+00:00,1.0,3
