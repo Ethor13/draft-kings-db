@@ -1,0 +1,381 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+192519066,150873,0.0,False,False,True,False,True,WNBA $3.3K Money Ball [Single Entry],3300.0,NBA,2026-07-21 00:00:00+00:00,333.0,11
+192519067,150873,0.0,False,False,True,False,True,WNBA $2K Slam Jam [Single Entry],2000.0,NBA,2026-07-21 00:00:00+00:00,222.0,10
+192519068,150873,0.0,False,False,True,False,True,WNBA $1.35K Showtime [Single Entry],1350.0,NBA,2026-07-21 00:00:00+00:00,100.0,15
+192519069,150873,0.0,False,False,True,False,True,WNBA $500 Ankle Breaker [Single Entry],500.0,NBA,2026-07-21 00:00:00+00:00,50.0,11
+192519070,150873,0.0,False,False,True,False,True,WNBA $600 Triple Threat,600.0,NBA,2026-07-21 00:00:00+00:00,33.0,21
+192519071,150877,0.0,False,False,True,False,True,WNBA $285 Triple Threat [Single Entry] (Late),285.0,NBA,2026-07-21 02:00:00+00:00,33.0,10
+192519072,150873,0.0,False,False,True,False,True,WNBA $25K Shootaround [$5K to 1st],25000.0,NBA,2026-07-21 00:00:00+00:00,20.0,1470
+192519073,150876,0.0,False,False,True,False,True,WNBA Showdown $4K Fadeaway [$1K to 1st] (LVA @ TOR),4000.0,NBA,2026-07-21 00:00:00+00:00,15.0,313
+192519074,150877,0.0,False,False,True,False,True,WNBA $10K Fadeaway [$2K to 1st] (Late),10000.0,NBA,2026-07-21 02:00:00+00:00,15.0,784
+192519075,150873,0.0,False,False,True,False,True,WNBA $20K Zone [$5K to 1st],20000.0,NBA,2026-07-21 00:00:00+00:00,5.0,4756
+192519076,150877,0.0,False,False,True,False,True,WNBA $3K Zone [$1K to 1st] (Late),3000.0,NBA,2026-07-21 02:00:00+00:00,5.0,713
+192519077,150876,0.0,False,False,True,False,True,WNBA Showdown $100 Sharpshooter (LVA @ TOR),100.0,NBA,2026-07-21 00:00:00+00:00,3.0,39
+192519078,150876,0.0,False,False,True,False,True,WNBA Showdown $250 And-One (LVA @ TOR),250.0,NBA,2026-07-21 00:00:00+00:00,1.0,297
+192519079,150873,0.0,False,False,True,False,True,WNBA $1.5K And-One [20 Entry Max],1500.0,NBA,2026-07-21 00:00:00+00:00,1.0,1783
+192519080,150877,0.0,False,False,True,False,True,WNBA $500 And-One (Late),500.0,NBA,2026-07-21 02:00:00+00:00,1.0,594
+192519081,150873,0.0,False,False,True,False,True,WNBA $3K mini-MAX [150 Entry Max],3000.0,NBA,2026-07-21 00:00:00+00:00,0.5,7134
+192519082,150876,0.0,False,False,True,False,True,WNBA Showdown $300 Quarter Jukebox [Just $0.25!]  (LVA @ TOR),300.0,NBA,2026-07-21 00:00:00+00:00,0.25,1426
+192519083,150873,0.0,False,False,True,False,True,WNBA $300 Quarter Jukebox [Just $0.25!] ,300.0,NBA,2026-07-21 00:00:00+00:00,0.25,1426
+192519084,150877,0.0,False,False,True,False,True,WNBA $150 Quarter Jukebox [Just $0.25!] (Late),150.0,NBA,2026-07-21 02:00:00+00:00,0.25,713
+192519085,150876,0.0,False,False,True,False,True,WNBA Showdown $20 Dime Time [Just $0.10!] (LVA @ TOR),20.0,NBA,2026-07-21 00:00:00+00:00,0.1,237
+192519086,150873,0.0,False,False,True,False,True,WNBA $150 Dime TIme [Just $0.10!],150.0,NBA,2026-07-21 00:00:00+00:00,0.1,1783
+192519087,150877,0.0,False,False,True,False,True,WNBA $20 Dime Time [Just $0.10!] (Late),20.0,NBA,2026-07-21 02:00:00+00:00,0.1,237
+192519088,150873,0.0,False,False,True,False,True,WNBA $500 Pick and Roll [Single Entry],500.0,NBA,2026-07-21 00:00:00+00:00,12.0,49
+192519089,150877,0.0,False,False,True,False,True,WNBA $250 Pick and Roll [Single Entry] (Late),250.0,NBA,2026-07-21 02:00:00+00:00,12.0,24
+192519090,150876,0.0,False,False,True,False,True,WNBA Showdown $100 High Five [Single Entry] (LVA @ TOR),100.0,NBA,2026-07-21 00:00:00+00:00,5.0,23
+192519091,150873,0.0,False,False,True,False,True,WNBA $750 High Five [Single Entry],750.0,NBA,2026-07-21 00:00:00+00:00,5.0,178
+192519092,150877,0.0,False,False,True,False,True,WNBA $250 High Five [Single Entry] (Late),250.0,NBA,2026-07-21 02:00:00+00:00,5.0,59
+192519093,150876,0.0,False,False,True,False,True,WNBA Showdown $50 Daily Dollar [Single Entry] (LVA @ TOR),50.0,NBA,2026-07-21 00:00:00+00:00,1.0,59
+192519094,150873,0.0,False,False,True,False,True,WNBA $150 Daily Dollar [Single Entry],150.0,NBA,2026-07-21 00:00:00+00:00,1.0,178
+192519095,150877,0.0,False,False,True,False,True,WNBA $50 Daily Dollar [Single Entry] (Late),50.0,NBA,2026-07-21 02:00:00+00:00,1.0,59
+192519249,150877,0.0,False,False,False,False,False,Beginner WNBA $2 3-Player (Late),5.4,NBA,2026-07-21 02:00:00+00:00,2.0,3
+192519250,150877,0.0,False,False,False,False,False,Beginner WNBA $10 3-Player (Late),27.0,NBA,2026-07-21 02:00:00+00:00,10.0,3
+192519251,150877,0.0,False,False,False,False,False,Beginner WNBA $5 3-Player (Late),13.5,NBA,2026-07-21 02:00:00+00:00,5.0,3
+192519252,150877,0.0,False,False,False,False,False,Beginner WNBA $1 3-Player (Late),2.7,NBA,2026-07-21 02:00:00+00:00,1.0,3
+192519253,150877,0.0,False,False,False,False,False,WNBA $1 10-Player (Late),9.0,NBA,2026-07-21 02:00:00+00:00,1.0,10
+192519254,150877,0.0,False,False,False,False,False,WNBA $1 5-Player (Late),4.5,NBA,2026-07-21 02:00:00+00:00,1.0,5
+192519255,150877,0.0,False,False,False,False,False,WNBA $1 3-Player (Late),2.7,NBA,2026-07-21 02:00:00+00:00,1.0,3
+192519256,150877,0.0,False,False,False,False,False,WNBA $1 3-Player (Late),2.7,NBA,2026-07-21 02:00:00+00:00,1.0,3
+192519257,150877,0.0,True,False,False,False,False,Casual WNBA $20 50-50 (Late),180.0,NBA,2026-07-21 02:00:00+00:00,20.0,10
+192519258,150877,0.0,True,False,False,False,False,Casual WNBA $10 50-50 (Late),90.0,NBA,2026-07-21 02:00:00+00:00,10.0,10
+192519259,150877,0.0,True,False,False,False,False,Casual WNBA $5 50-50 (Late),45.0,NBA,2026-07-21 02:00:00+00:00,5.0,10
+192519260,150877,0.0,True,False,False,False,False,Casual WNBA $3 50-50 (Late),27.0,NBA,2026-07-21 02:00:00+00:00,3.0,10
+192519261,150877,0.0,True,False,False,False,False,Casual WNBA $1 50-50 (Late),9.0,NBA,2026-07-21 02:00:00+00:00,1.0,10
+192519262,150877,0.0,False,False,False,False,False,Casual WNBA $5 3-Player (Late),13.5,NBA,2026-07-21 02:00:00+00:00,5.0,3
+192519263,150877,0.0,False,False,False,False,False,Casual WNBA $2 3-Player (Late),5.4,NBA,2026-07-21 02:00:00+00:00,2.0,3
+192519264,150877,0.0,False,False,False,False,False,WNBA $2 3-Player (Late),5.4,NBA,2026-07-21 02:00:00+00:00,2.0,3
+192519265,150877,0.0,False,False,False,False,False,WNBA $2 3-Player (Late),5.4,NBA,2026-07-21 02:00:00+00:00,2.0,3
+192519266,150877,0.0,False,False,False,False,False,WNBA $2 5-Player (Late),9.0,NBA,2026-07-21 02:00:00+00:00,2.0,5
+192519267,150877,0.0,False,False,False,False,False,WNBA $2 10-Player (Late),18.0,NBA,2026-07-21 02:00:00+00:00,2.0,10
+192519268,150877,0.0,False,False,False,False,False,WNBA $5 3-Player (Late),13.5,NBA,2026-07-21 02:00:00+00:00,5.0,3
+192519269,150877,0.0,False,False,False,False,False,WNBA $5 5-Player (Late),22.5,NBA,2026-07-21 02:00:00+00:00,5.0,5
+192519270,150877,0.0,False,False,False,False,False,WNBA $5 10-Player (Late),45.0,NBA,2026-07-21 02:00:00+00:00,5.0,10
+192519271,150877,0.0,False,False,False,False,False,WNBA $10 5-Player (Late),45.0,NBA,2026-07-21 02:00:00+00:00,10.0,5
+192519272,150877,0.0,False,False,False,False,False,WNBA $10 3-Player (Late),27.0,NBA,2026-07-21 02:00:00+00:00,10.0,3
+192519273,150877,0.0,False,False,False,False,False,WNBA $20 3-Player (Late),54.0,NBA,2026-07-21 02:00:00+00:00,20.0,3
+192519274,150877,0.0,False,False,False,False,False,WNBA $50 5-Player (Late),225.0,NBA,2026-07-21 02:00:00+00:00,50.0,5
+192519275,150877,0.0,False,False,False,False,False,WNBA $50 3-Player (Late),135.0,NBA,2026-07-21 02:00:00+00:00,50.0,3
+192519276,150877,0.0,False,False,False,False,False,WNBA $109 3-Player (Late),300.0,NBA,2026-07-21 02:00:00+00:00,109.0,3
+192519277,150877,0.0,False,False,False,False,False,WNBA $162 3-Player (Late),450.0,NBA,2026-07-21 02:00:00+00:00,162.0,3
+192519278,150877,0.0,False,False,False,False,False,WNBA $530 3-Player (Late),1500.0,NBA,2026-07-21 02:00:00+00:00,530.0,3
+192519279,150877,0.0,False,False,False,False,False,"WNBA $1,060 3-Player (Late)",3000.0,NBA,2026-07-21 02:00:00+00:00,1060.0,3
+192519280,150877,0.0,False,False,False,False,False,"WNBA $5,300 3-Player (Late)",15000.0,NBA,2026-07-21 02:00:00+00:00,5300.0,3
+192519281,150877,0.0,False,False,False,False,False,"WNBA $10,600 3-Player (Late)",30000.0,NBA,2026-07-21 02:00:00+00:00,10600.0,3
+192519282,150877,0.0,True,False,False,False,False,Beginner WNBA $20 50-50 (Late),72.0,NBA,2026-07-21 02:00:00+00:00,20.0,4
+192519283,150877,0.0,True,False,False,False,False,Beginner WNBA $10 50-50 (Late),90.0,NBA,2026-07-21 02:00:00+00:00,10.0,10
+192519284,150877,0.0,True,False,False,False,False,Beginner WNBA $1 50-50 (Late),9.0,NBA,2026-07-21 02:00:00+00:00,1.0,10
+192519285,150877,0.0,True,False,False,False,False,Beginner WNBA $3 50-50 (Late),27.0,NBA,2026-07-21 02:00:00+00:00,3.0,10
+192519286,150877,0.0,True,False,False,False,False,Beginner WNBA $5 50-50 (Late),45.0,NBA,2026-07-21 02:00:00+00:00,5.0,10
+192519287,150877,0.0,True,False,False,False,False,"WNBA $5,300 50-50 (Late)",20000.0,NBA,2026-07-21 02:00:00+00:00,5300.0,4
+192519288,150877,0.0,True,False,False,False,False,"WNBA $1,060 50-50 (Late)",4000.0,NBA,2026-07-21 02:00:00+00:00,1060.0,4
+192519289,150877,0.0,True,False,False,False,False,WNBA $530 50-50 (Late),2000.0,NBA,2026-07-21 02:00:00+00:00,530.0,4
+192519290,150877,0.0,True,False,False,False,False,WNBA $109 50-50 (Late),400.0,NBA,2026-07-21 02:00:00+00:00,109.0,4
+192519291,150877,0.0,True,False,False,False,False,WNBA $50 50-50 (Late),180.0,NBA,2026-07-21 02:00:00+00:00,50.0,4
+192519292,150877,0.0,True,False,False,False,False,WNBA $20 50-50 (Late),72.0,NBA,2026-07-21 02:00:00+00:00,20.0,4
+192519293,150877,0.0,True,False,False,False,False,WNBA $10 50-50 (Late),36.0,NBA,2026-07-21 02:00:00+00:00,10.0,4
+192519294,150877,0.0,True,False,False,False,False,WNBA $50 50-50 (Late),450.0,NBA,2026-07-21 02:00:00+00:00,50.0,10
+192519295,150877,0.0,True,False,False,False,False,WNBA $1 50-50 (Late),9.0,NBA,2026-07-21 02:00:00+00:00,1.0,10
+192519296,150877,0.0,True,False,False,False,False,WNBA $5 50-50 (Late),45.0,NBA,2026-07-21 02:00:00+00:00,5.0,10
+192519297,150877,0.0,True,False,False,False,False,WNBA $109 50-50 (Late),600.0,NBA,2026-07-21 02:00:00+00:00,109.0,6
+192519298,150877,0.0,True,False,False,False,False,WNBA $2 50-50 (Late),18.0,NBA,2026-07-21 02:00:00+00:00,2.0,10
+192519299,150877,0.0,True,False,False,False,False,WNBA $20 50-50 (Late),180.0,NBA,2026-07-21 02:00:00+00:00,20.0,10
+192519300,150877,0.0,True,False,False,False,False,WNBA $10 50-50 (Late),90.0,NBA,2026-07-21 02:00:00+00:00,10.0,10
+192519301,150877,0.0,True,False,False,False,False,WNBA $5 50-50 (Late),90.0,NBA,2026-07-21 02:00:00+00:00,5.0,20
+192519302,150877,0.0,True,False,False,False,False,WNBA $10 50-50 (Late),180.0,NBA,2026-07-21 02:00:00+00:00,10.0,20
+192519303,150877,0.0,True,False,False,False,False,WNBA $20 50-50 (Late),360.0,NBA,2026-07-21 02:00:00+00:00,20.0,20
+192519304,150877,0.0,True,False,False,False,False,WNBA $2 50-50 (Late),36.0,NBA,2026-07-21 02:00:00+00:00,2.0,20
+192519305,150877,0.0,True,False,False,False,False,WNBA $1 50-50 (Late),18.0,NBA,2026-07-21 02:00:00+00:00,1.0,20
+192519306,150877,0.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill) (Late),4000.0,NBA,2026-07-21 02:00:00+00:00,1060.0,4
+192519307,150877,0.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill) (Late),4000.0,NBA,2026-07-21 02:00:00+00:00,1060.0,4
+192519308,150877,0.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill) (Late),1000.0,NBA,2026-07-21 02:00:00+00:00,267.0,4
+192519309,150877,0.0,False,False,False,False,True,WNBA $100 Winner Take All [$460 to 1st] (Must Fill) (Late),460.0,NBA,2026-07-21 02:00:00+00:00,100.0,5
+192519310,150877,0.0,False,False,False,False,True,WNBA $5.7K Courtside Special [Single Entry] (Must Fill) (Late),5700.0,NBA,2026-07-21 02:00:00+00:00,1500.0,4
+192519311,150877,0.0,False,False,False,False,True,WNBA Satellite to NBA Best Ball $20 Shootaround [Must Fill] (Late),20.0,NBA,2026-07-21 02:00:00+00:00,7.4,3
+192519312,150877,0.0,False,False,False,False,True,WNBA Satellite to NBA Best Ball $20 Shootaround [Must Fill] (Late),20.0,NBA,2026-07-21 02:00:00+00:00,7.4,3
+192519313,150876,0.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (LVA @ TOR),5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519314,150876,0.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (LVA @ TOR),27.0,NBA,2026-07-21 00:00:00+00:00,10.0,3
+192519315,150876,0.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (LVA @ TOR),13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519316,150876,0.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (LVA @ TOR),2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192519317,150876,0.0,False,False,False,False,False,WNBA Showdown $1 10-Player (LVA @ TOR),9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519318,150876,0.0,False,False,False,False,False,WNBA Showdown $1 5-Player (LVA @ TOR),4.5,NBA,2026-07-21 00:00:00+00:00,1.0,5
+192519319,150876,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (LVA @ TOR),2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192519320,150876,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (LVA @ TOR),2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192519321,150876,0.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (LVA @ TOR),180.0,NBA,2026-07-21 00:00:00+00:00,20.0,10
+192519322,150876,0.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (LVA @ TOR),90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519323,150876,0.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (LVA @ TOR),45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519324,150876,0.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (LVA @ TOR),27.0,NBA,2026-07-21 00:00:00+00:00,3.0,10
+192519325,150876,0.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (LVA @ TOR),9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519326,150876,0.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (LVA @ TOR),13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519327,150876,0.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (LVA @ TOR),5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519328,150876,0.0,False,False,False,False,False,WNBA Showdown $2 3-Player (LVA @ TOR),5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519329,150876,0.0,False,False,False,False,False,WNBA Showdown $2 3-Player (LVA @ TOR),5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519330,150876,0.0,False,False,False,False,False,WNBA Showdown $2 5-Player (LVA @ TOR),9.0,NBA,2026-07-21 00:00:00+00:00,2.0,5
+192519331,150876,0.0,False,False,False,False,False,WNBA Showdown $2 10-Player (LVA @ TOR),18.0,NBA,2026-07-21 00:00:00+00:00,2.0,10
+192519332,150876,0.0,False,False,False,False,False,WNBA Showdown $5 3-Player (LVA @ TOR),13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519333,150876,0.0,False,False,False,False,False,WNBA Showdown $5 5-Player (LVA @ TOR),22.5,NBA,2026-07-21 00:00:00+00:00,5.0,5
+192519334,150876,0.0,False,False,False,False,False,WNBA Showdown $5 10-Player (LVA @ TOR),45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519335,150876,0.0,False,False,False,False,False,WNBA Showdown $10 5-Player (LVA @ TOR),45.0,NBA,2026-07-21 00:00:00+00:00,10.0,5
+192519336,150876,0.0,False,False,False,False,False,WNBA Showdown $10 3-Player (LVA @ TOR),27.0,NBA,2026-07-21 00:00:00+00:00,10.0,3
+192519337,150876,0.0,False,False,False,False,False,WNBA Showdown $20 3-Player (LVA @ TOR),54.0,NBA,2026-07-21 00:00:00+00:00,20.0,3
+192519338,150876,0.0,False,False,False,False,False,WNBA Showdown $50 5-Player (LVA @ TOR),225.0,NBA,2026-07-21 00:00:00+00:00,50.0,5
+192519339,150876,0.0,False,False,False,False,False,WNBA Showdown $50 3-Player (LVA @ TOR),135.0,NBA,2026-07-21 00:00:00+00:00,50.0,3
+192519340,150876,0.0,False,False,False,False,False,WNBA Showdown $109 3-Player (LVA @ TOR),300.0,NBA,2026-07-21 00:00:00+00:00,109.0,3
+192519341,150876,0.0,False,False,False,False,False,WNBA Showdown $162 3-Player (LVA @ TOR),450.0,NBA,2026-07-21 00:00:00+00:00,162.0,3
+192519342,150876,0.0,False,False,False,False,False,WNBA Showdown $530 3-Player (LVA @ TOR),1500.0,NBA,2026-07-21 00:00:00+00:00,530.0,3
+192519343,150876,0.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (LVA @ TOR)",3000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,3
+192519344,150876,0.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (LVA @ TOR)",15000.0,NBA,2026-07-21 00:00:00+00:00,5300.0,3
+192519345,150876,0.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (LVA @ TOR)",30000.0,NBA,2026-07-21 00:00:00+00:00,10600.0,3
+192519346,150876,0.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (LVA @ TOR),72.0,NBA,2026-07-21 00:00:00+00:00,20.0,4
+192519347,150876,0.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (LVA @ TOR),90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519348,150876,0.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (LVA @ TOR),9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519349,150876,0.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (LVA @ TOR),27.0,NBA,2026-07-21 00:00:00+00:00,3.0,10
+192519350,150876,0.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (LVA @ TOR),45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519351,150876,0.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (LVA @ TOR)",20000.0,NBA,2026-07-21 00:00:00+00:00,5300.0,4
+192519352,150876,0.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (LVA @ TOR)",4000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,4
+192519353,150876,0.0,True,False,False,False,False,WNBA Showdown $530 50-50 (LVA @ TOR),2000.0,NBA,2026-07-21 00:00:00+00:00,530.0,4
+192519354,150876,0.0,True,False,False,False,False,WNBA Showdown $109 50-50 (LVA @ TOR),400.0,NBA,2026-07-21 00:00:00+00:00,109.0,4
+192519355,150876,0.0,True,False,False,False,False,WNBA Showdown $50 50-50 (LVA @ TOR),180.0,NBA,2026-07-21 00:00:00+00:00,50.0,4
+192519356,150876,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (LVA @ TOR),72.0,NBA,2026-07-21 00:00:00+00:00,20.0,4
+192519357,150876,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (LVA @ TOR),36.0,NBA,2026-07-21 00:00:00+00:00,10.0,4
+192519358,150876,0.0,True,False,False,False,False,WNBA Showdown $50 50-50 (LVA @ TOR),450.0,NBA,2026-07-21 00:00:00+00:00,50.0,10
+192519359,150876,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (LVA @ TOR),9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519360,150876,0.0,True,False,False,False,False,WNBA Showdown $5 50-50 (LVA @ TOR),45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519361,150876,0.0,True,False,False,False,False,WNBA Showdown $109 50-50 (LVA @ TOR),600.0,NBA,2026-07-21 00:00:00+00:00,109.0,6
+192519362,150876,0.0,True,False,False,False,False,WNBA Showdown $2 50-50 (LVA @ TOR),18.0,NBA,2026-07-21 00:00:00+00:00,2.0,10
+192519363,150876,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (LVA @ TOR),180.0,NBA,2026-07-21 00:00:00+00:00,20.0,10
+192519364,150876,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (LVA @ TOR),90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519365,150876,0.0,True,False,False,False,False,WNBA Showdown $5 50-50 (LVA @ TOR),90.0,NBA,2026-07-21 00:00:00+00:00,5.0,20
+192519366,150876,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (LVA @ TOR),180.0,NBA,2026-07-21 00:00:00+00:00,10.0,20
+192519367,150876,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (LVA @ TOR),360.0,NBA,2026-07-21 00:00:00+00:00,20.0,20
+192519368,150876,0.0,True,False,False,False,False,WNBA Showdown $2 50-50 (LVA @ TOR),36.0,NBA,2026-07-21 00:00:00+00:00,2.0,20
+192519369,150876,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (LVA @ TOR),18.0,NBA,2026-07-21 00:00:00+00:00,1.0,20
+192519370,150876,0.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (LVA @ TOR),4000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,4
+192519371,150876,0.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (LVA @ TOR),4000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,4
+192519372,150876,0.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (LVA @ TOR),1000.0,NBA,2026-07-21 00:00:00+00:00,267.0,4
+192519373,150876,0.0,False,False,False,False,True,WNBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (LVA @ TOR),460.0,NBA,2026-07-21 00:00:00+00:00,100.0,5
+192519374,150876,0.0,False,False,False,False,True,WNBA Showdown $5.7K Courtside Special [Single Entry] (Must Fill) (LVA @ TOR),5700.0,NBA,2026-07-21 00:00:00+00:00,1500.0,4
+192519375,150876,0.0,False,False,False,False,True,WNBA Showdown Satellite to NBA Best Ball $20 Shootaround [Must Fill] (LVA @ TOR),20.0,NBA,2026-07-21 00:00:00+00:00,7.4,3
+192519376,150876,0.0,False,False,False,False,True,WNBA Showdown Satellite to NBA Best Ball $20 Shootaround [Must Fill] (LVA @ TOR),20.0,NBA,2026-07-21 00:00:00+00:00,7.4,3
+192519377,150873,0.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519378,150873,0.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2026-07-21 00:00:00+00:00,10.0,3
+192519379,150873,0.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519380,150873,0.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192519381,150873,0.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519382,150873,0.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2026-07-21 00:00:00+00:00,1.0,5
+192519383,150873,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192519385,150873,0.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2026-07-21 00:00:00+00:00,20.0,10
+192519386,150873,0.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519387,150873,0.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519388,150873,0.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2026-07-21 00:00:00+00:00,3.0,10
+192519389,150873,0.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519390,150873,0.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519391,150873,0.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519392,150873,0.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519393,150873,0.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519394,150873,0.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2026-07-21 00:00:00+00:00,2.0,5
+192519395,150873,0.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2026-07-21 00:00:00+00:00,2.0,10
+192519396,150873,0.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519397,150873,0.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2026-07-21 00:00:00+00:00,5.0,5
+192519398,150873,0.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519399,150873,0.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2026-07-21 00:00:00+00:00,10.0,5
+192519400,150873,0.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2026-07-21 00:00:00+00:00,10.0,3
+192519401,150873,0.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2026-07-21 00:00:00+00:00,20.0,3
+192519402,150873,0.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2026-07-21 00:00:00+00:00,50.0,5
+192519403,150873,0.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2026-07-21 00:00:00+00:00,50.0,3
+192519404,150873,0.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2026-07-21 00:00:00+00:00,109.0,3
+192519405,150873,0.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2026-07-21 00:00:00+00:00,162.0,3
+192519406,150873,0.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2026-07-21 00:00:00+00:00,530.0,3
+192519407,150873,0.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,3
+192519408,150873,0.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2026-07-21 00:00:00+00:00,5300.0,3
+192519409,150873,0.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2026-07-21 00:00:00+00:00,10600.0,3
+192519410,150873,0.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2026-07-21 00:00:00+00:00,20.0,4
+192519411,150873,0.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519412,150873,0.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519413,150873,0.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2026-07-21 00:00:00+00:00,3.0,10
+192519414,150873,0.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519415,150873,0.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2026-07-21 00:00:00+00:00,5300.0,4
+192519416,150873,0.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,4
+192519417,150873,0.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2026-07-21 00:00:00+00:00,530.0,4
+192519418,150873,0.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2026-07-21 00:00:00+00:00,109.0,4
+192519419,150873,0.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2026-07-21 00:00:00+00:00,50.0,4
+192519420,150873,0.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2026-07-21 00:00:00+00:00,20.0,4
+192519421,150873,0.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2026-07-21 00:00:00+00:00,10.0,4
+192519422,150873,0.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2026-07-21 00:00:00+00:00,50.0,10
+192519423,150873,0.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519424,150873,0.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519425,150873,0.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2026-07-21 00:00:00+00:00,109.0,6
+192519426,150873,0.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2026-07-21 00:00:00+00:00,2.0,10
+192519427,150873,0.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2026-07-21 00:00:00+00:00,20.0,10
+192519428,150873,0.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519429,150873,0.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2026-07-21 00:00:00+00:00,5.0,20
+192519430,150873,0.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2026-07-21 00:00:00+00:00,10.0,20
+192519431,150873,0.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2026-07-21 00:00:00+00:00,20.0,20
+192519432,150873,0.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2026-07-21 00:00:00+00:00,2.0,20
+192519433,150873,0.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2026-07-21 00:00:00+00:00,1.0,20
+192519434,150873,0.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,4
+192519435,150873,0.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,4
+192519436,150873,0.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2026-07-21 00:00:00+00:00,267.0,4
+192519437,150873,0.0,False,False,False,False,True,WNBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2026-07-21 00:00:00+00:00,100.0,5
+192519438,150873,0.0,False,False,False,False,True,WNBA $5.7K Courtside Special [Single Entry] (Must Fill),5700.0,NBA,2026-07-21 00:00:00+00:00,1500.0,4
+192519439,150873,0.0,False,False,False,False,True,WNBA Satellite to NBA Best Ball $20 Shootaround [Must Fill],20.0,NBA,2026-07-21 00:00:00+00:00,7.4,3
+192519440,150873,0.0,False,False,False,False,True,WNBA Satellite to NBA Best Ball $20 Shootaround [Must Fill],20.0,NBA,2026-07-21 00:00:00+00:00,7.4,3
+192519441,150875,0.0,False,False,False,False,False,Beginner WNBA Single Stat $2 3-Player (Points),5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519442,150875,0.0,False,False,False,False,False,Beginner WNBA Single Stat $10 3-Player (Points),27.0,NBA,2026-07-21 00:00:00+00:00,10.0,3
+192519443,150875,0.0,False,False,False,False,False,Beginner WNBA Single Stat $5 3-Player (Points),13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519444,150875,0.0,False,False,False,False,False,Beginner WNBA Single Stat $1 3-Player (Points),2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192519445,150875,0.0,False,False,False,False,False,WNBA Single Stat $1 10-Player (Points),9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519446,150875,0.0,False,False,False,False,False,WNBA Single Stat $1 5-Player (Points),4.5,NBA,2026-07-21 00:00:00+00:00,1.0,5
+192519447,150875,0.0,False,False,False,False,False,WNBA Single Stat $1 3-Player (Points),2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192519448,150875,0.0,False,False,False,False,False,WNBA Single Stat $1 3-Player (Points),2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192519449,150875,0.0,True,False,False,False,False,Casual WNBA Single Stat $20 50-50 (Points),180.0,NBA,2026-07-21 00:00:00+00:00,20.0,10
+192519450,150875,0.0,True,False,False,False,False,Casual WNBA Single Stat $10 50-50 (Points),90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519451,150875,0.0,True,False,False,False,False,Casual WNBA Single Stat $5 50-50 (Points),45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519452,150875,0.0,True,False,False,False,False,Casual WNBA Single Stat $3 50-50 (Points),27.0,NBA,2026-07-21 00:00:00+00:00,3.0,10
+192519453,150875,0.0,True,False,False,False,False,Casual WNBA Single Stat $1 50-50 (Points),9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519454,150875,0.0,False,False,False,False,False,Casual WNBA Single Stat $5 3-Player (Points),13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519455,150875,0.0,False,False,False,False,False,Casual WNBA Single Stat $2 3-Player (Points),5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519456,150875,0.0,False,False,False,False,False,WNBA Single Stat $2 3-Player (Points),5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519457,150875,0.0,False,False,False,False,False,WNBA Single Stat $2 3-Player (Points),5.4,NBA,2026-07-21 00:00:00+00:00,2.0,3
+192519458,150875,0.0,False,False,False,False,False,WNBA Single Stat $2 5-Player (Points),9.0,NBA,2026-07-21 00:00:00+00:00,2.0,5
+192519459,150875,0.0,False,False,False,False,False,WNBA Single Stat $2 10-Player (Points),18.0,NBA,2026-07-21 00:00:00+00:00,2.0,10
+192519460,150875,0.0,False,False,False,False,False,WNBA Single Stat $5 3-Player (Points),13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519461,150875,0.0,False,False,False,False,False,WNBA Single Stat $5 5-Player (Points),22.5,NBA,2026-07-21 00:00:00+00:00,5.0,5
+192519462,150875,0.0,False,False,False,False,False,WNBA Single Stat $5 10-Player (Points),45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519463,150875,0.0,False,False,False,False,False,WNBA Single Stat $10 5-Player (Points),45.0,NBA,2026-07-21 00:00:00+00:00,10.0,5
+192519464,150875,0.0,False,False,False,False,False,WNBA Single Stat $10 3-Player (Points),27.0,NBA,2026-07-21 00:00:00+00:00,10.0,3
+192519465,150875,0.0,False,False,False,False,False,WNBA Single Stat $20 3-Player (Points),54.0,NBA,2026-07-21 00:00:00+00:00,20.0,3
+192519466,150875,0.0,False,False,False,False,False,WNBA Single Stat $50 5-Player (Points),225.0,NBA,2026-07-21 00:00:00+00:00,50.0,5
+192519467,150875,0.0,False,False,False,False,False,WNBA Single Stat $50 3-Player (Points),135.0,NBA,2026-07-21 00:00:00+00:00,50.0,3
+192519468,150875,0.0,False,False,False,False,False,WNBA Single Stat $109 3-Player (Points),300.0,NBA,2026-07-21 00:00:00+00:00,109.0,3
+192519469,150875,0.0,False,False,False,False,False,WNBA Single Stat $162 3-Player (Points),450.0,NBA,2026-07-21 00:00:00+00:00,162.0,3
+192519470,150875,0.0,False,False,False,False,False,WNBA Single Stat $530 3-Player (Points),1500.0,NBA,2026-07-21 00:00:00+00:00,530.0,3
+192519471,150875,0.0,False,False,False,False,False,"WNBA Single Stat $1,060 3-Player (Points)",3000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,3
+192519472,150875,0.0,False,False,False,False,False,"WNBA Single Stat $5,300 3-Player (Points)",15000.0,NBA,2026-07-21 00:00:00+00:00,5300.0,3
+192519473,150875,0.0,False,False,False,False,False,"WNBA Single Stat $10,600 3-Player (Points)",30000.0,NBA,2026-07-21 00:00:00+00:00,10600.0,3
+192519474,150875,0.0,True,False,False,False,False,Beginner WNBA Single Stat $20 50-50 (Points),72.0,NBA,2026-07-21 00:00:00+00:00,20.0,4
+192519475,150875,0.0,True,False,False,False,False,Beginner WNBA Single Stat $10 50-50 (Points),90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519476,150875,0.0,True,False,False,False,False,Beginner WNBA Single Stat $1 50-50 (Points),9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519477,150875,0.0,True,False,False,False,False,Beginner WNBA Single Stat $3 50-50 (Points),27.0,NBA,2026-07-21 00:00:00+00:00,3.0,10
+192519478,150875,0.0,True,False,False,False,False,Beginner WNBA Single Stat $5 50-50 (Points),45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519479,150875,0.0,True,False,False,False,False,"WNBA Single Stat $5,300 50-50 (Points)",20000.0,NBA,2026-07-21 00:00:00+00:00,5300.0,4
+192519480,150875,0.0,True,False,False,False,False,"WNBA Single Stat $1,060 50-50 (Points)",4000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,4
+192519481,150875,0.0,True,False,False,False,False,WNBA Single Stat $530 50-50 (Points),2000.0,NBA,2026-07-21 00:00:00+00:00,530.0,4
+192519482,150875,0.0,True,False,False,False,False,WNBA Single Stat $109 50-50 (Points),400.0,NBA,2026-07-21 00:00:00+00:00,109.0,4
+192519483,150875,0.0,True,False,False,False,False,WNBA Single Stat $50 50-50 (Points),180.0,NBA,2026-07-21 00:00:00+00:00,50.0,4
+192519484,150875,0.0,True,False,False,False,False,WNBA Single Stat $20 50-50 (Points),72.0,NBA,2026-07-21 00:00:00+00:00,20.0,4
+192519485,150875,0.0,True,False,False,False,False,WNBA Single Stat $10 50-50 (Points),36.0,NBA,2026-07-21 00:00:00+00:00,10.0,4
+192519486,150875,0.0,True,False,False,False,False,WNBA Single Stat $50 50-50 (Points),450.0,NBA,2026-07-21 00:00:00+00:00,50.0,10
+192519487,150875,0.0,True,False,False,False,False,WNBA Single Stat $1 50-50 (Points),9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519488,150875,0.0,True,False,False,False,False,WNBA Single Stat $5 50-50 (Points),45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519489,150875,0.0,True,False,False,False,False,WNBA Single Stat $109 50-50 (Points),600.0,NBA,2026-07-21 00:00:00+00:00,109.0,6
+192519490,150875,0.0,True,False,False,False,False,WNBA Single Stat $2 50-50 (Points),18.0,NBA,2026-07-21 00:00:00+00:00,2.0,10
+192519491,150875,0.0,True,False,False,False,False,WNBA Single Stat $20 50-50 (Points),180.0,NBA,2026-07-21 00:00:00+00:00,20.0,10
+192519492,150875,0.0,True,False,False,False,False,WNBA Single Stat $10 50-50 (Points),90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519493,150875,0.0,True,False,False,False,False,WNBA Single Stat $5 50-50 (Points),90.0,NBA,2026-07-21 00:00:00+00:00,5.0,20
+192519494,150875,0.0,True,False,False,False,False,WNBA Single Stat $10 50-50 (Points),180.0,NBA,2026-07-21 00:00:00+00:00,10.0,20
+192519495,150875,0.0,True,False,False,False,False,WNBA Single Stat $20 50-50 (Points),360.0,NBA,2026-07-21 00:00:00+00:00,20.0,20
+192519496,150875,0.0,True,False,False,False,False,WNBA Single Stat $2 50-50 (Points),36.0,NBA,2026-07-21 00:00:00+00:00,2.0,20
+192519497,150875,0.0,True,False,False,False,False,WNBA Single Stat $1 50-50 (Points),18.0,NBA,2026-07-21 00:00:00+00:00,1.0,20
+192519498,150875,0.0,False,False,False,False,True,WNBA Single Stat $4K All Star [Single Entry] (Must Fill) (Points),4000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,4
+192519499,150875,0.0,False,False,False,False,True,WNBA Single Stat $4K All Star [Single Entry] (Must Fill) (Points),4000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,4
+192519500,150875,0.0,False,False,False,False,True,WNBA Single Stat $267 Winner Take All [$1K to 1st] (Must Fill) (Points),1000.0,NBA,2026-07-21 00:00:00+00:00,267.0,4
+192519501,150875,0.0,False,False,False,False,True,WNBA Single Stat $100 Winner Take All [$460 to 1st] (Must Fill) (Points),460.0,NBA,2026-07-21 00:00:00+00:00,100.0,5
+192519502,150875,0.0,False,False,False,False,True,WNBA Single Stat $5.7K Courtside Special [Single Entry] (Must Fill) (Points),5700.0,NBA,2026-07-21 00:00:00+00:00,1500.0,4
+192519503,150875,0.0,False,False,False,False,True,WNBA Single Stat Satellite to NBA Best Ball $20 Shootaround [Must Fill] (Points),20.0,NBA,2026-07-21 00:00:00+00:00,7.4,3
+192519504,150875,0.0,False,False,False,False,True,WNBA Single Stat Satellite to NBA Best Ball $20 Shootaround [Must Fill] (Points),20.0,NBA,2026-07-21 00:00:00+00:00,7.4,3
+192519533,150873,0.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2026-07-21 00:00:00+00:00,3.0,23
+192519534,150873,0.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2026-07-21 00:00:00+00:00,1.0,31
+192519535,150873,0.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2026-07-21 00:00:00+00:00,1.0,31
+192519536,150873,0.0,False,False,True,False,False,WNBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2026-07-21 00:00:00+00:00,5.0,31
+192519537,150873,0.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2026-07-21 00:00:00+00:00,25.0,11
+192519538,150873,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-07-21 00:00:00+00:00,10.0,11
+192519539,150873,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-07-21 00:00:00+00:00,10.0,11
+192519540,150873,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-07-21 00:00:00+00:00,10.0,11
+192519541,150873,0.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2026-07-21 00:00:00+00:00,5.0,34
+192519542,150873,0.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2026-07-21 00:00:00+00:00,5.0,23
+192519543,150873,0.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2026-07-21 00:00:00+00:00,3.0,34
+192519544,150873,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2026-07-21 00:00:00+00:00,1.0,34
+192519545,150873,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2026-07-21 00:00:00+00:00,1.0,34
+192519546,150873,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2026-07-21 00:00:00+00:00,1.0,34
+192519547,150873,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2026-07-21 00:00:00+00:00,1.0,23
+192519548,150873,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2026-07-21 00:00:00+00:00,1.0,23
+192519549,150873,0.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2026-07-21 00:00:00+00:00,3.0,23
+192519550,150873,0.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2026-07-21 00:00:00+00:00,5.0,23
+192519551,150873,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-07-21 00:00:00+00:00,10.0,11
+192519552,150873,0.0,False,False,True,False,False,WNBA $50 Winner Take All [$220 to 1st],220.0,NBA,2026-07-21 00:00:00+00:00,50.0,5
+192519553,150873,0.0,False,False,True,False,False,WNBA $50 Winner Take All [$220 to 1st],220.0,NBA,2026-07-21 00:00:00+00:00,50.0,5
+192519554,150873,0.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2026-07-21 00:00:00+00:00,38.0,3
+192519555,150873,0.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2026-07-21 00:00:00+00:00,38.0,3
+192519556,150873,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire,25.0,NBA,2026-07-21 00:00:00+00:00,0.25,118
+192519557,150873,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire,25.0,NBA,2026-07-21 00:00:00+00:00,0.25,118
+192519558,150873,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire,25.0,NBA,2026-07-21 00:00:00+00:00,0.25,118
+192519559,150873,0.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-07-21 00:00:00+00:00,9.0,3
+192519560,150873,0.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-07-21 00:00:00+00:00,9.0,3
+192519561,150873,0.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-07-21 00:00:00+00:00,9.0,3
+192519562,150873,0.0,False,False,True,False,True,WNBA Satellite to TEN $20 Stars and Stripes Special (8-31),20.0,NBA,2026-07-21 00:00:00+00:00,1.0,23
+192519592,150874,0.0,False,False,False,False,False,WNBA Snake $1 6-Player,5.4,NBA,2026-07-21 00:00:00+00:00,1.0,6
+192519593,150874,0.0,False,False,False,False,False,WNBA Snake $1 6-Player,5.4,NBA,2026-07-21 00:00:00+00:00,1.0,6
+192519594,150874,0.0,False,False,False,False,False,WNBA Snake $5 6-Player,27.0,NBA,2026-07-21 00:00:00+00:00,5.0,6
+192519595,150874,0.0,False,False,False,False,False,WNBA Snake $10 6-Player,54.0,NBA,2026-07-21 00:00:00+00:00,10.0,6
+192519596,150874,0.0,False,False,False,False,False,WNBA Snake $10 6-Player,54.0,NBA,2026-07-21 00:00:00+00:00,10.0,6
+192519597,150874,0.0,False,False,False,False,False,WNBA Snake $20 6-Player,108.0,NBA,2026-07-21 00:00:00+00:00,20.0,6
+192519598,150874,0.0,False,False,False,False,False,WNBA Snake $50 6-Player,270.0,NBA,2026-07-21 00:00:00+00:00,50.0,6
+192519599,150874,0.0,False,False,False,False,False,WNBA Snake $109 6-Player,600.0,NBA,2026-07-21 00:00:00+00:00,109.0,6
+192519600,150874,0.0,False,False,False,False,False,WNBA Snake $530 6-Player,3000.0,NBA,2026-07-21 00:00:00+00:00,530.0,6
+192519604,150874,0.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519605,150874,0.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2026-07-21 00:00:00+00:00,5.0,3
+192519606,150874,0.0,False,False,False,False,False,WNBA Snake $10 3-Player,27.0,NBA,2026-07-21 00:00:00+00:00,10.0,3
+192519607,150874,0.0,False,False,False,False,False,WNBA Snake $10 3-Player,27.0,NBA,2026-07-21 00:00:00+00:00,10.0,3
+192519608,150874,0.0,False,False,False,False,False,WNBA Snake $20 3-Player,54.0,NBA,2026-07-21 00:00:00+00:00,20.0,3
+192519609,150874,0.0,False,False,False,False,False,WNBA Snake $50 3-Player,135.0,NBA,2026-07-21 00:00:00+00:00,50.0,3
+192519610,150874,0.0,False,False,False,False,False,WNBA Snake $50 3-Player,135.0,NBA,2026-07-21 00:00:00+00:00,50.0,3
+192519611,150874,0.0,False,False,False,False,False,WNBA Snake $109 3-Player,300.0,NBA,2026-07-21 00:00:00+00:00,109.0,3
+192519612,150874,0.0,False,False,False,False,False,WNBA Snake $530 3-Player,1500.0,NBA,2026-07-21 00:00:00+00:00,530.0,3
+192519613,150874,0.0,False,False,False,False,False,"WNBA Snake $2,120 3-Player",6000.0,NBA,2026-07-21 00:00:00+00:00,2120.0,3
+192519614,150874,0.0,False,False,False,False,False,"WNBA Snake $1,060 3-Player",3000.0,NBA,2026-07-21 00:00:00+00:00,1060.0,3
+192519615,150874,0.0,False,False,False,False,False,"WNBA Snake $5,300 3-Player",15000.0,NBA,2026-07-21 00:00:00+00:00,5300.0,3
+192519616,150874,0.0,False,False,False,False,False,"WNBA Snake $10,600 3-Player",30000.0,NBA,2026-07-21 00:00:00+00:00,10600.0,3
+192519618,150875,0.0,False,False,True,False,True,WNBA Single Stat $1 Winner Take All [$100 to 1st] (Points),100.0,NBA,2026-07-21 00:00:00+00:00,1.0,118
+192519661,150876,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ TOR),20.0,NBA,2026-07-21 00:00:00+00:00,1.0,23
+192519662,150876,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ TOR),20.0,NBA,2026-07-21 00:00:00+00:00,1.0,23
+192519663,150876,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ TOR),20.0,NBA,2026-07-21 00:00:00+00:00,1.0,23
+192519664,150876,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ TOR),20.0,NBA,2026-07-21 00:00:00+00:00,1.0,23
+192519665,150876,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ TOR),20.0,NBA,2026-07-21 00:00:00+00:00,1.0,23
+192519666,150876,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ TOR),20.0,NBA,2026-07-21 00:00:00+00:00,1.0,23
+192519667,150876,0.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (LVA @ TOR),110.0,NBA,2026-07-21 00:00:00+00:00,25.0,5
+192519668,150876,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (LVA @ TOR),25.0,NBA,2026-07-21 00:00:00+00:00,9.0,3
+192519669,150876,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (LVA @ TOR),25.0,NBA,2026-07-21 00:00:00+00:00,9.0,3
+192519670,150876,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (LVA @ TOR),25.0,NBA,2026-07-21 00:00:00+00:00,9.0,3
+192519671,150876,0.0,True,False,True,False,False,WNBA Showdown $10 50-50 [Top 50% Win] (LVA @ TOR),90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519672,150876,0.0,True,False,True,False,False,WNBA Showdown $10 50-50 [Top 50% Win] (LVA @ TOR),90.0,NBA,2026-07-21 00:00:00+00:00,10.0,10
+192519673,150876,0.0,True,False,True,False,False,WNBA Showdown $3 50-50 [Top 50% Win] (LVA @ TOR),27.0,NBA,2026-07-21 00:00:00+00:00,3.0,10
+192519674,150876,0.0,True,False,True,False,False,WNBA Showdown $3 50-50 [Top 50% Win] (LVA @ TOR),27.0,NBA,2026-07-21 00:00:00+00:00,3.0,10
+192519675,150876,0.0,True,False,True,False,False,WNBA Showdown $5 50-50 [Top 50% Win] (LVA @ TOR),45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519676,150876,0.0,True,False,True,False,False,WNBA Showdown $5 50-50 [Top 50% Win] (LVA @ TOR),45.0,NBA,2026-07-21 00:00:00+00:00,5.0,10
+192519677,150876,0.0,True,False,True,False,False,WNBA Showdown $1 50-50 [Top 50% Win] (LVA @ TOR),9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519678,150876,0.0,True,False,True,False,False,WNBA Showdown $1 50-50 [Top 50% Win] (LVA @ TOR),9.0,NBA,2026-07-21 00:00:00+00:00,1.0,10
+192519679,150877,0.0,True,False,True,False,False,WNBA $1 Double Up (Late),20.0,NBA,2026-07-21 02:00:00+00:00,1.0,23
+192519680,150877,0.0,True,False,True,False,False,WNBA $1 Double Up (Late),20.0,NBA,2026-07-21 02:00:00+00:00,1.0,23
+192519681,150877,0.0,True,False,True,False,False,WNBA $1 Double Up (Late),20.0,NBA,2026-07-21 02:00:00+00:00,1.0,23
+192519682,150877,0.0,True,False,True,False,False,WNBA $1 Double Up (Late),20.0,NBA,2026-07-21 02:00:00+00:00,1.0,23
+192519683,150877,0.0,True,False,True,False,False,WNBA $1 Double Up (Late),20.0,NBA,2026-07-21 02:00:00+00:00,1.0,23
+192519684,150877,0.0,True,False,True,False,False,WNBA $1 Double Up (Late),20.0,NBA,2026-07-21 02:00:00+00:00,1.0,23
+192519685,150877,0.0,False,False,True,False,True,WNBA $25 Winner Take All [$110 to 1st] (Late),110.0,NBA,2026-07-21 02:00:00+00:00,25.0,5
+192519686,150877,0.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Late),25.0,NBA,2026-07-21 02:00:00+00:00,9.0,3
+192519687,150877,0.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Late),25.0,NBA,2026-07-21 02:00:00+00:00,9.0,3
+192519688,150877,0.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire [Must Fill] (Late),25.0,NBA,2026-07-21 02:00:00+00:00,9.0,3
+192519689,150877,0.0,True,False,True,False,False,WNBA $10 50-50 [Top 50% Win] (Late),90.0,NBA,2026-07-21 02:00:00+00:00,10.0,10
+192519690,150877,0.0,True,False,True,False,False,WNBA $10 50-50 [Top 50% Win] (Late),90.0,NBA,2026-07-21 02:00:00+00:00,10.0,10
+192519691,150877,0.0,True,False,True,False,False,WNBA $3 50-50 [Top 50% Win] (Late),27.0,NBA,2026-07-21 02:00:00+00:00,3.0,10
+192519692,150877,0.0,True,False,True,False,False,WNBA $3 50-50 [Top 50% Win] (Late),27.0,NBA,2026-07-21 02:00:00+00:00,3.0,10
+192519693,150877,0.0,True,False,True,False,False,WNBA $5 50-50 [Top 50% Win] (Late),45.0,NBA,2026-07-21 02:00:00+00:00,5.0,10
+192519694,150877,0.0,True,False,True,False,False,WNBA $5 50-50 [Top 50% Win] (Late),45.0,NBA,2026-07-21 02:00:00+00:00,5.0,10
+192519695,150877,0.0,True,False,True,False,False,WNBA $1 50-50 [Top 50% Win] (Late),9.0,NBA,2026-07-21 02:00:00+00:00,1.0,10
+192519696,150877,0.0,True,False,True,False,False,WNBA $1 50-50 [Top 50% Win] (Late),9.0,NBA,2026-07-21 02:00:00+00:00,1.0,10
+192519739,150873,0.0,False,False,True,False,True,WNBA $100K Queen of the Court Qualifier #32,2000.0,NBA,2026-07-21 00:00:00+00:00,164.0,14
+192521443,150874,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192522728,150874,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192527935,150873,0.0,False,False,True,False,False,WNBA FREE 100-Player,0.0,NBA,2026-07-21 00:00:00+00:00,0.0,100
+192528256,150873,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
+192528420,150874,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2026-07-21 00:00:00+00:00,1.0,3
