@@ -1,0 +1,490 @@
+contest_id,draft_group_id,fantasy_player_points,is_double_up,is_fifty_fifty,is_guaranteed,is_head_to_head,is_starred,name,payout,sport,starts_at,entry_fee,entry_max
+193405890,151195,0.0,False,False,True,False,True,WNBA $1.5K Money Ball [Single Entry],1500.0,NBA,2026-08-08 17:00:00+00:00,333.0,5
+193405893,151195,0.0,False,False,True,False,True,WNBA $2K Slam Jam [Single Entry],2000.0,NBA,2026-08-08 17:00:00+00:00,222.0,10
+193405896,151195,0.0,False,False,True,False,True,WNBA $1K Showtime [Single Entry],1000.0,NBA,2026-08-08 17:00:00+00:00,100.0,11
+193405899,151195,0.0,False,False,True,False,True,WNBA $400 Ankle Breaker [Single Entry],400.0,NBA,2026-08-08 17:00:00+00:00,50.0,9
+193405902,151195,0.0,False,False,True,False,True,WNBA $285 Triple Threat [Single Entry],285.0,NBA,2026-08-08 17:00:00+00:00,33.0,10
+193405903,151200,0.0,False,False,True,False,True,WNBA Showdown $285 Triple Threat [Single Entry] (SEA @ PDX),285.0,NBA,2026-08-09 00:30:00+00:00,33.0,10
+193405911,151198,0.0,False,False,True,False,True,WNBA Showdown $3K Fadeaway [$1K to 1st] (LVA @ MIN),3000.0,NBA,2026-08-08 17:00:00+00:00,15.0,235
+193405912,151199,0.0,False,False,True,False,True,WNBA Showdown $5K Fadeaway [$1K to 1st] (IND @ CHI),5000.0,NBA,2026-08-08 19:30:00+00:00,15.0,392
+193405913,151200,0.0,False,False,True,False,True,WNBA Showdown $8K Fadeaway [$2K to 1st] (SEA @ PDX),8000.0,NBA,2026-08-09 00:30:00+00:00,15.0,627
+193405920,151195,0.0,False,False,True,False,True,WNBA $5K Zone [$1K to 1st],5000.0,NBA,2026-08-08 17:00:00+00:00,5.0,1189
+193405921,151198,0.0,False,False,True,False,True,WNBA Showdown $750 Zone (LVA @ MIN),750.0,NBA,2026-08-08 17:00:00+00:00,5.0,178
+193405922,151199,0.0,False,False,True,False,True,WNBA Showdown $1K Zone (IND @ CHI),1000.0,NBA,2026-08-08 19:30:00+00:00,5.0,237
+193405923,151200,0.0,False,False,True,False,True,WNBA Showdown $3K Zone [$1K to 1st] (SEA @ PDX),3000.0,NBA,2026-08-09 00:30:00+00:00,5.0,713
+193405931,151198,0.0,False,False,True,False,True,WNBA Showdown $100 Sharpshooter (LVA @ MIN),100.0,NBA,2026-08-08 17:00:00+00:00,3.0,39
+193405932,151199,0.0,False,False,True,False,True,WNBA Showdown $100 Sharpshooter (IND @ CHI),100.0,NBA,2026-08-08 19:30:00+00:00,3.0,39
+193405937,151195,0.0,False,False,True,False,True,WNBA $750 And-One [20 Entry Max],750.0,NBA,2026-08-08 17:00:00+00:00,1.0,891
+193405938,151198,0.0,False,False,True,False,True,WNBA Showdown $250 And-One (LVA @ MIN),250.0,NBA,2026-08-08 17:00:00+00:00,1.0,297
+193405939,151199,0.0,False,False,True,False,True,WNBA Showdown $250 And-One (IND @ CHI),250.0,NBA,2026-08-08 19:30:00+00:00,1.0,297
+193405940,151200,0.0,False,False,True,False,True,WNBA Showdown $500 And-One (SEA @ PDX),500.0,NBA,2026-08-09 00:30:00+00:00,1.0,594
+193405949,151195,0.0,False,False,True,False,True,WNBA $2.1K mini-MAX [150 Entry Max],2150.0,NBA,2026-08-08 17:00:00+00:00,0.5,5112
+193405952,151195,0.0,False,False,True,False,True,WNBA $250 Quarter Jukebox [Just $0.25!] ,250.0,NBA,2026-08-08 17:00:00+00:00,0.25,1189
+193405953,151198,0.0,False,False,True,False,True,WNBA Showdown $300 Quarter Jukebox [Just $0.25!]  (LVA @ MIN),300.0,NBA,2026-08-08 17:00:00+00:00,0.25,1426
+193405954,151199,0.0,False,False,True,False,True,WNBA Showdown $300 Quarter Jukebox [Just $0.25!]  (IND @ CHI),300.0,NBA,2026-08-08 19:30:00+00:00,0.25,1426
+193405955,151200,0.0,False,False,True,False,True,WNBA Showdown $150 Quarter Jukebox [Just $0.25!] (SEA @ PDX),150.0,NBA,2026-08-09 00:30:00+00:00,0.25,713
+193405964,151195,0.0,False,False,True,False,True,WNBA $100 Dime Time [Just $0.10!],100.0,NBA,2026-08-08 17:00:00+00:00,0.1,1189
+193405965,151198,0.0,False,False,True,False,True,WNBA Showdown $20 Dime Time [Just $0.10!] (LVA @ MIN),20.0,NBA,2026-08-08 17:00:00+00:00,0.1,237
+193405966,151199,0.0,False,False,True,False,True,WNBA Showdown $20 Dime Time [Just $0.10!] (IND @ CHI),20.0,NBA,2026-08-08 19:30:00+00:00,0.1,237
+193405967,151200,0.0,False,False,True,False,True,WNBA Showdown $20 Dime Time [Just $0.10!] (SEA @ PDX),20.0,NBA,2026-08-09 00:30:00+00:00,0.1,237
+193405976,151195,0.0,False,False,True,False,True,WNBA $155 Pick and Roll [Single Entry],155.0,NBA,2026-08-08 17:00:00+00:00,12.0,15
+193405977,151200,0.0,False,False,True,False,True,WNBA Showdown $250 Pick and Roll [Single Entry] (SEA @ PDX),250.0,NBA,2026-08-09 00:30:00+00:00,12.0,24
+193405982,151195,0.0,False,False,True,False,True,WNBA $500 High Five [Single Entry],500.0,NBA,2026-08-08 17:00:00+00:00,5.0,118
+193405983,151198,0.0,False,False,True,False,True,WNBA Showdown $100 High Five [Single Entry] (LVA @ MIN),100.0,NBA,2026-08-08 17:00:00+00:00,5.0,23
+193405984,151199,0.0,False,False,True,False,True,WNBA Showdown $100 High Five [Single Entry] (IND @ CHI),100.0,NBA,2026-08-08 19:30:00+00:00,5.0,23
+193405986,151200,0.0,False,False,True,False,True,WNBA Showdown $250 High Five [Single Entry] (SEA @ PDX),250.0,NBA,2026-08-09 00:30:00+00:00,5.0,59
+193405995,151195,0.0,False,False,True,False,True,WNBA $50 Daily Dollar [Single Entry],50.0,NBA,2026-08-08 17:00:00+00:00,1.0,59
+193405996,151198,0.0,False,False,True,False,True,WNBA Showdown $50 Daily Dollar [Single Entry] (LVA @ MIN),50.0,NBA,2026-08-08 17:00:00+00:00,1.0,59
+193405997,151199,0.0,False,False,True,False,True,WNBA Showdown $50 Daily Dollar [Single Entry] (IND @ CHI),50.0,NBA,2026-08-08 19:30:00+00:00,1.0,59
+193405998,151200,0.0,False,False,True,False,True,WNBA Showdown $50 Daily Dollar [Single Entry] (SEA @ PDX),50.0,NBA,2026-08-09 00:30:00+00:00,1.0,59
+193406007,151195,0.0,True,False,True,False,True,WNBA Single Entry $5 Double Up,200.0,NBA,2026-08-08 17:00:00+00:00,5.0,45
+193406099,151200,0.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (SEA @ PDX),5.4,NBA,2026-08-09 00:30:00+00:00,2.0,3
+193406100,151200,0.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (SEA @ PDX),27.0,NBA,2026-08-09 00:30:00+00:00,10.0,3
+193406101,151200,0.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (SEA @ PDX),13.5,NBA,2026-08-09 00:30:00+00:00,5.0,3
+193406102,151200,0.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (SEA @ PDX),2.7,NBA,2026-08-09 00:30:00+00:00,1.0,3
+193406103,151200,0.0,False,False,False,False,False,WNBA Showdown $1 10-Player (SEA @ PDX),9.0,NBA,2026-08-09 00:30:00+00:00,1.0,10
+193406104,151200,0.0,False,False,False,False,False,WNBA Showdown $1 5-Player (SEA @ PDX),4.5,NBA,2026-08-09 00:30:00+00:00,1.0,5
+193406105,151200,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (SEA @ PDX),2.7,NBA,2026-08-09 00:30:00+00:00,1.0,3
+193406106,151200,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (SEA @ PDX),2.7,NBA,2026-08-09 00:30:00+00:00,1.0,3
+193406107,151200,0.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (SEA @ PDX),180.0,NBA,2026-08-09 00:30:00+00:00,20.0,10
+193406108,151200,0.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (SEA @ PDX),90.0,NBA,2026-08-09 00:30:00+00:00,10.0,10
+193406109,151200,0.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (SEA @ PDX),45.0,NBA,2026-08-09 00:30:00+00:00,5.0,10
+193406110,151200,0.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (SEA @ PDX),27.0,NBA,2026-08-09 00:30:00+00:00,3.0,10
+193406111,151200,0.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (SEA @ PDX),9.0,NBA,2026-08-09 00:30:00+00:00,1.0,10
+193406112,151200,0.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (SEA @ PDX),13.5,NBA,2026-08-09 00:30:00+00:00,5.0,3
+193406113,151200,0.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (SEA @ PDX),5.4,NBA,2026-08-09 00:30:00+00:00,2.0,3
+193406114,151200,0.0,False,False,False,False,False,WNBA Showdown $2 3-Player (SEA @ PDX),5.4,NBA,2026-08-09 00:30:00+00:00,2.0,3
+193406115,151200,0.0,False,False,False,False,False,WNBA Showdown $2 3-Player (SEA @ PDX),5.4,NBA,2026-08-09 00:30:00+00:00,2.0,3
+193406116,151200,0.0,False,False,False,False,False,WNBA Showdown $2 5-Player (SEA @ PDX),9.0,NBA,2026-08-09 00:30:00+00:00,2.0,5
+193406117,151200,0.0,False,False,False,False,False,WNBA Showdown $2 10-Player (SEA @ PDX),18.0,NBA,2026-08-09 00:30:00+00:00,2.0,10
+193406118,151200,0.0,False,False,False,False,False,WNBA Showdown $5 3-Player (SEA @ PDX),13.5,NBA,2026-08-09 00:30:00+00:00,5.0,3
+193406119,151200,0.0,False,False,False,False,False,WNBA Showdown $5 5-Player (SEA @ PDX),22.5,NBA,2026-08-09 00:30:00+00:00,5.0,5
+193406120,151200,0.0,False,False,False,False,False,WNBA Showdown $5 10-Player (SEA @ PDX),45.0,NBA,2026-08-09 00:30:00+00:00,5.0,10
+193406121,151200,0.0,False,False,False,False,False,WNBA Showdown $10 5-Player (SEA @ PDX),45.0,NBA,2026-08-09 00:30:00+00:00,10.0,5
+193406122,151200,0.0,False,False,False,False,False,WNBA Showdown $10 3-Player (SEA @ PDX),27.0,NBA,2026-08-09 00:30:00+00:00,10.0,3
+193406123,151200,0.0,False,False,False,False,False,WNBA Showdown $20 3-Player (SEA @ PDX),54.0,NBA,2026-08-09 00:30:00+00:00,20.0,3
+193406124,151200,0.0,False,False,False,False,False,WNBA Showdown $50 5-Player (SEA @ PDX),225.0,NBA,2026-08-09 00:30:00+00:00,50.0,5
+193406125,151200,0.0,False,False,False,False,False,WNBA Showdown $50 3-Player (SEA @ PDX),135.0,NBA,2026-08-09 00:30:00+00:00,50.0,3
+193406126,151200,0.0,False,False,False,False,False,WNBA Showdown $109 3-Player (SEA @ PDX),300.0,NBA,2026-08-09 00:30:00+00:00,109.0,3
+193406128,151200,0.0,False,False,False,False,False,WNBA Showdown $162 3-Player (SEA @ PDX),450.0,NBA,2026-08-09 00:30:00+00:00,162.0,3
+193406129,151200,0.0,False,False,False,False,False,WNBA Showdown $530 3-Player (SEA @ PDX),1500.0,NBA,2026-08-09 00:30:00+00:00,530.0,3
+193406131,151200,0.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (SEA @ PDX)",3000.0,NBA,2026-08-09 00:30:00+00:00,1060.0,3
+193406133,151200,0.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (SEA @ PDX)",15000.0,NBA,2026-08-09 00:30:00+00:00,5300.0,3
+193406135,151200,0.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (SEA @ PDX)",30000.0,NBA,2026-08-09 00:30:00+00:00,10600.0,3
+193406137,151200,0.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (SEA @ PDX),72.0,NBA,2026-08-09 00:30:00+00:00,20.0,4
+193406139,151200,0.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (SEA @ PDX),90.0,NBA,2026-08-09 00:30:00+00:00,10.0,10
+193406140,151200,0.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (SEA @ PDX),9.0,NBA,2026-08-09 00:30:00+00:00,1.0,10
+193406142,151200,0.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (SEA @ PDX),27.0,NBA,2026-08-09 00:30:00+00:00,3.0,10
+193406144,151200,0.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (SEA @ PDX),45.0,NBA,2026-08-09 00:30:00+00:00,5.0,10
+193406146,151200,0.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (SEA @ PDX)",20000.0,NBA,2026-08-09 00:30:00+00:00,5300.0,4
+193406148,151200,0.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (SEA @ PDX)",4000.0,NBA,2026-08-09 00:30:00+00:00,1060.0,4
+193406150,151200,0.0,True,False,False,False,False,WNBA Showdown $530 50-50 (SEA @ PDX),2000.0,NBA,2026-08-09 00:30:00+00:00,530.0,4
+193406152,151200,0.0,True,False,False,False,False,WNBA Showdown $109 50-50 (SEA @ PDX),400.0,NBA,2026-08-09 00:30:00+00:00,109.0,4
+193406154,151200,0.0,True,False,False,False,False,WNBA Showdown $50 50-50 (SEA @ PDX),180.0,NBA,2026-08-09 00:30:00+00:00,50.0,4
+193406155,151200,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (SEA @ PDX),72.0,NBA,2026-08-09 00:30:00+00:00,20.0,4
+193406156,151200,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (SEA @ PDX),36.0,NBA,2026-08-09 00:30:00+00:00,10.0,4
+193406157,151200,0.0,True,False,False,False,False,WNBA Showdown $50 50-50 (SEA @ PDX),450.0,NBA,2026-08-09 00:30:00+00:00,50.0,10
+193406158,151200,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (SEA @ PDX),9.0,NBA,2026-08-09 00:30:00+00:00,1.0,10
+193406159,151200,0.0,True,False,False,False,False,WNBA Showdown $5 50-50 (SEA @ PDX),45.0,NBA,2026-08-09 00:30:00+00:00,5.0,10
+193406160,151200,0.0,True,False,False,False,False,WNBA Showdown $109 50-50 (SEA @ PDX),600.0,NBA,2026-08-09 00:30:00+00:00,109.0,6
+193406161,151200,0.0,True,False,False,False,False,WNBA Showdown $2 50-50 (SEA @ PDX),18.0,NBA,2026-08-09 00:30:00+00:00,2.0,10
+193406162,151200,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (SEA @ PDX),180.0,NBA,2026-08-09 00:30:00+00:00,20.0,10
+193406163,151200,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (SEA @ PDX),90.0,NBA,2026-08-09 00:30:00+00:00,10.0,10
+193406164,151200,0.0,True,False,False,False,False,WNBA Showdown $5 50-50 (SEA @ PDX),90.0,NBA,2026-08-09 00:30:00+00:00,5.0,20
+193406165,151200,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (SEA @ PDX),180.0,NBA,2026-08-09 00:30:00+00:00,10.0,20
+193406166,151200,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (SEA @ PDX),360.0,NBA,2026-08-09 00:30:00+00:00,20.0,20
+193406167,151200,0.0,True,False,False,False,False,WNBA Showdown $2 50-50 (SEA @ PDX),36.0,NBA,2026-08-09 00:30:00+00:00,2.0,20
+193406168,151200,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (SEA @ PDX),18.0,NBA,2026-08-09 00:30:00+00:00,1.0,20
+193406169,151200,0.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (SEA @ PDX),4000.0,NBA,2026-08-09 00:30:00+00:00,1060.0,4
+193406170,151200,0.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (SEA @ PDX),4000.0,NBA,2026-08-09 00:30:00+00:00,1060.0,4
+193406171,151200,0.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (SEA @ PDX),1000.0,NBA,2026-08-09 00:30:00+00:00,267.0,4
+193406172,151200,0.0,False,False,False,False,True,WNBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (SEA @ PDX),460.0,NBA,2026-08-09 00:30:00+00:00,100.0,5
+193406173,151200,0.0,False,False,False,False,True,WNBA Showdown $5.7K Courtside Special [Single Entry] (Must Fill) (SEA @ PDX),5700.0,NBA,2026-08-09 00:30:00+00:00,1500.0,4
+193406174,151200,0.0,False,False,False,False,True,WNBA Showdown Satellite to NBA Best Ball $20 Shootaround [Must Fill] (SEA @ PDX),20.0,NBA,2026-08-09 00:30:00+00:00,7.4,3
+193406175,151200,0.0,False,False,False,False,True,WNBA Showdown Satellite to NBA Best Ball $20 Shootaround [Must Fill] (SEA @ PDX),20.0,NBA,2026-08-09 00:30:00+00:00,7.4,3
+193406177,151198,0.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (LVA @ MIN),5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406178,151198,0.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (LVA @ MIN),27.0,NBA,2026-08-08 17:00:00+00:00,10.0,3
+193406179,151198,0.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (LVA @ MIN),13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193406180,151198,0.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (LVA @ MIN),2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193406181,151198,0.0,False,False,False,False,False,WNBA Showdown $1 10-Player (LVA @ MIN),9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406182,151198,0.0,False,False,False,False,False,WNBA Showdown $1 5-Player (LVA @ MIN),4.5,NBA,2026-08-08 17:00:00+00:00,1.0,5
+193406183,151198,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (LVA @ MIN),2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193406184,151198,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (LVA @ MIN),2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193406185,151198,0.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (LVA @ MIN),180.0,NBA,2026-08-08 17:00:00+00:00,20.0,10
+193406186,151198,0.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (LVA @ MIN),90.0,NBA,2026-08-08 17:00:00+00:00,10.0,10
+193406187,151198,0.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (LVA @ MIN),45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406188,151198,0.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (LVA @ MIN),27.0,NBA,2026-08-08 17:00:00+00:00,3.0,10
+193406189,151198,0.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (LVA @ MIN),9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406190,151198,0.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (LVA @ MIN),13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193406191,151198,0.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (LVA @ MIN),5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406192,151198,0.0,False,False,False,False,False,WNBA Showdown $2 3-Player (LVA @ MIN),5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406193,151198,0.0,False,False,False,False,False,WNBA Showdown $2 3-Player (LVA @ MIN),5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406194,151198,0.0,False,False,False,False,False,WNBA Showdown $2 5-Player (LVA @ MIN),9.0,NBA,2026-08-08 17:00:00+00:00,2.0,5
+193406195,151198,0.0,False,False,False,False,False,WNBA Showdown $2 10-Player (LVA @ MIN),18.0,NBA,2026-08-08 17:00:00+00:00,2.0,10
+193406196,151198,0.0,False,False,False,False,False,WNBA Showdown $5 3-Player (LVA @ MIN),13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193406197,151198,0.0,False,False,False,False,False,WNBA Showdown $5 5-Player (LVA @ MIN),22.5,NBA,2026-08-08 17:00:00+00:00,5.0,5
+193406198,151198,0.0,False,False,False,False,False,WNBA Showdown $5 10-Player (LVA @ MIN),45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406199,151198,0.0,False,False,False,False,False,WNBA Showdown $10 5-Player (LVA @ MIN),45.0,NBA,2026-08-08 17:00:00+00:00,10.0,5
+193406200,151198,0.0,False,False,False,False,False,WNBA Showdown $10 3-Player (LVA @ MIN),27.0,NBA,2026-08-08 17:00:00+00:00,10.0,3
+193406201,151198,0.0,False,False,False,False,False,WNBA Showdown $20 3-Player (LVA @ MIN),54.0,NBA,2026-08-08 17:00:00+00:00,20.0,3
+193406202,151198,0.0,False,False,False,False,False,WNBA Showdown $50 5-Player (LVA @ MIN),225.0,NBA,2026-08-08 17:00:00+00:00,50.0,5
+193406203,151198,0.0,False,False,False,False,False,WNBA Showdown $50 3-Player (LVA @ MIN),135.0,NBA,2026-08-08 17:00:00+00:00,50.0,3
+193406204,151198,0.0,False,False,False,False,False,WNBA Showdown $109 3-Player (LVA @ MIN),300.0,NBA,2026-08-08 17:00:00+00:00,109.0,3
+193406205,151198,0.0,False,False,False,False,False,WNBA Showdown $162 3-Player (LVA @ MIN),450.0,NBA,2026-08-08 17:00:00+00:00,162.0,3
+193406206,151198,0.0,False,False,False,False,False,WNBA Showdown $530 3-Player (LVA @ MIN),1500.0,NBA,2026-08-08 17:00:00+00:00,530.0,3
+193406207,151198,0.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (LVA @ MIN)",3000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,3
+193406208,151198,0.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (LVA @ MIN)",15000.0,NBA,2026-08-08 17:00:00+00:00,5300.0,3
+193406209,151198,0.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (LVA @ MIN)",30000.0,NBA,2026-08-08 17:00:00+00:00,10600.0,3
+193406210,151198,0.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (LVA @ MIN),72.0,NBA,2026-08-08 17:00:00+00:00,20.0,4
+193406211,151198,0.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (LVA @ MIN),90.0,NBA,2026-08-08 17:00:00+00:00,10.0,10
+193406212,151198,0.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (LVA @ MIN),9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406213,151198,0.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (LVA @ MIN),27.0,NBA,2026-08-08 17:00:00+00:00,3.0,10
+193406214,151198,0.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (LVA @ MIN),45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406215,151198,0.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (LVA @ MIN)",20000.0,NBA,2026-08-08 17:00:00+00:00,5300.0,4
+193406216,151198,0.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (LVA @ MIN)",4000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,4
+193406217,151198,0.0,True,False,False,False,False,WNBA Showdown $530 50-50 (LVA @ MIN),2000.0,NBA,2026-08-08 17:00:00+00:00,530.0,4
+193406218,151198,0.0,True,False,False,False,False,WNBA Showdown $109 50-50 (LVA @ MIN),400.0,NBA,2026-08-08 17:00:00+00:00,109.0,4
+193406219,151198,0.0,True,False,False,False,False,WNBA Showdown $50 50-50 (LVA @ MIN),180.0,NBA,2026-08-08 17:00:00+00:00,50.0,4
+193406220,151198,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (LVA @ MIN),72.0,NBA,2026-08-08 17:00:00+00:00,20.0,4
+193406221,151198,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (LVA @ MIN),36.0,NBA,2026-08-08 17:00:00+00:00,10.0,4
+193406222,151198,0.0,True,False,False,False,False,WNBA Showdown $50 50-50 (LVA @ MIN),450.0,NBA,2026-08-08 17:00:00+00:00,50.0,10
+193406223,151198,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (LVA @ MIN),9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406224,151198,0.0,True,False,False,False,False,WNBA Showdown $5 50-50 (LVA @ MIN),45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406225,151198,0.0,True,False,False,False,False,WNBA Showdown $109 50-50 (LVA @ MIN),600.0,NBA,2026-08-08 17:00:00+00:00,109.0,6
+193406226,151198,0.0,True,False,False,False,False,WNBA Showdown $2 50-50 (LVA @ MIN),18.0,NBA,2026-08-08 17:00:00+00:00,2.0,10
+193406227,151198,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (LVA @ MIN),180.0,NBA,2026-08-08 17:00:00+00:00,20.0,10
+193406228,151198,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (LVA @ MIN),90.0,NBA,2026-08-08 17:00:00+00:00,10.0,10
+193406229,151198,0.0,True,False,False,False,False,WNBA Showdown $5 50-50 (LVA @ MIN),90.0,NBA,2026-08-08 17:00:00+00:00,5.0,20
+193406230,151198,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (LVA @ MIN),180.0,NBA,2026-08-08 17:00:00+00:00,10.0,20
+193406231,151198,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (LVA @ MIN),360.0,NBA,2026-08-08 17:00:00+00:00,20.0,20
+193406232,151198,0.0,True,False,False,False,False,WNBA Showdown $2 50-50 (LVA @ MIN),36.0,NBA,2026-08-08 17:00:00+00:00,2.0,20
+193406233,151198,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (LVA @ MIN),18.0,NBA,2026-08-08 17:00:00+00:00,1.0,20
+193406234,151198,0.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (LVA @ MIN),4000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,4
+193406235,151198,0.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (LVA @ MIN),4000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,4
+193406236,151198,0.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (LVA @ MIN),1000.0,NBA,2026-08-08 17:00:00+00:00,267.0,4
+193406237,151198,0.0,False,False,False,False,True,WNBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (LVA @ MIN),460.0,NBA,2026-08-08 17:00:00+00:00,100.0,5
+193406238,151198,0.0,False,False,False,False,True,WNBA Showdown $5.7K Courtside Special [Single Entry] (Must Fill) (LVA @ MIN),5700.0,NBA,2026-08-08 17:00:00+00:00,1500.0,4
+193406239,151198,0.0,False,False,False,False,True,WNBA Showdown Satellite to NBA Best Ball $20 Shootaround [Must Fill] (LVA @ MIN),20.0,NBA,2026-08-08 17:00:00+00:00,7.4,3
+193406240,151198,0.0,False,False,False,False,True,WNBA Showdown Satellite to NBA Best Ball $20 Shootaround [Must Fill] (LVA @ MIN),20.0,NBA,2026-08-08 17:00:00+00:00,7.4,3
+193406241,151195,0.0,False,False,False,False,False,Beginner WNBA $2 3-Player,5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406242,151195,0.0,False,False,False,False,False,Beginner WNBA $10 3-Player,27.0,NBA,2026-08-08 17:00:00+00:00,10.0,3
+193406243,151195,0.0,False,False,False,False,False,Beginner WNBA $5 3-Player,13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193406244,151195,0.0,False,False,False,False,False,Beginner WNBA $1 3-Player,2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193406245,151195,0.0,False,False,False,False,False,WNBA $1 10-Player,9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406246,151195,0.0,False,False,False,False,False,WNBA $1 5-Player,4.5,NBA,2026-08-08 17:00:00+00:00,1.0,5
+193406247,151195,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193406248,151195,0.0,False,False,False,False,False,WNBA $1 3-Player,2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193406249,151195,0.0,True,False,False,False,False,Casual WNBA $20 50-50,180.0,NBA,2026-08-08 17:00:00+00:00,20.0,10
+193406250,151195,0.0,True,False,False,False,False,Casual WNBA $10 50-50,90.0,NBA,2026-08-08 17:00:00+00:00,10.0,10
+193406251,151195,0.0,True,False,False,False,False,Casual WNBA $5 50-50,45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406252,151195,0.0,True,False,False,False,False,Casual WNBA $3 50-50,27.0,NBA,2026-08-08 17:00:00+00:00,3.0,10
+193406253,151195,0.0,True,False,False,False,False,Casual WNBA $1 50-50,9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406254,151195,0.0,False,False,False,False,False,Casual WNBA $5 3-Player,13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193406255,151195,0.0,False,False,False,False,False,Casual WNBA $2 3-Player,5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406257,151195,0.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406258,151195,0.0,False,False,False,False,False,WNBA $2 3-Player,5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406259,151195,0.0,False,False,False,False,False,WNBA $2 5-Player,9.0,NBA,2026-08-08 17:00:00+00:00,2.0,5
+193406260,151195,0.0,False,False,False,False,False,WNBA $2 10-Player,18.0,NBA,2026-08-08 17:00:00+00:00,2.0,10
+193406261,151195,0.0,False,False,False,False,False,WNBA $5 3-Player,13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193406262,151195,0.0,False,False,False,False,False,WNBA $5 5-Player,22.5,NBA,2026-08-08 17:00:00+00:00,5.0,5
+193406263,151195,0.0,False,False,False,False,False,WNBA $5 10-Player,45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406264,151195,0.0,False,False,False,False,False,WNBA $10 5-Player,45.0,NBA,2026-08-08 17:00:00+00:00,10.0,5
+193406265,151195,0.0,False,False,False,False,False,WNBA $10 3-Player,27.0,NBA,2026-08-08 17:00:00+00:00,10.0,3
+193406266,151195,0.0,False,False,False,False,False,WNBA $20 3-Player,54.0,NBA,2026-08-08 17:00:00+00:00,20.0,3
+193406267,151195,0.0,False,False,False,False,False,WNBA $50 5-Player,225.0,NBA,2026-08-08 17:00:00+00:00,50.0,5
+193406268,151195,0.0,False,False,False,False,False,WNBA $50 3-Player,135.0,NBA,2026-08-08 17:00:00+00:00,50.0,3
+193406269,151195,0.0,False,False,False,False,False,WNBA $109 3-Player,300.0,NBA,2026-08-08 17:00:00+00:00,109.0,3
+193406270,151195,0.0,False,False,False,False,False,WNBA $162 3-Player,450.0,NBA,2026-08-08 17:00:00+00:00,162.0,3
+193406271,151195,0.0,False,False,False,False,False,WNBA $530 3-Player,1500.0,NBA,2026-08-08 17:00:00+00:00,530.0,3
+193406272,151195,0.0,False,False,False,False,False,"WNBA $1,060 3-Player",3000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,3
+193406273,151195,0.0,False,False,False,False,False,"WNBA $5,300 3-Player",15000.0,NBA,2026-08-08 17:00:00+00:00,5300.0,3
+193406274,151195,0.0,False,False,False,False,False,"WNBA $10,600 3-Player",30000.0,NBA,2026-08-08 17:00:00+00:00,10600.0,3
+193406275,151195,0.0,True,False,False,False,False,Beginner WNBA $20 50-50,72.0,NBA,2026-08-08 17:00:00+00:00,20.0,4
+193406276,151195,0.0,True,False,False,False,False,Beginner WNBA $10 50-50,90.0,NBA,2026-08-08 17:00:00+00:00,10.0,10
+193406277,151195,0.0,True,False,False,False,False,Beginner WNBA $1 50-50,9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406278,151195,0.0,True,False,False,False,False,Beginner WNBA $3 50-50,27.0,NBA,2026-08-08 17:00:00+00:00,3.0,10
+193406279,151195,0.0,True,False,False,False,False,Beginner WNBA $5 50-50,45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406280,151195,0.0,True,False,False,False,False,"WNBA $5,300 50-50",20000.0,NBA,2026-08-08 17:00:00+00:00,5300.0,4
+193406281,151195,0.0,True,False,False,False,False,"WNBA $1,060 50-50",4000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,4
+193406282,151195,0.0,True,False,False,False,False,WNBA $530 50-50,2000.0,NBA,2026-08-08 17:00:00+00:00,530.0,4
+193406283,151195,0.0,True,False,False,False,False,WNBA $109 50-50,400.0,NBA,2026-08-08 17:00:00+00:00,109.0,4
+193406284,151195,0.0,True,False,False,False,False,WNBA $50 50-50,180.0,NBA,2026-08-08 17:00:00+00:00,50.0,4
+193406285,151195,0.0,True,False,False,False,False,WNBA $20 50-50,72.0,NBA,2026-08-08 17:00:00+00:00,20.0,4
+193406286,151195,0.0,True,False,False,False,False,WNBA $10 50-50,36.0,NBA,2026-08-08 17:00:00+00:00,10.0,4
+193406287,151195,0.0,True,False,False,False,False,WNBA $50 50-50,450.0,NBA,2026-08-08 17:00:00+00:00,50.0,10
+193406288,151195,0.0,True,False,False,False,False,WNBA $1 50-50,9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406289,151195,0.0,True,False,False,False,False,WNBA $5 50-50,45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406290,151195,0.0,True,False,False,False,False,WNBA $109 50-50,600.0,NBA,2026-08-08 17:00:00+00:00,109.0,6
+193406291,151195,0.0,True,False,False,False,False,WNBA $2 50-50,18.0,NBA,2026-08-08 17:00:00+00:00,2.0,10
+193406292,151195,0.0,True,False,False,False,False,WNBA $20 50-50,180.0,NBA,2026-08-08 17:00:00+00:00,20.0,10
+193406293,151195,0.0,True,False,False,False,False,WNBA $10 50-50,90.0,NBA,2026-08-08 17:00:00+00:00,10.0,10
+193406294,151195,0.0,True,False,False,False,False,WNBA $5 50-50,90.0,NBA,2026-08-08 17:00:00+00:00,5.0,20
+193406295,151195,0.0,True,False,False,False,False,WNBA $10 50-50,180.0,NBA,2026-08-08 17:00:00+00:00,10.0,20
+193406296,151195,0.0,True,False,False,False,False,WNBA $20 50-50,360.0,NBA,2026-08-08 17:00:00+00:00,20.0,20
+193406297,151195,0.0,True,False,False,False,False,WNBA $2 50-50,36.0,NBA,2026-08-08 17:00:00+00:00,2.0,20
+193406298,151195,0.0,True,False,False,False,False,WNBA $1 50-50,18.0,NBA,2026-08-08 17:00:00+00:00,1.0,20
+193406299,151195,0.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,4
+193406300,151195,0.0,False,False,False,False,True,WNBA $4K All Star [Single Entry] (Must Fill),4000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,4
+193406301,151195,0.0,False,False,False,False,True,WNBA $267 Winner Take All [$1K to 1st] (Must Fill),1000.0,NBA,2026-08-08 17:00:00+00:00,267.0,4
+193406302,151195,0.0,False,False,False,False,True,WNBA $100 Winner Take All [$460 to 1st] (Must Fill),460.0,NBA,2026-08-08 17:00:00+00:00,100.0,5
+193406303,151195,0.0,False,False,False,False,True,WNBA $5.7K Courtside Special [Single Entry] (Must Fill),5700.0,NBA,2026-08-08 17:00:00+00:00,1500.0,4
+193406304,151195,0.0,False,False,False,False,True,WNBA Satellite to NBA Best Ball $20 Shootaround [Must Fill],20.0,NBA,2026-08-08 17:00:00+00:00,7.4,3
+193406305,151195,0.0,False,False,False,False,True,WNBA Satellite to NBA Best Ball $20 Shootaround [Must Fill],20.0,NBA,2026-08-08 17:00:00+00:00,7.4,3
+193406306,151197,0.0,False,False,False,False,False,Beginner WNBA Single Stat $2 3-Player (Points),5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406307,151197,0.0,False,False,False,False,False,Beginner WNBA Single Stat $10 3-Player (Points),27.0,NBA,2026-08-08 17:00:00+00:00,10.0,3
+193406308,151197,0.0,False,False,False,False,False,Beginner WNBA Single Stat $5 3-Player (Points),13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193406309,151197,0.0,False,False,False,False,False,Beginner WNBA Single Stat $1 3-Player (Points),2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193406310,151197,0.0,False,False,False,False,False,WNBA Single Stat $1 10-Player (Points),9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406311,151197,0.0,False,False,False,False,False,WNBA Single Stat $1 5-Player (Points),4.5,NBA,2026-08-08 17:00:00+00:00,1.0,5
+193406312,151197,0.0,False,False,False,False,False,WNBA Single Stat $1 3-Player (Points),2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193406313,151197,0.0,False,False,False,False,False,WNBA Single Stat $1 3-Player (Points),2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193406314,151197,0.0,True,False,False,False,False,Casual WNBA Single Stat $20 50-50 (Points),180.0,NBA,2026-08-08 17:00:00+00:00,20.0,10
+193406315,151197,0.0,True,False,False,False,False,Casual WNBA Single Stat $10 50-50 (Points),90.0,NBA,2026-08-08 17:00:00+00:00,10.0,10
+193406316,151197,0.0,True,False,False,False,False,Casual WNBA Single Stat $5 50-50 (Points),45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406317,151197,0.0,True,False,False,False,False,Casual WNBA Single Stat $3 50-50 (Points),27.0,NBA,2026-08-08 17:00:00+00:00,3.0,10
+193406318,151197,0.0,True,False,False,False,False,Casual WNBA Single Stat $1 50-50 (Points),9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406319,151197,0.0,False,False,False,False,False,Casual WNBA Single Stat $5 3-Player (Points),13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193406320,151197,0.0,False,False,False,False,False,Casual WNBA Single Stat $2 3-Player (Points),5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406321,151197,0.0,False,False,False,False,False,WNBA Single Stat $2 3-Player (Points),5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406322,151197,0.0,False,False,False,False,False,WNBA Single Stat $2 3-Player (Points),5.4,NBA,2026-08-08 17:00:00+00:00,2.0,3
+193406323,151197,0.0,False,False,False,False,False,WNBA Single Stat $2 5-Player (Points),9.0,NBA,2026-08-08 17:00:00+00:00,2.0,5
+193406324,151197,0.0,False,False,False,False,False,WNBA Single Stat $2 10-Player (Points),18.0,NBA,2026-08-08 17:00:00+00:00,2.0,10
+193406325,151197,0.0,False,False,False,False,False,WNBA Single Stat $5 3-Player (Points),13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193406326,151197,0.0,False,False,False,False,False,WNBA Single Stat $5 5-Player (Points),22.5,NBA,2026-08-08 17:00:00+00:00,5.0,5
+193406327,151197,0.0,False,False,False,False,False,WNBA Single Stat $5 10-Player (Points),45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406328,151197,0.0,False,False,False,False,False,WNBA Single Stat $10 5-Player (Points),45.0,NBA,2026-08-08 17:00:00+00:00,10.0,5
+193406329,151197,0.0,False,False,False,False,False,WNBA Single Stat $10 3-Player (Points),27.0,NBA,2026-08-08 17:00:00+00:00,10.0,3
+193406330,151197,0.0,False,False,False,False,False,WNBA Single Stat $20 3-Player (Points),54.0,NBA,2026-08-08 17:00:00+00:00,20.0,3
+193406331,151197,0.0,False,False,False,False,False,WNBA Single Stat $50 5-Player (Points),225.0,NBA,2026-08-08 17:00:00+00:00,50.0,5
+193406332,151197,0.0,False,False,False,False,False,WNBA Single Stat $50 3-Player (Points),135.0,NBA,2026-08-08 17:00:00+00:00,50.0,3
+193406333,151197,0.0,False,False,False,False,False,WNBA Single Stat $109 3-Player (Points),300.0,NBA,2026-08-08 17:00:00+00:00,109.0,3
+193406334,151197,0.0,False,False,False,False,False,WNBA Single Stat $162 3-Player (Points),450.0,NBA,2026-08-08 17:00:00+00:00,162.0,3
+193406335,151197,0.0,False,False,False,False,False,WNBA Single Stat $530 3-Player (Points),1500.0,NBA,2026-08-08 17:00:00+00:00,530.0,3
+193406336,151197,0.0,False,False,False,False,False,"WNBA Single Stat $1,060 3-Player (Points)",3000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,3
+193406337,151197,0.0,False,False,False,False,False,"WNBA Single Stat $5,300 3-Player (Points)",15000.0,NBA,2026-08-08 17:00:00+00:00,5300.0,3
+193406338,151197,0.0,False,False,False,False,False,"WNBA Single Stat $10,600 3-Player (Points)",30000.0,NBA,2026-08-08 17:00:00+00:00,10600.0,3
+193406339,151197,0.0,True,False,False,False,False,Beginner WNBA Single Stat $20 50-50 (Points),72.0,NBA,2026-08-08 17:00:00+00:00,20.0,4
+193406340,151197,0.0,True,False,False,False,False,Beginner WNBA Single Stat $10 50-50 (Points),90.0,NBA,2026-08-08 17:00:00+00:00,10.0,10
+193406341,151197,0.0,True,False,False,False,False,Beginner WNBA Single Stat $1 50-50 (Points),9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406342,151197,0.0,True,False,False,False,False,Beginner WNBA Single Stat $3 50-50 (Points),27.0,NBA,2026-08-08 17:00:00+00:00,3.0,10
+193406343,151197,0.0,True,False,False,False,False,Beginner WNBA Single Stat $5 50-50 (Points),45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406344,151197,0.0,True,False,False,False,False,"WNBA Single Stat $5,300 50-50 (Points)",20000.0,NBA,2026-08-08 17:00:00+00:00,5300.0,4
+193406345,151197,0.0,True,False,False,False,False,"WNBA Single Stat $1,060 50-50 (Points)",4000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,4
+193406346,151197,0.0,True,False,False,False,False,WNBA Single Stat $530 50-50 (Points),2000.0,NBA,2026-08-08 17:00:00+00:00,530.0,4
+193406347,151197,0.0,True,False,False,False,False,WNBA Single Stat $109 50-50 (Points),400.0,NBA,2026-08-08 17:00:00+00:00,109.0,4
+193406348,151197,0.0,True,False,False,False,False,WNBA Single Stat $50 50-50 (Points),180.0,NBA,2026-08-08 17:00:00+00:00,50.0,4
+193406349,151197,0.0,True,False,False,False,False,WNBA Single Stat $20 50-50 (Points),72.0,NBA,2026-08-08 17:00:00+00:00,20.0,4
+193406350,151197,0.0,True,False,False,False,False,WNBA Single Stat $10 50-50 (Points),36.0,NBA,2026-08-08 17:00:00+00:00,10.0,4
+193406351,151197,0.0,True,False,False,False,False,WNBA Single Stat $50 50-50 (Points),450.0,NBA,2026-08-08 17:00:00+00:00,50.0,10
+193406352,151197,0.0,True,False,False,False,False,WNBA Single Stat $1 50-50 (Points),9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406353,151197,0.0,True,False,False,False,False,WNBA Single Stat $5 50-50 (Points),45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406354,151197,0.0,True,False,False,False,False,WNBA Single Stat $109 50-50 (Points),600.0,NBA,2026-08-08 17:00:00+00:00,109.0,6
+193406355,151197,0.0,True,False,False,False,False,WNBA Single Stat $2 50-50 (Points),18.0,NBA,2026-08-08 17:00:00+00:00,2.0,10
+193406356,151197,0.0,True,False,False,False,False,WNBA Single Stat $20 50-50 (Points),180.0,NBA,2026-08-08 17:00:00+00:00,20.0,10
+193406357,151197,0.0,True,False,False,False,False,WNBA Single Stat $10 50-50 (Points),90.0,NBA,2026-08-08 17:00:00+00:00,10.0,10
+193406358,151197,0.0,True,False,False,False,False,WNBA Single Stat $5 50-50 (Points),90.0,NBA,2026-08-08 17:00:00+00:00,5.0,20
+193406359,151197,0.0,True,False,False,False,False,WNBA Single Stat $10 50-50 (Points),180.0,NBA,2026-08-08 17:00:00+00:00,10.0,20
+193406360,151197,0.0,True,False,False,False,False,WNBA Single Stat $20 50-50 (Points),360.0,NBA,2026-08-08 17:00:00+00:00,20.0,20
+193406361,151197,0.0,True,False,False,False,False,WNBA Single Stat $2 50-50 (Points),36.0,NBA,2026-08-08 17:00:00+00:00,2.0,20
+193406362,151197,0.0,True,False,False,False,False,WNBA Single Stat $1 50-50 (Points),18.0,NBA,2026-08-08 17:00:00+00:00,1.0,20
+193406363,151197,0.0,False,False,False,False,True,WNBA Single Stat $4K All Star [Single Entry] (Must Fill) (Points),4000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,4
+193406364,151197,0.0,False,False,False,False,True,WNBA Single Stat $4K All Star [Single Entry] (Must Fill) (Points),4000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,4
+193406365,151197,0.0,False,False,False,False,True,WNBA Single Stat $267 Winner Take All [$1K to 1st] (Must Fill) (Points),1000.0,NBA,2026-08-08 17:00:00+00:00,267.0,4
+193406366,151197,0.0,False,False,False,False,True,WNBA Single Stat $100 Winner Take All [$460 to 1st] (Must Fill) (Points),460.0,NBA,2026-08-08 17:00:00+00:00,100.0,5
+193406367,151197,0.0,False,False,False,False,True,WNBA Single Stat $5.7K Courtside Special [Single Entry] (Must Fill) (Points),5700.0,NBA,2026-08-08 17:00:00+00:00,1500.0,4
+193406368,151197,0.0,False,False,False,False,True,WNBA Single Stat Satellite to NBA Best Ball $20 Shootaround [Must Fill] (Points),20.0,NBA,2026-08-08 17:00:00+00:00,7.4,3
+193406369,151197,0.0,False,False,False,False,True,WNBA Single Stat Satellite to NBA Best Ball $20 Shootaround [Must Fill] (Points),20.0,NBA,2026-08-08 17:00:00+00:00,7.4,3
+193406370,151199,0.0,False,False,False,False,False,Beginner WNBA Showdown $2 3-Player (IND @ CHI),5.4,NBA,2026-08-08 19:30:00+00:00,2.0,3
+193406371,151199,0.0,False,False,False,False,False,Beginner WNBA Showdown $10 3-Player (IND @ CHI),27.0,NBA,2026-08-08 19:30:00+00:00,10.0,3
+193406372,151199,0.0,False,False,False,False,False,Beginner WNBA Showdown $5 3-Player (IND @ CHI),13.5,NBA,2026-08-08 19:30:00+00:00,5.0,3
+193406373,151199,0.0,False,False,False,False,False,Beginner WNBA Showdown $1 3-Player (IND @ CHI),2.7,NBA,2026-08-08 19:30:00+00:00,1.0,3
+193406374,151199,0.0,False,False,False,False,False,WNBA Showdown $1 10-Player (IND @ CHI),9.0,NBA,2026-08-08 19:30:00+00:00,1.0,10
+193406375,151199,0.0,False,False,False,False,False,WNBA Showdown $1 5-Player (IND @ CHI),4.5,NBA,2026-08-08 19:30:00+00:00,1.0,5
+193406376,151199,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (IND @ CHI),2.7,NBA,2026-08-08 19:30:00+00:00,1.0,3
+193406377,151199,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (IND @ CHI),2.7,NBA,2026-08-08 19:30:00+00:00,1.0,3
+193406378,151199,0.0,True,False,False,False,False,Casual WNBA Showdown $20 50-50 (IND @ CHI),180.0,NBA,2026-08-08 19:30:00+00:00,20.0,10
+193406379,151199,0.0,True,False,False,False,False,Casual WNBA Showdown $10 50-50 (IND @ CHI),90.0,NBA,2026-08-08 19:30:00+00:00,10.0,10
+193406380,151199,0.0,True,False,False,False,False,Casual WNBA Showdown $5 50-50 (IND @ CHI),45.0,NBA,2026-08-08 19:30:00+00:00,5.0,10
+193406382,151199,0.0,True,False,False,False,False,Casual WNBA Showdown $3 50-50 (IND @ CHI),27.0,NBA,2026-08-08 19:30:00+00:00,3.0,10
+193406386,151199,0.0,True,False,False,False,False,Casual WNBA Showdown $1 50-50 (IND @ CHI),9.0,NBA,2026-08-08 19:30:00+00:00,1.0,10
+193406390,151199,0.0,False,False,False,False,False,Casual WNBA Showdown $5 3-Player (IND @ CHI),13.5,NBA,2026-08-08 19:30:00+00:00,5.0,3
+193406394,151199,0.0,False,False,False,False,False,Casual WNBA Showdown $2 3-Player (IND @ CHI),5.4,NBA,2026-08-08 19:30:00+00:00,2.0,3
+193406395,151199,0.0,False,False,False,False,False,WNBA Showdown $2 3-Player (IND @ CHI),5.4,NBA,2026-08-08 19:30:00+00:00,2.0,3
+193406396,151199,0.0,False,False,False,False,False,WNBA Showdown $2 3-Player (IND @ CHI),5.4,NBA,2026-08-08 19:30:00+00:00,2.0,3
+193406397,151199,0.0,False,False,False,False,False,WNBA Showdown $2 5-Player (IND @ CHI),9.0,NBA,2026-08-08 19:30:00+00:00,2.0,5
+193406398,151199,0.0,False,False,False,False,False,WNBA Showdown $2 10-Player (IND @ CHI),18.0,NBA,2026-08-08 19:30:00+00:00,2.0,10
+193406399,151199,0.0,False,False,False,False,False,WNBA Showdown $5 3-Player (IND @ CHI),13.5,NBA,2026-08-08 19:30:00+00:00,5.0,3
+193406400,151199,0.0,False,False,False,False,False,WNBA Showdown $5 5-Player (IND @ CHI),22.5,NBA,2026-08-08 19:30:00+00:00,5.0,5
+193406401,151199,0.0,False,False,False,False,False,WNBA Showdown $5 10-Player (IND @ CHI),45.0,NBA,2026-08-08 19:30:00+00:00,5.0,10
+193406402,151199,0.0,False,False,False,False,False,WNBA Showdown $10 5-Player (IND @ CHI),45.0,NBA,2026-08-08 19:30:00+00:00,10.0,5
+193406403,151199,0.0,False,False,False,False,False,WNBA Showdown $10 3-Player (IND @ CHI),27.0,NBA,2026-08-08 19:30:00+00:00,10.0,3
+193406404,151199,0.0,False,False,False,False,False,WNBA Showdown $20 3-Player (IND @ CHI),54.0,NBA,2026-08-08 19:30:00+00:00,20.0,3
+193406405,151199,0.0,False,False,False,False,False,WNBA Showdown $50 5-Player (IND @ CHI),225.0,NBA,2026-08-08 19:30:00+00:00,50.0,5
+193406406,151199,0.0,False,False,False,False,False,WNBA Showdown $50 3-Player (IND @ CHI),135.0,NBA,2026-08-08 19:30:00+00:00,50.0,3
+193406407,151199,0.0,False,False,False,False,False,WNBA Showdown $109 3-Player (IND @ CHI),300.0,NBA,2026-08-08 19:30:00+00:00,109.0,3
+193406408,151199,0.0,False,False,False,False,False,WNBA Showdown $162 3-Player (IND @ CHI),450.0,NBA,2026-08-08 19:30:00+00:00,162.0,3
+193406409,151199,0.0,False,False,False,False,False,WNBA Showdown $530 3-Player (IND @ CHI),1500.0,NBA,2026-08-08 19:30:00+00:00,530.0,3
+193406410,151199,0.0,False,False,False,False,False,"WNBA Showdown $1,060 3-Player (IND @ CHI)",3000.0,NBA,2026-08-08 19:30:00+00:00,1060.0,3
+193406411,151199,0.0,False,False,False,False,False,"WNBA Showdown $5,300 3-Player (IND @ CHI)",15000.0,NBA,2026-08-08 19:30:00+00:00,5300.0,3
+193406412,151199,0.0,False,False,False,False,False,"WNBA Showdown $10,600 3-Player (IND @ CHI)",30000.0,NBA,2026-08-08 19:30:00+00:00,10600.0,3
+193406413,151199,0.0,True,False,False,False,False,Beginner WNBA Showdown $20 50-50 (IND @ CHI),72.0,NBA,2026-08-08 19:30:00+00:00,20.0,4
+193406414,151199,0.0,True,False,False,False,False,Beginner WNBA Showdown $10 50-50 (IND @ CHI),90.0,NBA,2026-08-08 19:30:00+00:00,10.0,10
+193406415,151199,0.0,True,False,False,False,False,Beginner WNBA Showdown $1 50-50 (IND @ CHI),9.0,NBA,2026-08-08 19:30:00+00:00,1.0,10
+193406416,151199,0.0,True,False,False,False,False,Beginner WNBA Showdown $3 50-50 (IND @ CHI),27.0,NBA,2026-08-08 19:30:00+00:00,3.0,10
+193406417,151199,0.0,True,False,False,False,False,Beginner WNBA Showdown $5 50-50 (IND @ CHI),45.0,NBA,2026-08-08 19:30:00+00:00,5.0,10
+193406418,151199,0.0,True,False,False,False,False,"WNBA Showdown $5,300 50-50 (IND @ CHI)",20000.0,NBA,2026-08-08 19:30:00+00:00,5300.0,4
+193406419,151199,0.0,True,False,False,False,False,"WNBA Showdown $1,060 50-50 (IND @ CHI)",4000.0,NBA,2026-08-08 19:30:00+00:00,1060.0,4
+193406420,151199,0.0,True,False,False,False,False,WNBA Showdown $530 50-50 (IND @ CHI),2000.0,NBA,2026-08-08 19:30:00+00:00,530.0,4
+193406421,151199,0.0,True,False,False,False,False,WNBA Showdown $109 50-50 (IND @ CHI),400.0,NBA,2026-08-08 19:30:00+00:00,109.0,4
+193406422,151199,0.0,True,False,False,False,False,WNBA Showdown $50 50-50 (IND @ CHI),180.0,NBA,2026-08-08 19:30:00+00:00,50.0,4
+193406423,151199,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND @ CHI),72.0,NBA,2026-08-08 19:30:00+00:00,20.0,4
+193406424,151199,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND @ CHI),36.0,NBA,2026-08-08 19:30:00+00:00,10.0,4
+193406425,151199,0.0,True,False,False,False,False,WNBA Showdown $50 50-50 (IND @ CHI),450.0,NBA,2026-08-08 19:30:00+00:00,50.0,10
+193406426,151199,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (IND @ CHI),9.0,NBA,2026-08-08 19:30:00+00:00,1.0,10
+193406427,151199,0.0,True,False,False,False,False,WNBA Showdown $5 50-50 (IND @ CHI),45.0,NBA,2026-08-08 19:30:00+00:00,5.0,10
+193406428,151199,0.0,True,False,False,False,False,WNBA Showdown $109 50-50 (IND @ CHI),600.0,NBA,2026-08-08 19:30:00+00:00,109.0,6
+193406429,151199,0.0,True,False,False,False,False,WNBA Showdown $2 50-50 (IND @ CHI),18.0,NBA,2026-08-08 19:30:00+00:00,2.0,10
+193406430,151199,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND @ CHI),180.0,NBA,2026-08-08 19:30:00+00:00,20.0,10
+193406431,151199,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND @ CHI),90.0,NBA,2026-08-08 19:30:00+00:00,10.0,10
+193406432,151199,0.0,True,False,False,False,False,WNBA Showdown $5 50-50 (IND @ CHI),90.0,NBA,2026-08-08 19:30:00+00:00,5.0,20
+193406433,151199,0.0,True,False,False,False,False,WNBA Showdown $10 50-50 (IND @ CHI),180.0,NBA,2026-08-08 19:30:00+00:00,10.0,20
+193406434,151199,0.0,True,False,False,False,False,WNBA Showdown $20 50-50 (IND @ CHI),360.0,NBA,2026-08-08 19:30:00+00:00,20.0,20
+193406435,151199,0.0,True,False,False,False,False,WNBA Showdown $2 50-50 (IND @ CHI),36.0,NBA,2026-08-08 19:30:00+00:00,2.0,20
+193406436,151199,0.0,True,False,False,False,False,WNBA Showdown $1 50-50 (IND @ CHI),18.0,NBA,2026-08-08 19:30:00+00:00,1.0,20
+193406437,151199,0.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (IND @ CHI),4000.0,NBA,2026-08-08 19:30:00+00:00,1060.0,4
+193406438,151199,0.0,False,False,False,False,True,WNBA Showdown $4K All Star [Single Entry] (Must Fill) (IND @ CHI),4000.0,NBA,2026-08-08 19:30:00+00:00,1060.0,4
+193406439,151199,0.0,False,False,False,False,True,WNBA Showdown $267 Winner Take All [$1K to 1st] (Must Fill) (IND @ CHI),1000.0,NBA,2026-08-08 19:30:00+00:00,267.0,4
+193406440,151199,0.0,False,False,False,False,True,WNBA Showdown $100 Winner Take All [$460 to 1st] (Must Fill) (IND @ CHI),460.0,NBA,2026-08-08 19:30:00+00:00,100.0,5
+193406441,151199,0.0,False,False,False,False,True,WNBA Showdown $5.7K Courtside Special [Single Entry] (Must Fill) (IND @ CHI),5700.0,NBA,2026-08-08 19:30:00+00:00,1500.0,4
+193406442,151199,0.0,False,False,False,False,True,WNBA Showdown Satellite to NBA Best Ball $20 Shootaround [Must Fill] (IND @ CHI),20.0,NBA,2026-08-08 19:30:00+00:00,7.4,3
+193406443,151199,0.0,False,False,False,False,True,WNBA Showdown Satellite to NBA Best Ball $20 Shootaround [Must Fill] (IND @ CHI),20.0,NBA,2026-08-08 19:30:00+00:00,7.4,3
+193406447,151198,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ MIN),20.0,NBA,2026-08-08 17:00:00+00:00,1.0,23
+193406448,151198,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ MIN),20.0,NBA,2026-08-08 17:00:00+00:00,1.0,23
+193406449,151198,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ MIN),20.0,NBA,2026-08-08 17:00:00+00:00,1.0,23
+193406450,151198,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ MIN),20.0,NBA,2026-08-08 17:00:00+00:00,1.0,23
+193406451,151198,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ MIN),20.0,NBA,2026-08-08 17:00:00+00:00,1.0,23
+193406452,151198,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (LVA @ MIN),20.0,NBA,2026-08-08 17:00:00+00:00,1.0,23
+193406453,151198,0.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (LVA @ MIN),110.0,NBA,2026-08-08 17:00:00+00:00,25.0,5
+193406454,151198,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (LVA @ MIN),25.0,NBA,2026-08-08 17:00:00+00:00,9.0,3
+193406455,151198,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (LVA @ MIN),25.0,NBA,2026-08-08 17:00:00+00:00,9.0,3
+193406456,151198,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (LVA @ MIN),25.0,NBA,2026-08-08 17:00:00+00:00,9.0,3
+193406457,151198,0.0,True,False,True,False,False,WNBA Showdown $10 50-50 [Top 50% Win] (LVA @ MIN),90.0,NBA,2026-08-08 17:00:00+00:00,10.0,10
+193406458,151198,0.0,True,False,True,False,False,WNBA Showdown $3 50-50 [Top 50% Win] (LVA @ MIN),27.0,NBA,2026-08-08 17:00:00+00:00,3.0,10
+193406459,151198,0.0,True,False,True,False,False,WNBA Showdown $5 50-50 [Top 50% Win] (LVA @ MIN),45.0,NBA,2026-08-08 17:00:00+00:00,5.0,10
+193406460,151198,0.0,True,False,True,False,False,WNBA Showdown $1 50-50 [Top 50% Win] (LVA @ MIN),9.0,NBA,2026-08-08 17:00:00+00:00,1.0,10
+193406461,151198,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (LVA @ MIN),5.0,NBA,2026-08-08 17:00:00+00:00,0.25,23
+193406462,151198,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (LVA @ MIN),5.0,NBA,2026-08-08 17:00:00+00:00,0.25,23
+193406463,151198,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (LVA @ MIN),5.0,NBA,2026-08-08 17:00:00+00:00,0.25,23
+193406464,151198,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (LVA @ MIN),5.0,NBA,2026-08-08 17:00:00+00:00,0.25,23
+193406465,151198,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (LVA @ MIN),5.0,NBA,2026-08-08 17:00:00+00:00,0.25,23
+193406466,151198,0.0,False,False,True,False,True,WNBA Showdown SUPERSatellite to 9-22 WNBA $5 Frenzy Contest [5x] (LVA @ MIN),25.0,NBA,2026-08-08 17:00:00+00:00,1.0,29
+193406467,151199,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (IND @ CHI),20.0,NBA,2026-08-08 19:30:00+00:00,1.0,23
+193406468,151199,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (IND @ CHI),20.0,NBA,2026-08-08 19:30:00+00:00,1.0,23
+193406469,151199,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (IND @ CHI),20.0,NBA,2026-08-08 19:30:00+00:00,1.0,23
+193406470,151199,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (IND @ CHI),20.0,NBA,2026-08-08 19:30:00+00:00,1.0,23
+193406471,151199,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (IND @ CHI),20.0,NBA,2026-08-08 19:30:00+00:00,1.0,23
+193406472,151199,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (IND @ CHI),20.0,NBA,2026-08-08 19:30:00+00:00,1.0,23
+193406473,151199,0.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (IND @ CHI),110.0,NBA,2026-08-08 19:30:00+00:00,25.0,5
+193406474,151199,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (IND @ CHI),25.0,NBA,2026-08-08 19:30:00+00:00,9.0,3
+193406475,151199,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (IND @ CHI),25.0,NBA,2026-08-08 19:30:00+00:00,9.0,3
+193406476,151199,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (IND @ CHI),25.0,NBA,2026-08-08 19:30:00+00:00,9.0,3
+193406477,151199,0.0,True,False,True,False,False,WNBA Showdown $10 50-50 [Top 50% Win] (IND @ CHI),90.0,NBA,2026-08-08 19:30:00+00:00,10.0,10
+193406478,151199,0.0,True,False,True,False,False,WNBA Showdown $3 50-50 [Top 50% Win] (IND @ CHI),27.0,NBA,2026-08-08 19:30:00+00:00,3.0,10
+193406479,151199,0.0,True,False,True,False,False,WNBA Showdown $5 50-50 [Top 50% Win] (IND @ CHI),45.0,NBA,2026-08-08 19:30:00+00:00,5.0,10
+193406480,151199,0.0,True,False,True,False,False,WNBA Showdown $1 50-50 [Top 50% Win] (IND @ CHI),9.0,NBA,2026-08-08 19:30:00+00:00,1.0,10
+193406481,151199,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (IND @ CHI),5.0,NBA,2026-08-08 19:30:00+00:00,0.25,23
+193406482,151199,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (IND @ CHI),5.0,NBA,2026-08-08 19:30:00+00:00,0.25,23
+193406483,151199,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (IND @ CHI),5.0,NBA,2026-08-08 19:30:00+00:00,0.25,23
+193406484,151199,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (IND @ CHI),5.0,NBA,2026-08-08 19:30:00+00:00,0.25,23
+193406485,151199,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (IND @ CHI),5.0,NBA,2026-08-08 19:30:00+00:00,0.25,23
+193406486,151199,0.0,False,False,True,False,True,WNBA Showdown SUPERSatellite to 9-22 WNBA $5 Frenzy Contest [5x] (IND @ CHI),25.0,NBA,2026-08-08 19:30:00+00:00,1.0,29
+193406487,151200,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (SEA @ PDX),20.0,NBA,2026-08-09 00:30:00+00:00,1.0,23
+193406488,151200,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (SEA @ PDX),20.0,NBA,2026-08-09 00:30:00+00:00,1.0,23
+193406489,151200,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (SEA @ PDX),20.0,NBA,2026-08-09 00:30:00+00:00,1.0,23
+193406490,151200,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (SEA @ PDX),20.0,NBA,2026-08-09 00:30:00+00:00,1.0,23
+193406491,151200,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (SEA @ PDX),20.0,NBA,2026-08-09 00:30:00+00:00,1.0,23
+193406492,151200,0.0,True,False,True,False,False,WNBA Showdown $1 Double Up (SEA @ PDX),20.0,NBA,2026-08-09 00:30:00+00:00,1.0,23
+193406493,151200,0.0,False,False,True,False,True,WNBA Showdown $25 Winner Take All [$110 to 1st] (SEA @ PDX),110.0,NBA,2026-08-09 00:30:00+00:00,25.0,5
+193406494,151200,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (SEA @ PDX),25.0,NBA,2026-08-09 00:30:00+00:00,9.0,3
+193406495,151200,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (SEA @ PDX),25.0,NBA,2026-08-09 00:30:00+00:00,9.0,3
+193406496,151200,0.0,False,False,False,False,True,WNBA Showdown Satellite to NFL Best Ball $25 Millionaire [Must Fill] (SEA @ PDX),25.0,NBA,2026-08-09 00:30:00+00:00,9.0,3
+193406497,151200,0.0,True,False,True,False,False,WNBA Showdown $10 50-50 [Top 50% Win] (SEA @ PDX),90.0,NBA,2026-08-09 00:30:00+00:00,10.0,10
+193406498,151200,0.0,True,False,True,False,False,WNBA Showdown $3 50-50 [Top 50% Win] (SEA @ PDX),27.0,NBA,2026-08-09 00:30:00+00:00,3.0,10
+193406499,151200,0.0,True,False,True,False,False,WNBA Showdown $5 50-50 [Top 50% Win] (SEA @ PDX),45.0,NBA,2026-08-09 00:30:00+00:00,5.0,10
+193406500,151200,0.0,True,False,True,False,False,WNBA Showdown $1 50-50 [Top 50% Win] (SEA @ PDX),9.0,NBA,2026-08-09 00:30:00+00:00,1.0,10
+193406501,151200,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (SEA @ PDX),5.0,NBA,2026-08-09 00:30:00+00:00,0.25,23
+193406502,151200,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (SEA @ PDX),5.0,NBA,2026-08-09 00:30:00+00:00,0.25,23
+193406503,151200,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (SEA @ PDX),5.0,NBA,2026-08-09 00:30:00+00:00,0.25,23
+193406504,151200,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (SEA @ PDX),5.0,NBA,2026-08-09 00:30:00+00:00,0.25,23
+193406505,151200,0.0,False,False,True,False,True,WNBA Showdown Satellite to 9-22 WNBA $5 Frenzy Contest (SEA @ PDX),5.0,NBA,2026-08-09 00:30:00+00:00,0.25,23
+193406506,151200,0.0,False,False,True,False,True,WNBA Showdown SUPERSatellite to 9-22 WNBA $5 Frenzy Contest [5x] (SEA @ PDX),25.0,NBA,2026-08-09 00:30:00+00:00,1.0,29
+193406507,151197,0.0,False,False,True,False,True,WNBA Single Stat $1 Winner Take All [$100 to 1st] (Points),100.0,NBA,2026-08-08 17:00:00+00:00,1.0,118
+193406552,151195,0.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2026-08-08 17:00:00+00:00,3.0,23
+193406553,151195,0.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2026-08-08 17:00:00+00:00,1.0,31
+193406554,151195,0.0,False,False,True,False,False,WNBA $1 Triple Up [Top 9 Win $3],27.0,NBA,2026-08-08 17:00:00+00:00,1.0,31
+193406555,151195,0.0,False,False,True,False,False,WNBA $5 Triple Up [Top 9 Win $15],135.0,NBA,2026-08-08 17:00:00+00:00,5.0,31
+193406556,151195,0.0,True,False,True,False,False,WNBA $25 Double Up,250.0,NBA,2026-08-08 17:00:00+00:00,25.0,11
+193406557,151195,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-08-08 17:00:00+00:00,10.0,11
+193406558,151195,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-08-08 17:00:00+00:00,10.0,11
+193406559,151195,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-08-08 17:00:00+00:00,10.0,11
+193406560,151195,0.0,True,False,True,False,False,WNBA $5 Double Up,150.0,NBA,2026-08-08 17:00:00+00:00,5.0,34
+193406561,151195,0.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2026-08-08 17:00:00+00:00,5.0,23
+193406562,151195,0.0,True,False,True,False,False,WNBA $3 Double Up,90.0,NBA,2026-08-08 17:00:00+00:00,3.0,34
+193406563,151195,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2026-08-08 17:00:00+00:00,1.0,34
+193406564,151195,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2026-08-08 17:00:00+00:00,1.0,34
+193406565,151195,0.0,True,False,True,False,False,WNBA $1 Double Up,30.0,NBA,2026-08-08 17:00:00+00:00,1.0,34
+193406566,151195,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2026-08-08 17:00:00+00:00,1.0,23
+193406567,151195,0.0,True,False,True,False,False,WNBA $1 Double Up,20.0,NBA,2026-08-08 17:00:00+00:00,1.0,23
+193406568,151195,0.0,True,False,True,False,False,WNBA $3 Double Up,60.0,NBA,2026-08-08 17:00:00+00:00,3.0,23
+193406569,151195,0.0,True,False,True,False,False,WNBA $5 Double Up,100.0,NBA,2026-08-08 17:00:00+00:00,5.0,23
+193406570,151195,0.0,True,False,True,False,False,WNBA $10 Double Up,100.0,NBA,2026-08-08 17:00:00+00:00,10.0,11
+193406571,151195,0.0,False,False,True,False,False,WNBA $50 Winner Take All [$220 to 1st],220.0,NBA,2026-08-08 17:00:00+00:00,50.0,5
+193406572,151195,0.0,False,False,True,False,False,WNBA $50 Winner Take All [$220 to 1st],220.0,NBA,2026-08-08 17:00:00+00:00,50.0,5
+193406573,151195,0.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2026-08-08 17:00:00+00:00,38.0,3
+193406574,151195,0.0,False,False,True,False,False,WNBA $38 Winner Take All [$100 to 1st],100.0,NBA,2026-08-08 17:00:00+00:00,38.0,3
+193406575,151195,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire,25.0,NBA,2026-08-08 17:00:00+00:00,0.25,118
+193406576,151195,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire,25.0,NBA,2026-08-08 17:00:00+00:00,0.25,118
+193406577,151195,0.0,False,False,True,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire,25.0,NBA,2026-08-08 17:00:00+00:00,0.25,118
+193406578,151195,0.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-08-08 17:00:00+00:00,9.0,3
+193406579,151195,0.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-08-08 17:00:00+00:00,9.0,3
+193406580,151195,0.0,False,False,False,False,True,WNBA Satellite to NFL Best Ball $25 Millionaire [Must Fill],25.0,NBA,2026-08-08 17:00:00+00:00,9.0,3
+193406581,151195,0.0,False,False,True,False,True,WNBA Satellite to TEN $20 Stars and Stripes Special (8-31),20.0,NBA,2026-08-08 17:00:00+00:00,1.0,23
+193406582,151195,0.0,False,False,True,False,True,WNBA Satellite to 9-22 WNBA $5 Frenzy Contest,5.0,NBA,2026-08-08 17:00:00+00:00,0.25,23
+193406583,151195,0.0,False,False,True,False,True,WNBA Satellite to 9-22 WNBA $5 Frenzy Contest,5.0,NBA,2026-08-08 17:00:00+00:00,0.25,23
+193406584,151195,0.0,False,False,True,False,True,WNBA Satellite to 9-22 WNBA $5 Frenzy Contest,5.0,NBA,2026-08-08 17:00:00+00:00,0.25,23
+193406585,151195,0.0,False,False,True,False,True,WNBA Satellite to 9-22 WNBA $5 Frenzy Contest,5.0,NBA,2026-08-08 17:00:00+00:00,0.25,23
+193406586,151195,0.0,False,False,True,False,True,WNBA Satellite to 9-22 WNBA $5 Frenzy Contest,5.0,NBA,2026-08-08 17:00:00+00:00,0.25,23
+193406587,151195,0.0,False,False,True,False,True,WNBA SUPERSatellite to 9-22 WNBA $5 Frenzy Contest [5x],25.0,NBA,2026-08-08 17:00:00+00:00,1.0,29
+193406588,151195,0.0,False,False,True,False,True,WNBA SUPERSatellite to 9-22 WNBA $5 Frenzy Contest [5x],25.0,NBA,2026-08-08 17:00:00+00:00,1.0,29
+193406589,151195,0.0,False,False,True,False,True,WNBA SUPERSatellite to 9-22 WNBA $5 Frenzy Contest [5x],25.0,NBA,2026-08-08 17:00:00+00:00,1.0,29
+193406590,151195,0.0,False,False,True,False,True,WNBA SUPERSatellite to 9-22 WNBA $5 Frenzy Contest [5x],25.0,NBA,2026-08-08 17:00:00+00:00,1.0,29
+193406591,151195,0.0,False,False,True,False,True,WNBA SUPERSatellite to 9-22 WNBA $5 Frenzy Contest [5x],25.0,NBA,2026-08-08 17:00:00+00:00,1.0,29
+193406625,151196,0.0,False,False,False,False,False,WNBA Snake $1 6-Player,5.4,NBA,2026-08-08 17:00:00+00:00,1.0,6
+193406626,151196,0.0,False,False,False,False,False,WNBA Snake $1 6-Player,5.4,NBA,2026-08-08 17:00:00+00:00,1.0,6
+193406627,151196,0.0,False,False,False,False,False,WNBA Snake $5 6-Player,27.0,NBA,2026-08-08 17:00:00+00:00,5.0,6
+193406628,151196,0.0,False,False,False,False,False,WNBA Snake $10 6-Player,54.0,NBA,2026-08-08 17:00:00+00:00,10.0,6
+193406629,151196,0.0,False,False,False,False,False,WNBA Snake $10 6-Player,54.0,NBA,2026-08-08 17:00:00+00:00,10.0,6
+193406630,151196,0.0,False,False,False,False,False,WNBA Snake $20 6-Player,108.0,NBA,2026-08-08 17:00:00+00:00,20.0,6
+193406631,151196,0.0,False,False,False,False,False,WNBA Snake $50 6-Player,270.0,NBA,2026-08-08 17:00:00+00:00,50.0,6
+193406632,151196,0.0,False,False,False,False,False,WNBA Snake $109 6-Player,600.0,NBA,2026-08-08 17:00:00+00:00,109.0,6
+193406633,151196,0.0,False,False,False,False,False,WNBA Snake $530 6-Player,3000.0,NBA,2026-08-08 17:00:00+00:00,530.0,6
+193406638,151196,0.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193406640,151196,0.0,False,False,False,False,False,WNBA Snake $10 3-Player,27.0,NBA,2026-08-08 17:00:00+00:00,10.0,3
+193406641,151196,0.0,False,False,False,False,False,WNBA Snake $20 3-Player,54.0,NBA,2026-08-08 17:00:00+00:00,20.0,3
+193406642,151196,0.0,False,False,False,False,False,WNBA Snake $50 3-Player,135.0,NBA,2026-08-08 17:00:00+00:00,50.0,3
+193406643,151196,0.0,False,False,False,False,False,WNBA Snake $50 3-Player,135.0,NBA,2026-08-08 17:00:00+00:00,50.0,3
+193406644,151196,0.0,False,False,False,False,False,WNBA Snake $109 3-Player,300.0,NBA,2026-08-08 17:00:00+00:00,109.0,3
+193406645,151196,0.0,False,False,False,False,False,WNBA Snake $530 3-Player,1500.0,NBA,2026-08-08 17:00:00+00:00,530.0,3
+193406646,151196,0.0,False,False,False,False,False,"WNBA Snake $2,120 3-Player",6000.0,NBA,2026-08-08 17:00:00+00:00,2120.0,3
+193406647,151196,0.0,False,False,False,False,False,"WNBA Snake $1,060 3-Player",3000.0,NBA,2026-08-08 17:00:00+00:00,1060.0,3
+193406648,151196,0.0,False,False,False,False,False,"WNBA Snake $5,300 3-Player",15000.0,NBA,2026-08-08 17:00:00+00:00,5300.0,3
+193406649,151196,0.0,False,False,False,False,False,"WNBA Snake $10,600 3-Player",30000.0,NBA,2026-08-08 17:00:00+00:00,10600.0,3
+193426613,151196,0.0,False,False,False,False,False,WNBA Snake $5 3-Player,13.5,NBA,2026-08-08 17:00:00+00:00,5.0,3
+193426949,151196,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193427750,151196,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193429438,151196,0.0,False,False,False,False,False,WNBA Snake $10 3-Player,27.0,NBA,2026-08-08 17:00:00+00:00,10.0,3
+193430697,151198,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (Winner Takes All) (LVA @ MIN),2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
+193430698,151199,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (Winner Takes All) (IND @ CHI),2.7,NBA,2026-08-08 19:30:00+00:00,1.0,3
+193430699,151200,0.0,False,False,False,False,False,WNBA Showdown $1 3-Player (Winner Takes All) (SEA @ PDX),2.7,NBA,2026-08-09 00:30:00+00:00,1.0,3
+193430773,151195,0.0,False,False,True,False,False,WNBA FREE 200-Player,0.0,NBA,2026-08-08 17:00:00+00:00,0.0,200
+193431213,151196,0.0,False,False,False,False,False,WNBA Snake $1 3-Player,2.7,NBA,2026-08-08 17:00:00+00:00,1.0,3
